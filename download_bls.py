@@ -15,8 +15,7 @@ save_path = "C:\\Users\\jricco\\Documents\\PPI projects\\Ballmer\\Data\\BLS data
 
 # Get HTML  
 base_url = "http://download.bls.gov"
-main_page = base_url + "/pub/time.series"
-r = requests.get(main_page)
+r = requests.get(base_url + "/pub/time.series")
 raw_html = r.text
 soup = BeautifulSoup(raw_html)
 
@@ -30,8 +29,8 @@ for link in soup.find_all("a"):
 # Get list of data file URLs 
 data_urls = list()
 for i in range(0, len(concept_urls)):
-    r_page = requests.get(base_url + concept_urls[i])
-    raw_html = r_page.text
+    r = requests.get(base_url + concept_urls[i])
+    raw_html = r.text
     soup = BeautifulSoup(raw_html)
     
     for j in soup.find_all("a"):
