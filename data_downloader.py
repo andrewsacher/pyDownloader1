@@ -72,15 +72,4 @@ class web_data(object):
                 print(s)
 
 
-# An example
-dot_url = "https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/publications/national_transportation_statistics/index.html"
-path = "C:\\Users\\jricco\\Documents\\PPI projects\\Ballmer\\pyDownloader1\\DOT_excel_files"
-
-dot = web_data(dot_url)
-
-dot.download_files(path, "csv")
-raw_data = dot.get_files()
-
-
-
 
