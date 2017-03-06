@@ -13,7 +13,7 @@ class web_data(object):
         self.raw_html = self.r.text
         self.url_soup = BeautifulSoup(self.raw_html)
         
-    def read_files(self, type, ext):
+    def read_files(self, ext):
         
         self.ext = ext 
         
@@ -43,7 +43,7 @@ class web_data(object):
         
         return(self.mem_data)
         
-    def download_files(self, save_path, ext):
+    def download_files(self, ext, save_path):
         
         self.ext = ext
         
