@@ -13,39 +13,46 @@ class web_data(object):
         self.raw_html = self.r.text
         self.url_soup = BeautifulSoup(self.raw_html)
         
-    def get_excel(self):
+    def read_files(self, type, ext):
         
-        # Get links to Excel files
+        self.ext = ext 
+        
+        # Get links to files
         self.links = list()
         for link in self.url_soup.find_all("a"):
             this_link = link.get("href")
             if not this_link == None: 
-                if this_link.find("xls") >= 0:
+                if this_link.find("." + self.ext) >= 0:
                     self.links.append(urllib.request.urljoin(self.url, this_link))
         
         # Bring data into memeory
-        self.excel_data = list()
+        self.mem_data = list()
         self.failed_links = list()
         for link in self.links:
             try:
-                self.excel_data.append(pd.read_excel(link))
+                if self.ext == "xls":
+                    self.mem_data.append(pd.read_excel(link))
+                if self.ext == "csv":
+                    self.mem_data.append(pd.read_csv(link))
             except:
                 self.failed_links.append(link)
         if len(self.failed_links) > 0:
-            print("The following spreadsheets could not be read into memory:")
+            print("The following files could not be read into memory:")
             for s in self.failed_links:
                 print(s)
         
-        return(self.excel_data)
+        return(self.mem_data)
         
-    def download_excel(self, save_path):
+    def download_files(self, save_path, ext):
         
-        # Get links to Excel files
+        self.ext = ext
+        
+        # Get links to files
         self.links = list()
         for link in self.url_soup.find_all("a"):
             this_link = link.get("href")
             if not this_link == None: 
-                if this_link.find("xls") >= 0:
+                if this_link.find("." + self.ext) >= 0:
                     self.links.append(urllib.request.urljoin(self.url, this_link))
         
         # Download files to directory
@@ -60,7 +67,7 @@ class web_data(object):
                 self.failed_links.append(link)
         
         if len(self.failed_links) > 0:
-            print("The following spreadsheets could not be downloaded:")
+            print("The following files could not be downloaded:")
             for s in self.failed_links:
                 print(s)
 
@@ -71,8 +78,9 @@ path = "C:\\Users\\jricco\\Documents\\PPI projects\\Ballmer\\pyDownloader1\\DOT_
 
 dot = web_data(dot_url)
 
-dot.download_excel(path)
-raw_data = dot.get_excel()
+dot.download_files(path, "csv")
+raw_data = dot.get_files()
 
 
-urllib.request.urljoin("https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/publications/national_transportation_statistics/index.html", "excel/table_natural_gas_pipeline_profile.xls")
+
+
