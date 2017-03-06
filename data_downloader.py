@@ -21,7 +21,7 @@ class web_data(object):
             this_link = link.get("href")
             if not this_link == None: 
                 if this_link.find("xls") >= 0:
-                    self.links.append(this_link)
+                    self.links.append(urllib.request.urljoin(self.url, this_link))
         
         # Bring data into memeory
         self.excel_data = list()
@@ -46,7 +46,7 @@ class web_data(object):
             this_link = link.get("href")
             if not this_link == None: 
                 if this_link.find("xls") >= 0:
-                    self.links.append(this_link)
+                    self.links.append(urllib.request.urljoin(self.url, this_link))
         
         # Download files to directory
         self.save_path = save_path
@@ -73,3 +73,6 @@ dot = web_data(dot_url)
 
 dot.download_excel(path)
 raw_data = dot.get_excel()
+
+
+urllib.request.urljoin("https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/publications/national_transportation_statistics/index.html", "excel/table_natural_gas_pipeline_profile.xls")
