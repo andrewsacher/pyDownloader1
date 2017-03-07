@@ -2,6 +2,7 @@ import os
 import requests
 import urllib
 import pandas as pd
+import numpy as np
 from bs4 import BeautifulSoup 
 
 class web_data(object):
@@ -12,7 +13,8 @@ class web_data(object):
         self.r        = requests.get(self.url)
         self.raw_html = self.r.text
         self.url_soup = BeautifulSoup(self.raw_html)
-        
+    
+    # Method to read data files into memory  
     def read_files(self, ext):
         
         self.ext = ext 
@@ -42,7 +44,8 @@ class web_data(object):
                 print(s)
         
         return(self.mem_data)
-        
+    
+    # Method to download data files to disk
     def download_files(self, ext, save_path):
         
         self.ext = ext
@@ -70,6 +73,29 @@ class web_data(object):
             print("The following files could not be downloaded:")
             for s in self.failed_links:
                 print(s)
+    
+    # Method to scrape HTML tables into memory
+    def read_tables(self, crawl_page = False):
+        
+        self.crawl_page = crawl_page
+        
+        # Crawl page to find all links to pages with tables
+        if self.crawl_page == True:
+            
+            
+        
 
 
+
+
+
+
+
+
+url      = "https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/publications/national_transportation_statistics/html/table_03_28.html"
+
+
+
+df = pd.read_html(url, flavor = "bs4", header = 0)
+df[0]
 
