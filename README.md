@@ -28,16 +28,17 @@ raw_data = dot.read_files(ext = "xls")
 dot.download_files(ext = "csv", save_path = my_path)
 ```
 
-The method `read_tables` scrapes HTML tables and returns them as `pandas` dataframes. The `crawl_page` argument tells the scraper whether to scrape for tables on the page of the supplied URL (`false`), or to scrape tables from all of the pages found as hyperlinks on the page of the supplied URL (`true`): 
+The method `read_tables` scrapes HTML tables and returns them as `pandas` dataframes. The `crawl_page` argument tells the scraper whether to scrape for tables on the page of the supplied URL (`False`), 
+or to scrape tables from all of the pages found as hyperlinks on the page of the supplied URL (`True`). The `page_type` argument tells the scraper which types of pages you want to scrape tables from (for example, "cfm"):
 
 ```python
 # Search the DOT data page for hyperlinks that contain HTML tables, and read those into memory
-dot_tables = dot.read_tables(crawl_page = True)
+dot_tables = dot.read_tables(crawl_page = True, page_type = "html")
 ```
 
-`download tables` works just like the above method, but instead of reading the HMTL tables into memory, it downloads them to disk as CSV files:
+`download_tables` works just like the above method, but instead of reading the HMTL tables into memory, it downloads them to disk as CSV files:
 
 ```python
-# Search the DOT data page for hyperlinks that contain HTML table, and save those as CSVs
-dot.download_tables(save_path = my_file, crawl_page = True)
+# Search the DOT data page for hyperlinks that contain HTML tables, and save those as CSVs
+dot.download_tables(save_path = my_file, crawl_page = True, page_type = "html")
 ```
