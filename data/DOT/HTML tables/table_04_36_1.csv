@@ -1,0 +1,22 @@
+,Engine type and pollutant,1970-73,1974-78,1979-83,1984,1985-86,1987,1988-89,1990,1991-93,1994-97,1998-2003,2004,2005-06,2007,2008+
+0,Gasoline,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â
+1,HC + NOx,j,16,10,10,j,j,j,j,j,j,j,j,j,j,j
+2,NOx + NMHC,j,j,j,j,j,j,j,j,j,j,j,j,1.0,1.0,j
+3,NMHC,j,j,j,j,j,j,j,j,j,j,j,j,j,j,0.14
+4,HC,k,j,1.5,1.5,1.9,1.1,1.1,1.1,1.1,1.1,1.1,1.1,j,j,j
+5,NOx,j,j,j,j,10.6,10.6,10.6,6.0,5.0,5.0,4.0,4.0,j,j,0.20
+6,CO,k,40,25,25,37.1,14.4,14.4,14.4,14.4,14.4,14.4,14.4,14.4,14.4,14.4
+7,Particulates,j,j,j,j,j,j,j,j,j,j,j,j,j,j,0.01
+8,Diesel,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â
+9,HC + NOx,j,16,10,j,j,j,j,j,j,j,j,j,j,j,j
+10,HC,k,j,1.5,1.3,1.3,1.3,1.3,1.3,1.3,1.3,1.3,j,j,j,j
+11,NOx,j,j,j,10.7,10.7,10.7,10.7,6.0,5.0,5.0,4.0,j,j,0.20,0.20
+12,NOx + NMHC,j,j,j,j,j,j,j,j,j,j,j,2.4l,2.4l,j,j
+13,NMHC,j,j,j,j,j,j,j,j,j,j,j,j,j,0.14,0.14
+14,CO,k,40,25,15.5,15.5,15.5,15.5,15.5,15.5,15.5,15.5,15.5,15.5,15.5,15.5
+15,Particulates,j,j,j,j,j,j,0.60,0.60,0.25,0.10,0.10,0.10,0.10,0.01,0.01
+16,Smoke opacity (acceleration / lugging / peak)a,40/20/j,20/15/50,20/15/50,20/15/50,20/15/50,20/15/50,20/15/50,20/15/50,20/15/50,20/15/50,20/15/50,20/15/50,20/15/50,20/15/50,20/15/50
+17,Weight criteria for light heavy-duty trucksb,"GVWR over 6,000 lbs","GVWR over 6,000 lbs","GVWR over 8,500 lbs","GVWR over 8,500 lbs","GVWR over 8,500 lbs","GVWR 8,501 through 14,000 lbs","GVWR 8,501 through 14,000 lbs","GVWR 8,501 through 14,000 lbs","GVWR 8,501 through 14,000 lbs","GVWR 8,501 through 14,000 lbs","GVWR 8,501 through 14,000 lbs","GVWR 8,501 through 14,000 lbs","GVWR 8,501 through 14,000 lbs","GVWR 8,501 through 14,000 lbs","GVWR 8,501 through 14,000 lbs"
+18,"Test procedure, gasolinec",9-mode steady-state,9-mode steady-state,9-mode steady-state,9-mode steady-state,MVMA transient,MVMA transient,MVMA transient,MVMA transient,MVMA transient,MVMA transient,MVMA transient,MVMA transient,MVMA transient,MVMA transient,MVMA transient
+19,"Test procedure, dieselc",13-mode steady-state,13-mode steady-state,13-mode steady-state,EPA transient,EPA transient,EPA transient,EPA transient,EPA transient,EPA transient,EPA transient,EPA transient,EPA transient,EPA transient,EPA transient,EPA transient
+20,Useful life (gasoline)d,"5 years/50,000 miles","5 years/50,000 miles","5 years/50,000 miles","5 years/50,000 miles","8 years/110,000 miles","8 years/110,000 miles","8 years/110,000 miles","8 years/110,000 miles","8 years/110,000 miles","8 years/110,000 miles","8 years/110,000 miles","10 years/110,000 miles","10 years/110,000 miles","10 years/110,000 miles","10 years/110,000 miles"

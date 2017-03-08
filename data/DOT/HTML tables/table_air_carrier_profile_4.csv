@@ -1,0 +1,25 @@
+,Â,1960,1970,1980,1990,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006
+0,Air carrier fatalities,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â
+1,Operating under 14 CFR 121 (airlines),Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â
+2,Scheduled services,N,N,0,39,239,160,342,3,1,12,89,531,0,22,13,22,50
+3,Nonscheduled services,N,N,1,0,0,8,38,5,0,0,3,0,0,0,1,0,0
+4,Operating under 14 CFR 135,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â
+5,Scheduled services (commuters),N,N,37,6,25,9,14,46,0,12,5,13,0,2,0,0,2
+6,Nonscheduled services (on-demand air taxis),N,N,105,51,63,52,63,39,45,38,71,60,35,42,64,18,16
+7,Total,499,146,143,96,327,229,457,93,46,62,168,604,35,66,78,40,68
+8,Air carrier accidents,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â
+9,Operating under 14 CFR 121 (airlines),Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â
+10,Scheduled services,N,N,15,21,18,30,31,43,41,40,49,41,35,51,(R) 24,(R) 34,25
+11,Nonscheduled services,N,N,4,3,5,6,6,6,9,11,7,5,6,3,(R) 6,(R) 6,6
+12,Operating under 14 CFR 135,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â
+13,Scheduled services (commuters),N,N,38,15,10,12,11,16,8,13,12,7,7,2,4,6,3
+14,Nonscheduled services (on-demand air taxis),N,N,171,107,85,75,90,82,77,74,80,72,60,(R) 73,66,66,54
+15,Total,90,55,228,146,118,123,138,147,135,138,148,125,108,(R) 129,100,(R) 112,88
+16,Fatal air carrier accidents,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â
+17,Operating under 14 CFR 121 (airlines),Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â
+18,Scheduled services,N,N,0,6,4,2,3,3,1,2,3,6,0,2,1,3,2
+19,Nonscheduled services,N,N,1,0,0,1,2,1,0,0,0,0,0,0,1,0,0
+20,Operating under 14 CFR 135,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â
+21,Scheduled services (commuters),N,N,8,3,3,2,1,5,0,5,1,2,0,1,0,0,1
+22,Nonscheduled services (on-demand air taxis),N,N,46,29,26,24,29,15,17,12,22,18,18,18,(R) 23,11,10
+23,Total,17,8,55,38,33,29,35,24,18,19,26,26,18,(R) 21,25,14,13

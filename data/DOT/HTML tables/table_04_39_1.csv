@@ -1,0 +1,17 @@
+,Engine typec,Pollutant,Year of engine manufacture,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8
+0,1974-75,1976-77,1978-82,1983,1984-96,1997-99,2000+,,
+1,Turboprop,Smoke,Â,Â,Â,Â,g187(rO)-0.168,g187(rO)-0.168,g187(rO)-0.168
+2,Class T3 turbojet,CO (g/kN)d,Â,Â,Â,Â,Â,118,118
+3,Class T3 turbojet,HC (g/kN)d,Â,Â,Â,Â,19.6,19.6,19.6
+4,Class T3 turbojet,NOx (g/kN)d,Â,Â,Â,Â,Â,e40 + 2(rPR),f32 + 1.6(rPR)
+5,Class T3 turbojet,Smoke,Â,Â,25,25,h83.6(rO)-0.274,h83.6(rO)-0.274,h83.6(rO)-0.274
+6,Class T8 turbojet,CO (g/kN)d,Â,Â,Â,Â,Â,118,118
+7,Class T8 turbojet,HC (g/kN)d,Â,Â,Â,Â,19.6,19.6,19.6
+8,Class T8 turbojet,NOx (g/kN)d,Â,Â,Â,Â,Â,e40 + 2(rPR),f32 + 1.6(rPR)
+9,Class T8 turbojet,Smoke,30,30,30,30,h83.6(rO)-0.274,h83.6(rO)-0.274,h83.6(rO)-0.274
+10,"Turbofan and turbojet engines other than Classes T3, T8, and TSS",CO (g/kN)d,Â,Â,Â,Â,Â,118,118
+11,"Turbofan and turbojet engines other than Classes T3, T8, and TSS",HC (g/kN)d,Â,Â,Â,Â,19.6,19.6,19.6
+12,"Turbofan and turbojet engines other than Classes T3, T8, and TSS",NOx (g/kN)d,Â,Â,Â,Â,Â,e40 + 2(rPR),f32 + 1.6(rPR)
+13,"Turbofan and turbojet engines other than Classes T3, T8, and TSS",Smoke,Â,i83.6(rO)-0.274,i83.6(rO)-0.274,j83.6(rO)-0.274,h83.6(rO)-0.274,h83.6(rO)-0.274,h83.6(rO)-0.274
+14,TSS engines (supersonic aircraft engines),HC (g/kN),Â,Â,Â,Â,140(0.92)rPR,140(0.92)rPR,140(0.92)rPR
+15,TSS engines (supersonic aircraft engines),Smoke,Â,Â,Â,Â,h83.6(rO)-0.274,h83.6(rO)-0.274,h83.6(rO)-0.274

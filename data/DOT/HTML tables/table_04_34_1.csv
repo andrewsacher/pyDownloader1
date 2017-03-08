@@ -1,0 +1,23 @@
+,Engine type and pollutant,Prior to controlg,1968-1969,1970-1971,1972,1973-1974,1975,1976-1978,1979-1981,1982-1983,1984,1985-1986,1987,1988-1989,1990,1991-1995,Tier 1k 1996-2007,Interim Tier 2k 2008,Tier 2k 2009+
+0,Gasoline,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â
+1,HC (total),11,I,2.2,3.4,3.4,2.0,2.0,1.7,1.7,0.80,0.80,0.80,0.80,0.80,0.80,j (0.8),j,j
+2,NMHC,h,j,j,j,j,j,j,j,j,j,j,j,j,j,j,0.39 (0.56),j,j
+3,NMOG,h,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,0.160 (0.230),0.125 (0.156)
+4,CO,80,i,23,39,39,20,20,18,18,10,10,10,10,10,10,5 (7.3),4.4 (6.4),3.4 (4.2)
+5,Cold-temp. COd,h,j,j,j,j,j,j,j,j,j,j,j,j,j,j,12.5 (j),12.5 (j),12.5 (j)
+6,NOx,4,j,j,j,3.0,3.1,3.1,2.3,2.3,2.3,2.3,2.3,2.3,1.7,1.7,1.1 (1.53),0.4 (0.6),0.14 (0.20)
+7,Particulates,h,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j (0.12),0.08 (0.08),0.02 (0.02)
+8,Formaldehyde,h,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,0.018 (0.027),0.015 (0.018)
+9,Diesel,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â,Â
+10,HC (total),11,j,j,j,j,j,2.0,1.7,1.7,0.80,0.80,0.80,0.80,0.80,0.80,j (0.8),j,j
+11,NMHC,h,j,j,j,j,j,j,j,j,j,j,j,j,j,j,0.39 (0.56),j,j
+12,NMOG,h,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j (0.230),0.125 (0.156)
+13,CO,80,j,j,j,j,j,20,18,18,10,10,10,10,10,10,5 (7.3),j (6.4),3.4 (4.2)
+14,NOx,4,j,j,j,j,j,3.1,2.3,2.3,2.3,2.3,2.3,2.3,1.7,1.7,j (1.53),j (0.6),0.14 (0.20)
+15,Particulates,h,j,j,j,j,j,j,j,0.60,0.60,0.60,0.50,0.45,0.45,0.13,j (0.12),j (0.08),0.02 (0.02)
+16,Formaldehyde,h,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j (0.027),0.015 (0.018)
+17,LDT4 weight criteriae,Â,"GVWR up through 6,000 pounds","GVWR up through 6,000 pounds","GVWR up through 6,000 pounds","GVWR up through 6,000 pounds","GVWR up through 6,000 pounds","GVWR up through 6,000 pounds","GVWR up through 8,500 pounds","GVWR up through 8,500 pounds","GVWR up through 8,500 pounds","GVWR up through 8,500 pounds","GVWR up through 8,500 pounds",Any ALVW,Any ALVW,Any ALVW,"ALVW over 5,750 pounds","ALVW over 5,750 pounds","ALVW over 5,750 pounds"
+18,LDT4 weight criteriae,Â,"GVWR up through 6,000 pounds","GVWR up through 6,000 pounds","GVWR up through 6,000 pounds","GVWR up through 6,000 pounds","GVWR up through 6,000 pounds","GVWR up through 6,000 pounds","GVWR up through 8,500 pounds","GVWR up through 8,500 pounds","GVWR up through 8,500 pounds","GVWR up through 8,500 pounds","GVWR up through 8,500 pounds","GVWR 6,001-8,500 pounds","GVWR 6,001-8,500 pounds","GVWR 6,001-8,500 pounds","GVWR 6,001-8,500 pounds","GVWR 6,001-8,500 pounds","GVWR 6,001-8,500 pounds"
+19,Test procedureb,Â,7-mode,7-mode,CVS-72,CVS-73,CVS-75,CVS-76,CVS-77,CVS-78,CVS-79,CVS-80,CVS-81,CVS-82,CVS-83,CVS-84,CVS-85,CVS-86,CVS-87
+20,"Useful life, intermediatec,f",Â,j,j,j,j,j,j,j,j,j,j,j,j,j,j,"5 years/50,000 miles","6 years/50,000 miles","7 years/50,000 miles"
+21,"Useful life, full",Â,"5 years/50,000 miles","6 years/50,000 miles","7 years/50,000 miles","8 years/50,000 miles","9 years/50,000 miles","10 years/50,000 miles","11 years/50,000 miles","12 years/50,000 miles","13 years/50,000 miles","11 years/120,000 miles","12 years/120,000 miles","13 years/120,000 miles","14 years/120,000 miles","15 years/120,000 miles","16 years/120,000 miles","17 years/120,000 miles","18 years/120,000 miles"

@@ -1,0 +1,12 @@
+,Hazard class and description,Value,Tons,Ton-miles,Average miles per shipment,Unnamed: 5,Unnamed: 6,Unnamed: 7
+0,(billion $),Percent,(millions),Percent,(billions),Percent,,
+1,Class 1. Explosives,18,0.8,4,0.2,1,0.3,840.0
+2,Class 2. Gases,125,5.4,165,6.4,33,10.8,57.0
+3,Class 3. Flammable liquids,2017,86.4,2203,85.4,205,66.5,93.0
+4,Class 4. Flammable solids,5,0.2,11,0.4,6,1.9,565.0
+5,Class 5. Oxidizers and organic peroxides,8,0.3,12,0.5,5,1.8,437.0
+6,Class 6. Toxics (poison),15,0.7,8,0.3,4,1.2,513.0
+7,Class 7. Radioactive materials,12,0.5,S,U,0,U,34.0
+8,Class 8. Corrosive materials,76,3.2,125,4.9,38,12.3,264.0
+9,Class 9. Miscellaneous dangerous goods,58,2.5,51,2.0,16,5.2,530.0
+10,Total,2334,100.0,2580,100.0,308,100.0,114.0

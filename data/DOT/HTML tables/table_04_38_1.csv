@@ -1,0 +1,15 @@
+,Pollutant,Engine displacement,Emissions prior to controlsc,1978-79,1980-89,1990-96,1997+
+0,Gasoline-poweredÂ,Â,Â,Â,Â,Â,Â
+1,HC,50-169 cc,1.0-13.8,5,5,5,5
+2,HC,170-749 cc,1.0-13.8,5 + 0.0155(D-170)d,5.0,5.0,5.0
+3,HC,750 cc and greater,1.0-13.8,14,5.0,5.0,5.0
+4,CO,50 cc and greater,11.0-31.0,17,12,12,12
+5,Methanol-powered,Â,Â,Â,Â,Â,Â
+6,Total HC equivalent,50 cc and greater,Â,Â,Â,5.0,5.0
+7,CO,50 cc and greater,Â,Â,Â,12,12
+8,Natural gas and LPG-powered,Â,Â,Â,Â,Â,Â
+9,HC,50 cc and greater,Â,Â,Â,Â,5.0
+10,CO,50 cc and greater,Â,Â,Â,Â,12
+11,Useful life (Class I),50-169 cc,Â,"5 years or 12,000 km (7,456 mi), whichever comes first","5 years or 12,000 km (7,456 mi), whichever comes first","5 years or 12,000 km (7,456 mi), whichever comes first","5 years or 12,000 km (7,456 mi), whichever comes first"
+12,Useful life (Class II),170-279 cc,Â,"5 years or 18,000 km (11,185 mi), whichever comes first","5 years or 18,000 km (11,185 mi), whichever comes first","5 years or 18,000 km (11,185 mi), whichever comes first","5 years or 18,000 km (11,185 mi), whichever comes first"
+13,Useful life (Class III),280 cc and greater,Â,"5 years or 30,000 km (18,641 mi), whichever comes first","5 years or 30,000 km (18,641 mi), whichever comes first","5 years or 30,000 km (18,641 mi), whichever comes first","5 years or 30,000 km (18,641 mi), whichever comes first"

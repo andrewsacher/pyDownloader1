@@ -1,0 +1,205 @@
+,3PL,Third-party logistics
+0,4PLs,Fourth-party logistics companies
+1,AC,Alternating Current
+2,ACC,Adaptive Cruise Control
+3,ADA,Americans with Disabilities Act
+4,ADF,aircraft deicing fluid
+5,ADS-A,automatic dependent surveillance-addressable system
+6,ADS-B,automatic dependent surveillance-broadcast
+7,AIADA,American International Automobile Dealers Association
+8,AIADA,American Imported Automobile Dealers Association
+9,AIR-21,Aviation Investment and Reform Act for the 21st Century
+10,AM radio,lower frequency radio waves
+11,API,American Petroleum Institute
+12,ASRS,Aviation Safety Reporting System
+13,ASTs,aboveground storage tanks
+14,ATC,Air Traffic Control
+15,ATO,Air Traffic Organization
+16,AVL,Automatic Vehicle Location
+17,AVP,Advanced Vehicle Technologies Program
+18,B2B,business-to-business
+19,B2C,business-to-consumer
+20,BAC,Blood Alcohol Concentration
+21,BART,Bay Area Rapid Transit
+22,BBC,British Broadcasting Corporation
+23,Bbl,barrel
+24,Big LEO,special handheld telephone
+25,BTS,Bureau of Transportation Statistics
+26,Btu,British Thermal Unit
+27,C02,Carbon dioxide
+28,CAB,Civil Aeronautics Board
+29,CAD,Computer-Aided Dispatch
+30,CAF,Corporate Average Fuel Economy
+31,CD-ROM/DVD,Compact Disk-Read Only Memory/Digital Video Disk
+32,CDL,Commercial Drivers License
+33,CDS,Crashworthiness Data System
+34,CFIT,controlled flight into terrain
+35,CH4,Methane
+36,CNG,Compressed Natural Gas
+37,CO,Carbon Monoxide
+38,COMSTAC,Commercial Space Transportation Advisory Committee
+39,CONUS,Continental U.S.
+40,COO,Chief Operating Officer
+41,CORS,Continuously operating reference stations
+42,CPDLC,Controller-Pilot Data Link Communications
+43,CRAF,Civil Reserve Air Fleet
+44,CVO,Commercial Vehicles Operations
+45,DBA,Decibels
+46,DC,Direct Current
+47,DFDRs,Digital flight data recorders
+48,DGPS,Differential GPS
+49,DOD,Department of Defense
+50,DOJ,Department of Justice
+51,DVD,Digital Video Disk
+52,ECP,Electronically Controlled Pneumatic
+53,EDI,Electronic Data Interchange
+54,EDSs,Explosives Detection Systems
+55,EMS,Emergency Medical Services
+56,EPA,Environmental Protection Agency
+57,ERGS,Electronic Route Guidance System
+58,ETC,Electronic Toll Collection
+59,EU,European Union
+60,FAA,Federal Aviation Administration
+61,FARS,Fatal Accident Reporting System
+62,FAST,Final Approach Spacing Tool
+63,FBI,Federal Bureau of Investigation
+64,FedEx,Federal Express
+65,FHWA,Federal Highway Administration
+66,FMC,Federal Maritime Commission
+67,FMCSA,Federal Motor Carrier Safety Administration
+68,FRA,Federal Railroad Administration
+69,FTA,Federal Transit Administration
+70,GAIN,Global Aviation Information Network
+71,GAMA,General Aviation Manufacturers Association
+72,GARA,General Aviation Revitalization Act
+73,GDP,Gross Domestic Product
+74,GEO,Geostationary Earth Orbit
+75,GES,General Estimates System
+76,GMDSS,Global Maritime Distress and Safety System
+77,GNP,Gross National Product
+78,GPRA,Government Performance and Results Act of 1993
+79,GPS,Global Positioning System
+80,GPWS,Ground Proximity Warning System
+81,GWP,Gross World Product
+82,VHFCs,Hydrofluorocarbons
+83,HOV,High occupancy vehicle
+84,HTF,Highway Trust Fund
+85,VHSIS,Highway Safety Information System
+86,VHSR,Incremental High-Speed Rail
+87,IASA,International Aviation Safety Assessment
+88,VIATA,International Air Transport Association
+89,ICAO,International Civil Aviation Organization
+90,ICC,Interstate Commerce Commission
+91,IHS,Interstate Highway System
+92,IMO,International Maritime Organization
+93,ISTEA,Intermodal Surface Transportation Efficiency Act
+94,ITS,Intelligent Transportation Systems
+95,IVHS,Intelligent Vehicle Highway System
+96,IVI,Intelligent Vehicle Initiative
+97,LAAS,Local Area Augmentation System
+98,LCD,Liquid Crystal Display
+99,LEO,Low Earth Orbit
+100,LNG,Liquefied Natural Gas
+101,LPG,Liquefied Petroleum Gas
+102,LTL,Less Than Truckload
+103,LTVs,Light trucks and vans
+104,Maglev,Magnetic levitation
+105,MARAD,Maritime Administration
+106,MERCOSUR,Southern Common Market
+107,mmbd,Million barrels of oil per day
+108,mph,Miles per hour
+109,MPO,Metropolitan Planning Organization
+110,MSP,Maritime Security Program
+111,MTMCTEA,Military Traffic Management Command Transportation Engineering Agency
+112,MTS,Marine Transportation System
+113,N2O,Nitrous Oxide
+114,NAFTA,North American Free Trade Agreement
+115,NAS,National Airspace System
+116,NASA,National Aeronautics and Space Administration
+117,NHS,National Highway System
+118,NCP,National Contingency Plan
+119,NDGPS,Nationwide Differential Global Positioning System
+120,NDRF,National Defense Reserve Fleet
+121,NEPA,National Environmental Policy Act
+122,New,HSR new high-speed rail systems
+123,NGS,National Geodetic Survey
+124,NHS,National Highway System
+125,NHTSA,National Highway Traffic Safety Administration
+126,NIMBY,not in my back yard
+127,NMMA,National Marine Manufacturers Association
+128,NMSL,National Maximum Speed Limit
+129,NO2,nitrogen dioxide
+130,NOAA,National Oceanic and Atmospheric Agencys
+131,NOTAM,Notices to Airmen
+132,NOx,nitrogen oxide
+133,NPTS,Nationwide Personal Transportation Survey
+134,NS,Norfolk Southern
+135,NSC,National Security Council
+136,NSI,National Shipbuilding Initiative
+137,NTSB,National Transportation Safety Board
+138,NUMMI,"New United Motor Manufacturing, Inc."
+139,O3,ozone
+140,OPEC,Organization of Petroleum Exporting Countries
+141,OSRA,Ocean Shipping Reform Act
+142,OTRBs,over-the-road buses
+143,PanAm,Pan American
+144,Pb,lead
+145,PCBs,polychlorinated biphenyl
+146,PDDs,Presidential Decision Directives
+147,PFCs,Perfluorocarbons
+148,PM10,particulate matter less than 10 microns
+149,PNGV,U.S. Partnership for a New Generation of Vehicles
+150,ppm,parts per million
+151,PPPs,Power Projection Platforms
+152,PTC,Positive Train Control
+153,PTP,Prevention Through People
+154,R&D,research and development
+155,RNAV,Area Navigation
+156,RPM,Revenue Passenger Miles
+157,RRF,Ready Reserve Force
+158,RRIF,Railroad Rehabilitation and Improvement Financing
+159,RSPA,Research and Special Programs Administration
+160,RTMs,revenue ton-miles
+161,SA,Selective Availability
+162,SAFER,Special Aviation Fire and Explosion Reduction
+163,SCADA,Supervisory Control And Data Acquisition
+164,SEABEE,Construction Battalion (CB)-this acronym is a Phonetic reference to the CB member of this Navy Unit.
+165,SF6,Sulfur Hexafluoride
+166,SIPs,Safety Integration Plans
+167,SIPs,State Implementation Plans
+168,SO2,sulfur dioxide
+169,SPEARS,Screener Proficiency Evaluation and Reporting System
+170,STARS,Standard Terminal Automation Replacement System
+171,VSTB,Surface Transportation Board
+172,STRAHNET,Strategic Highway Network
+173,SUVs,sport utility vehicles
+174,TCAS,Traffic Alert Collision Avoidance System
+175,TDM,Transportation Demand Management
+176,TDLS,Tower Data Link Services
+177,TEA-21,Transportation Efficiency Act for the 21st Century
+178,TEU,20-foot equivalent unit
+179,TIFIA,Transportation Infrastructure Finance and Innovation Act of 1998
+180,TIP,Threat Image Projection
+181,Title XI,Maritime Guarantee
+182,TL,Truckload
+183,TRACON,Terminal Radar Approach Control
+184,TTI,Texas Transportation Institute
+185,TWA,Trans World Airlines
+186,TWA,Trans World Airlines
+187,UNFCCC,United Nations Framework Convention on Climate Change
+188,UPS,United Parcel Service
+189,USCG,U.S. Coast Guard
+190,USDOC,U.S. Department of Commerce
+191,USDOT,U.S. Department of Transportation
+192,USGS,U.S. Geological Survey
+193,USPS,U.S. Postal Service
+194,UST,Underground Storage Tank
+195,UTA,Union de Transport Aeriens
+196,VHF,Very High Frequency
+197,VISA,Voluntary Intermodal Sealift Agreement
+198,VLCCs,very large crude carriers
+199,VMT,vehicle-miles traveled
+200,VOCs,volatile organic compounds
+201,VSL,variable speed limit
+202,WAAS,Wide Area Augmentation System
+203,WRDA,Water Resources Development Act

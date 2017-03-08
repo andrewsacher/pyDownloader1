@@ -1,0 +1,54 @@
+,Airport,Code,2005,2014,2015,Percent change 2005-2015,Percent change 2014-2015,Unnamed: 7,Unnamed: 8,Unnamed: 9
+0,Rank,Total Enplaned Passengers,Rank,Total Enplaned Passengers,Rank,Total Enplaned Passengers,,,,
+1,"Atlanta, GA (Hartsfield-Jackson Atlanta International)",ATL,1,42616241,1,46939491,1,49783123.0,16.8,6.1
+2,"Los Angeles, CA (Los Angeles International)",LAX,3,30258722,2,34952251,2,37057840.0,22.5,6.0
+3,"Chicago, IL (Chicago O'Hare International)",ORD,2,37097875,3,33935704,3,36490096.0,-1.6,7.5
+4,"Dallas/Fort Worth, TX (Dallas/Fort Worth International)",DFW,4,28378761,4,30887252,4,31708943.0,11.7,2.7
+5,"New York, NY (John F. Kennedy International)",JFK,8,20341570,6,26306553,5,27999238.0,37.6,6.4
+6,"Denver, CO (Denver International)",DEN,7,21105296,5,26420047,6,26626876.0,26.2,0.8
+7,"San Francisco, CA (San Francisco International)",SFO,14,16412266,7,22887043,7,24374805.0,48.5,6.5
+8,"Charlotte, NC (Charlotte Douglas International)",CLT,18,14335916,8,21959917,8,22239565.0,55.1,1.3
+9,"Las Vegas, NV (McCarran International)",LAS,5,21860911,10,20880131,9,22097505.0,1.1,5.8
+10,"Phoenix, AZ (Phoenix Sky Harbor International)",PHX,6,21247905,9,20989862,10,21935329.0,3.2,4.5
+11,"Miami, FL (Miami International)",MIA,16,15237146,12,19491123,11,21093786.0,38.4,8.2
+12,"Houston, TX (George Bush Intercontinental/Houston)",IAH,9,19148363,11,19900587,12,20771968.0,8.5,4.4
+13,"Seattle, WA (Seattle/Tacoma International)",SEA,17,14665517,13,17940182,13,20223367.0,37.9,12.7
+14,"Orlando, FL (Orlando International)",MCO,12,16773111,15,17392710,14,18890286.0,12.6,8.6
+15,"Newark, NJ (Newark Liberty International)",EWR,13,16551713,14,17779803,15,18761904.0,13.4,5.5
+16,"Minneapolis, MN (Minneapolis-St Paul International)",MSP,10,18155103,16,17083464,16,17753814.0,-2.2,3.9
+17,"Boston, MA (Logan International)",BOS,19,13231132,18,15516695,17,16366187.0,23.7,5.5
+18,"Detroit, MI (Detroit Metro Wayne County)",DTW,11,17775420,17,15862590,18,16338390.0,-8.1,3.0
+19,"Philadelphia, PA (Philadelphia International)",PHL,15,15724402,19,14950745,19,15210085.0,-3.3,1.7
+20,"New York, NY (LaGuardia)",LGA,21,13025007,20,13534767,20,14333938.0,10.0,5.9
+21,"Fort Lauderdale, FL (Fort Lauderdale-Hollywood International)",FLL,23,10956187,21,12057808,21,13149918.0,20.0,9.1
+22,"Baltimore, MD (Baltimore/Washington International Thurgood Marshall)",BWI,25,10241857,22,11350056,22,12018313.0,17.3,5.9
+23,"Washington, DC (Ronald Reagan Washington National)",DCA,30,8738789,26,10163038,23,11292497.0,29.2,11.1
+24,"Chicago, IL (Chicago Midway International)",MDW,28,8831751,23,10773273,24,11203403.0,26.9,4.0
+25,"Salt Lake City, UT (Salt Lake City International)",SLC,24,10851666,25,10201886,25,10697496.0,-1.4,4.9
+26,"Washington, DC (Washington Dulles International)",IAD,20,13154681,24,10446520,26,10440911.0,-20.6,-0.1
+27,"San Diego, CA (San Diego International)",SAN,29,8799166,27,9535577,27,10184207.0,15.7,6.8
+28,"Honolulu, HI (Honolulu International)",HNL,26,10213207,28,9482717,28,9579087.0,-6.2,1.0
+29,"Tampa, FL (Tampa International)",TPA,27,9462465,29,8687758,29,9310599.0,-1.6,7.2
+30,"Portland, OR (Portland International)",PDX,33,6905934,30,7913675,30,8379061.0,21.3,5.9
+31,"Dallas, TX (Dallas Love Field)",DAL,59,3280448,40,4855494,31,7415552.0,126.1,52.7
+32,"St. Louis, MO (Lambert-St. Louis International)",STL,32,7232239,32,6429111,32,6486985.0,-10.3,0.9
+33,"Houston, TX (William P Hobby)",HOU,46,4571909,33,6278888,33,6285558.0,37.5,0.1
+34,"Austin, TX (Austin - Bergstrom International)",AUS,50,3830581,35,5451833,34,5950408.0,55.3,9.1
+35,"Nashville, TN (Nashville International)",BNA,42,4972039,34,5639996,35,5933579.0,19.3,5.2
+36,"Oakland, CA (Metropolitan Oakland International)",OAK,31,7352229,36,5244328,36,5689426.0,-22.6,8.5
+37,"New Orleans, LA (Louis Armstrong New Orleans International)",MSY,49,4093595,39,5054520,37,5466225.0,33.5,8.1
+38,"Kansas City, MO (Kansas City International)",MCI,37,5509973,37,5236306,38,5293009.0,-3.9,1.1
+39,"Raleigh/Durham, NC (Raleigh-Durham International)",RDU,45,4762982,41,4729606,39,5002315.0,5.0,5.8
+40,"Santa Ana, CA (John Wayne Airport-Orange County)",SNA,44,4824502,43,4619752,40,4999142.0,3.6,8.2
+41,"San Jose, CA (Norman Y. Mineta San Jose International)",SJC,38,5444412,42,4726170,41,4903715.0,-9.9,3.8
+42,"Sacramento, CA (Sacramento International)",SMF,41,5218724,44,4500229,42,4810107.0,-7.8,6.9
+43,"San Juan, PR (Luis Munoz Marin International)",SJU,39,5389775,46,4181370,43,4271558.0,-20.7,2.2
+44,"San Antonio, TX (San Antonio International)",SAT,52,3747863,45,4229852,44,4210893.0,12.4,-0.4
+45,"Fort Myers, FL (Southwest Florida International)",RSW,51,3764520,48,3987389,45,4192333.0,11.4,5.1
+46,"Indianapolis, IN (Indianapolis International)",IND,48,4309634,51,3662660,46,3960509.0,-8.1,8.1
+47,"Cleveland, OH (Cleveland-Hopkins International)",CLE,36,5592663,50,3703246,47,3955494.0,-29.3,6.8
+48,"Pittsburgh, PA (Pittsburgh International)",PIT,40,5279410,49,3884640,48,3950675.0,-25.2,1.7
+49,"Columbus, OH (Port Columbus International)",CMH,58,3327647,56,3158001,49,3360186.0,1.0,6.4
+50,"Milwaukee, WI (General Mitchell International)",MKE,53,3665420,53,3322226,50,3318610.0,-9.5,-0.1
+51,"Top 50 U.S. Airports, totala",Â,Â,607582270,Â,644124777,Â,685768816.0,12.9,6.5
+52,All U.S. Airportsb,Â,Â,751678359,Â,771883603,Â,809306932.0,7.7,4.8

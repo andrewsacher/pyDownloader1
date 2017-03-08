@@ -1,0 +1,6 @@
+,Trip length (miles),Minutes late at endpoint
+0,0–250,10 or less
+1,251–350,15 or less
+2,351–450,20 or less
+3,451–550,25 or less
+4,> 551,30 or less

@@ -1,0 +1,38 @@
+Table 3-19:  Average Passenger Fares (Chained 2009 dollars),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1960,1965,1970,1975,1980,1985,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014
+"Air carrier, domestic, scheduled service",139.59,138.90,139.28,136.07,123.74,112.95,118.58,119.77,115.08,114.78,113.67,115.77,125.57,122.03,120.55,121.08,121.83,121.71,123.29,126.49,124.48,(R) 118.01,(R) 118.68,(R) 117.16,(R) 112.28,(R) 105.41,(R) 105.99,(R) 106.01,(R) 100.89,(R) 104.35,99.99
+"Class I bus, intercitya",25.14,26.36,29.05,26.55,32.13,23.24,33.12,34.19,32.56,33.90,31.46,32.97,36.79,33.38,35.17,38.85,41.80,41.61,40.12,U,U,U,U,U,U,U,U,U,U,U,U
+"Transit, all modesb (unlinked)",1.46,1.44,1.32,1.40,1.08,1.21,1.23,1.25,1.22,1.27,1.38,1.39,1.35,1.28,1.31,1.31,1.34,1.28,1.23,1.22,1.21,1.19,1.40,1.16,1.17,1.17,1.17,1.20,1.18,1.20,1.21
+Commuter railc,5.12,5.60,5.62,5.39,4.42,5.69,4.25,4.29,4.34,4.27,4.37,4.07,3.96,4.03,3.92,3.79,3.71,3.65,3.58,3.92,4.42,4.57,4.33,4.53,4.58,4.68,4.57,4.96,5.13,5.25,5.56
+Intercity rail / Amtrakd,33.78,30.91,21.34,67.16,55.58,52.25,57.96,58.70,57.29,55.49,53.55,51.91,52.84,55.28,53.35,53.86,58.13,57.64,60.56,55.84,60.35,57.69,57.97,61.63,60.28,58.88,57.31,58.99,60.99,(R) 63.43,67.33
+KEY: R = revised; U = data are not available.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a Regular route Intercity service.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"b Prior to 1984, excludes commuter railroad, automated guideway, urban ferryboat, demand responsive, and most rural and smaller systems.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c This category is now deflated using the railway transportation instead of mass transit deflator and the Intercity rail deflator used in previous editions.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d Amtrak began operations in 1971.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Chained (2009) dollar series are calculated as the product of the chain-type quantity index and the 2009 current-dollar value of the corresponding series, divided by 100. Because the formula for the chain-type quantity indexes uses weights of more than one period, the corresponding chained-dollar estimates are usually not additive. ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"This table is deflated using data from the Department of Commerce, Bureau of Economic Analysis, National Income and Product Accounts tables, table 2.4.4U. Lines 203, 199, 201 and 197 are used respectively to deflate their corresponding rows.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"This table (Chained 2009 dollars) is not comparable with the previous'  version (Chained 2005 dollars ). Chained 2005 dollars estimates for earlier years can be found in the 2013 edition of NTS, table 3-19.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SOURCES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Air carrier, domestic, scheduled service:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"1960: Civil Aeronautics Board, Handbook of Airline Statistics, 1969 (Washington, DC: February 1970), part III, table 2 (enplanements); part IV, table 2 (passenger revenue).",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"1965-70: Ibid. Handbook of Airline Statistics, 1973 (Washington, DC:  March 1974), part III, table 2 (enplanements); part IV, table 2 (passenger revenue).",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"1975-80: Ibid. Air Carrier Financial Statistics (Washington, DC: Annual December issues), p. 1, line 3; and Air Carrier Traffic Statistics (Washington, DC: Annual December Issues), p. 2, line 16 (passenger revenue / revenue passenger enplanements). ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"1985: U.S. Department of Transportation, Bureau of Transportation Statistics, Office of Airline Information, Air Carrier Financial Statistics (Washington, DC: Annual December Issues); and Air Carrier Traffic Statistics (Washington, DC: Annual December Issues) (passenger revenue / revenue passenger enplanements). ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"1990-2014: U.S. Department of Transportation, Bureau of Transportation Statistics, Office of Airline Information, TranStats Database, T1: U.S. Air Carrier Traffic and Capacity Summary by Service Class, available at  http://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=264&DB_Short_Name=Air%20Carrier%20Summary as of Aug. 14, 2015, and  Air Carrier Financial Reports, Schedule P-1.2, available at http://www.transtats.bts.gov/databases.asp?Mode_ID=1&Mode_Desc=Aviation&Subject_ID2=0 as of March 2016.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Class I bus, intercity:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"1960-93: Interstate Commerce Commission, Transport Statistics in the United States, Motor Carriers (Washington, DC:  Annual Issues), part 2.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"1994-2002: U.S. Department of Transportation, Bureau of Transportation Statistics, Selected Earnings Data, Class I Motor Carriers of Passengers (Washington, DC:  Annual Issues) (operating revenue / revenue passengers).",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Transit and commuter rail:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"1960-2001: American Public Transportation Association, Public Transportation Fact Book Appendix A: Historical Tables (Washington, DC: Annual Issues), table 43, and similar tables in earlier editions (passenger fares / passenger trips).",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"2002-14: U.S. Department of Transportation, Federal Transit Administration, National Transit Database, Data Tables (Washington, D.C.: Annual Reports), table 26, available at http://www.ntdprogram.gov/ntdprogram/data.htm as of July 22, 2016. ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Intercity rail / Amtrak:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"1960-70: Association of American Railroads, Railroad Facts (Washington, DC: Annual Issues).",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"1975-80: National Passenger Rail Corporation (Amtrak), State and Local Affairs Department and Public Affairs Department, personal communication.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"1985-96: National Passenger Rail Corporation (Amtrak), Amtrak Annual Report, Statistical Appendix (Washington, DC: Annual Issues) (transportation revenues / Amtrak system passenger trips).",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"1997-1999: National Passenger Rail Corporation (Amtrak), Amtrak Annual Report (Washington, DC: Annual Issues) (ticket revenue per passenger mile multiplied by average trip length of passengers), p. 67, available at http://www.amtrak.com/servlet/ContentServer?c=Page&pagename=am%2FLayout&cid=1241245669222 as of Mar. 4, 2013.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"2000-14: National Passenger Rail Corporation (Amtrak), News Release (ticket revenue divided by ridership), available at http://www.amtrak.com as of Dec. 2, 2015.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,38 @@
+"Table 1-58: Freight Activity in the United States: 1993, 1997, 2002, 2007 and 2012",,,,,,,,,,,,,,,,,,
+Mode of transportation,Value (billion $),,,,,,Tons (millions),,,,,,Ton-milesc (billions),,,,,
+,1993,1997,2002,2007,2012,Percent change (2002-2012)d,1993,1997,2002,2007,2012,Percent change (2002-2012)d,1993,1997,2002,2007,2012,Percent change (2002-2012)d
+TOTAL all modes,"5,846","6,944","8,397","11,685","13,852",65.0,"9,688","11,090","11,668","12,543","11,299",-3.2,"2,421","2,661","3,138","3,345","2,970",-5.4
+"Single modes, total","4,941","5,720","7,049","9,539","11,900",68.8,"8,922","10,437","11,087","11,698","10,906",-1.6,"2,137","2,383","2,868","2,894","2,697",-5.9
+Trucka,"4,403","4,982","6,235","8,336","10,132",62.5,"6,386","7,701","7,843","8,779","8,060",2.8,870,"1,024","1,256","1,342","1,248",-0.7
+For-hire truck,"2,625","2,901","3,757","4,956","6,505",73.1,"2,808","3,403","3,657","4,075","4,299",17.5,629,741,960,"1,056","1,051",9.5
+Private truck,"1,756","2,037","2,445","3,380","3,628",48.4,"3,544","4,137","4,150","4,704","3,761",-9.4,236,269,291,286,197,-32.4
+Rail,247,320,311,436,473,52.2,"1,544","1,550","1,874","1,861","1,629",-13.1,943,"1,023","1,262","1,344","1,211",-4.0
+Water,62,76,89,115,302,237.6,505,563,681,404,576,-15.4,272,262,283,157,193,-31.8
+Shallow draft,41,54,57,91,219,281.0,362,415,459,343,425,-7.4,164,189,212,117,119,-43.9
+Great Lakes,S,2,1,S,0,-49.7,33,38,38,18,31,-17.4,12,13,14,7,11,-20.6
+Deep draft,20,20,31,23,60,92.9,110,110,185,43,73,-60.5,95,59,57,33,22,-61.4
+Air (includes truck and air),139,229,265,252,451,70.1,3,4,4,4,5,28.9,4,6,6,5,6,-0.4
+Pipelineb,90,113,149,400,543,263.9,484,618,685,651,636,-7.2,S,S,S,S,S,S
+"Multiple modes, total",663,946,"1,079","1,867","1,951",80.8,226,217,217,574,357,64.8,191,205,226,417,272,20.4
+"Parcel, U.S. Postal Service or courier",563,856,988,"1,562","1,688",70.9,19,24,26,34,28,11.7,13,18,19,28,23,19.5
+Truck and rail,83,76,70,187,225,221.5,41,54,43,226,214,397.4,38,56,46,197,170,272.4
+Truck and water,9,8,14,58,29,102.2,68,33,23,146,57,143.4,41,35,32,98,49,49.8
+Rail and water,4,2,3,14,8,139.6,79,79,105,55,56,-47.1,70,78,115,47,29,-74.6
+Other multiple modes,3,4,4,45,1,-82.5,19,26,20,114,2,-87.6,S,19,14,46,2,-86.6
+"Other / unknown modes, total",242,279,269,279,1,-99.6,541,437,365,272,37,-89.9,93,73,44,34,0,-99.4
+KEY:  S = data are not published because of high sampling variability or other reasons.,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+"a Truck as a single mode includes shipments that went by private truck only, for-hire truck only, or a combination of both. ",,,,,,,,,,,,,,,,,,
+b 1993 and 1997 data exclude most shipments of crude oil. 2002 and 2007 data exclude shipments of crude petroleum.,,,,,,,,,,,,,,,,,,
+c Ton-miles estimates are based on estimated distances traveled along a modeled transportation network.,,,,,,,,,,,,,,,,,,
+d  Percent change has been revised in conjuction with 2012 data.,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+NOTES,,,,,,,,,,,,,,,,,,
+Numbers may not add to totals due to rounding. Value-of-shipment estimates are reported in current prices. Coverage for the 2002 and 2007 Commodity Flow Survey (CFS) differs from the previous surveys due to a change from the 1997 Standard Industrial Classification (SIC) system to the North American Industry Classification System (NAICS) and other survey improvements. The 2007 estimates are derived using an improved methodology of estimation.,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+SOURCES,,,,,,,,,,,,,,,,,,
+"1993 and 1997: U.S. Department of Transportation, Bureau of Transportation Statistics and U.S. Department of Commerce, Census Bureau, 1997 Commodity Flow Survey: United States (Washington, DC: December 1999), table 1b.",,,,,,,,,,,,,,,,,,
+"2002: U.S Department of Transportation, Bureau of Transportation Statistics and U.S. Department of Commerce, Census Bureau, 2002 Commodity Flow Survey: United States (Washington, DC: December 2004), table 1a. ",,,,,,,,,,,,,,,,,,
+"2007: U.S Department of Transportation, Bureau of Transportation Statistics and U.S. Department of Commerce, Census Bureau, 2007 Commodity Flow Survey: United States, Final Release (Washington, DC: December 2009), table 1, available at http://www.bts.gov/publications/commodity_flow_survey/ as of December 28, 2009.",,,,,,,,,,,,,,,,,,
+"2012: U.S Department of Transportation, Bureau of Transportation Statistics and U.S. Department of Commerce, Census Bureau, 2012 Commodity Flow Survey: United States, Final Release (Washington, DC: December 2014), table 1, available at http://www.bts.gov/publications/commodity_flow_survey/ as of Dec. 9, 2014.",,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,

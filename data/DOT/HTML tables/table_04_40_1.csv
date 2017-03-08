@@ -1,0 +1,21 @@
+,Pollutant,Duty-cycle f,Tier 0 1973-2001h,Tier 1 2002-2004,Tier 2 2005+
+0,Total HCb,Line-haul,1.00,0.55,0.30
+1,Total HCb,Switch,2.10,1.20,0.60
+2,Nonmethane HCc,Line-haul,1.00,0.55,0.30
+3,Nonmethane HCc,Switch,2.10,1.20,0.60
+4,Total HC equivalentd,Line-haul,1.00,0.55,0.30
+5,Total HC equivalentd,Switch,2.10,1.20,0.60
+6,CO,Line-haul,5.0,2.2,1.5
+7,CO,Switch,8.0,2.5,2.4
+8,CO,Line-haul (optional standard) g,10.0,10.0,10.0
+9,CO,Switch (optional standard) g,12.0,12.0,12.0
+10,NOx,Line-haul,9.5,7.4,5.5
+11,NOx,Switch,14.0,11.0,8.1
+12,Particulates,Line-haul,0.60,0.45,0.20
+13,Particulates,Switch,0.72,0.54,0.24
+14,Particulates,Line-haul (optional standard) g,0.30,0.22,0.10
+15,Particulates,Switch (optional standard) g,0.36,0.27,0.12
+16,Smoke opacity (% opacity-normalized) h,Steady-state,30%,25%,20%
+17,Smoke opacity (% opacity-normalized) h,30-second peak,40%,40%,40%
+18,Smoke opacity (% opacity-normalized) h,3-second peak,50%,50%,50%
+19,Useful life,Â,"7.5 MWh per hp or 10 years i, j","7.5 MWh per hp or 10 years i, j","7.5 MWh per hp or 10 years i, j"
