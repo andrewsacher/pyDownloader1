@@ -87,7 +87,7 @@ class web_data(object):
             for link in self.url_soup.find_all("a"):
                 this_link = link.get("href")
                 if not this_link == None:
-                    if this_link[-5:] == "." + self.page_type:
+                    if this_link[-(len(page_type) + 1):] == "." + self.page_type:
                         self.pages.append(urllib.request.urljoin(self.url, this_link))
             
         # Else simply use self.url 
@@ -120,7 +120,7 @@ class web_data(object):
             for link in self.url_soup.find_all("a"):
                 this_link = link.get("href")
                 if not this_link == None:
-                    if this_link[-5:] == "." + self.page_type:
+                    if this_link[-(len(page_type) + 1):] == "." + self.page_type:
                         self.pages.append(urllib.request.urljoin(self.url, this_link))
             
         # Else simply use self.url 
@@ -134,7 +134,7 @@ class web_data(object):
                 counter = 1
                 for table in page_tables:
                     self.tables.append(table)
-                    file_name = os.path.join(self.save_path, page[page.rfind("/") + 1: -5] + "_" + str(counter) + ".csv")
+                    file_name = os.path.join(self.save_path, page[page.rfind("/") + 1: -(len(page_type) + 1)] + "_" + str(counter) + ".csv")
                     self.file_names.append(file_name)
                     counter += 1
             except:
@@ -143,17 +143,6 @@ class web_data(object):
         # Save tables
         for i in range(0, len(self.tables)):
             self.tables[i].to_csv(self.file_names[i])
-
-dot_url = "https://www.fhwa.dot.gov/policyinformation/statistics/2015/"
-test_path = "C:\\Users\\jricco\\Documents\\PPI projects\\Ballmer\\pyDownloader1\\FWHA\\HTML tables"
-
-dot = web_data(dot_url)
-
-dot.download_tables(save_path = test_path, ext = "cfm")
-
-
-
-
 
 
 
