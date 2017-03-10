@@ -1,0 +1,33 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Property-casualty insurance companies; gross saving including foreign earnings retained abroad and CCAdj less net capital transfers paid(1),FA516000105,60.7,51.9,39.9,51.2,46.9,31.5,38.6,47.5,42.0,1
+1,"Property-casualty insurance companies; gross fixed investment, nonresidential structures, equipment, and intellectual property products",FA515013005,21.1,22.6,23.0,22.7,22.7,22.8,22.9,23.1,23.3,2
+2,Property-casualty insurance companies; total financial assets,FA514090005,29.5,54.1,73.1,88.0,-31.7,102.6,35.4,100.1,54.3,3
+3,Property-casualty insurance companies; checkable deposits and currency; asset,FA513020003,5.9,-2.8,-7.2,16.4,-6.3,-5.7,16.2,-32.0,-7.5,4
+4,Property-casualty insurance companies; money market mutual fund shares; asset,FA513034003,-1.8,3.2,-2.5,4.1,3.3,-4.2,1.5,-4.9,-2.2,5
+5,Property-casualty insurance companies; security repurchase agreements; asset,FA512051003,0.1,0.0,0.5,0.1,-0.0,-1.8,0.1,2.6,1.2,6
+6,Property-casualty insurance companies; debt securities; asset,FA514022005,13.7,20.4,46.4,14.0,5.9,29.1,7.5,106.0,43.0,7
+7,Property-casualty insurance companies; commercial paper; asset,FA513069103,-0.1,0.9,6.1,1.5,0.8,-0.1,0.7,15.2,8.8,8
+8,Property-casualty insurance companies; Treasury securities; asset,FA513061103,6.3,-1.5,18.1,-3.6,0.9,-2.1,2.2,41.7,30.5,9
+9,Property-casualty insurance companies; agency- and GSE-backed securities; asset,FA513061703,0.1,-6.5,2.9,-7.9,-4.7,3.4,0.6,5.7,2.1,10
+10,Property-casualty insurance companies; municipal securities; asset,FA513062003,-15.4,9.4,10.8,6.8,-7.1,11.5,1.9,19.0,10.8,11
+11,Property-casualty insurance companies; corporate and foreign bonds; asset,FA513063003,22.7,18.0,8.5,17.2,16.1,16.4,2.2,24.5,-9.1,12
+12,Property-casualty insurance companies; commercial mortgages; asset,FA513065503,2.0,2.4,3.4,2.3,3.4,2.8,3.0,4.1,3.9,13
+13,Property-casualty insurance companies; corporate equities; asset,FA513064105,3.4,-1.9,-10.1,10.1,-13.2,-0.9,-14.1,-13.6,-11.6,14
+14,Property-casualty insurance companies; mutual fund shares; asset,FA513064203,1.2,0.7,-1.2,0.7,0.7,-3.0,-0.7,-0.8,-0.5,15
+15,Property-casualty insurance companies; trade receivables; asset,FA513070003,5.7,6.3,13.6,6.6,-15.5,15.9,1.5,19.1,17.8,16
+16,Property-casualty insurance companies; U.S. direct investment abroad; asset,FA513092003,1.0,4.9,2.0,1.8,2.6,1.8,3.8,0.5,2.0,17
+17,Property-casualty insurance companies; total miscellaneous assets,FA513090005,-1.6,20.9,28.2,31.9,-12.7,68.6,16.8,19.1,8.2,18
+18,Property-casualty insurance companies; equity in FHLB; asset,FA513092403,0.0,0.0,0.0,-0.0,0.0,-0.0,0.2,0.1,-0.1,19
+19,Property-casualty insurance companies; unidentified miscellaneous assets,FA513093005,-1.6,20.8,28.1,31.9,-12.8,68.7,16.5,19.1,8.3,20
+20,Property-casualty insurance companies; total liabilities,FA514190005,-6.6,-4.9,41.1,3.3,-52.9,55.5,13.6,61.7,33.6,21
+21,Property-casualty insurance companies; security repurchase agreements; liability,FA512151003,-0.4,0.4,-0.4,0.6,0.5,-3.7,0.0,0.5,1.6,22
+22,Property-casualty insurance companies; corporate equities; liability,FA513164103,-16.9,-22.0,-17.8,-24.8,-23.4,-24.4,-19.4,-15.2,-12.4,23
+23,Property-casualty insurance companies; FHLB advances; liability,FA513169333,0.1,0.2,1.0,0.0,0.9,-0.3,4.9,1.1,-1.6,24
+24,Property-casualty insurance companies; taxes payable (net); liability,FA513178003,2.1,-7.6,-2.1,-17.9,7.4,0.8,-14.5,2.9,2.4,25
+25,Property-casualty insurance companies; foreign direct investment in U.S.; liability,FA513192003,0.8,11.4,29.8,13.0,33.1,108.2,1.9,5.4,3.4,26
+26,Property-casualty insurance companies; total miscellaneous liabilities,FA513190005,7.7,12.8,30.7,32.4,-71.4,-25.2,40.7,67.0,40.1,27
+27,Property-casualty insurance companies; net transactions due to holding companies; liability,FA513194733,0.1,-0.8,-0.2,0.8,-1.1,-2.1,1.5,-1.5,1.1,28
+28,Property-casualty insurance companies; policy payables; liability,FA513176003,14.7,15.5,35.2,40.4,-3.3,18.9,30.3,40.9,50.8,29
+29,Property-casualty insurance companies; unidentified miscellaneous liabilities,FA513193005,-7.1,-1.9,-4.3,-8.8,-67.0,-42.0,8.9,27.6,-11.7,30
+30,Property-casualty insurance companies; sector discrepancy,FA517005005,3.5,-29.7,-15.2,-56.2,3.0,-38.5,-6.2,-14.1,-2.0,31
+31,Property-casualty insurance companies; securities lending; liability(2),FA513170603,-0.1,-0.0,1.2,-0.4,-1.5,4.1,0.1,0.5,0.3,32

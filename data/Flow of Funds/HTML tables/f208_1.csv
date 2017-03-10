@@ -1,0 +1,55 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,All sectors; total debt securities; liability,FA894122005,1341.2,1242.4,1555.3,796.4,2624.4,1703.2,1504.4,2003.0,1010.4,1
+1,All sectors; open market paper; liability,FA893169175,-21.2,11.1,-56.6,22.6,-7.1,260.0,-93.4,-490.8,97.8,2
+2,Federal government; Treasury securities; liability,FA313161105,736.0,724.4,842.8,302.5,2243.0,852.4,770.0,1285.4,463.3,3
+3,All sectors; U.S. government agency securities; liability,FA893161705,150.2,220.6,351.6,316.4,499.9,60.4,580.8,329.0,436.3,4
+4,Domestic nonfinancial sectors; municipal securities; liability,FA383162005,-42.0,14.9,42.4,13.3,-48.4,36.8,94.7,37.3,0.9,5
+5,All sectors; corporate and foreign bonds; liability,FA893163005,518.2,271.4,375.1,141.7,-63.1,493.6,152.3,842.1,12.1,6
+6,All sectors; total debt securities; liability,FA894122005,1341.2,1242.4,1555.3,796.4,2624.4,1703.2,1504.4,2003.0,1010.4,7
+7,Domestic nonfinancial sectors; debt securities; liability,FA384122005,1003.9,1133.0,1163.0,707.7,2428.9,1446.5,1163.7,1523.0,518.9,8
+8,Nonprofit organizations; municipal securities; liability(2),FA163162003,-6.7,-8.0,-3.4,-10.5,-5.2,2.6,-0.9,-9.5,-5.9,9
+9,Nonfinancial corporate business; debt securities; liability,FA104122005,310.1,407.9,295.7,410.6,226.4,570.5,327.9,224.6,59.5,10
+10,Federal government; debt securities; liability,FA314122005,735.9,724.6,842.7,300.2,2244.8,851.9,770.5,1284.6,463.7,11
+11,"State and local governments, excluding employee retirement funds; municipal securities; liability",FA213162005,-35.4,8.6,28.1,7.3,-37.1,21.4,66.2,23.2,1.7,12
+12,Domestic financial sectors; debt securities; liability,FA794122005,174.4,152.6,386.6,275.4,324.3,349.7,421.0,503.7,272.1,13
+13,U.S.-chartered depository institutions; debt securities; liability,FA764122005,-17.2,-9.3,-21.4,10.4,27.9,36.9,-26.0,-44.2,-52.5,14
+14,Foreign banking offices in the U.S.; bankers' acceptances; liability,FA753169603,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15
+15,Government-sponsored enterprises; GSE issues; liability,FA403161705,75.3,93.5,194.4,142.1,301.9,-75.6,421.7,197.9,233.5,16
+16,Agency-and GSE-backed mortgage pools; total mortgages; asset,FA413065005,75.0,126.9,157.4,176.5,196.2,136.4,158.7,131.8,202.4,17
+17,Issuers of asset-backed securities; debt securities; liability,FA674122005,-52.8,-59.0,-79.6,-159.9,-86.9,-70.6,-141.9,-20.1,-85.7,18
+18,Finance companies; debt securities; liability,FA614122005,2.0,-16.0,-56.1,6.7,-17.4,23.2,-126.1,-81.9,-39.6,19
+19,Real estate investment trusts; debt securities; liability,FA644122005,46.9,-7.8,19.4,-12.1,-11.1,82.8,42.1,-23.1,-24.2,20
+20,Security brokers and dealers; corporate and foreign bonds; liability,FA663163003,11.5,7.4,-2.2,-1.6,-16.4,-47.3,-33.8,58.5,14.0,21
+21,Holding companies; debt securities; liability,FA734122005,8.0,-49.4,140.2,-44.4,-123.0,121.2,92.8,346.5,0.3,22
+22,Funding corporations; debt securities; liability,FA504122005,25.8,66.2,34.5,157.7,53.0,142.6,33.5,-61.8,23.9,23
+23,"Rest of the world; debt securities, excluding negotiable certificates of deposit; liability",FA264122005,162.9,-43.2,5.6,-186.7,-128.8,-93.0,-80.3,-23.7,219.5,24
+24,All sectors; total debt securities; liability,FA894122005,1341.2,1242.4,1555.3,796.4,2624.4,1703.2,1504.4,2003.0,1010.4,25
+25,Domestic nonfinancial sectors; debt securities; asset,FA384022005,-15.5,173.9,28.7,1153.4,142.5,97.2,-375.4,339.4,53.6,26
+26,Households and nonprofit organizations; debt securities; asset,FA154022005,-42.0,145.5,-59.8,1047.1,116.7,42.0,-464.5,102.6,80.8,27
+27,Nonfinancial corporate business; debt securities; asset,FA104022005,11.5,-6.9,19.9,-18.3,26.2,32.0,-4.2,82.1,-30.2,28
+28,Nonfinancial noncorporate business; debt securities; asset,FA114022005,1.7,4.2,4.2,3.2,5.5,4.7,3.9,4.5,3.8,29
+29,Federal government; debt securities; asset,FA314022005,-0.0,-0.0,0.0,-0.1,0.0,0.0,0.0,0.0,0.0,30
+30,"State and local governments, excluding employee retirement funds; debt securities; asset",FA214022005,13.3,31.1,64.3,121.5,-5.9,18.5,89.3,150.2,-0.8,31
+31,Domestic financial sectors; debt securities; asset,FA794022005,824.7,634.1,1213.0,-51.6,2102.4,1327.2,1442.0,1192.9,889.9,32
+32,Monetary authority; debt securities; asset,FA714022005,480.7,5.1,-20.8,17.2,-6.9,62.4,-64.5,-60.8,-20.2,33
+33,U.S.-chartered depository institutions; debt securities; asset,FA764022005,241.5,214.4,287.1,49.4,306.9,94.7,222.2,475.6,355.8,34
+34,Foreign banking offices in the U.S.; debt securities; asset,FA754022005,-14.5,-9.0,10.7,37.9,10.0,85.1,96.6,-42.7,-96.3,35
+35,Banks in U.S.-affiliated areas; debt securities; asset,FA744022003,-1.2,0.8,1.2,-0.0,1.9,-0.4,3.0,-1.3,3.8,36
+36,Credit unions; debt securities; asset,FA474022005,-9.0,-2.8,-7.7,-17.6,28.1,-31.3,-5.6,4.7,1.7,37
+37,Property-casualty insurance companies; debt securities; asset,FA514022005,13.7,20.4,46.4,14.0,5.9,29.1,7.5,106.0,43.0,38
+38,Life insurance companies; debt securities; asset,FA544022005,58.6,81.8,145.4,94.8,58.8,227.4,173.1,139.5,41.6,39
+39,Private pension funds; debt securities; asset,FA574022005,21.6,45.4,31.3,54.7,44.8,28.0,35.6,26.4,35.1,40
+40,Federal government retirement funds; debt securities; asset,FA344022005,86.5,92.2,99.2,-363.5,1488.3,106.3,63.4,93.7,133.4,41
+41,State and local government employee defined benefit retirement funds retirement funds; debt securities; asset,FA224022045,20.3,-5.7,59.7,-20.0,34.1,58.0,79.4,80.0,21.3,42
+42,Money market mutual funds; debt securities; asset,FA634022005,-124.2,72.2,164.2,117.2,203.1,334.9,67.1,-194.3,449.0,43
+43,Mutual funds; debt securities; asset (market value),FA654022005,93.1,116.7,234.4,-171.7,6.0,9.0,367.9,507.2,53.5,44
+44,Closed-end funds; debt securities; asset,FA554022005,-2.7,1.4,1.0,1.7,-1.4,1.4,-1.4,2.4,1.5,45
+45,Exchange-traded funds; debt securities; asset,FA564022005,51.5,55.3,83.9,86.3,49.2,126.3,59.9,96.8,52.4,46
+46,Government-sponsored enterprises; debt securities; asset,FA404022005,-18.9,-25.3,-2.4,-24.1,16.8,-12.1,50.2,-12.6,-35.2,47
+47,Issuers of asset-backed securities; debt securities; asset,FA674022005,5.5,0.9,-8.3,-1.3,-1.8,-4.0,-9.2,-15.0,-5.2,48
+48,Finance companies; corporate and foreign bonds; asset,FA613063003,6.0,-1.5,11.9,-5.4,8.1,6.2,58.7,16.1,-33.4,49
+49,Real estate investment trusts; debt securities; asset,FA644022005,7.7,-44.7,-18.6,-29.5,-52.3,-4.4,-2.8,-46.1,-21.2,50
+50,Security brokers and dealers; debt securities; asset,FA664022005,-89.2,-36.7,5.0,-23.4,-174.0,38.5,174.6,-8.1,-185.2,51
+51,Holding companies; long-term debt securities; asset,FA734022605,-0.2,-20.6,3.5,18.0,-80.3,-9.9,8.6,-0.4,15.8,52
+52,Funding corporations; debt securities; asset,FA504022005,-2.0,73.8,86.0,113.6,156.7,181.8,57.7,25.6,78.9,53
+53,"Rest of the world; debt securities, excluding negotiable certificates of deposit; asset",FA264022005,532.0,434.5,313.6,-305.4,379.5,278.7,437.8,470.8,66.9,54

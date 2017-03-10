@@ -1,0 +1,19 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Private defined contribution pension funds; total financial assets,FA574090055,6.9,99.1,98.6,23.3,118.8,256.7,82.6,16.8,38.1,1
+1,Private defined contribution pension funds; checkable deposits and currency; asset,FA573020033,1.1,0.2,1.6,1.7,1.6,1.8,1.8,0.9,2.0,2
+2,Private defined contribution pension funds; total time and savings deposits; asset,FA573030033,-0.1,0.8,0.8,0.9,0.8,1.0,0.8,0.4,1.0,3
+3,"Private defined contribution pension funds, including 403(b) plans; money market mutual fund shares; asset",FA573034055,-1.5,-4.3,4.0,10.3,-0.3,7.8,1.2,1.5,5.5,4
+4,Private defined contribution pension funds; security repurchase agreements; asset,FA572051033,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5
+5,Private defined contribution pension funds; debt securities; asset,FA574022035,7.1,23.9,22.0,33.6,22.5,17.2,24.5,15.6,30.7,6
+6,Private defined contribution pension funds; commercial paper; asset,FA573069133,-0.1,2.0,1.8,1.8,1.6,1.9,2.0,1.0,2.1,7
+7,Private defined contribution pension funds; Treasury securities; asset,FA573061133,0.8,15.8,9.1,13.3,7.6,5.4,11.9,6.4,12.6,8
+8,Private defined contribution pension funds; agency- and GSE-backed securities; asset,FA573061733,0.4,-5.5,-0.7,2.5,1.1,0.1,-2.0,-0.5,-0.5,9
+9,Private defined contribution pension funds; corporate and foreign bonds; asset,FA573063033,6.0,11.6,11.9,16.0,12.2,9.7,12.6,8.7,16.4,10
+10,Private defined contribution pension funds; total mortgages; asset,FA573065033,1.6,-0.7,0.4,0.5,0.3,0.5,0.3,0.2,0.5,11
+11,Private defined contribution pension funds; corporate equities; asset,FA573064133,-42.4,-0.5,5.9,14.9,11.1,15.1,2.1,1.8,4.6,12
+12,"Private defined contribution pension funds, including 403(b) plans; mutual fund shares; asset",FA573064255,39.6,43.7,24.0,-42.1,50.5,150.5,15.5,-29.6,-40.5,13
+13,Private defined contribution pension funds; total miscellaneous assets,FA573090055,1.4,36.0,39.9,3.5,32.2,62.7,36.5,26.0,34.4,14
+14,Private defined contribution pension funds; unallocated insurance contracts; asset(2),FA573095505,-5.1,1.8,16.5,-15.4,8.5,41.7,7.2,11.5,5.4,15
+15,Private defined contribution pension funds; pension fund contributions receivable; asset,FA573074033,1.0,0.2,0.6,0.8,-0.0,0.7,0.7,0.3,0.6,16
+16,Private defined contribution pension funds; unidentified miscellaneous assets,FA573093033,5.5,34.1,22.8,18.2,23.7,20.3,28.5,14.2,28.3,17
+17,Private defined contribution pension funds; total financial assets,FA574090055,6.9,99.1,98.6,23.3,118.8,256.7,82.6,16.8,38.1,18

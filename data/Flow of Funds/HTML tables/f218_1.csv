@@ -1,0 +1,30 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,All sectors; home mortgages; asset,FA893065105,40.4,142.9,266.5,150.9,181.5,166.9,260.8,318.1,320.0,1
+1,Households and nonprofit organizations; home mortgages; liability,FA153165105,33.0,129.2,247.7,133.8,166.1,155.6,242.2,289.5,303.4,2
+2,Nonfinancial corporate business; home mortgages; liability,FA103165105,1.5,1.9,1.7,1.7,2.0,1.9,1.6,2.5,1.0,3
+3,Nonfinancial noncorporate business; home mortgages; liability,FA113165105,5.9,11.7,17.0,15.3,13.3,9.4,17.0,26.1,15.6,4
+4,All sectors; home mortgages; asset,FA893065105,40.4,142.9,266.5,150.9,181.5,166.9,260.8,318.1,320.0,5
+5,Households and nonprofit organizations; home mortgages; asset,FA153065103,-3.4,-3.4,-3.4,-3.4,-3.4,-3.4,-3.4,-3.4,-3.4,6
+6,Nonfinancial corporate business; home mortgages; asset,FA103065105,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,7
+7,Nonfinancial noncorporate business; home mortgages; asset,FA113065103,-0.1,0.9,0.9,0.7,1.1,1.0,0.8,0.9,0.8,8
+8,Federal government; home mortgages; asset,FA313065105,1.2,1.6,1.5,1.8,-0.6,2.0,0.7,-0.3,3.5,9
+9,"State and local governments, excluding employee retirement funds; home mortgages; asset",FA213065103,3.2,7.2,4.2,8.6,8.5,3.0,3.2,7.5,3.1,10
+10,"U.S.-chartered depository institutions; home mortgages, including farm houses; asset",FA763065105,15.2,50.9,81.5,12.1,64.2,80.9,111.5,116.4,17.4,11
+11,Foreign banking offices in the U.S.; home mortgages; asset,FA753065103,1.5,-1.4,-0.3,-1.0,-4.2,-0.4,-1.1,-0.1,0.2,12
+12,Banks in U.S.-affiliated areas; home mortgages; asset,FA743065103,-1.5,-1.5,-0.7,-0.8,-0.9,-0.6,-0.9,-0.6,-0.7,13
+13,Credit unions; home mortgages; asset,FA473065100,26.9,32.7,37.1,32.8,32.3,2.3,52.5,43.9,49.7,14
+14,"Life insurance companies; home mortgages, including farm houses; asset",FA543065105,3.9,4.3,1.0,4.6,6.4,1.0,1.7,1.4,-0.0,15
+15,Private pension funds; home mortgages; asset,FA573065103,0.0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,16
+16,State and local government employee defined benefit retirement funds; home mortgages; asset,FA223065143,0.2,-0.2,-1.4,-0.7,-0.5,-1.8,0.0,-2.2,-1.5,17
+17,Government-sponsored enterprises; home mortgages; asset,FA403065105,2.2,47.6,79.7,69.2,30.7,20.0,58.7,47.6,192.5,18
+18,Agency-and GSE-backed mortgage pools; home mortgages; asset,FA413065105,50.8,94.1,115.8,149.2,141.6,98.4,106.3,100.9,157.6,19
+19,Issuers of asset-backed securities; home mortgages; asset,FA673065105,-59.4,-78.4,-51.6,-101.0,-77.0,-35.1,-75.3,-22.5,-73.3,20
+20,Finance companies; home mortgages; asset,FA613065105,-9.8,-14.6,-11.1,-17.6,-9.9,-13.1,-4.8,-9.7,-16.8,21
+21,Real estate investment trusts; home mortgages; asset,FA643065105,8.5,2.2,12.3,-4.7,-7.7,11.8,10.0,37.4,-10.1,22
+22,All sectors; home mortgage charge-offs(2),FV893065153,52.8,50.2,31.8,9.9,10.1,9.5,8.1,8.0,6.2,23
+23,All sectors; home equity loans; asset(3),FA893065125,-24.8,-34.3,-36.7,-34.3,-29.9,-40.2,-19.1,-39.2,-48.2,24
+24,U.S.-chartered depository institutions; home equity loans; asset,FA763065125,-22.9,-31.7,-35.5,-32.4,-29.3,-34.9,-25.3,-36.8,-45.0,25
+25,Foreign banking offices in the U.S.; home-equity lines of credit; asset,FA753065203,0.1,-0.0,-0.1,-0.0,0.0,-0.3,-0.0,0.0,0.0,26
+26,Credit unions; home equity loans; asset,FA473065125,1.7,2.0,2.9,3.0,3.4,-1.6,11.7,-0.4,1.8,27
+27,Issuers of asset-backed securities; home equity loans; asset,FA673065123,-1.6,-1.7,-1.7,-2.0,-1.5,-1.8,-3.1,-0.6,-1.5,28
+28,Finance companies; home equity loans; asset,FA613065123,-2.0,-3.0,-2.2,-3.0,-2.5,-1.5,-2.5,-1.5,-3.5,29

@@ -1,0 +1,21 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Private depository institutions; total time and savings deposits; liability,FA703130005,513.2,406.2,518.2,494.9,389.9,548.6,279.7,590.9,653.4,1
+1,"U.S.-chartered depository institutions, including IBFs; total time and savings deposits; liability",FA763130005,446.3,484.0,580.9,530.9,565.4,537.1,389.5,765.2,632.0,2
+2,"Foreign banking offices in the U.S., including IBFs; total time and savings deposits; liability",FA753130005,33.8,-121.4,-140.6,-97.4,-223.2,34.0,-232.9,-316.6,-47.0,3
+3,Banks in U.S.-affiliated areas; total time and savings deposits; liability,FA743130003,4.1,-2.9,2.5,-4.3,-2.7,10.5,-8.0,-3.5,10.9,4
+4,Credit unions; total time and savings deposits; liability,FA473130005,29.0,46.4,75.4,65.7,50.4,-32.9,131.0,145.8,57.5,5
+5,Private depository institutions; total time and savings deposits; liability,FA703130005,513.2,406.2,518.2,494.9,389.9,548.6,279.7,590.9,653.4,6
+6,Households and nonprofit organizations; total time and savings deposits; asset,FA153030005,438.3,499.9,710.9,767.5,543.4,147.4,555.6,1432.3,708.2,7
+7,Nonfinancial business; total time and savings deposits; asset,FA143030005,-2.3,-3.5,61.6,36.2,-19.6,21.5,43.7,192.1,-10.9,8
+8,Nonfinancial corporate business; total time and savings deposits; asset,FA103030003,-18.0,-31.0,34.0,15.2,-55.2,-9.5,18.1,162.8,-35.5,9
+9,Nonfinancial noncorporate business; total time and savings deposits; asset,FA113030003,15.7,27.5,27.6,21.0,35.7,31.0,25.6,29.3,24.6,10
+10,Federal government; total time and savings deposits; asset,FA313030003,0.2,0.0,-0.2,0.9,-1.3,0.2,0.5,-0.4,-1.2,11
+11,"State and local governments, excluding employee retirement funds; total time and savings deposits; asset",FA213030005,8.9,13.6,5.7,-3.0,25.9,5.3,14.9,-36.8,39.3,12
+12,Domestic financial sectors; total time and savings deposits; asset,FA793030005,14.0,-85.1,-323.3,-237.7,-183.3,301.7,-426.8,-1029.5,-138.6,13
+13,Private pension funds; total time and savings deposits; asset,FA573030005,1.9,1.3,1.5,1.3,1.3,1.9,1.9,1.2,1.2,14
+14,State and local government employee defined benefit retirement funds; total time and savings deposits; asset,FA223030045,3.2,0.2,1.2,-2.2,-1.2,-7.0,6.2,4.7,0.9,15
+15,Money market mutual funds; total time and savings deposits; asset,FA633030000,20.4,-78.4,-298.2,-210.1,-130.3,249.5,-286.2,-1009.1,-146.9,16
+16,Government-sponsored enterprises; total time and savings deposits; asset,FA403030005,-2.1,-0.7,4.2,-0.6,-0.6,3.2,3.1,4.6,5.8,17
+17,Finance companies; total time and savings deposits; asset,FA613030003,-0.5,0.4,-29.9,10.2,-21.3,52.3,-141.2,-20.1,-10.8,18
+18,Holding companies; total time and savings deposits; asset,FA733030003,-8.9,-7.9,-2.1,-36.3,-31.1,1.9,-10.6,-10.7,11.2,19
+19,Rest of the world; U.S. total time and savings deposits; asset,FA263030005,54.1,-18.7,63.5,-68.9,24.8,72.5,91.7,33.1,56.6,20

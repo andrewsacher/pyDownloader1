@@ -1,0 +1,21 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Private depository institutions; total time and savings deposits; liability,FL703130005,10448.7,10854.9,11373.1,10761.8,10854.9,11052.6,11058.4,11215.2,11373.1,1
+1,"U.S.-chartered depository institutions, including IBFs; total time and savings deposits; liability",FL763130005,8509.1,8993.2,9574.1,8854.9,8993.2,9164.0,9208.3,9420.7,9574.1,2
+2,"Foreign banking offices in the U.S., including IBFs; total time and savings deposits; liability",FL753130005,1056.3,934.9,794.3,990.7,934.9,943.4,885.2,806.0,794.3,3
+3,Banks in U.S.-affiliated areas; total time and savings deposits; liability,FL743130003,46.8,43.9,46.4,44.6,43.9,46.5,44.5,43.6,46.4,4
+4,Credit unions; total time and savings deposits; liability,FL473130005,836.5,882.9,958.3,871.6,882.9,898.7,920.4,944.8,958.3,5
+5,Private depository institutions; total time and savings deposits; liability,FL703130005,10448.7,10854.9,11373.1,10761.8,10854.9,11052.6,11058.4,11215.2,11373.1,6
+6,Households and nonprofit organizations; total time and savings deposits; asset,FL153030005,7891.0,8391.3,9102.0,8255.4,8391.3,8499.3,8578.0,8923.2,9102.0,7
+7,Nonfinancial business; total time and savings deposits; asset,FL143030005,1012.6,1009.1,1070.7,1014.0,1009.1,1014.5,1025.4,1073.4,1070.7,8
+8,Nonfinancial corporate business; total time and savings deposits; asset,FL103030003,613.1,582.1,616.0,595.9,582.1,579.7,584.2,624.9,616.0,9
+9,Nonfinancial noncorporate business; total time and savings deposits; asset,FL113030003,399.5,427.0,454.7,418.1,427.0,434.8,441.2,448.5,454.7,10
+10,Federal government; total time and savings deposits; asset,FL313030003,1.7,1.8,1.5,2.1,1.8,1.8,1.9,1.8,1.5,11
+11,"State and local governments, excluding employee retirement funds; total time and savings deposits; asset",FL213030005,321.5,335.1,340.8,326.4,335.1,339.9,335.2,329.2,340.8,12
+12,Domestic financial sectors; total time and savings deposits; asset,FL793030005,722.7,637.6,314.3,690.0,637.6,698.8,596.7,358.0,314.3,13
+13,Private pension funds; total time and savings deposits; asset,FL573030005,35.5,36.8,38.3,36.5,36.8,37.3,37.7,38.0,38.3,14
+14,State and local government employee defined benefit retirement funds; total time and savings deposits; asset,FL223030045,37.9,38.1,39.3,38.4,38.1,36.4,37.9,39.1,39.3,15
+15,Money market mutual funds; total time and savings deposits; asset,FL633030000,523.4,445.0,146.8,484.1,445.0,493.0,426.1,192.5,146.8,16
+16,Government-sponsored enterprises; total time and savings deposits; asset,FL403030005,3.3,2.5,6.7,2.7,2.5,3.3,4.1,5.3,6.7,17
+17,Finance companies; total time and savings deposits; asset,FL613030003,95.7,96.1,66.1,101.4,96.1,109.1,73.8,68.8,66.1,18
+18,Holding companies; total time and savings deposits; asset,FL733030003,27.0,19.1,17.1,26.9,19.1,19.6,17.0,14.3,17.1,19
+19,Rest of the world; U.S. total time and savings deposits; asset,FL263030005,499.1,480.1,543.7,473.9,480.1,498.3,521.2,529.6,543.7,20

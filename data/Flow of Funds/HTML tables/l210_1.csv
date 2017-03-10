@@ -1,0 +1,56 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Federal government; Treasury securities; liability,FL313161105,14416.7,15141.1,15983.8,14376.7,15141.1,15377.3,15385.2,15643.9,15983.8,1
+1,Federal government; marketable Treasury securities; liability,FL313161205,12480.9,13169.0,13880.2,12812.8,13169.0,13407.1,13391.6,13622.0,13880.2,2
+2,Federal government; Treasury bills; liability,FL313161113,1456.7,1511.0,1815.7,1355.2,1511.0,1614.4,1505.0,1644.8,1815.7,3
+3,Federal government; other marketable Treasury securities; liability,FL313161275,11010.6,11643.0,12051.5,11445.3,11643.0,11777.7,11873.6,11964.2,12051.5,4
+4,Federal government; long-term marketable Treasury securities issued to the Civil Service Retirement Fund through the Federal Financing Bank; liability(2),FL313161283,13.6,15.0,13.0,12.3,15.0,15.0,13.0,13.0,13.0,5
+5,Federal government; nonmarketable Treasury securities; liability,FL313161305,1935.8,1972.1,2103.6,1563.9,1972.1,1970.2,1993.5,2022.0,2103.6,6
+6,Federal government; U.S. savings securities; liability,FL313161400,176.0,171.6,165.9,172.8,171.6,170.4,169.1,167.5,165.9,7
+7,"State and local governments, excluding employee retirement funds; State and local government series securities (SLGS); asset",FL213061120,116.5,75.2,109.8,78.1,75.2,82.8,101.8,109.2,109.8,8
+8,Federal government defined contribution retirement funds; Treasury securities held by Thrift Savings Plan G Fund; asset,FL343061123,191.3,206.9,222.3,0.0,206.9,213.0,216.1,220.9,222.3,9
+9,Federal government defined benefit retirement funds; nonmarketable Treasury securities; asset,FL343061145,1407.5,1481.8,1567.6,1271.9,1481.8,1467.0,1469.3,1486.8,1567.6,10
+10,Federal government; other nonmarketable Treasury securities; liability,FL313161375,44.6,36.5,38.1,41.0,36.5,37.1,37.3,37.5,38.1,11
+11,All sectors; Treasury securities; asset,FL893061105,14416.7,15141.1,15983.8,14376.7,15141.1,15377.3,15385.2,15643.9,15983.8,12
+12,Households and nonprofit organizations; Treasury securities; asset,FL153061105,838.2,1132.0,1379.0,1034.5,1132.0,1079.7,1037.6,1156.2,1379.0,13
+13,Federal government; U.S. savings securities; liability,FL313161400,176.0,171.6,165.9,172.8,171.6,170.4,169.1,167.5,165.9,14
+14,"Households and nonprofit organizations; Treasury securities, excluding U.S. savings securities; asset",FL153061185,662.2,960.4,1213.2,861.6,960.4,909.3,868.6,988.6,1213.2,15
+15,Nonfinancial corporate business; Treasury securities; asset,FL103061103,41.7,35.8,39.5,30.4,35.8,44.2,34.0,36.8,39.5,16
+16,Nonfinancial noncorporate business; total U.S. government securities; asset,FL113061003,57.2,61.1,65.1,59.9,61.1,62.2,63.2,64.2,65.1,17
+17,"State and local governments, excluding employee retirement funds; Treasury securities, including SLGS; asset",FL213061105,621.6,666.1,717.5,643.0,666.1,679.7,697.2,713.4,717.5,18
+18,"State and local governments, excluding employee retirement funds; State and local government series securities (SLGS); asset",FL213061120,116.5,75.2,109.8,78.1,75.2,82.8,101.8,109.2,109.8,19
+19,"State and local governments, excluding employee retirement funds; Treasury securities, excluding SLGS; asset",FL213061103,505.1,590.9,607.7,564.9,590.9,596.9,595.4,604.2,607.7,20
+20,Monetary authority; Treasury securities; asset,FL713061100,2461.4,2461.6,2463.6,2461.9,2461.6,2461.3,2462.3,2463.5,2463.6,21
+21,Monetary authority; Treasury bills; asset,FL713061113,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22
+22,"Monetary authority; Other Treasury securities, excluding Treasury bills; asset",FL713061125,2461.4,2461.6,2463.6,2461.9,2461.6,2461.3,2462.3,2463.5,2463.6,23
+23,U.S.-chartered depository institutions; Treasury securities; asset,FL763061100,420.4,435.2,531.2,420.9,435.2,435.1,445.8,487.8,531.2,24
+24,Foreign banking offices in the U.S.; Treasury securities; asset,FL753061103,56.5,69.8,94.0,54.7,69.8,79.2,89.2,99.0,94.0,25
+25,Banks in U.S.-affiliated areas; Treasury securities; asset,FL743061103,1.3,2.4,3.2,2.2,2.4,2.5,2.8,2.6,3.2,26
+26,Credit unions; Treasury securities; asset,FL473061105,21.6,29.2,24.7,22.9,29.2,28.5,23.4,23.3,24.7,27
+27,Property-casualty insurance companies; Treasury securities; asset,LM513061103,104.9,100.7,118.8,101.5,100.7,102.8,104.6,114.3,118.8,28
+28,Property-casualty insurance companies; Treasury bills; asset,LM513061113,27.1,23.1,37.2,24.1,23.1,22.0,22.4,31.6,37.2,29
+29,"Property-casualty insurance companies; other Treasury securities, excluding Treasury bills; asset",LM513061125,77.8,77.7,81.6,77.4,77.7,80.8,82.2,82.7,81.6,30
+30,Life insurance companies; Treasury securities; asset,LM543061105,200.0,211.5,228.7,211.8,211.5,223.0,231.0,232.6,228.7,31
+31,Life insurance companies; Treasury bills; asset,LM543061113,9.7,7.2,6.2,8.6,7.2,7.6,7.6,7.9,6.2,32
+32,"Life insurance companies; other Treasury securities, excluding Treasury bills; asset",LM543061125,190.4,204.3,222.4,203.2,204.3,215.4,223.4,224.6,222.4,33
+33,Private pension funds; Treasury securities; asset,FL573061105,295.6,317.1,325.8,313.7,317.1,318.2,320.9,322.5,325.8,34
+34,Private defined benefit pension funds; Treasury securities; asset,FL573061143,180.6,186.3,186.0,184.8,186.3,186.1,185.8,185.8,186.0,35
+35,Private defined contribution pension funds; Treasury securities; asset,FL573061133,115.0,130.7,139.8,128.8,130.7,132.1,135.1,136.7,139.8,36
+36,Federal government retirement funds; Treasury securities; asset,FL343061105,1617.7,1708.9,1808.2,1289.3,1708.9,1700.2,1703.8,1726.5,1808.2,37
+37,Federal government defined benefit retirement funds; Treasury securities; asset,FL343061165,1422.6,1498.0,1581.7,1285.5,1498.0,1483.1,1483.5,1501.0,1581.7,38
+38,Federal government defined contribution retirement funds; Treasury securities held by Thrift Savings Plan; asset,FL343061155,195.0,210.9,226.5,3.9,210.9,217.0,220.4,225.5,226.5,39
+39,State and local government employee defined benefit retirement funds; Treasury securities; asset,FL223061143,181.3,174.8,187.4,173.5,174.8,175.6,182.2,187.3,187.4,40
+40,Money market mutual funds; Treasury securities; asset,FL633061105,419.0,482.9,796.1,397.1,482.9,545.5,518.3,635.2,796.1,41
+41,Money market mutual funds; Treasury bills; asset,FL633061110,244.6,236.0,414.9,182.6,236.0,283.4,240.9,295.9,414.9,42
+42,"Money market mutual funds; Other Treasury securities, excluding Treasury bills; asset",FL633061120,174.5,246.9,381.2,214.6,246.9,262.1,277.4,339.3,381.2,43
+43,Mutual funds; Treasury securities; asset (market value),LM653061105,682.9,826.6,870.9,789.1,826.6,835.5,879.8,898.2,870.9,44
+44,Mutual funds; Treasury bills; asset,LM653061113,31.9,44.3,56.9,43.3,44.3,43.3,46.3,55.0,56.9,45
+45,"Mutual funds; other Treasury securities, excluding Treasury bills (includes all Treasury securities before 2010:Q4); asset",LM653061125,651.0,782.2,814.0,745.8,782.2,792.2,833.5,843.2,814.0,46
+46,Closed-end funds; Treasury securities; asset,LM553061103,6.4,5.8,3.6,6.1,5.8,5.8,4.2,4.2,3.6,47
+47,Exchange-traded funds; Treasury securities; asset,LM563061103,67.5,80.3,94.7,85.3,80.3,92.3,93.5,94.1,94.7,48
+48,Government-sponsored enterprises; Treasury securities; asset,FL403061105,64.3,87.5,102.5,77.6,87.5,90.9,90.5,103.8,102.5,49
+49,Issuers of asset-backed securities; Treasury securities; asset,FL673061103,27.2,28.2,19.9,28.6,28.2,27.2,24.9,21.2,19.9,50
+50,Security brokers and dealers; Treasury securities; asset,FL663061105,60.2,65.3,97.6,53.6,65.3,90.8,87.9,94.6,97.6,51
+51,Holding companies; Treasury securities; asset,FL733061103,13.9,10.2,9.8,12.9,10.2,10.0,9.0,7.7,9.8,52
+52,Rest of the world; Treasury securities; asset,LM263061105,6156.0,6148.1,6002.1,6106.3,6148.1,6287.0,6278.9,6154.9,6002.1,53
+53,Rest of the world; Treasury bills and certificates; asset,LM263061110,671.6,724.7,669.7,667.1,724.7,724.9,684.0,695.6,669.7,54
+54,"Rest of the world; other Treasury securities, excluding Treasury bills and certificates; asset",LM263061120,5484.4,5423.4,5332.4,5439.2,5423.4,5562.1,5594.9,5459.3,5332.4,55

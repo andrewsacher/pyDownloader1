@@ -1,0 +1,32 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Nonfinancial business; total financial assets,FL144090005,22247.8,23465.7,24853.2,23070.2,23465.7,23772.2,24188.5,24552.4,24853.2,1
+1,Nonfinancial corporate business; private foreign deposits; asset,FL103091003,69.7,48.8,52.3,49.8,48.8,38.2,49.8,52.6,52.3,2
+2,Nonfinancial business; checkable deposits and currency; asset,FL143020005,1044.0,1071.2,1183.7,1079.0,1071.2,1084.3,1141.4,1175.1,1183.7,3
+3,Nonfinancial business; total time and savings deposits; asset,FL143030005,1012.6,1009.1,1070.7,1014.0,1009.1,1014.5,1025.4,1073.4,1070.7,4
+4,Nonfinancial business; money market mutual fund shares; asset,FL143034005,643.9,668.4,680.5,648.4,668.4,667.8,671.6,671.4,680.5,5
+5,Nonfinancial corporate business; security repurchase agreements; asset,FL102051003,21.7,27.7,25.9,27.0,27.7,24.5,23.3,23.4,25.9,6
+6,Nonfinancial business; debt securities; asset,FL144022005,194.6,191.9,216.0,181.6,191.9,201.2,198.5,220.3,216.0,7
+7,Nonfinancial corporate business; commercial paper; asset,FL103069100,56.5,54.8,65.6,54.9,54.8,55.1,59.0,61.5,65.6,8
+8,Nonfinancial business; Treasury securities; asset,FL143061105,98.9,96.9,104.6,90.2,96.9,106.4,97.2,101.0,104.6,9
+9,Nonfinancial corporate business; agency- and GSE-backed securities; asset,FL103061703,13.9,11.9,13.2,10.1,11.9,14.7,16.3,12.3,13.2,10
+10,Nonfinancial business; municipal securities; asset,FL143062005,25.3,28.3,32.6,26.4,28.3,25.0,26.0,45.5,32.6,11
+11,Nonfinancial business; loans; asset,FL144023005,107.9,111.4,115.0,111.6,111.4,110.7,112.0,113.3,115.0,12
+12,Nonfinancial business; total mortgages; asset,FL143065005,63.5,67.8,72.2,66.6,67.8,69.0,70.0,71.1,72.2,13
+13,Nonfinancial business; consumer credit; asset,FL143066005,44.4,43.6,42.8,45.0,43.6,41.7,41.9,42.2,42.8,14
+14,Nonfinancial corporate business; mutual fund shares; asset,LM103064203,234.5,235.7,255.9,228.3,235.7,238.1,244.1,254.5,255.9,15
+15,Nonfinancial business; trade receivables; asset,FL143070005,3327.9,3352.9,3517.9,3433.8,3352.9,3398.6,3513.0,3566.3,3517.9,16
+16,Nonfinancial corporate business; U.S. direct investment abroad; asset,FL103092005,4615.6,4807.2,5090.4,4724.6,4807.2,4903.9,4969.4,5044.4,5090.4,17
+17,Nonfinancial business; total miscellaneous assets,FL143090005,10975.5,11941.5,12644.8,11572.1,11941.5,12090.4,12240.1,12357.6,12644.8,18
+18,Nonfinancial business; total liabilities,FL144190005,23019.2,24187.6,25278.8,23844.9,24187.6,24507.6,24842.3,25102.1,25278.8,19
+19,Nonfinancial corporate business; debt securities; liability,FL104122005,5121.7,5529.5,5825.2,5503.2,5529.5,5674.0,5758.2,5836.7,5825.2,20
+20,Nonfinancial corporate business; commercial paper; liability,FL103169100,182.0,176.5,182.8,201.2,176.5,185.5,186.9,177.9,182.8,21
+21,Nonfinancial corporate business; municipal securities; liability,FL103162000,529.2,543.6,561.3,545.0,543.6,547.3,557.7,560.2,561.3,22
+22,Nonfinancial corporate business; corporate bonds; liability,FL103163003,4410.5,4809.4,5081.2,4757.0,4809.4,4941.2,5013.6,5098.6,5081.2,23
+23,Nonfinancial business; loans; liability,FL144123005,6820.8,7223.6,7645.6,7077.7,7223.6,7364.2,7429.8,7554.9,7645.6,24
+24,Nonfinancial business; depository institution loans n.e.c.; liability,FL143168005,1933.0,2110.7,2231.9,2042.1,2110.7,2172.7,2202.1,2224.0,2231.9,25
+25,Nonfinancial business; other loans and advances; liability,FL143169005,1322.1,1310.5,1345.3,1310.1,1310.5,1341.6,1310.6,1330.7,1345.3,26
+26,Nonfinancial business; total mortgages; liability,FL143165005,3565.6,3802.4,4068.4,3725.5,3802.4,3850.0,3917.2,4000.2,4068.4,27
+27,Nonfinancial business; trade payables; liability,FL143170005,2625.1,2635.4,2791.7,2650.7,2635.4,2629.7,2707.0,2765.4,2791.7,28
+28,Nonfinancial business; taxes payable; liability,FL143178005,160.9,162.4,152.8,176.4,162.4,162.4,154.9,158.6,152.8,29
+29,Nonfinancial business; foreign direct investment in U.S.; liability,FL143192005,2750.8,2976.5,3325.5,2957.4,2976.5,3024.2,3162.7,3239.8,3325.5,30
+30,Nonfinancial business; total miscellaneous liabilities,FL143190005,5539.9,5660.1,5538.0,5479.5,5660.1,5653.1,5629.7,5546.7,5538.0,31

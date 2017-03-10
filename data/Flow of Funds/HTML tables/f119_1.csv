@@ -1,0 +1,11 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Federal government retirement funds; total financial assets(1),FA344090005,112.1,111.0,108.0,110.6,126.0,110.6,103.1,112.2,106.1,1
+1,Federal government retirement funds; debt securities; asset,FA344022005,86.5,92.2,99.2,-363.5,1488.3,106.3,63.4,93.7,133.4,2
+2,Federal government retirement funds; Treasury securities; asset(2),FA343061105,87.0,91.3,99.3,-365.9,1488.3,106.1,62.1,92.2,136.7,3
+3,Federal government retirement funds; agency- and GSE-backed securities; asset,FA343061705,-0.5,0.2,0.2,-0.3,0.2,0.3,0.8,1.0,-1.5,4
+4,Federal government retirement funds; corporate and foreign bonds; asset,FA343063005,-0.0,0.7,-0.2,2.8,-0.2,-0.0,0.4,0.5,-1.8,5
+5,Federal government retirement funds; corporate equities; asset,FA343064105,3.5,0.2,-5.2,-1.2,-0.0,-11.9,-9.3,-7.4,7.6,6
+6,Federal government retirement funds; claims of pension fund on sponsor; asset(3),FA343073005,22.1,18.7,14.0,475.3,-1362.3,16.1,49.0,25.9,-34.9,7
+7,Federal government retirement funds; total financial assets(4),FA344090005,112.1,111.0,108.0,110.6,126.0,110.6,103.1,112.2,106.1,8
+8,Federal government defined benefit retirement funds; total financial assets,FA344090045,89.5,93.0,96.4,94.3,96.3,96.7,96.5,96.0,96.5,9
+9,Federal government defined contribution retirement funds; total financial assets,FA344090055,22.6,18.0,11.6,16.3,29.7,13.9,6.6,16.1,9.6,10

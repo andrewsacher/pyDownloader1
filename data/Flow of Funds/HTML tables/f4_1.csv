@@ -1,0 +1,60 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,All domestic sectors; gross saving excluding consumer durables (NIPA),FA886000115,3337.2,3446.3,3442.4,3421.0,3472.0,3419.9,3389.9,3505.1,3454.8,1
+1,All sectors; net saving including net capital transfers paid (sum of pieces),FA896006005,592.0,615.5,532.4,576.8,609.2,546.3,488.1,583.4,511.7,2
+2,Private domestic sectors; net saving including net capital transfers paid,FA836006005,1374.8,1346.5,1376.5,1387.1,1263.4,1388.2,1345.9,1430.8,1341.2,3
+3,Domestic business; net saving including net capital transfers paid,FA826006005,648.7,562.9,552.3,588.6,436.6,542.7,523.1,602.9,540.6,4
+4,"Nonfinancial corporate business; disposable income, net; net saving (IMA)",FA106012005,634.2,551.5,496.4,569.6,483.2,531.3,489.6,520.4,444.2,5
+5,"Domestic financial sectors; disposable income, net; net saving including foreign earnings retained abroad and CCAdj (IMA)",FA796012005,14.5,11.4,55.9,18.9,-46.6,11.4,33.5,82.4,96.4,6
+6,Households and nonprofit organizations; net saving including net capital transfers paid excluding consumer durables and government insurance and pension fund reserves,FA156006005,726.0,783.6,824.2,798.5,826.8,845.5,822.8,828.0,800.6,7
+7,General government; net saving including net capital transfers paid,FA366006005,-782.7,-731.0,-844.1,-810.3,-654.2,-841.9,-857.8,-847.4,-829.5,8
+8,"Federal government; net saving including net capital transfers paid, insurance and pension fund reserves adjustment and contributions for government social insurance for U.S. affiliated areas (NIPA)",FA316006005,-612.9,-569.7,-652.1,-622.3,-543.1,-668.3,-652.4,-652.4,-635.4,9
+9,State and local governments; net saving including net capital transfers paid,FA206006005,-169.8,-161.3,-192.0,-187.9,-111.1,-173.6,-205.3,-195.0,-194.1,10
+10,"All domestic sectors; consumption of fixed capital, equipment, software, and structures, current cost basis (IMA, sum of parts)",FA886300095,2745.2,2830.8,2910.0,2844.2,2862.8,2873.6,2901.8,2921.7,2943.1,11
+11,"Private domestic sectors; consumption of fixed capital, structures, equipment, and intellectual property products, current cost basis",FA836300005,2227.8,2308.3,2383.0,2320.7,2339.6,2350.3,2375.1,2393.8,2412.9,12
+12,"Domestic business; consumption of fixed capital, equipment, software, and structures, current cost basis (NIPA basis)",FA826300003,1771.5,1836.5,1892.0,1846.7,1861.7,1870.4,1887.4,1898.4,1911.9,13
+13,"Nonfinancial corporate business; consumption of fixed capital, structures, equipment, and intellectual property products, including equity REIT residential structures (NIPA basis)",FA106300083,1282.8,1329.6,1370.5,1336.5,1346.6,1356.4,1367.7,1374.5,1383.4,14
+14,"Nonfinancial noncorporate business; consumption of fixed capital, structures, equipment, and intellectual property products, current cost basis",FA116300001,298.6,308.7,318.0,309.9,312.1,313.8,317.0,319.4,321.8,15
+15,"Domestic financial sectors; consumption of fixed capital, structures, equipment, and intellectual property products, including noncorporate financial and excluding REIT residential structures, current cost basis (IMA)",FA796300081,190.2,198.2,203.5,200.2,203.0,200.1,202.6,204.4,206.7,16
+16,"Households and nonprofit organizations; consumption of fixed capital, structures, equipment, and intellectual property products, current cost basis (NIPA basis)",FA156300003,456.3,471.8,491.0,474.0,477.9,479.9,487.7,495.4,501.0,17
+17,"General government; consumption of fixed capital, equipment, software, and structures, current cost basis",FA366300005,517.4,522.5,527.0,523.5,523.2,523.3,526.7,527.9,530.1,18
+18,"Federal government; consumption of fixed capital, structures, equipment, and intellectual property products, current cost basis (NIPA basis)",FA316300003,271.3,271.5,271.6,271.4,270.8,270.7,271.4,271.9,272.3,19
+19,"State and local governments; consumption of fixed capital, equipment, software, and structures, current cost basis (NIPA basis)",FA206300003,246.1,251.0,255.4,252.1,252.3,252.6,255.3,256.0,257.8,20
+20,"All domestic sectors; gross domestic investment, capital account transactions, and net lending (NIPA)",FA885090015,3079.3,3192.6,3178.9,3184.9,3207.1,3155.6,3155.9,3200.4,3203.5,21
+21,All domestic sectors; gross fixed investment and inventories,FA885019905,3481.0,3670.0,3657.3,3691.3,3678.4,3668.1,3606.0,3630.7,3724.2,22
+22,Private domestic sectors; gross fixed investment and inventories,FA835019905,2886.5,3056.6,3035.4,3072.1,3059.9,3036.8,2987.5,3017.2,3100.1,23
+23,Domestic business; gross fixed investment and inventories,FA825019905,2275.6,2368.5,2293.9,2372.9,2346.1,2305.6,2252.8,2277.7,2339.3,24
+24,Nonfinancial corporate business; gross fixed investment with equity REITs and inventories (IMA),FA105019985,1683.4,1735.8,1656.0,1731.5,1707.2,1672.6,1623.0,1637.4,1691.1,25
+25,Nonfinancial noncorporate business; total capital expenditures (IMA),FA115050085,374.5,394.2,392.8,398.6,395.1,390.5,386.4,393.2,401.0,26
+26,"Domestic financial sectors; gross fixed investment, nonresidential structures, equipment, and intellectual property products",FA795013005,217.7,238.5,245.1,242.8,243.8,242.5,243.4,247.2,247.3,27
+27,Households and nonprofit organizations; gross fixed investment excluding consumer durables,FA155019005,610.8,688.1,741.5,699.2,713.8,731.2,734.7,739.4,760.7,28
+28,General government; gross fixed investment,FA365019005,594.5,613.4,621.9,619.2,618.5,631.3,618.5,613.6,624.2,29
+29,Federal government; gross fixed investment,FA315019001,262.9,261.2,266.4,260.0,266.0,264.8,264.6,266.9,269.3,30
+30,State and local governments; gross fixed investment,FA205019001,331.6,352.2,355.5,359.2,352.6,366.5,353.9,346.7,354.8,31
+31,Rest of the world; capital account transactions (net)(2),FA265430003,0.5,0.5,0.2,0.4,0.4,0.4,0.2,0.1,0.2,32
+32,Private domestic sectors; capital account transactions (net),FA835430005,6.7,39.9,19.6,9.5,12.3,12.4,45.4,13.5,6.9,33
+33,Domestic business; capital account transactions (net),FA825430005,5.1,26.7,12.3,-3.9,-2.2,-2.2,37.5,-0.7,14.7,34
+34,Nonfinancial corporate business; capital account transactions (net),FA105430005,-4.9,26.7,10.5,-3.9,-2.2,-2.2,30.3,-0.7,14.7,35
+35,Nonfinancial noncorporate business; net capital transfers paid,FA115440005,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,36
+36,Domestic financial sectors; net capital transfers paid,FA795440005,10.0,0.0,1.8,0.0,0.0,0.0,7.2,0.0,0.0,37
+37,Households and nonprofit organizations; capital account transactions (net),FA155430005,1.6,13.3,7.3,13.4,14.5,14.6,8.0,14.3,-7.8,38
+38,General government; capital account transactions (net),FA365430005,-6.2,-39.5,-19.3,-9.0,-11.9,-12.0,-45.3,-13.4,-6.8,39
+39,Federal government; capital account transactions (net),FA315430005,55.7,20.6,45.2,53.7,48.0,52.2,19.3,52.8,56.6,40
+40,State and local governments; capital account transactions (net),FA205430005,-62.0,-60.1,-64.6,-62.7,-59.9,-64.2,-64.5,-66.2,-63.3,41
+41,All domestic sectors; net lending (+) or borrowing (-) (capital account)(3),FA885000905,-402.2,-477.9,-478.6,-506.8,-471.7,-512.9,-450.2,-430.5,-520.9,42
+42,Private domestic sectors; net lending (+) or borrowing (-) (capital account),FA835000905,451.4,304.5,441.1,390.1,266.0,425.0,454.1,489.3,395.9,43
+43,Domestic business; net lending (+) or borrowing (-) (capital account),FA825000905,-118.5,-249.5,-125.4,-169.8,-310.4,-154.6,-113.7,-80.5,-152.8,44
+44,"Nonfinancial corporate business; net lending (+) or borrowing (-) (capital account), excludes statistical discrepancy(3)",FA105000995,-19.5,-135.0,-63.2,-57.5,-140.0,-46.9,-29.8,-46.4,-129.5,45
+45,Nonfinancial noncorporate business; net lending (+) or borrowing (-) (capital account),FA115000905,-75.9,-85.6,-74.8,-88.7,-83.0,-76.7,-69.4,-73.7,-79.2,46
+46,Domestic financial sectors; net lending (+) or borrowing (-) (capital account),FA795000905,-23.0,-28.9,12.5,-23.7,-87.4,-30.9,-14.5,39.6,55.9,47
+47,Households and nonprofit organizations; net lending (+) or borrowing (-) (capital account),FA155000905,569.9,554.0,566.5,560.0,576.4,579.6,567.9,569.7,548.7,48
+48,General government; net lending (+) or borrowing (-) (capital account),FA365000905,-853.6,-782.4,-919.7,-897.0,-737.6,-937.9,-904.3,-919.7,-916.8,49
+49,Federal government; net lending (+) or borrowing (-) (capital account),FA315000905,-660.3,-580.1,-692.2,-664.6,-586.2,-714.6,-664.9,-700.2,-689.0,50
+50,State and local governments; net lending (+) or borrowing (-) (capital account),FA205000905,-193.3,-202.3,-227.5,-232.4,-151.5,-223.3,-239.4,-219.5,-227.8,51
+51,Gross domestic product (GDP); statistical discrepancy (calculated from components),FA087005005,-258.0,-253.7,-263.5,-236.1,-264.8,-264.3,-233.9,-304.7,-251.2,52
+52,All sectors; disaster losses,FA895404005,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,53
+53,Private domestic sectors; disaster losses,FA835404005,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,54
+54,Domestic business; disaster losses,FA825404003,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55
+55,Households and nonprofit organizations; disaster losses on residential structures,FA155404003,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,56
+56,General government; disaster losses,FA365404005,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,57
+57,Federal government; disaster losses,FA315404003,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,58
+58,"State and local governments, excluding employee retirement funds; disaster losses",FA215404003,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,59

@@ -1,0 +1,32 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,All sectors; total mortgages; asset,FL893065005,13479.7,13808.0,14291.5,13709.8,13808.0,13871.3,13993.0,14159.2,14291.5,1
+1,All sectors; home mortgages; asset,FL893065105,9938.4,10031.0,10265.7,10001.0,10031.0,10041.9,10103.7,10198.5,10265.7,2
+2,All sectors; multifamily residential mortgages; asset,FL893065405,986.1,1080.6,1186.7,1052.7,1080.6,1106.4,1130.2,1157.4,1186.7,3
+3,All sectors; commercial mortgages; asset,FL893065505,2358.5,2487.6,2614.8,2450.3,2487.6,2510.4,2542.6,2582.9,2614.8,4
+4,All sectors; farm mortgages; asset,FL893065603,196.8,208.8,224.4,205.8,208.8,212.7,216.6,220.5,224.4,5
+5,All sectors; total mortgages; asset,FL893065005,13479.7,13808.0,14291.5,13709.8,13808.0,13871.3,13993.0,14159.2,14291.5,6
+6,Households and nonprofit organizations; total mortgages; liability,FL153165005,9682.7,9770.1,9993.7,9741.9,9770.1,9780.2,9839.2,9928.8,9993.7,7
+7,Nonfinancial business; total mortgages; liability,FL143165005,3565.6,3802.4,4068.4,3725.5,3802.4,3850.0,3917.2,4000.2,4068.4,8
+8,Nonfinancial corporate business; total mortgages; liability,FL103165005,395.2,434.7,473.8,416.7,434.7,435.1,447.8,462.7,473.8,9
+9,Nonfinancial noncorporate business; total mortgages; liability,FL113165005,3170.4,3367.7,3594.6,3308.8,3367.7,3414.9,3469.4,3537.5,3594.6,10
+10,Federal government; multifamily residential mortgages; liability,FL313165403,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11
+11,Real estate investment trusts; total mortgages; liability,FL643165005,231.4,235.4,229.5,242.4,235.4,241.1,236.6,230.2,229.5,12
+12,All sectors; total mortgages; asset,FL893065005,13479.7,13808.0,14291.5,13709.8,13808.0,13871.3,13993.0,14159.2,14291.5,13
+13,Households and nonprofit organizations; total mortgages; asset,FL153065005,121.6,114.0,113.1,117.9,114.0,114.5,113.7,112.9,113.1,14
+14,Nonfinancial corporate business; total mortgages; asset,FL103065003,29.0,31.0,32.9,30.5,31.0,31.5,32.0,32.4,32.9,15
+15,Nonfinancial noncorporate business; total mortgages; asset,FL113065005,34.5,36.8,39.2,36.1,36.8,37.5,38.1,38.7,39.2,16
+16,Federal government; total mortgages; asset,FL313065005,117.2,116.5,119.7,116.9,116.5,117.4,117.3,117.5,119.7,17
+17,"State and local governments, excluding employee retirement funds; total mortgages; asset",FL213065005,209.1,221.4,228.8,217.5,221.4,222.6,223.9,227.4,228.8,18
+18,U.S.-chartered depository institutions; total mortgages; asset,FL763065005,4090.7,4296.3,4537.5,4229.2,4296.3,4340.2,4432.2,4495.3,4537.5,19
+19,Foreign banking offices in the U.S.; total mortgages; asset,FL753065005,37.6,51.3,67.2,46.6,51.3,56.1,60.5,64.9,67.2,20
+20,Banks in U.S.-affiliated areas; total mortgages; asset,FL743065003,30.4,26.6,25.9,26.8,26.6,26.6,26.2,26.1,25.9,21
+21,Credit unions; home mortgages; asset,FL473065100,372.5,404.9,441.8,397.7,404.9,403.0,416.7,430.4,441.8,22
+22,Property-casualty insurance companies; commercial mortgages; asset,FL513065503,9.9,12.3,15.8,11.5,12.3,13.0,13.8,14.8,15.8,23
+23,Life insurance companies; total mortgages; asset,FL543065005,384.8,424.7,453.5,408.6,424.7,429.8,438.9,446.7,453.5,24
+24,Private pension funds; total mortgages; asset,FL573065005,24.0,21.3,21.3,21.6,21.3,21.4,21.3,21.2,21.3,25
+25,State and local government employee defined benefit retirement funds; total mortgages; asset,FL223065043,10.0,9.6,6.4,9.9,9.6,8.3,8.3,6.8,6.4,26
+26,Government-sponsored enterprises; total mortgages; asset(1),FL403065005,4870.5,4920.1,5027.3,4914.8,4920.1,4929.0,4930.7,4968.4,5027.3,27
+27,Agency-and GSE-backed mortgage pools; total mortgages; asset,FL413065005,1648.5,1775.5,1932.8,1729.5,1775.5,1803.9,1844.0,1885.3,1932.8,28
+28,Issuers of asset-backed securities; total mortgages; asset,FL673065005,1094.1,1008.5,903.8,1036.4,1008.5,972.0,937.8,925.9,903.8,29
+29,Finance companies; total mortgages; asset,FL613065000,148.1,119.5,103.4,127.9,119.5,116.9,111.8,108.1,103.4,30
+30,Real estate investment trusts; total mortgages; asset,FL643065005,247.3,217.7,221.3,230.4,217.7,227.7,225.8,236.3,221.3,31

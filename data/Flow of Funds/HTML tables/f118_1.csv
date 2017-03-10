@@ -1,0 +1,24 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,"Private pension funds; consumption of fixed capital, nonresidential structures, equipment, and intellectual property products, current cost basis (gross saving)",FA576330005,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+1,"Private pension funds; gross fixed investment, nonresidential structures, equipment, and intellectual property products",FA575013005,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2
+2,Private pension funds; total financial assets(2),FA574090005,-13.6,65.3,54.1,-12.5,74.3,212.2,38.2,-27.6,-6.3,3
+3,Private pension funds; checkable deposits and currency; asset,FA573020005,3.3,1.0,2.4,2.5,2.4,2.5,2.9,1.8,2.2,4
+4,Private pension funds; total time and savings deposits; asset,FA573030005,1.9,1.3,1.5,1.3,1.3,1.9,1.9,1.2,1.2,5
+5,Private pension funds; money market mutual fund shares; asset,FA573034005,0.9,-4.6,4.7,10.1,-0.6,8.8,2.2,2.1,5.6,6
+6,Private pension funds; security repurchase agreements; asset,FA572051005,0.2,-0.2,0.0,-0.3,-0.2,0.1,0.0,-0.0,-0.0,7
+7,Private pension funds; debt securities; asset,FA574022005,21.6,45.4,31.3,54.7,44.8,28.0,35.6,26.4,35.1,8
+8,Private pension funds; total commercial paper; asset,FA573069105,2.0,3.1,2.6,3.0,2.8,2.9,3.1,2.0,2.4,9
+9,Private pension funds; Treasury securities; asset,FA573061105,-4.3,21.5,8.7,19.3,13.7,4.3,10.9,6.6,13.1,10
+10,Private pension funds; agency- and GSE-backed securities; asset,FA573061705,-2.4,-8.7,-2.2,-1.2,-1.9,-1.3,-4.0,-2.4,-1.2,11
+11,Private pension funds; corporate and foreign bonds; asset,FA573063005,26.3,29.5,22.2,33.6,30.2,22.1,25.5,20.2,20.7,12
+12,Private pension funds; total mortgages; asset,FA573065005,1.7,-2.8,0.0,-1.7,-1.3,0.4,-0.1,-0.4,0.2,13
+13,"Private pension funds, including 403(b) plans; corporate equities; asset",FA573064105,-183.9,-112.6,-56.7,-99.2,-104.2,-44.9,-84.4,-74.3,-23.4,14
+14,Private pension funds; mutual fund shares; asset,FA573064205,40.6,34.2,22.2,-49.7,39.9,149.8,14.1,-32.5,-42.5,15
+15,Private pension funds; total miscellaneous assets,FA573090005,100.3,103.6,48.8,69.8,92.2,65.7,66.1,48.1,15.2,16
+16,Private pension funds; unallocated insurance contracts; asset(3),FA573095005,-8.1,-3.6,15.0,-22.4,3.0,40.8,5.5,9.4,4.5,17
+17,Private pension funds; pension fund contributions receivable; asset,FA573074005,-2.9,-4.3,-1.4,-4.4,-3.5,-1.1,-2.0,-2.3,-0.4,18
+18,Private defined benefit pension funds; claims of pension fund on sponsor; asset(4),FA573073005,85.4,66.9,4.7,68.9,59.2,-0.8,22.6,17.5,-20.3,19
+19,Private pension funds; unidentified miscellaneous assets,FA573093005,25.9,44.6,30.4,27.7,33.5,26.6,40.0,23.6,31.5,20
+20,Private pension funds; total liabilities(5),FA574190005,-13.6,65.3,54.1,-12.5,74.3,212.2,38.2,-27.6,-6.3,21
+21,Private defined benefit pension funds; total financial assets,FA574090045,-20.4,-33.7,-44.4,-35.8,-44.4,-44.4,-44.4,-44.4,-44.4,22
+22,Private defined contribution pension funds; total financial assets,FA574090055,6.9,99.1,98.6,23.3,118.8,256.7,82.6,16.8,38.1,23

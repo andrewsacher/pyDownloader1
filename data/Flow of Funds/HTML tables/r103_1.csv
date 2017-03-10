@@ -1,0 +1,22 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Nonfinancial corporate business; net worth(1),FC102090005,1306.3,1474.7,1481.0,304.7,340.3,117.1,455.1,506.9,401.8,1
+1,Nonfinancial corporate business; net investment,FU105060005,-459.8,-148.0,-126.8,-75.4,-57.4,-125.8,-27.2,-52.8,78.9,2
+2,Nonfinancial corporate business; net physical investment,FU105061005,393.1,381.1,301.1,88.2,72.4,65.7,85.9,69.8,79.7,3
+3,Nonfinancial corporate business; total capital expenditures,FU105050005,1677.4,1765.7,1667.3,438.2,427.5,419.5,414.0,412.3,421.5,4
+4,"Nonfinancial corporate business; consumption of fixed capital, structures, equipment, and intellectual property products (NIPA basis)",FU106300005,1281.3,1329.8,1368.2,335.1,337.2,338.5,341.4,343.1,345.2,5
+5,Nonfinancial corporate business; inventory valuation adjustment (IVA),FU105020601,3.0,54.8,-2.0,14.9,17.8,15.3,-13.4,-0.5,-3.5,6
+6,Nonfinancial corporate business; net lending (+) or borrowing (-) (financial account),FU105000005,-458.4,31.9,137.7,-6.8,4.2,-36.3,50.0,44.2,79.9,7
+7,Nonfinancial corporate business; total financial assets,FU104090005,923.7,911.3,958.6,187.6,241.7,207.0,320.0,238.0,193.6,8
+8,Nonfinancial corporate business; total liabilities,FU104190005,1382.1,879.4,820.8,194.5,237.5,243.3,270.0,193.9,113.7,9
+9,Nonfinancial corporate business; corporate equities; liability,FU103164103,-394.5,-560.9,-565.7,-156.8,-134.1,-155.1,-163.1,-166.7,-80.7,10
+10,Nonfinancial corporate business; holding gains on assets at market value(2),FR108000005,1053.6,1034.0,707.2,264.7,218.1,4.6,227.8,329.0,145.7,11
+11,Nonfinancial corporate business; real estate at market value,FR105035005,1045.2,1040.2,694.4,280.4,212.5,4.1,223.7,320.4,146.2,12
+12,Nonfinancial corporate business; mutual fund shares; asset,FR103064203,8.4,-6.2,12.8,-15.7,5.6,0.5,4.1,8.6,-0.5,13
+13,Nonfinancial corporate business; holding gains on assets less liabilities at current cost(2),FR108100005,-38.7,-39.6,135.1,-67.1,-18.5,50.5,57.6,-0.5,27.5,14
+14,"Nonfinancial corporate business; equipment, current cost basis",FR105015205,28.2,-9.9,12.9,-6.1,-6.4,3.1,1.4,12.2,-3.7,15
+15,"Nonfinancial corporate business; nonresidential intellectual property products, current cost basis",FR105013765,23.8,26.3,36.0,3.7,-2.6,10.9,12.0,2.1,11.0,16
+16,"Nonfinancial corporate business; inventories excluding IVA, current cost basis(3)",FR105020015,-15.3,-46.7,73.6,-19.7,-8.6,13.5,46.4,-6.4,20.1,17
+17,Nonfinancial corporate business; U.S. direct investment abroad; asset,FR103092005,-67.1,-105.2,22.3,-43.1,4.0,26.7,-1.3,-3.1,0.0,18
+18,Nonfinancial corporate business; foreign direct investment in U.S.; liability,FR103192005,8.2,-95.9,9.8,1.9,4.9,3.7,0.8,5.3,0.0,19
+19,Nonfinancial corporate business; other volume changes(4),FV108090005,751.2,628.3,765.5,182.5,198.1,187.7,196.8,231.2,149.8,20
+20,Nonfinancial corporate business; net worth(5),FL102090005,20738.5,22213.2,23694.2,21872.9,22213.2,22330.3,22785.5,23292.4,23694.2,21

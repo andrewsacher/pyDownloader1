@@ -1,0 +1,20 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,All sectors; U.S. official reserve assets; liability,FA893111005,-3.6,-6.3,0.8,-1.1,-4.0,-4.8,0.8,6.6,0.8,1
+1,Federal government; special drawing rights (SDRs) allocations; liability,FA313111303,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2
+2,Rest of the world; U.S. official reserve assets; liability,FA263111005,-3.6,-6.3,0.8,-1.1,-4.0,-4.8,0.8,6.6,0.8,3
+3,Federal government; special drawing rights (SDRs) holdings; asset,FA313011303,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4
+4,Rest of the world; reserve position in IMF (net); liability,FA263111403,-3.8,-6.5,0.8,-1.3,-4.2,-4.9,0.7,6.6,0.8,5
+5,Rest of the world; other U.S. reserve assets (total); liability,FA263111503,0.2,0.2,0.0,0.2,0.2,0.1,0.1,-0.1,-0.0,6
+6,All sectors; U.S. official reserve assets,FA893011005,-3.6,-6.3,0.8,-1.1,-4.0,-4.8,0.8,6.6,0.8,7
+7,Federal government; U.S. official reserve assets,FA313011005,-3.8,-6.4,1.0,-1.2,-4.0,-4.3,0.7,6.6,0.9,8
+8,Federal government; monetary gold; asset(2),FA313011205,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9
+9,Federal government; special drawing rights (SDRs) holdings; asset,FA313011303,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10
+10,Federal government; reserve position in IMF (net); asset,FA313011405,-3.9,-6.5,1.0,-1.3,-4.2,-4.3,0.7,6.6,0.9,11
+11,Federal government; other reserves; asset,FA313011505,0.1,0.1,0.0,0.1,0.1,0.0,0.0,-0.0,-0.0,12
+12,Rest of the world; U.S. official reserve assets,FA263011005,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13
+13,Rest of the world; monetary gold; asset(2),FA263011205,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14
+14,Federal government; special drawing rights (SDRs) allocations; liability,FA313111303,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15
+15,Monetary authority; U.S. official reserve assets,FA713011005,0.2,0.1,-0.1,0.2,0.1,-0.5,0.0,-0.0,-0.1,16
+16,Monetary authority; monetary gold; asset(2),FA713011203,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17
+17,Monetary authority; reserve position in IMF (net); asset,FA713011405,0.1,0.0,-0.2,0.1,-0.0,-0.5,0.0,-0.0,-0.1,18
+18,Monetary authority; foreign currency denominated assets,FA713011505,0.1,0.1,0.0,0.1,0.1,0.0,0.0,-0.0,-0.0,19

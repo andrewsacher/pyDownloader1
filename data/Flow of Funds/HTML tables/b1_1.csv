@@ -1,0 +1,37 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,All sectors; U.S. wealth(1),FL892090005,77806.1,79682.1,84850.0,77738.0,79682.1,79836.3,80911.4,82911.4,84850.0,1
+1,Households and nonprofit organizations; nonfinancial assets,FL152010005,28718.8,30496.8,32431.4,30064.8,30496.8,30913.8,31334.6,31827.2,32431.4,2
+2,Households and nonprofit organizations; real estate at market value,LM155035005,23212.7,24790.1,26528.4,24406.9,24790.1,25137.9,25510.0,25971.2,26528.4,3
+3,"Nonprofit organizations; equipment, current cost basis",FL165015205,320.4,331.0,337.3,328.7,331.0,333.0,334.6,336.6,337.3,4
+4,"Nonprofit organizations; nonresidential intellectual property products, current cost basis",FL165013765,132.8,138.9,147.8,138.1,138.9,140.9,143.2,145.2,147.8,5
+5,"Households and nonprofit organizations; consumer durable goods, current cost basis",FL155111005,5052.9,5236.8,5417.9,5191.1,5236.8,5301.9,5346.8,5374.1,5417.9,6
+6,Nonfinancial noncorporate business; nonfinancial assets,FL112010005,11558.9,12359.3,12819.6,12176.7,12359.3,12420.2,12558.7,12714.2,12819.6,7
+7,Nonfinancial noncorporate business; real estate at market value,LM115035005,10190.8,10985.8,11548.9,10801.7,10985.8,11069.7,11228.5,11415.1,11548.9,8
+8,"Nonfinancial noncorporate business; equipment, current cost basis",FL115015205,849.1,879.5,875.8,873.0,879.5,874.8,872.9,875.7,875.8,9
+9,"Nonfinancial noncorporate business; nonresidential intellectual property products, current cost basis",FL115013765,222.7,233.0,151.8,233.2,233.0,217.6,198.3,175.7,151.8,10
+10,Nonfinancial noncorporate business; inventories,FL115020005,296.3,261.0,243.1,268.8,261.0,258.1,259.0,247.7,243.1,11
+11,Security brokers and dealers; proprietors' equity in noncorporate business(2),FL662090205,17.9,14.7,14.8,17.5,14.7,11.2,10.3,13.8,14.8,12
+12,All domestic sectors; corporate equities; liability(3),LM883164105,29960.0,28953.4,31901.2,27666.6,28953.4,28834.2,29415.8,30612.3,31901.2,13
+13,Nonfinancial corporate business; corporate equities; liability,LM103164103,22681.1,21706.3,23621.2,20709.2,21706.3,21783.5,22158.9,22985.3,23621.2,14
+14,Domestic financial sectors; corporate equities; liability,LM793164105,7278.9,7247.1,8280.0,6957.5,7247.1,7050.7,7256.9,7626.9,8280.0,15
+15,Federal government; nonfinancial assets (does not include land)(4),FL312010095,3269.3,3268.0,3301.3,3269.1,3268.0,3263.3,3275.6,3286.1,3301.3,16
+16,Federal government; total residential and nonresidential structures,FL315014665,1511.6,1508.2,1519.1,1508.8,1508.2,1499.5,1507.1,1511.1,1519.1,17
+17,"Federal government; nonresidential equipment, current cost basis",FL315013265,745.7,743.3,743.6,742.3,743.3,742.9,742.8,743.7,743.6,18
+18,"Federal government; nonresidential intellectual property products, current cost basis",FL315013765,1012.0,1016.4,1038.6,1017.9,1016.4,1020.9,1025.6,1031.3,1038.6,19
+19,"State and local governments, excluding employee retirement funds; nonfinancial assets (does not include land)(4)",FL212010095,9969.0,10135.7,10360.1,10130.5,10135.7,10132.9,10258.7,10285.0,10360.1,20
+20,"State and local governments, excluding employee retirement funds; total residenital and nonresidential structures",FL215014665,9594.3,9755.8,9975.3,9751.3,9755.8,9752.1,9876.2,9901.6,9975.3,21
+21,"State and local governments, excluding employee retirement funds; nonresidential equipment, current cost basis",FL215013265,249.5,249.5,248.4,250.1,249.5,249.0,249.4,248.9,248.4,22
+22,"State and local governments, excluding employee retirement funds; nonresidential intellectual property products, current cost basis",FL215013765,125.2,130.4,136.3,129.1,130.4,131.8,133.1,134.5,136.3,23
+23,All domestic sectors; U.S. financial claims on the rest of the world; asset,FL882090265,-5687.8,-5545.7,-5978.5,-5587.2,-5545.7,-5739.2,-5942.4,-5827.1,-5978.5,24
+24,Rest of the world; total liabilities and equity,FL264194005,17286.0,17221.4,17940.0,17173.5,17221.4,17419.9,17679.8,18170.9,17940.0,25
+25,Rest of the world; foreign corporate equities including foreign investment fund shares; liability,LM263164103,6770.6,6828.2,7128.5,6605.6,6828.2,6738.8,6796.8,7218.1,7128.5,26
+26,Rest of the world; total liabilities,FL264190005,10515.4,10393.2,10811.5,10567.9,10393.2,10681.1,10883.0,10952.8,10811.5,27
+27,Rest of the world; total financial assets,FL264090005,22973.9,22767.1,23918.5,22760.7,22767.1,23159.1,23622.2,23998.0,23918.5,28
+28,Rest of the world; U.S. corporate equities; asset,LM263064105,5921.5,5507.3,5828.0,5377.9,5507.3,5408.0,5428.7,5693.0,5828.0,29
+29,Rest of the world; total financial assets excluding U.S. corporate equities and mutual fund shares,FL264090035,17052.4,17259.8,18090.5,17382.8,17259.8,17751.1,18193.5,18304.9,18090.5,30
+30,All sectors; U.S. wealth,FL892090005,77806.1,79682.1,84850.0,77738.0,79682.1,79836.3,80911.4,82911.4,84850.0,31
+31,All sectors; U.S. wealth,FC892090005,4233.5,1876.0,5167.9,-2054.4,1944.1,154.2,1075.1,2000.0,1938.6,32
+32,All sectors; U.S. wealth,PC892090005,5.8,2.4,6.5,-2.6,2.5,0.2,1.3,2.5,2.3,33
+33,Households and nonprofit organizations; net worth(5),FL152090005,83884.2,87287.1,92805.4,85248.9,87287.1,87889.4,88707.7,90762.1,92805.4,34
+34,Households and nonprofit organizations; net worth,FC152090005,4980.6,3402.9,5518.3,-1185.5,2038.2,602.3,818.3,2054.4,2043.3,35
+35,Households and nonprofit organizations; net worth,PC152090005,6.3,4.1,6.3,-1.4,2.4,0.7,0.9,2.3,2.3,36

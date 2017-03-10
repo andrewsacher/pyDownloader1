@@ -1,0 +1,26 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Holding companies; total financial assets,FL734090005,4390.8,3955.9,4338.3,4349.4,3955.9,4016.1,4031.9,4324.9,4338.3,1
+1,Holding companies; total time and savings deposits; asset,FL733030003,27.0,19.1,17.1,26.9,19.1,19.6,17.0,14.3,17.1,2
+2,Holding companies; security repurchase agreements; asset,FL732051003,2.5,2.1,2.1,4.0,2.1,3.0,3.2,2.3,2.1,3
+3,Holding companies; long-term debt securities; asset,FL734022605,76.0,55.3,58.8,75.4,55.3,52.8,55.0,54.9,58.8,4
+4,Holding companies; Treasury securities; asset,FL733061103,13.9,10.2,9.8,12.9,10.2,10.0,9.0,7.7,9.8,5
+5,Holding companies; agency- and GSE-backed securities; asset,FL733061703,28.0,23.7,25.1,30.3,23.7,21.7,23.1,22.6,25.1,6
+6,Holding companies; corporate and foreign bonds; asset,FL733063003,34.1,21.5,24.0,32.1,21.5,21.1,22.9,24.5,24.0,7
+7,Holding companies; other loans and advances; asset,FL733069005,64.8,24.0,22.6,37.7,24.0,23.2,22.0,24.5,22.6,8
+8,Holding companies; life insurance reserves; asset,FL733040005,45.0,49.0,53.0,48.0,49.0,50.0,51.0,52.0,53.0,9
+9,Holding companies; total miscellaneous assets,FL733090005,4175.5,3806.4,4184.7,4157.5,3806.4,3867.5,3883.7,4176.9,4184.7,10
+10,"U.S.-chartered depository institutions; net transactions due to holding companies, excluding foreign bank subsidiaries; liability",FL763194735,2133.2,2175.3,2293.5,2162.3,2175.3,2213.1,2284.4,2320.8,2293.5,11
+11,Property-casualty insurance companies; net transactions due to holding companies; liability,FL513194733,5.3,4.5,4.3,4.8,4.5,4.0,4.4,4.0,4.3,12
+12,Life insurance companies; net transactions due to holding companies; liability,FL543194733,11.5,12.0,13.3,12.1,12.0,12.9,13.7,14.0,13.3,13
+13,Finance companies; net transactions due to holding companies; liability,FL613194733,62.2,59.7,51.2,58.3,59.7,56.1,56.2,53.1,51.2,14
+14,Security brokers and dealers; net transactions due to holding companies; liability,FL663194735,1092.4,1028.4,1140.0,1140.1,1028.4,1051.0,983.7,1112.5,1140.0,15
+15,Rest of the world; net transactions due to holding companies; liability,FL263194735,83.3,76.4,76.8,86.8,76.4,76.8,95.1,90.7,76.8,16
+16,Holding companies; unidentified miscellaneous assets,FL733093005,787.6,450.1,605.7,693.1,450.1,453.4,446.3,581.8,605.7,17
+17,Holding companies; total liabilities,FL734190005,2102.6,1621.8,1905.8,1990.1,1621.8,1651.0,1662.4,1907.5,1905.8,18
+18,Holding companies; security repurchase agreements; liability,FL732151003,0.0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,19
+19,Holding companies; debt securities; liability,FL734122005,1200.1,1057.2,1170.3,1181.5,1057.2,1087.5,1108.7,1170.3,1170.3,20
+20,Holding companies; commercial paper; liability,FL733169103,77.0,5.7,2.2,16.0,5.7,5.6,4.6,2.8,2.2,21
+21,Holding companies; corporate and foreign bonds; liability,FL733163003,1123.2,1051.6,1168.1,1165.5,1051.6,1082.0,1104.1,1167.4,1168.1,22
+22,Holding companies; depository institution loans n.e.c.; liability,FL733168003,194.2,155.6,174.5,178.8,155.6,160.3,155.2,204.1,174.5,23
+23,Holding companies; foreign direct investment in U.S.; liability(2),FL733192003,0.0,17.5,159.1,7.5,17.5,16.9,19.6,131.8,159.1,24
+24,Holding companies; unidentified miscellaneous liabilities,FL733193005,708.2,391.4,401.8,622.2,391.4,386.1,378.9,401.4,401.8,25

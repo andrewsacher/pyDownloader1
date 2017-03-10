@@ -1,0 +1,53 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Households and nonprofit organizations; total assets,FL152000005,98172.3,101918.0,107909.5,99739.3,101918.0,102525.5,103510.4,105716.7,107909.5,1
+1,Households and nonprofit organizations; nonfinancial assets,FL152010005,28718.8,30496.8,32431.4,30064.8,30496.8,30913.8,31334.6,31827.2,32431.4,2
+2,Households and nonprofit organizations; real estate at market value,LM155035005,23212.7,24790.1,26528.4,24406.9,24790.1,25137.9,25510.0,25971.2,26528.4,3
+3,Households; owner-occupied real estate including vacant land and mobile homes at market value,LM155035015,20289.2,21567.6,23102.4,21247.4,21567.6,21905.4,22213.9,22588.8,23102.4,4
+4,Nonprofit organizations; real estate at market value,LM165035005,2923.5,3222.5,3426.0,3159.5,3222.5,3232.4,3296.1,3382.4,3426.0,5
+5,"Nonprofit organizations; equipment, current cost basis(4)",FL165015205,320.4,331.0,337.3,328.7,331.0,333.0,334.6,336.6,337.3,6
+6,"Nonprofit organizations; nonresidential intellectual property products, current cost basis(4)",FL165013765,132.8,138.9,147.8,138.1,138.9,140.9,143.2,145.2,147.8,7
+7,"Households and nonprofit organizations; consumer durable goods, current cost basis(4)",FL155111005,5052.9,5236.8,5417.9,5191.1,5236.8,5301.9,5346.8,5374.1,5417.9,8
+8,Households and nonprofit organizations; total financial assets,FL154090005,69453.5,71421.3,75478.1,69674.4,71421.3,71611.7,72175.8,73889.5,75478.1,9
+9,Households and nonprofit organizations; private foreign deposits; asset,FL153091003,45.7,31.6,29.5,36.1,31.6,32.4,30.3,30.1,29.5,10
+10,Households and nonprofit organizations; checkable deposits and currency; asset,FL153020005,1088.8,1233.3,1237.2,1095.0,1233.3,1267.1,1244.2,1194.7,1237.2,11
+11,Households and nonprofit organizations; total time and savings deposits; asset,FL153030005,7891.0,8391.3,9102.0,8255.4,8391.3,8499.3,8578.0,8923.2,9102.0,12
+12,Households and nonprofit organizations; money market mutual fund shares; asset,FL153034005,1112.7,1068.4,1023.1,1006.0,1068.4,1035.9,985.3,967.8,1023.1,13
+13,Households and nonprofit organizations; debt securities; asset,FL154022005,3979.2,4422.7,4246.0,4317.3,4422.7,4168.9,3738.8,3745.7,4246.0,14
+14,Households and nonprofit organizations; Treasury securities; asset,FL153061105,838.2,1132.0,1379.0,1034.5,1132.0,1079.7,1037.6,1156.2,1379.0,15
+15,Households and nonprofit organizations; agency- and GSE-backed securities; asset,FL153061705,299.2,521.7,407.1,412.8,521.7,474.0,396.8,344.7,407.1,16
+16,Households and nonprofit organizations; municipal securities; asset,FL153062005,1689.2,1633.5,1644.1,1683.9,1633.5,1623.6,1598.8,1588.3,1644.1,17
+17,Households and nonprofit organizations; corporate and foreign bonds; asset,FL153063005,1152.6,1135.4,815.8,1186.2,1135.4,991.6,705.6,656.5,815.8,18
+18,Households and nonprofit organizations; loans; asset,FL154023005,1062.4,1000.8,993.4,1029.7,1000.8,1041.6,1041.4,1015.2,993.4,19
+19,Households and nonprofit organizations; other loans and advances; asset(5),FL153069005,893.2,842.6,841.6,866.3,842.6,884.4,886.3,862.3,841.6,20
+20,Households and nonprofit organizations; total mortgages; asset,FL153065005,121.6,114.0,113.1,117.9,114.0,114.5,113.7,112.9,113.1,21
+21,"Nonprofit organizations; consumer credit, student loans; asset(6)",FL163066223,47.6,44.2,38.7,45.5,44.2,42.8,41.4,39.9,38.7,22
+22,Households and nonprofit organizations; corporate equities; asset(2),LM153064105,14357.4,14189.7,15874.2,13556.7,14189.7,14196.3,14616.9,15302.3,15874.2,23
+23,Households and nonprofit organizations; mutual fund shares; asset,LM153064205,6726.2,6504.3,6851.5,6360.6,6504.3,6513.1,6656.4,6903.2,6851.5,24
+24,Nonprofit organizations; grants and trade receivables; asset(6),FL163070005,220.1,227.0,233.9,225.3,227.0,228.8,230.5,232.2,233.9,25
+25,Households and nonprofit organizations; life insurance reserves; asset,FL153040005,1282.8,1310.6,1368.3,1298.3,1310.6,1316.0,1340.3,1356.6,1368.3,26
+26,Households and nonprofit organizations; pension entitlements; asset(7),FL153050005,20666.8,21256.1,22259.4,20886.9,21256.1,21467.4,21729.7,22078.2,22259.4,27
+27,Households and nonprofit organizations; proprietors' equity in noncorporate business(8),FL152090205,10103.0,10834.2,11249.3,10671.7,10834.2,10884.4,11009.6,11156.5,11249.3,28
+28,Households and nonprofit organizations; total miscellaneous assets,FL153090005,917.4,951.3,1010.3,935.6,951.3,960.5,974.4,983.8,1010.3,29
+29,Households and nonprofit organizations; total liabilities,FL154190005,14288.1,14631.0,15104.1,14490.4,14631.0,14636.1,14802.7,14954.6,15104.1,30
+30,Nonprofit organizations; municipal securities; liability(6),FL163162003,229.5,221.5,218.1,222.8,221.5,222.2,221.9,219.6,218.1,31
+31,Households and nonprofit organizations; loans; liability,FL154123005,13726.4,14068.8,14538.0,13928.6,14068.8,14070.4,14234.7,14388.2,14538.0,32
+32,Households and nonprofit organizations; home mortgages; liability(9),FL153165105,9454.9,9536.2,9753.7,9509.6,9536.2,9544.8,9602.3,9690.3,9753.7,33
+33,Households and nonprofit organizations; consumer credit; liability,FL153166000,3318.0,3535.7,3764.7,3481.4,3535.7,3538.8,3604.3,3692.2,3764.7,34
+34,Households and nonprofit organizations; depository institution loans n.e.c.; liability,FL153168005,211.9,325.7,352.9,268.7,325.7,337.7,366.4,319.2,352.9,35
+35,Households and nonprofit organizations; other loans and advances; liability,FL153169005,513.8,437.3,426.7,436.7,437.3,413.8,424.8,448.0,426.7,36
+36,Nonprofit organizations; commercial mortgages; liability(6),FL163165505,227.8,233.9,240.0,232.4,233.9,235.4,236.9,238.5,240.0,37
+37,Nonprofit organizations; trade payables; liability(6),FL163170005,302.2,309.0,315.9,307.3,309.0,310.7,312.4,314.2,315.9,38
+38,"Life insurance companies, general accounts; deferred and unpaid life insurance premiums; asset",FL543077073,29.9,31.6,32.1,31.7,31.6,32.8,33.6,32.7,32.1,39
+39,Households and nonprofit organizations; net worth,FL152090005,83884.2,87287.1,92805.4,85248.9,87287.1,87889.4,88707.7,90762.1,92805.4,40
+40,All sectors; IRAs; liability(10),FL893131573,7292.0,7329.0,ND,7133.0,7329.0,7400.0,7527.0,7767.0,ND,41
+41,Households and nonprofit organizations; assets in 529 plans(10),FL154023205,247.9,253.2,280.0,245.5,253.2,257.9,266.2,277.6,280.0,42
+42,Households and nonprofit organizations; assets in 529 savings plans,LM154023223,223.9,229.8,255.5,221.7,229.8,234.1,242.0,253.3,255.5,43
+43,Households and nonprofit organizations; assets in 529 pre-paid plans,FL154023213,24.0,23.4,24.4,23.8,23.4,23.8,24.2,24.3,24.4,44
+44,"Households and nonprofit organizations; residential structures, current cost basis",FL155012605,15097.8,15373.5,16306.4,15261.8,15373.5,15510.8,15780.9,16043.0,16306.4,45
+45,"Households; residential structures, current cost basis",FL155012665,14862.6,15134.9,16053.8,15024.7,15134.9,15270.2,15536.3,15794.4,16053.8,46
+46,"Nonprofit organizations; residential structures, current cost basis",FL165012665,235.2,238.6,252.6,237.1,238.6,240.6,244.7,248.6,252.6,47
+47,"Nonprofit organizations; nonresidential structures, current cost basis",FL165013665,1626.6,1662.8,1687.7,1650.9,1662.8,1658.9,1674.4,1674.5,1687.7,48
+48,Households and nonprofit organizations; disposable personal income,FA156012005,13022.7,13519.8,14045.5,13611.7,13726.4,13807.4,13977.3,14128.7,14268.5,49
+49,Households and nonprofit organizations; net worth as a percentage of disposable personal income,FL152090006,644.1,645.6,660.7,626.3,635.9,636.5,634.7,642.4,650.4,50
+50,Households; owners' equity in real estate,FL155035065,10834.3,12031.4,13348.7,11737.9,12031.4,12360.7,12611.6,12898.5,13348.7,51
+51,Households; owners' equity in real estate as a percentage of household real estate,FL155035066,53.4,55.8,57.8,55.2,55.8,56.4,56.8,57.1,57.8,52

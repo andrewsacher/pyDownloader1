@@ -1,0 +1,15 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,All sectors; farm mortgages; asset,FL893065603,196.8,208.8,224.4,205.8,208.8,212.7,216.6,220.5,224.4,1
+1,Corporate farm business; farm mortgages; liability,FL183165605,51.6,55.8,59.7,55.2,55.8,56.9,57.8,58.8,59.7,2
+2,Noncorporate farm business; farm mortgages; liability,FL233165605,145.2,153.0,164.7,150.6,153.0,155.8,158.8,161.7,164.7,3
+3,All sectors; farm mortgages; asset,FL893065603,196.8,208.8,224.4,205.8,208.8,212.7,216.6,220.5,224.4,4
+4,Households and nonprofit organizations; farm mortgages; asset,FL153065605,10.0,5.8,8.3,8.9,5.8,7.1,7.2,7.3,8.3,5
+5,Nonfinancial noncorporate business; farm mortgages; asset,FL113065603,0.7,0.7,0.8,0.7,0.7,0.8,0.8,0.8,0.8,6
+6,Federal government; farm mortgages; asset,FL313065605,5.2,5.9,6.5,5.7,5.9,6.0,5.7,6.3,6.5,7
+7,"State and local governments, excluding employee retirement funds; farm mortgages; asset",FL213065603,1.0,1.1,1.1,1.1,1.1,1.1,1.1,1.1,1.1,8
+8,U.S.-chartered depository institutions; farm mortgages; asset (USDA),FL763065633,73.5,79.4,84.2,77.7,79.4,80.4,82.1,83.3,84.2,9
+9,Foreign banking offices in the U.S.; farm mortgages; asset,FL753065603,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,10
+10,Life insurance companies; farm mortgages on farm land; asset,FL543065633,12.0,12.0,12.9,11.8,12.0,12.2,12.4,12.7,12.9,11
+11,State and local government employee defined benefit retirement funds; farm mortgages; asset,FL223065643,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12
+12,Government-sponsored enterprises; farm mortgages; asset,FL403065605,92.6,101.4,107.9,97.4,101.4,102.3,104.4,106.2,107.9,13
+13,Agency-and GSE-backed mortgage pools; farm mortgages; asset,FL413065605,1.6,2.3,2.5,2.4,2.3,2.7,2.7,2.7,2.5,14

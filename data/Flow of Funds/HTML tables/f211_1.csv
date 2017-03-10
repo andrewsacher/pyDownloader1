@@ -1,0 +1,28 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,All sectors; U.S. government agency securities; liability,FA893161705,150.2,220.6,351.6,316.4,499.9,60.4,580.8,329.0,436.3,1
+1,Federal government; budget agency securities; liability,FA313161705,-0.1,0.2,-0.1,-2.2,1.8,-0.5,0.5,-0.8,0.4,2
+2,Government-sponsored enterprises; GSE issues; liability,FA403161705,75.3,93.5,194.4,142.1,301.9,-75.6,421.7,197.9,233.5,3
+3,Agency-and GSE-backed mortgage pools; total mortgages; asset,FA413065005,75.0,126.9,157.4,176.5,196.2,136.4,158.7,131.8,202.4,4
+4,All sectors; agency- and GSE-backed securities; asset,FA893061705,150.2,220.6,351.6,316.4,499.9,60.4,580.8,329.0,436.3,5
+5,Households and nonprofit organizations; agency- and GSE-backed securities; asset,FA153061705,105.3,194.3,-120.1,362.8,445.1,-183.0,-219.1,-211.9,133.7,6
+6,Nonfinancial corporate business; agency- and GSE-backed securities; asset,FA103061703,5.0,-2.0,1.2,-1.3,7.2,11.2,6.5,-16.4,3.7,7
+7,Federal government; agency- and GSE-backed securities; asset,FA313061703,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8
+8,"State and local governments, excluding employee retirement funds; agency- and GSE-backed securities; asset",FA213061703,-17.2,-21.3,7.5,3.2,-70.5,-38.6,30.6,27.1,10.7,9
+9,Monetary authority; agency- and GSE-backed securities; asset,FA713061705,228.1,4.9,-22.8,33.5,16.3,7.8,-54.8,-45.1,0.8,10
+10,U.S.-chartered depository institutions; agency- and GSE-backed securities; asset,FA763061705,43.0,164.4,147.4,64.1,253.0,21.7,73.9,229.5,264.5,11
+11,Foreign banking offices in the U.S.; agency- and GSE-backed securities; asset,FA753061703,-4.9,2.6,-2.0,-9.3,8.6,0.4,-0.9,7.6,-15.0,12
+12,Banks in U.S.-affiliated areas; agency- and GSE-backed securities; asset,FA743061703,-0.1,0.1,-0.3,0.0,-0.0,-1.2,-0.1,-0.1,0.2,13
+13,Credit unions; agency- and GSE-backed securities; asset,FA473061705,-11.7,-11.9,-4.6,-15.9,2.5,-33.0,13.3,5.3,-4.1,14
+14,Property-casualty insurance companies; agency- and GSE-backed securities; asset,FA513061703,0.1,-6.5,2.9,-7.9,-4.7,3.4,0.6,5.7,2.1,15
+15,Life insurance companies; agency- and GSE-backed securities; asset,FA543061705,-29.2,-8.9,17.5,-16.4,-5.1,26.0,16.7,16.2,11.2,16
+16,Private pension funds; agency- and GSE-backed securities; asset,FA573061705,-2.4,-8.7,-2.2,-1.2,-1.9,-1.3,-4.0,-2.4,-1.2,17
+17,Federal government retirement funds; agency- and GSE-backed securities; asset,FA343061705,-0.5,0.2,0.2,-0.3,0.2,0.3,0.8,1.0,-1.5,18
+18,State and local government employee defined benefit retirement funds; agency- and GSE-backed securities; asset,FA223061743,-4.1,-6.7,6.4,-7.8,1.5,1.7,14.7,11.1,-1.8,19
+19,Money market mutual funds; agency- and GSE-backed securities; asset,FA633061700,23.3,76.9,210.4,184.2,194.2,137.8,402.0,242.5,59.4,20
+20,Mutual funds; agency- and GSE-backed securities; asset (market value),FA653061703,-200.4,-98.2,56.6,-208.0,-141.7,65.5,58.0,74.0,29.0,21
+21,Government-sponsored enterprises; agency- and GSE-backed securities; asset,FA403061705,7.8,-14.3,8.1,-17.3,-0.1,5.3,67.1,-32.9,-7.0,22
+22,Issuers of asset-backed securities; agency- and GSE-backed securities; asset,FA673061703,0.0,-0.1,0.0,0.0,-0.4,0.0,0.0,0.0,0.0,23
+23,Mortgage real estate investment trusts; agency- and GSE-backed securities; asset,FA643061773,8.5,-49.6,-18.1,-29.3,-51.8,-3.2,-8.1,-49.7,-11.4,24
+24,Security brokers and dealers; agency- and GSE-backed securities; asset,FA663061703,7.7,-12.2,-16.6,-11.0,-52.1,-28.7,78.4,-59.9,-56.1,25
+25,Holding companies; agency- and GSE-backed securities; asset,FA733061703,0.0,-4.3,1.4,2.8,-26.7,-7.8,5.5,-1.9,9.8,26
+26,Rest of the world; agency- and GSE-backed securities; asset,FA263061705,-8.1,22.1,78.6,-8.5,-73.8,76.1,99.8,129.2,9.3,27

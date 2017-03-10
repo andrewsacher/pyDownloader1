@@ -1,0 +1,19 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,All sectors; trade payables; liability,FL893170005,4065.7,4141.2,4372.2,4149.4,4141.2,4157.8,4253.8,4332.6,4372.2,1
+1,Nonprofit organizations; trade payables; liability(1),FL163170005,302.2,309.0,315.9,307.3,309.0,310.7,312.4,314.2,315.9,2
+2,Nonfinancial corporate business; trade payables; liability,FL103170005,2088.4,2047.7,2145.9,2077.6,2047.7,2025.1,2090.8,2131.4,2145.9,3
+3,Nonfinancial noncorporate business; trade payables; liability,FL113170005,536.7,587.7,645.8,573.0,587.7,604.6,616.2,634.0,645.8,4
+4,Federal government; trade payables; liability,FL313170005,250.9,263.1,278.1,268.9,263.1,271.2,278.9,281.4,278.1,5
+5,"State and local governments, excluding employee retirement funds; trade payables; liability",FL213170003,822.5,862.7,903.5,852.6,862.7,872.8,883.0,893.1,903.5,6
+6,Security brokers and dealers; trade payables; liability,FL663170003,17.9,26.3,36.7,24.2,26.3,25.3,26.9,31.4,36.7,7
+7,Rest of the world; trade credit and advances; liability,FL263170003,47.0,44.7,46.4,45.7,44.7,48.0,45.7,47.0,46.4,8
+8,All sectors; trade receivables; asset,FL893070005,4077.1,4145.3,4347.0,4216.4,4145.3,4205.3,4330.6,4391.4,4347.0,9
+9,Nonprofit organizations; grants and trade receivables; asset(1),FL163070005,220.1,227.0,233.9,225.3,227.0,228.8,230.5,232.2,233.9,10
+10,Nonfinancial corporate business; trade receivables; asset,FL103070005,2658.9,2637.9,2756.6,2733.8,2637.9,2670.6,2774.3,2815.3,2756.6,11
+11,Nonfinancial noncorporate business; trade receivables; asset,FL113070003,668.9,715.0,761.3,700.1,715.0,728.0,738.7,751.0,761.3,12
+12,Federal government; trade receivables; asset,FL313070000,48.4,61.2,62.5,49.8,61.2,63.9,62.9,63.8,62.5,13
+13,"State and local governments, excluding employee retirement funds; trade receivables; asset",FL213070003,183.8,184.5,195.1,185.5,184.5,184.1,189.5,193.6,195.1,14
+14,Property-casualty insurance companies; trade receivables; asset,FL513070003,103.8,110.1,123.7,114.0,110.1,114.1,114.4,119.2,123.7,15
+15,Issuers of asset-backed securities; trade receivables; asset,FL673070003,31.3,34.1,33.3,31.7,34.1,35.5,35.1,34.4,33.3,16
+16,Rest of the world; trade receivables; asset,FL263070003,161.7,175.6,180.7,176.3,175.6,180.4,185.2,182.0,180.7,17
+17,Instrument discrepancies; trade receivables,FL903070005,-11.4,-4.1,25.2,-67.0,-4.1,-47.5,-76.7,-58.9,25.2,18

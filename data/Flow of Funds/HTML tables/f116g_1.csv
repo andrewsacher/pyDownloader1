@@ -1,0 +1,27 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,"Life insurance companies, general accounts; total financial assets",FA544090075,158.4,78.2,216.8,258.3,129.8,323.1,311.4,87.2,145.4,1
+1,"Life insurance companies, general accounts; checkable deposits and currency; asset",FA543020073,4.8,10.9,4.1,45.2,28.2,-6.0,40.7,-26.0,7.6,2
+2,"Life insurance companies, general accounts; money market mutual fund shares; asset",FA543034073,6.1,0.6,2.3,22.3,-14.3,7.9,-1.5,1.3,1.4,3
+3,"Life insurance companies, general accounts; security repurchase agreements; asset",FA542051073,0.0,-0.5,0.3,1.7,-1.9,0.7,-0.2,0.1,0.4,4
+4,"Life insurance companies, general accounts; debt securities; asset",FA544022075,71.9,33.9,121.7,86.5,55.0,184.2,157.1,118.4,26.9,5
+5,"Life insurance companies, general accounts; commercial paper; asset",FA543069170,-9.6,-4.7,3.3,5.1,-22.1,18.9,4.6,-4.4,-5.9,6
+6,"Life insurance companies, general accounts; Treasury securities; asset",FA543061173,11.2,4.3,10.6,12.5,2.3,10.9,7.2,7.8,16.5,7
+7,"Life insurance companies, general accounts; agency- and GSE-backed securities; asset",FA543061773,-11.6,-11.5,12.8,-7.9,-6.4,16.7,13.6,12.1,8.8,8
+8,"Life insurance companies, general accounts; municipal securities; asset",FA543062073,7.1,8.2,7.5,10.3,10.3,9.9,8.1,7.2,5.0,9
+9,"Life insurance companies, general accounts; corporate and foreign bonds; asset",FA543063075,74.8,37.6,87.4,66.4,70.8,127.8,123.6,95.8,2.4,10
+10,"Life insurance companies, general accounts; loans; asset",FA544023075,28.1,26.1,29.6,33.4,57.8,45.9,29.9,30.2,12.4,11
+11,"Life insurance companies, general accounts; other loans and advances; asset",FA543069075,7.9,-5.1,2.0,2.9,-1.5,14.6,-5.1,4.9,-6.4,12
+12,"Life insurance companies, general accounts; total mortgages; asset",FA543065070,20.2,31.2,27.6,30.6,59.3,31.2,35.0,25.3,18.9,13
+13,"Life insurance companies, general accounts; corporate equities; asset",FA543064175,5.0,3.0,3.9,5.6,-2.8,3.1,4.2,2.5,5.8,14
+14,"Life insurance companies, general accounts; mutual fund shares; asset",FA543064273,0.5,-0.2,0.2,-0.2,-0.2,0.2,0.2,0.2,0.4,15
+15,"Life insurance companies, general accounts; U.S. direct investment abroad; asset",FA543092073,1.4,-0.4,3.6,-5.3,-3.9,2.8,2.9,4.0,4.5,16
+16,"Life insurance companies, general accounts; total miscellaneous assets",FA543090075,40.5,4.7,51.3,69.1,11.9,84.4,78.1,-43.4,86.0,17
+17,"Life insurance companies, general accounts; total liabilities",FA544190075,112.9,71.8,222.7,267.0,104.4,346.8,310.1,115.1,118.8,18
+18,"Life insurance companies, general accounts; security repurchase agreements; liability",FA542151073,1.0,0.9,-0.4,-0.1,1.5,0.3,-1.3,0.6,-1.3,19
+19,"Life insurance companies, general accounts; corporate equities; liability",FA543164173,-14.9,-10.0,-4.7,-7.5,-6.3,-7.3,-5.9,-2.9,-2.6,20
+20,"Life insurance companies, general accounts; FHLB advances; liability",FA543169373,1.8,6.2,9.6,4.1,3.5,10.0,18.4,9.1,1.0,21
+21,"Life insurance companies, general accounts; life insurance reserves; liability",FA543140073,46.1,4.1,63.2,44.3,28.2,62.5,92.7,43.0,54.5,22
+22,"Life insurance companies, general accounts; pension entitlements, excluding unallocated insurance contracts; liability(1)",FA543150075,47.5,55.6,39.1,149.5,63.5,33.8,36.5,34.9,51.1,23
+23,"Life insurance companies, general accounts; taxes payable (net); liability",FA543178073,-0.8,0.1,-1.8,-5.4,0.8,2.7,0.4,-5.0,-5.4,24
+24,"Life insurance companies, general accounts; foreign direct investment in U.S.; liability",FA543192073,5.8,7.8,8.5,-0.8,-1.5,35.3,5.1,-1.7,-4.7,25
+25,"Life insurance companies, general accounts; total miscellaneous liabilities",FA543190075,26.4,7.1,109.2,83.1,14.6,209.6,164.2,37.1,26.1,26

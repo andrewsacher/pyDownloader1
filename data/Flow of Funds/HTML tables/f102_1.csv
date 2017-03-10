@@ -1,0 +1,45 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Nonfinancial business; income before taxes,FA146110005,2893.4,2834.9,2904.7,2868.3,2735.9,2842.7,2908.2,2934.1,2933.7,1
+1,Nonfinancial business; gross saving less net capital transfers paid,FA146000105,2218.4,2191.5,2162.1,2202.4,2132.4,2165.4,2137.1,2198.5,2147.3,2
+2,Nonfinancial business; gross investment,FA145090005,1517.6,2106.3,2123.8,2047.1,1923.8,2027.8,2099.2,2156.9,2211.4,3
+3,Nonfinancial business; total capital expenditures,FA145050005,2051.9,2159.9,2048.9,2148.3,2103.1,2063.9,2032.8,2026.8,2071.9,4
+4,Nonfinancial business; gross fixed investment,FA145019005,1984.7,2036.6,2021.0,2071.7,2040.8,2022.5,2015.9,2021.8,2023.8,5
+5,"Nonfinancial business; gross fixed investment, residential equipment and structures",FA145012005,88.5,109.6,103.6,129.8,115.9,115.5,100.5,104.2,94.2,6
+6,"Nonfinancial business; gross fixed investment, nonresidential structures, equipment, and intellectual property products",FA145013005,1896.2,1927.0,1917.4,1942.0,1924.9,1907.0,1915.4,1917.6,1929.6,7
+7,Nonfinancial business; inventories,FA145020005,65.4,93.4,20.0,76.8,62.7,41.9,-15.0,4.1,48.8,8
+8,Nonfinancial corporate business; acquisition of nonproduced nonfinancial assets (net),FA105420005,1.8,29.9,7.9,-0.2,-0.3,-0.6,31.9,0.9,-0.7,9
+9,Nonfinancial business; net lending (+) or borrowing (-) (financial account),FA145000005,-534.3,-53.6,74.9,-101.2,-179.3,-36.1,66.4,130.2,139.5,10
+10,Nonfinancial business; total financial assets,FA144090005,1366.3,1230.6,1295.1,1002.2,1269.6,1383.0,1521.1,1320.5,955.8,11
+11,Nonfinancial corporate business; private foreign deposits; asset,FA103091003,-7.8,-20.9,3.5,-32.5,-4.1,-42.5,46.5,11.3,-1.4,12
+12,Nonfinancial business; checkable deposits and currency; asset,FA143020005,133.2,27.2,112.5,15.7,-31.0,52.4,228.2,135.1,34.4,13
+13,Nonfinancial business; total time and savings deposits; asset,FA143030005,-2.3,-3.5,61.6,36.2,-19.6,21.5,43.7,192.1,-10.9,14
+14,Nonfinancial business; money market mutual fund shares; asset,FA143034005,2.0,24.5,12.2,54.7,79.9,-2.2,15.2,-0.9,36.6,15
+15,Nonfinancial corporate business; security repurchase agreements; asset,FA102051003,12.9,6.0,-1.8,12.2,2.9,-12.7,-5.0,0.6,10.0,16
+16,Nonfinancial business; debt securities; asset,FA144022005,13.2,-2.7,24.2,-15.1,31.7,36.7,-0.2,86.6,-26.4,17
+17,Nonfinancial corporate business; commercial paper; asset,FA103069100,3.7,-1.8,10.9,-7.7,-9.9,0.8,26.1,9.7,6.8,18
+18,Nonfinancial business; Treasury securities; asset,FA143061105,4.9,-2.0,7.7,-0.9,26.7,38.0,-36.9,15.1,14.5,19
+19,Nonfinancial corporate business; agency- and GSE-backed securities; asset,FA103061703,5.0,-2.0,1.2,-1.3,7.2,11.2,6.5,-16.4,3.7,20
+20,Nonfinancial business; municipal securities; asset,FA143062005,-0.3,3.0,4.4,-5.2,7.6,-13.3,4.0,78.1,-51.4,21
+21,Nonfinancial business; loans; asset,FA144023005,2.5,3.5,3.6,7.3,-8.6,5.2,4.0,8.6,-3.6,22
+22,Nonfinancial business; total mortgages; asset,FA143065005,1.6,4.3,4.3,3.8,5.0,4.6,4.2,4.5,4.1,23
+23,Nonfinancial business; consumer credit; asset,FA143066005,0.9,-0.8,-0.8,3.5,-13.6,0.6,-0.1,4.2,-7.7,24
+24,Nonfinancial corporate business; mutual fund shares; asset,FA103064203,15.2,7.4,7.4,7.4,7.4,7.4,7.4,7.4,7.4,25
+25,Nonfinancial business; trade receivables; asset,FA143070005,125.3,25.0,165.0,-11.1,6.9,5.1,268.1,246.8,140.1,26
+26,Nonfinancial corporate business; U.S. direct investment abroad; asset,FA103092005,293.1,296.7,260.9,171.2,384.0,270.6,249.4,268.7,255.0,27
+27,Nonfinancial business; total miscellaneous assets,FA143090005,778.9,867.2,646.0,756.2,820.0,1041.4,663.8,364.3,514.7,28
+28,Nonfinancial business; total liabilities,FA144190005,1900.6,1284.2,1220.2,1103.5,1448.9,1419.1,1454.7,1190.3,816.4,29
+29,Nonfinancial corporate business; debt securities; liability,FA104122005,310.1,407.9,295.7,410.6,226.4,570.5,327.9,224.6,59.5,30
+30,Nonfinancial corporate business; commercial paper; liability,FA103169100,37.5,-5.4,6.2,70.3,22.5,30.6,9.0,-138.7,124.0,31
+31,Nonfinancial corporate business; municipal securities; liability,FA103162000,0.1,14.4,17.7,16.4,-6.1,12.7,29.4,23.6,5.2,32
+32,Nonfinancial corporate business; corporate bonds; liability,FA103163003,272.5,398.9,271.7,323.9,209.9,527.2,289.6,339.7,-69.7,33
+33,Nonfinancial business; loans; liability,FA144123005,381.1,403.6,428.1,271.9,481.9,634.6,195.9,599.5,282.5,34
+34,Nonfinancial business; depository institution loans n.e.c.; liability,FA143168005,157.0,176.0,121.1,129.9,185.4,321.0,60.2,159.5,-56.2,35
+35,Nonfinancial business; other loans and advances; liability,FA143169005,72.4,-11.7,34.9,-87.5,0.4,116.4,-135.5,97.4,61.1,36
+36,Nonfinancial business; total mortgages; liability,FA143165005,151.8,239.2,272.1,229.5,296.1,197.1,271.2,342.6,277.6,37
+37,Nonfinancial corporate business; corporate equities; liability,FA103164103,-394.5,-560.9,-565.7,-627.2,-536.2,-620.6,-652.4,-666.8,-322.9,38
+38,Nonfinancial business; trade payables; liability,FA143170005,159.3,10.3,156.3,-73.7,-53.4,6.8,248.7,254.3,115.5,39
+39,Nonfinancial business; taxes payable; liability,FA143178005,5.5,1.6,-9.6,-8.2,-31.3,-34.0,-6.0,0.8,0.6,40
+40,Nonfinancial business; foreign direct investment in U.S.; liability,FA143192005,154.7,321.9,339.2,163.4,67.6,180.4,530.4,284.4,361.4,41
+41,Nonfinancial business; total miscellaneous liabilities,FA143190005,1146.2,683.1,560.3,941.4,1285.2,645.1,798.8,485.2,312.3,42
+42,Nonfinancial noncorporate business; proprietors' equity in noncorporate business (net worth),FA112090205,138.3,16.9,15.8,25.1,8.8,36.3,11.3,8.3,7.4,43
+43,Nonfinancial corporate business; sector discrepancy,FA107005005,700.8,85.2,38.3,155.3,208.6,137.6,37.9,41.6,-64.1,44

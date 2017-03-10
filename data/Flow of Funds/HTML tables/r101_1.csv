@@ -1,0 +1,24 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Households and nonprofit organizations; net worth(1),FC152090005,4980.6,3402.9,5518.3,-1185.5,2038.2,602.3,818.3,2054.4,2043.3,1
+1,Households and nonprofit organizations; net investment,FU155060005,1323.6,1346.0,1113.8,349.2,415.2,564.8,88.1,135.1,325.8,2
+2,Households and nonprofit organizations; net physical investment,FU155061005,359.9,450.0,523.6,115.1,117.3,126.4,127.6,130.3,139.3,3
+3,Households and nonprofit organizations; total capital expenditures including consumer durables,FU155050005,1821.3,1955.3,2053.6,493.8,499.1,502.3,508.7,515.5,527.2,4
+4,"Households and nonprofit organizations; consumption of fixed capital, structures, equipment, and intellectual property products, current cost basis, including consumer durables, current cost basis (FOF basis)",FU156300005,1461.4,1505.3,1530.0,378.7,381.8,375.9,381.0,385.2,387.9,5
+5,Households and nonprofit organizations; net lending (+) or borrowing (-) (financial account),FU155000005,963.7,896.0,590.2,234.1,297.9,438.4,-39.5,4.8,186.6,6
+6,Households and nonprofit organizations; total financial assets,FU154090005,1380.3,1288.4,1118.6,321.5,449.8,452.7,134.7,189.2,342.0,7
+7,Households and nonprofit organizations; total liabilities,FU154190005,416.5,392.4,528.4,87.4,151.9,14.3,174.3,184.4,155.4,8
+8,Households and nonprofit organizations; holding gains on assets at market value(2),FR158000005,3785.8,1602.7,4394.6,-1531.8,1451.1,382.7,975.9,1862.5,1173.5,9
+9,Households and nonprofit organizations; real estate at market value,FR155035005,1216.0,1385.5,1513.8,350.4,330.3,293.2,316.2,405.3,499.1,10
+10,Households and nonprofit organizations; corporate equities; asset,FR153064105,1342.1,-185.8,1723.0,-1141.8,605.3,7.8,297.2,857.6,560.4,11
+11,Households and nonprofit organizations; mutual fund shares; asset,FR153064205,234.6,-275.1,319.9,-441.9,148.5,12.4,111.4,232.2,-36.2,12
+12,Households and nonprofit organizations; proprietors' equity in noncorporate business,FR152090205,630.2,709.6,388.6,151.3,162.8,42.6,125.2,128.4,92.4,13
+13,Households and nonprofit organizations; life insurance reserves; asset,FR153040005,14.6,-7.8,18.0,-17.8,7.1,2.1,5.8,9.0,1.0,14
+14,Households and nonprofit organizations; pension entitlements; asset,FR153050005,348.2,-23.6,431.4,-432.0,197.1,24.6,120.1,229.9,56.8,15
+15,Households and nonprofit organizations; equity investment in funding corporations under PPIP; asset,FR153094305,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16
+16,Households and nonprofit organizations; holding gains on assets at current cost(2),FR158100005,-99.2,-55.9,-97.9,-24.5,-14.9,0.5,-22.5,-43.2,-32.6,17
+17,"Households and nonprofit organizations; consumer durable goods, current cost basis",FR155111005,-101.7,-58.0,-100.2,-24.7,-14.7,-0.5,-23.0,-44.1,-32.6,18
+18,"Nonprofit organizations; equipment, current cost basis",FR165015205,1.0,1.1,0.1,0.0,0.3,0.3,-0.0,0.5,-0.7,19
+19,"Nonprofit organizations; nonresidential intellectual property products, current cost basis",FR165013765,1.5,1.0,2.2,0.1,-0.4,0.7,0.5,0.3,0.7,20
+20,Households and nonprofit organizations; other volume changes(3),FV158090005,-29.6,510.0,107.8,21.6,186.8,-345.7,-223.2,100.1,576.6,21
+21,Households and nonprofit organizations; net worth(4),FL152090005,83884.2,87287.1,92805.4,85248.9,87287.1,87889.4,88707.7,90762.1,92805.4,22
+22,Households and nonprofit organizations; disposable personal income,FA156012005,13022.7,13519.8,14045.5,13611.7,13726.4,13807.4,13977.3,14128.7,14268.5,23

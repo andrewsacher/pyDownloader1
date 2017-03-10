@@ -1,0 +1,48 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,All sectors; corporate and foreign bonds; liability,FL893163005,11668.3,11713.5,12091.5,11851.1,11713.5,11917.0,12000.6,12207.5,12091.5,1
+1,Nonfinancial corporate business; corporate bonds; liability,FL103163003,4410.5,4809.4,5081.2,4757.0,4809.4,4941.2,5013.6,5098.6,5081.2,2
+2,Domestic financial sectors; corporate and foreign bonds; liability,FL793163005,4776.4,4631.5,4596.7,4753.9,4631.5,4660.3,4620.9,4639.8,4596.7,3
+3,U.S.-chartered depository institutions; corporate and foreign bonds; liability,FL763163005,209.0,200.6,183.7,196.2,200.6,206.9,201.5,193.6,183.7,4
+4,Issuers of asset-backed securities; corporate and foreign bonds; liability(1),FL673163005,1359.4,1281.5,1160.9,1305.2,1281.5,1249.0,1208.5,1183.2,1160.9,5
+5,Finance companies; corporate and foreign bonds; liability,FL613163005,962.6,949.6,882.6,944.5,949.6,945.1,910.5,896.6,882.6,6
+6,Real estate investment trusts; corporate and foreign bonds; liability,FL643163005,403.3,395.5,414.9,398.3,395.5,416.2,426.7,421.0,414.9,7
+7,Security brokers and dealers; corporate and foreign bonds; liability,FL663163003,123.9,131.3,129.1,135.4,131.3,119.5,111.0,125.6,129.1,8
+8,Holding companies; corporate and foreign bonds; liability,FL733163003,1123.2,1051.6,1168.1,1165.5,1051.6,1082.0,1104.1,1167.4,1168.1,9
+9,Funding corporations; corporate and foreign bonds where the proceeds are down-streamed to broker-dealer subsidiaries by investment banks that are holding-company parents; liability,FL503163005,595.1,621.4,657.2,608.9,621.4,641.7,658.5,652.3,657.2,10
+10,Rest of the world; bonds; liability(2),LM263163005,2481.4,2272.5,2413.6,2340.2,2272.5,2315.4,2366.1,2469.1,2413.6,11
+11,All sectors; corporate and foreign bonds; liability(3),FL893163005,11668.3,11713.5,12091.5,11851.1,11713.5,11917.0,12000.6,12207.5,12091.5,12
+12,Households and nonprofit organizations; corporate and foreign bonds; asset,FL153063005,1152.6,1135.4,815.8,1186.2,1135.4,991.6,705.6,656.5,815.8,13
+13,Federal government; corporate bonds issued by commercial banking under TARP; asset,FL313063763,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,14
+14,"State and local governments, excluding employee retirement funds; corporate and foreign bonds; asset",FL213063003,168.7,178.6,184.6,175.5,178.6,179.6,180.7,183.5,184.6,15
+15,"U.S.-chartered depository institutions, including IBFs; corporate and foreign bonds; asset",FL763063005,521.7,509.5,502.9,505.8,509.5,514.5,511.5,518.1,502.9,16
+16,U.S.-chartered depository institutions; private MBS and CMOs; asset,FL763063605,139.1,127.2,100.6,131.1,127.2,121.3,116.7,106.1,100.6,17
+17,"U.S.-chartered depository institutions, including IBFs; corporate and foreign bonds, excluding private MBS and CMOs; asset",FL763063095,382.6,382.3,402.3,374.8,382.3,393.3,394.8,412.0,402.3,18
+18,"Foreign banking offices in the U.S., including IBFs; corporate and foreign bonds; asset",FL753063005,197.3,172.4,160.8,187.2,172.4,184.2,198.5,176.1,160.8,19
+19,Banks in U.S.-affiliated areas; corporate and foreign bonds; asset,FL743063005,5.3,5.6,6.7,5.2,5.6,5.8,6.3,6.3,6.7,20
+20,Credit unions; corporate and foreign bonds; asset,FL473063005,9.9,10.8,11.5,10.7,10.8,11.4,11.7,11.6,11.5,21
+21,Credit unions; mortgage-backed securities and other asset-backed bonds; asset,FL473063605,9.7,10.6,11.3,10.5,10.6,11.3,11.5,11.4,11.3,22
+22,"Credit unions; corporate and foreign bonds, excluding mortgage-backed securities and other asset-backed bonds; asset",FL473063095,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,23
+23,Property-casualty insurance companies; corporate and foreign bonds; asset,LM513063003,448.1,437.0,452.9,439.0,437.0,457.3,463.4,469.0,452.9,24
+24,Property-casualty insurance companies; mortgage-backed securities and other asset-backed bonds; asset,LM513063603,95.9,95.1,96.0,95.3,95.1,97.6,97.2,98.4,96.0,25
+25,"Property-casualty insurance companies; corporate and foreign bonds, excluding mortgage-backed securities and other asset-backed bonds; asset",LM513063095,352.2,341.9,356.9,343.7,341.9,359.7,366.2,370.6,356.9,26
+26,Life insurance companies; corporate and foreign bonds; asset,LM543063005,2463.4,2426.8,2602.9,2433.2,2426.8,2544.6,2653.2,2691.9,2602.9,27
+27,"Life insurance companies, general accounts; mortgage-backed securities and other asset-backed bonds; asset",LM543063673,456.7,438.8,451.8,443.2,438.8,447.3,454.7,461.0,451.8,28
+28,"Life insurance companies; corporate and foreign bonds, excluding mortgage-backed securities and other asset-backed bonds; asset",LM543063095,2006.6,1988.1,2151.1,1990.0,1988.1,2097.3,2198.4,2230.8,2151.1,29
+29,Private pension funds; corporate and foreign bonds; asset,FL573063005,679.3,708.8,731.0,701.3,708.8,714.4,720.8,725.8,731.0,30
+30,Federal government retirement funds; corporate and foreign bonds; asset,FL343063005,7.7,8.4,8.2,8.4,8.4,8.4,8.5,8.6,8.2,31
+31,State and local government employee defined benefit retirement funds; corporate and foreign bonds; asset,FL223063045,509.3,541.9,581.1,534.6,541.9,556.7,564.4,575.6,581.1,32
+32,Money market mutual funds; corporate and foreign bonds; asset,FL633063003,79.5,64.4,6.1,67.2,64.4,52.7,17.8,11.2,6.1,33
+33,Mutual funds; corporate and foreign bonds; asset (market value),LM653063005,1781.2,1737.3,1843.9,1789.0,1737.3,1769.9,1841.7,1903.8,1843.9,34
+34,Closed-end funds; corporate and foreign bonds; asset,LM553063003,73.3,65.8,70.0,68.7,65.8,65.3,66.9,69.8,70.0,35
+35,Exchange-traded funds; corporate and foreign bonds; asset,LM563063003,214.8,242.2,309.6,231.7,242.2,268.0,286.7,310.4,309.6,36
+36,Government-sponsored enterprises; corporate and foreign bonds; asset,FL403063005,95.4,64.3,41.1,69.8,64.3,57.2,53.3,46.0,41.1,37
+37,Government-sponsored enterprises; mortgage-backed securities and other asset-backed bonds; asset,FL403063605,89.3,58.9,36.4,64.2,58.9,52.0,48.2,41.1,36.4,38
+38,"Government-sponsored enterprises; corporate and foreign bonds, excluding mortgage-backed securities and other asset-backed bonds; asset",FL403063095,6.2,5.4,4.6,5.6,5.4,5.2,5.1,4.9,4.6,39
+39,Finance companies; corporate and foreign bonds; asset,FL613063003,73.9,72.5,84.4,70.5,72.5,74.0,88.7,92.7,84.4,40
+40,Real estate investment trusts; corporate and foreign bonds; asset,FL643063005,34.2,39.2,38.6,39.3,39.2,38.9,40.2,41.1,38.6,41
+41,Security brokers and dealers; corporate and foreign bonds; asset,FL663063005,115.5,92.1,80.0,96.4,92.1,62.9,74.1,75.1,80.0,42
+42,Holding companies; corporate and foreign bonds; asset,FL733063003,34.1,21.5,24.0,32.1,21.5,21.1,22.9,24.5,24.0,43
+43,"Funding corporations; corporate and foreign bonds, including financial stabilization programs; asset",FL503063005,74.4,73.0,69.0,77.1,73.0,80.9,74.3,71.6,69.0,44
+44,Rest of the world; corporate and foreign bonds; asset(4),LM263063005,2928.0,3105.5,3466.0,3121.9,3105.5,3257.0,3409.2,3537.6,3466.0,45
+45,Rest of the world; U.S. mortgage-backed securities and other U.S. asset-backed bonds; asset,LM263063603,399.4,380.9,357.2,399.9,380.9,365.0,352.7,355.8,357.2,46
+46,"Rest of the world: U.S. corporate bonds, excluding mortgage-backed securities and other asset-backed bonds; asset",LM263063095,2528.6,2724.6,3108.8,2721.9,2724.6,2892.1,3056.4,3181.8,3108.8,47

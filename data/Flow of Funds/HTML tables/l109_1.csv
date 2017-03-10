@@ -1,0 +1,44 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Monetary authority; total financial assets,FL714090005,4555.4,4542.1,4509.5,4541.6,4542.1,4538.1,4524.5,4514.7,4509.5,1
+1,Monetary authority; U.S. official reserve assets,FL713011005,32.0,30.5,30.4,30.9,30.5,31.6,32.0,32.4,30.4,2
+2,Monetary authority; SDR certificates issued by federal government; asset,FL713014003,5.2,5.2,5.2,5.2,5.2,5.2,5.2,5.2,5.2,3
+3,Monetary authority; Treasury currency; asset,FL713012003,46.3,47.6,48.5,47.3,47.6,47.7,48.0,48.4,48.5,4
+4,Monetary authority; Federal Reserve float; asset(2),FL713022003,-0.6,-0.0,-0.8,-0.1,-0.0,-1.2,-1.3,-0.7,-0.8,5
+5,"Monetary authority; loans to domestic banks, including AMLF; asset(2)",FL713068705,0.1,0.1,0.1,0.3,0.1,0.1,0.2,0.2,0.1,6
+6,Monetary authority; loans to domestic banks through the discount window; asset(3),FL713068703,0.1,0.1,0.1,0.3,0.1,0.1,0.2,0.2,0.1,7
+7,U.S.-chartered depository institutions; commercial paper funded by borrowing from the Asset-Backed Commercial Paper Money Market Mutual Fund Liquidity Facility (AMLF); asset(4),FL763069143,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8
+8,Monetary authority; security repurchase agreements; asset,FL712051000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9
+9,Monetary authority; debt securities; asset,FL714022005,4236.9,4242.0,4221.2,4238.3,4242.0,4243.7,4231.0,4220.8,4221.2,10
+10,Monetary authority; bankers' acceptances; asset,FL713069603,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11
+11,Monetary authority; Treasury securities; asset,FL713061100,2461.4,2461.6,2463.6,2461.9,2461.6,2461.3,2462.3,2463.5,2463.6,12
+12,Monetary authority; Treasury bills; asset,FL713061113,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13
+13,"Monetary authority; Other Treasury securities, excluding Treasury bills; asset",FL713061125,2461.4,2461.6,2463.6,2461.9,2461.6,2461.3,2462.3,2463.5,2463.6,14
+14,Monetary authority; agency- and GSE-backed securities; asset,FL713061705,1775.5,1780.4,1757.6,1776.3,1780.4,1782.3,1768.6,1757.4,1757.6,15
+15,Monetary authority; agency mortgage-backed securities; asset,FL713061903,1736.8,1747.5,1741.4,1741.2,1747.5,1753.1,1743.5,1736.9,1741.4,16
+16,Monetary authority; agency- and GSE-backed securities other than MBS; asset,FL713061703,38.7,32.9,16.2,35.1,32.9,29.3,25.1,20.5,16.2,17
+17,Monetary authority; depository institution loans n.e.c.; asset,FL713068005,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18
+18,Monetary authority; depository institution loans n.e.c. to households (Term Asset-Backed Securities Loan Facility); asset(5),FL713068303,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19
+19,Monetary authority; loans to brokers and dealers; asset(6),FL713068665,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20
+20,Monetary authority; depository institution loans n.e.c. to funding corporations; asset(7),FL713068505,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21
+21,Monetary authority; depository institution loans n.e.c. to foreign banks; asset,FL713068473,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22
+22,Monetary authority; corporate equities; asset(8),FL713064103,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23
+23,Monetary authority; total miscellaneous assets,FL713090005,235.5,216.8,205.0,219.7,216.8,211.0,209.3,208.5,205.0,24
+24,Monetary authority; nonofficial foreign currencies (swap lines); asset(9),FL713091103,1.5,1.0,5.6,0.7,1.0,0.1,3.0,7.0,5.6,25
+25,Monetary authority; unidentified miscellaneous assets,FL713093005,233.9,215.8,199.4,219.1,215.8,210.9,206.3,201.5,199.4,26
+26,Monetary authority; total liabilities,FL714190005,4526.8,4532.1,4499.5,4512.3,4532.1,4528.1,4514.5,4504.7,4499.5,27
+27,Monetary authority; depository institution reserves; liability,FL713113003,2378.0,1977.2,1759.7,2197.7,1977.2,2125.4,2038.3,1923.0,1759.7,28
+28,Private depository institutions; vault cash; asset,FL703025005,75.7,74.2,76.0,67.6,74.2,69.8,73.3,65.1,76.0,29
+29,Monetary authority; checkable deposits and currency; liability,FL713120005,1516.4,1720.8,1890.9,1557.3,1720.8,1733.8,1810.9,1803.8,1890.9,30
+30,Monetary authority; checkable deposits due to the federal government; liability,FL713123005,223.7,333.7,399.4,198.9,333.7,314.0,363.7,353.5,399.4,31
+31,Monetary authority; Treasury cash holdings; liability,FL713123023,0.2,0.3,0.2,0.2,0.3,0.2,0.1,0.1,0.2,32
+32,Monetary authority; deposits in Treasury general deposit account; liability,FL713123030,223.5,333.4,399.2,198.7,333.4,313.8,363.7,353.3,399.2,33
+33,Monetary authority; deposits in Treasury temporary supplementary financing account; liability,FL713123043,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34
+34,Monetary authority; checkable deposits due to rest of the world; liability,FL713122605,5.3,5.2,5.2,6.2,5.2,5.2,5.2,5.2,5.2,35
+35,Monetary authority; checkable deposits due to government-sponsored enterprises; liability,FL713124003,20.2,31.1,52.9,32.1,31.1,41.2,51.3,39.8,52.9,36
+36,Monetary authority; currency outside banks; liability,FL713125005,1267.3,1350.7,1433.5,1320.0,1350.7,1373.3,1390.7,1405.4,1433.5,37
+37,Monetary authority; security repurchase agreements; liability,FL712151003,509.8,712.4,725.2,641.1,712.4,550.5,543.9,665.0,725.2,38
+38,"Monetary authority; security repurchase agreements, reverse repurchase agreement operations; liability(10)",FL712151103,396.7,474.6,468.4,449.6,474.6,303.8,278.8,412.5,468.4,39
+39,"Monetary authority; security repurchase agreements, excluding those in the reverse repurchase agreement operations; liability",FL712151115,113.1,237.8,256.9,191.5,237.8,246.7,265.0,252.5,256.9,40
+40,Monetary authority; total miscellaneous liabilities,FL713190005,47.0,47.6,47.7,48.7,47.6,48.6,48.1,47.7,47.7,41
+41,Monetary authority; Federal Reserve bank stock; liability,FL713164003,28.6,29.5,30.4,29.3,29.5,30.1,30.1,30.2,30.4,42
+42,Monetary authority; unidentified miscellaneous liabilities,FL713193005,18.4,18.1,17.3,19.4,18.1,18.5,18.0,17.5,17.3,43

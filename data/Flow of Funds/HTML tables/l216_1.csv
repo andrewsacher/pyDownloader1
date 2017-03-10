@@ -1,0 +1,51 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,All sectors; other loans and advances; liability,FL893169005,3323.4,3253.4,3348.8,3230.7,3253.4,3283.4,3337.4,3356.0,3348.8,1
+1,Federal government; U.S. government loans; asset,FL313069205,195.0,197.9,199.9,194.5,197.9,197.7,198.1,198.6,199.9,2
+2,Households and nonprofit organizations; U.S. government loans; liability,FL153169203,13.3,15.6,17.9,14.8,15.6,15.9,16.5,17.2,17.9,3
+3,"Nonfinancial corporate business; U.S. government loans, including loans to automakers; liability",FL103169205,74.8,75.3,74.4,74.8,75.3,74.9,75.2,75.0,74.4,4
+4,Nonfinancial noncorporate business; U.S. government loans; liability,FL113169205,57.3,54.0,53.3,54.3,54.0,53.7,53.6,53.2,53.3,5
+5,"State and local governments, excluding employee retirement funds; U.S. government loans; liability",FL213169203,16.6,16.9,17.8,16.7,16.9,17.1,17.1,16.9,17.8,6
+6,Government-sponsored enterprises; U.S. government loans to Sallie Mae; liability,FL403169283,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7
+7,Federal government; loans to finance companies (Chrysler Financial); asset,FL313069223,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8
+8,Funding corporations; U.S. government loans to TALF LLC and loans made under PPIP; liability,FL503169205,2.4,2.4,2.4,2.4,2.4,2.4,2.4,2.4,2.4,9
+9,Rest of the world; U.S. government loans excluding capital subscriptions and contributions to international financial institutions and the IMF; liability,FL263169205,30.7,33.8,34.1,31.7,33.8,33.9,33.3,33.8,34.1,10
+10,Rest of the world; U.S. nonfinancial business loans; asset,FL263069500,170.6,207.5,214.1,195.2,207.5,214.0,202.8,209.4,214.1,11
+11,Rest of the world; U.S. nonfinancial business loans; asset,FL263069500,170.6,207.5,214.1,195.2,207.5,214.0,202.8,209.4,214.1,12
+12,U.S.-chartered depository institutions; customers' liability on acceptances; asset,FL763069703,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13
+13,Foreign banking offices in the U.S.; customers' liability on acceptances; asset,FL753069703,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14
+14,Nonfinancial corporate business; customers' liability on acceptances outstanding to commercial banking; liability,FL103169705,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15
+15,Rest of the world; customers' liablity on acceptances outstanding to commercial banking; liability,FL263169705,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16
+16,Holding companies; other loans and advances; asset,FL733069005,64.8,24.0,22.6,37.7,24.0,23.2,22.0,24.5,22.6,17
+17,Holding companies; other loans and advances due from U.S. addressees; asset,FL733069013,61.6,23.1,22.3,35.3,23.1,22.3,21.1,23.4,22.3,18
+18,Holding companies; other loans and advances due from foreign addressees; asset,FL733069023,3.2,0.9,0.3,2.4,0.9,0.9,0.9,1.0,0.3,19
+19,Households and nonprofit organizations; policy loans; liability,FL153169405,130.9,132.3,131.8,132.5,132.3,132.2,132.6,131.9,131.8,20
+20,Federal government; policy loans; asset,FL313069403,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,21
+21,Life insurance companies; policy loans; asset,FL543069405,130.6,132.0,131.5,132.1,132.0,131.9,132.3,131.6,131.5,22
+22,Government-sponsored enterprises; FHLB advances; asset(1),FL403069330,565.7,631.2,705.2,586.2,631.2,613.8,685.0,684.9,705.2,23
+23,U.S.-chartered depository institutions; FHLB advances (residual); liability,FL763169335,468.2,498.7,567.3,460.2,498.7,484.5,549.0,546.2,567.3,24
+24,Credit unions; FHLB advances; liability,FL473169333,35.4,44.7,46.7,44.9,44.7,42.9,44.5,46.4,46.7,25
+25,Property-casualty insurance companies; FHLB advances; liability,FL513169333,2.2,2.4,3.4,2.1,2.4,2.3,3.5,3.8,3.4,26
+26,"Life insurance companies, general accounts; FHLB advances; liability",FL543169373,51.9,58.1,67.8,57.2,58.1,60.6,65.2,67.5,67.8,27
+27,Finance companies; FHLB advances; liability,FL613169333,2.1,3.7,3.5,2.9,3.7,3.7,3.7,3.6,3.5,28
+28,Mortgage real estate investment trusts; FHLB advances; liability,FL643169373,5.9,23.8,16.6,18.9,23.8,19.7,19.1,17.4,16.6,29
+29,Government-sponsored enterprises; Farm Credit System and Sallie Mae loans and advances; asset(2),FL403069395,106.1,115.0,120.8,110.3,115.0,116.3,119.4,115.9,120.8,30
+30,Households and nonprofit organizations; Sallie Mae loans; liability,FL153169305,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,31
+31,Corporate farm business; Farm Credit System loans; liability,FL183169305,8.6,9.8,10.5,9.2,9.8,10.8,11.0,9.8,10.5,32
+32,Nonfinancial noncorporate business; Farm Credit System loans; liability,FL113169305,97.5,105.2,110.3,101.1,105.2,105.5,108.3,106.0,110.3,33
+33,U.S.-chartered depository institutions; Sallie Mae warehousing advances; liability,FL763169383,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34
+34,Issuers of asset-backed securities; securitized nonfinancial business loans; asset,FL673069505,0.0,0.0,0.3,0.0,0.0,0.2,0.2,0.2,0.3,35
+35,Issuers of asset-backed securities; securitized nonfinancial business loans; asset,FL673069505,0.0,0.0,0.3,0.0,0.0,0.2,0.2,0.2,0.3,36
+36,Finance companies; nonfinancial business loans; asset,FL613069500,411.5,425.1,417.8,422.8,425.1,410.5,410.9,411.2,417.8,37
+37,Nonfinancial corporate business; finance companies loans; liability,FL103169535,370.4,382.6,376.0,380.5,382.6,369.5,369.8,370.1,376.0,38
+38,Nonfinancial noncorporate business; finance companies loans; liability,FL113169535,41.2,42.5,41.8,42.3,42.5,41.1,41.1,41.1,41.8,39
+39,Security brokers and dealers; margin accounts at brokers and dealers; asset,FL663067003,369.5,289.4,277.0,289.4,289.4,265.7,275.7,298.9,277.0,40
+40,Security brokers and dealers; margin accounts at brokers and dealers; asset,FL663067003,369.5,289.4,277.0,289.4,289.4,265.7,275.7,298.9,277.0,41
+41,Households and nonprofit organizations; cash accounts at brokers and dealers,FL153067005,869.0,820.6,817.0,844.6,820.6,860.1,863.5,838.3,817.0,42
+42,Households and nonprofit organizations; cash accounts at brokers and dealers,FL153067005,869.0,820.6,817.0,844.6,820.6,860.1,863.5,838.3,817.0,43
+43,Nonfinancial corporate business; syndicated loans; liability(3),FL103169803,440.2,410.4,442.3,417.5,410.4,449.7,427.5,442.3,442.3,44
+44,Households and nonprofit organizations; syndicated loans to nonfinancial corporate business; asset,FL153069803,24.3,22.0,24.6,21.6,22.0,24.3,22.9,24.0,24.6,45
+45,"Life insurance companies, general accounts; syndicated loans to nonfinancial corporate business; asset",FL543069873,31.4,29.6,32.5,29.9,29.6,33.5,31.9,33.8,32.5,46
+46,Mutual funds; syndicated loans to nonfinancial corporate business; asset,FL653069803,154.5,138.9,157.5,141.6,138.9,144.4,139.5,147.1,157.5,47
+47,Issuers of asset-backed securities; syndicated loans to nonfinancial corporate business; asset,FL673069803,159.3,158.3,159.1,159.2,158.3,173.8,162.3,162.6,159.1,48
+48,Security brokers and dealers; syndicated loans to nonfinancial corporate business; asset,FL663069803,58.6,48.7,52.6,51.8,48.7,56.4,51.4,58.2,52.6,49
+49,Funding corporations; syndicated loans to nonfinancial corporate business; asset,FL503069805,12.1,12.9,16.0,13.1,12.9,17.3,19.5,16.6,16.0,50

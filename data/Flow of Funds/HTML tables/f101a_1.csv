@@ -1,0 +1,26 @@
+,Description,Series code,2005,2006,2007,2008,2009,2010,2011,2012,2013,Line
+0,Description,Series code,2005.0,2006.0,2007.0,2008.0,2009.0,2010.0,2011.0,2012.0,2013.0,Line
+1,Nonprofit organizations; net lending (+) or borrowing (-) (financial account),FA165000005,138.2,266.7,13.1,-411.9,130.2,275.3,-19.9,196.2,285.1,1
+2,Nonprofit organizations; total financial assets,FA164090005,184.9,384.3,102.2,-337.6,219.3,289.9,64.8,266.0,305.4,2
+3,Nonprofit organizations; cash and non-interest-bearing deposits; asset,FA163020005,3.7,7.6,5.8,-2.4,9.5,10.1,7.4,6.2,10.8,3
+4,Nonprofit organizations; other deposits and short-term investments; asset(2),FA163030205,14.8,31.0,21.2,16.6,-0.8,-1.8,-4.6,15.1,6.2,4
+5,Nonprofit organizations; debt securities; asset,FA164022005,-0.8,17.2,-0.6,0.8,30.6,-15.6,3.7,-7.9,-10.5,5
+6,Nonprofit organizations; U.S. government and municipal securities; asset,FA163061005,1.4,12.9,-8.7,-1.3,7.6,-19.4,-1.5,-8.7,-5.5,6
+7,Nonprofit organizations; corporate and foreign bonds; asset (market value),FA163063005,-2.2,4.3,8.1,2.1,22.9,3.8,5.2,0.8,-5.0,7
+8,Nonprofit organizations; loans; asset,FA164023005,-2.3,25.6,17.1,4.9,-10.1,-13.5,-14.7,-9.3,2.7,8
+9,Nonprofit organizations; total mortgages held by private foundations; asset,FA163065013,-0.1,-0.1,-0.0,-0.1,-0.1,0.0,0.0,0.2,-0.3,9
+10,"Nonprofit organizations; consumer credit, student loans; asset",FA163066223,0.0,6.0,7.7,6.4,-6.4,-11.2,-4.3,-9.0,-6.2,10
+11,Nonprofit organizations; other notes and loans receivable; asset,FA164041005,-2.2,19.7,9.4,-1.3,-3.5,-2.3,-10.5,-0.4,9.2,11
+12,Nonprofit organizations; corporate equities and mutual fund shares; asset,FA163064005,58.1,169.0,12.6,-249.1,71.3,128.0,15.6,127.6,156.8,12
+13,Nonprofit organizations; grants and trade receivables; asset,FA163070005,9.9,8.1,10.0,7.5,-0.8,6.3,14.4,9.0,5.6,13
+14,Nonprofit organizations; unidentified miscellaneous assets(3),FA163093005,101.4,125.7,36.1,-116.0,119.6,176.4,43.0,125.3,133.8,14
+15,Nonprofit organizations; total liabilities,FA164190005,46.7,117.5,89.1,74.3,89.1,14.6,84.6,69.7,20.2,15
+16,Nonprofit organizations; municipal securities; liability,FA163162003,14.4,16.4,22.4,10.7,6.9,-1.3,-7.5,-13.9,-14.4,16
+17,Nonprofit organizations; loans; liability,FA164123005,9.8,22.0,16.2,-2.0,1.0,0.1,7.1,15.2,6.9,17
+18,Nonprofit organizations; depository institution loans n.e.c.; liability,FA163168005,2.0,4.4,3.2,-10.8,10.8,-0.9,1.4,6.5,-2.0,18
+19,Nonprofit organizations; Sallie Mae private academic facilities financing and warehousing advances; liability,FA163169385,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19
+20,Nonprofit organizations; commercial mortgages; liability,FA163165505,7.8,17.6,13.0,8.8,-9.8,1.1,5.7,8.7,8.9,20
+21,Nonprofit organizations; trade payables; liability,FA163170005,14.1,16.5,17.8,24.2,41.8,-29.2,20.0,7.2,-5.6,21
+22,Nonprofit organizations; unidentified miscellaneous liabilities(4),FA163193005,8.4,62.7,32.6,41.4,39.5,45.0,65.0,61.2,33.4,22
+23,Nonprofit organizations; total financial assets held by private foundations,FA164090015,34.6,88.1,14.1,-54.0,19.0,31.9,9.6,35.5,59.1,23
+24,Nonprofit organizations; total financial assets held by 501c3-9 organizations,FA164090025,150.3,296.2,88.0,-283.6,200.3,258.0,55.1,230.5,246.3,24

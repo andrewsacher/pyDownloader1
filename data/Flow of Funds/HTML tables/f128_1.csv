@@ -1,0 +1,27 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Finance companies; gross saving including foreign earnings retained abroad and CCAdj,FA616000105,78.5,107.9,143.5,115.9,112.5,116.7,139.6,167.5,150.1,1
+1,"Finance companies; gross fixed investment, nonresidential structures, equipment, and intellectual property products excluding securitized equipment",FA615013005,88.5,100.6,98.2,101.8,101.2,99.0,98.3,97.6,98.0,2
+2,Finance companies; total financial assets,FA614090005,28.9,-20.1,-95.9,-61.4,15.6,55.2,-195.1,-127.4,-116.2,3
+3,Finance companies; checkable deposits and currency; asset,FA613020003,-0.2,0.1,-10.0,3.4,-7.1,17.4,-47.1,-6.7,-3.6,4
+4,Finance companies; total time and savings deposits; asset,FA613030003,-0.5,0.4,-29.9,10.2,-21.3,52.3,-141.2,-20.1,-10.8,5
+5,Finance companies; corporate and foreign bonds; asset,FA613063003,6.0,-1.5,11.9,-5.4,8.1,6.2,58.7,16.1,-33.4,6
+6,Finance companies; loans; asset,FA614023005,6.5,-17.2,-37.8,12.6,-81.2,-73.5,-28.8,-6.4,-42.5,7
+7,Finance companies; nonfinancial business loans; asset,FA613069500,10.2,13.6,-7.3,28.0,-8.4,-43.6,2.1,2.7,9.6,8
+8,Finance companies; total mortgages; asset,FA613065000,-8.7,-28.3,-16.0,-27.3,-30.9,-16.0,-12.9,-17.3,-17.8,9
+9,Finance companies; consumer credit; asset,FA613066005,5.0,-2.4,-14.5,12.0,-41.9,-14.0,-18.0,8.3,-34.3,10
+10,Finance companies; U.S. direct investment abroad; asset,FA613092003,7.5,9.2,36.6,8.2,-9.9,16.4,96.6,14.1,19.5,11
+11,Finance companies; total miscellaneous assets,FA613090005,9.5,-11.2,-66.7,-90.5,127.0,36.5,-133.5,-124.5,-45.5,12
+12,Finance companies; total liabilities,FA614190005,14.1,-17.6,-104.0,-50.3,-15.0,19.0,-178.5,-131.3,-125.1,13
+13,Finance companies; debt securities; liability,FA614122005,2.0,-16.0,-56.1,6.7,-17.4,23.2,-126.1,-81.9,-39.6,14
+14,Finance companies; commercial paper; liability,FA613169100,-1.1,-3.1,11.0,-16.9,-38.0,41.2,12.4,-26.3,16.7,15
+15,Finance companies; corporate and foreign bonds; liability,FA613163005,3.0,-12.9,-67.1,23.6,20.6,-18.0,-138.5,-55.6,-56.3,16
+16,Finance companies; loans; liability,FA614123005,10.2,15.3,-0.0,2.8,8.3,21.3,-11.7,2.4,-12.1,17
+17,Finance companies; depository institution loans n.e.c.; liability,FA613168000,10.5,13.7,0.2,-0.3,5.0,21.3,-11.6,2.6,-11.4,18
+18,Finance companies; other loans and advances; liability,FA613169005,-0.3,1.6,-0.2,3.2,3.3,0.0,-0.1,-0.2,-0.6,19
+19,Finance companies; taxes payable; liability,FA613178003,1.0,0.8,-0.5,0.4,-0.6,1.8,-2.4,0.8,-2.1,20
+20,Finance companies; foreign direct investment in U.S.; liability,FA613192003,8.1,-5.8,4.9,-31.4,6.7,2.9,7.3,3.6,5.9,21
+21,Finance companies; total miscellaneous liabilities,FA613190005,-7.3,-11.9,-52.3,-28.9,-11.9,-30.1,-45.6,-56.2,-77.2,22
+22,Finance companies; investment by parent companies; liability,FA613194003,1.0,-6.7,-22.3,-2.5,14.3,-37.3,1.1,-32.3,-20.5,23
+23,Finance companies; unidentified miscellaneous liabilities,FA613193005,-8.2,-5.3,-30.0,-26.4,-26.2,7.2,-46.6,-24.0,-56.6,24
+24,Finance companies; sector discrepancy,FA617005005,-24.7,9.8,37.2,25.2,-19.3,-18.4,57.9,66.0,43.2,25
+25,Finance companies; consumer leases; asset(2),FA613066303,21.6,23.5,16.2,30.8,22.3,20.8,19.2,13.7,11.3,26

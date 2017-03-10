@@ -1,0 +1,24 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Funding corporations; total financial assets,FL504090005,1304.6,1454.1,1571.6,1455.4,1454.1,1595.7,1624.0,1620.1,1571.6,1
+1,Funding corporations; money market mutual fund shares; asset,FL503034003,410.3,445.3,444.8,443.5,445.3,480.9,463.6,457.3,444.8,2
+2,Funding corproations; security repurchase agreements; asset,FL502051003,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3
+3,Funding corporations; debt securities; asset,FL504022005,171.7,246.9,332.2,257.6,246.9,298.7,339.3,364.5,332.2,4
+4,Funding corporations; commercial paper; asset,FL503069105,97.3,173.9,263.3,180.5,173.9,217.7,265.0,292.9,263.3,5
+5,"Funding corporations; corporate and foreign bonds, including financial stabilization programs; asset",FL503063005,74.4,73.0,69.0,77.1,73.0,80.9,74.3,71.6,69.0,6
+6,Funding corporations; syndicated loans to nonfinancial corporate business; asset,FL503069805,12.1,12.9,16.0,13.1,12.9,17.3,19.5,16.6,16.0,7
+7,Funding corporations; corporate equities; asset(2),FL503064105,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8
+8,Funding corporations; equity investment in own subsidiaries; asset,FL503094505,710.6,749.0,778.5,741.0,749.0,798.9,801.6,781.8,778.5,9
+9,Foreign banking offices in the U.S.; equity investment by funding corporations; liability,FL753194503,103.2,105.4,99.4,108.4,105.4,127.1,114.9,105.8,99.4,10
+10,Security brokers and dealers; investment by funding corporations; liability,FL663194505,607.4,643.6,679.1,632.7,643.6,671.8,686.7,676.0,679.1,11
+11,Funding corporations; total liabilities,FL504190005,1304.6,1454.1,1571.6,1455.4,1454.1,1595.7,1624.0,1620.1,1571.6,12
+12,Funding corporations; debt securities; liability,FL504122005,644.0,710.2,744.7,704.0,710.2,762.1,771.3,747.1,744.7,13
+13,Funding corporations; commercial paper; liability,FL503169105,48.9,88.8,87.5,95.1,88.8,120.5,112.8,94.8,87.5,14
+14,Funding corporations; corporate and foreign bonds where the proceeds are down-streamed to broker-dealer subsidiaries by investment banks that are holding-company parents; liability,FL503163005,595.1,621.4,657.2,608.9,621.4,641.7,658.5,652.3,657.2,15
+15,Funding corporations; loans; liability,FL504123005,2.4,2.4,2.4,2.4,2.4,2.4,2.4,2.4,2.4,16
+16,Monetary authority; depository institution loans n.e.c. to funding corporations; asset(3),FL713068505,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17
+17,Funding corporations; U.S. government loans to TALF LLC and loans made under PPIP; liability(4),FL503169205,2.4,2.4,2.4,2.4,2.4,2.4,2.4,2.4,2.4,18
+18,Funding corporations; foriegn direct investment in U.S.; liability,FL503192003,13.8,14.4,15.0,14.3,14.4,14.6,14.7,14.9,15.0,19
+19,Funding corporations; total miscellaneous liabilities,FL503190005,644.5,727.2,809.5,734.7,727.2,816.7,835.6,855.8,809.5,20
+20,Security brokers and dealers; securities borrowed (net); asset,FL663097005,720.6,706.8,666.3,747.5,706.8,785.7,719.0,692.4,666.3,21
+21,Funding corporations; equity investment in funds associated with PPIP; liability,FL503194305,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22
+22,Funding corporations; unidentified miscellaneous liabilities (net),FL503193005,-76.2,20.4,143.2,-12.8,20.4,31.0,116.6,163.5,143.2,23

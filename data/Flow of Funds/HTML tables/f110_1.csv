@@ -1,0 +1,43 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Private depository institutions; gross saving including foreign earnings retained abroad less net capital transfers paid(2),FA706000105,-47.1,-51.4,-34.9,-43.0,-78.0,-48.2,-18.1,-68.9,-4.2,1
+1,"Private depository institutions; gross fixed investment, nonresidential structures, equipment, and intellectual property products",FA705013005,27.2,29.7,37.0,32.2,34.2,34.6,35.6,39.3,38.4,2
+2,Private depository institutions; net lending (+) or borrowing (-) (financial account),FA705000005,-124.7,65.5,54.4,22.7,-19.3,36.9,-50.4,199.3,31.6,3
+3,Private depository institutions; total financial assets,FA704090005,972.1,518.7,718.7,351.5,242.6,1696.1,804.5,573.7,-199.6,4
+4,Private depository institutions; vault cash; asset,FA703025005,2.0,-1.4,1.7,-1.2,-15.7,22.6,16.8,-34.1,1.6,5
+5,Monetary authority; depository institution reserves; liability,FA713113003,128.9,-400.8,-217.5,-179.2,-882.0,592.8,-348.4,-461.0,-653.4,6
+6,Private depository institutions; federal funds and security repurchase agreements; asset,FA702050005,10.6,25.2,-16.7,-34.6,70.2,-67.6,30.3,80.7,-110.4,7
+7,Private depository institutions; debt securities; asset,FA704022005,216.7,203.3,291.4,69.6,347.0,148.0,316.1,436.3,265.0,8
+8,Private depository institutions; open market paper; asset,FA703069175,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9
+9,Private depository institutions; Treasury securities; asset,FA703061105,195.4,36.8,116.6,-21.6,84.0,47.6,114.1,217.5,87.1,10
+10,Private depository institutions; agency- and GSE-backed securities; asset,FA703061705,26.2,155.2,140.5,38.9,264.1,-12.1,86.2,242.4,245.6,11
+11,Private depository institutions; municipal securities; asset,FA703062005,31.0,47.4,50.6,38.6,41.3,41.4,68.0,39.8,53.2,12
+12,Private depository institutions; corporate and foreign bonds; asset,FA703063005,-35.9,-36.0,-16.3,13.8,-42.4,71.1,47.8,-63.3,-121.0,13
+13,Private depository institutions; loans; asset,FA704023005,578.8,676.0,595.6,594.9,761.2,782.9,673.3,651.8,274.5,14
+14,Private depository institutions; depository institution loans n.e.c.; asset,FA703068005,320.1,280.6,153.6,180.4,248.7,424.2,155.6,168.8,-134.1,15
+15,Private depository institutions; other loans and advances; asset,FA703069005,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16
+16,Private depository institutions; total mortgages; asset,FA703065005,149.9,255.7,298.6,260.8,326.5,242.2,382.4,329.8,240.0,17
+17,Private depository institutions; consumer credit; asset,FA703066005,108.8,139.8,143.4,153.7,186.0,116.5,135.3,153.2,168.6,18
+18,Private depository institutions; corporate equities; asset,FA703064105,0.7,2.0,-7.2,3.2,3.5,-29.5,-1.9,0.8,1.8,19
+19,Private depository institutions; mutual fund shares; asset,FA703064205,-0.9,-1.0,-1.9,-2.8,-2.6,4.1,-0.3,-8.6,-2.9,20
+20,U.S.-chartered depository institutions; life insurance reserves; asset,FA763040005,5.9,6.5,5.6,5.6,6.6,5.5,5.7,6.0,5.3,21
+21,U.S.-chartered depository institutions; U.S. direct investment abroad; asset,FA763092000,3.2,0.8,-15.3,-6.6,13.7,-3.1,-60.1,10.0,-7.8,22
+22,Private depository institutions; miscellaneous assets,FA703090005,26.1,8.1,82.9,-97.4,-59.4,240.2,172.9,-108.2,26.7,23
+23,Private depository institutions; total liabilities,FA704190005,1096.8,453.2,664.3,328.8,261.9,1659.2,854.9,374.4,-231.2,24
+24,Private depository institutions; net interbank transactions; liability,FA704110005,-15.7,-127.5,-199.5,12.4,-411.2,146.8,-215.5,-247.1,-482.2,25
+25,Private depository institutions; checkable deposits; liability,FA703127005,198.8,87.8,120.1,-159.3,181.0,386.9,167.8,133.0,-207.1,26
+26,Private depository institutions; total time and savings deposits; liability,FA703130005,513.2,406.2,518.2,494.9,389.9,548.6,279.7,590.9,653.4,27
+27,Private depository institutions; federal funds and security repurchase agreements; liability,FA702150005,25.4,-4.0,35.4,-77.8,113.3,-29.4,52.6,27.6,90.7,28
+28,Private depository institutions; debt securities; liability,FA704122005,-17.2,-9.3,-21.4,10.4,27.9,36.9,-26.0,-44.2,-52.5,29
+29,Private depository institutions; open market paper; liability,FA703169175,-5.2,-0.9,-4.5,4.0,9.9,12.0,-4.4,-12.6,-13.2,30
+30,U.S.-chartered depository institutions; corporate and foreign bonds; liability,FA763163005,-12.0,-8.4,-16.9,6.4,17.9,24.9,-21.6,-31.6,-39.3,31
+31,Private depository institutions; other loans and advances; liability,FA703169005,66.6,39.7,70.7,-1.6,95.5,57.9,146.8,52.9,25.1,32
+32,U.S.-chartered depository institutions; corporate equities; liability,FA763164103,2.7,9.5,4.5,2.2,9.5,3.4,4.6,3.3,6.9,33
+33,U.S.-chartered depository institutions; taxes payable (net); liability,FA763178003,15.2,-4.4,-0.1,8.6,-17.7,41.4,17.6,-0.1,-59.1,34
+34,Foreign banking offices in the U.S.; foreign direct investment in the U.S.; liability,FA753192003,1.5,1.1,5.1,2.0,0.9,7.3,7.1,1.6,4.5,35
+35,Private depository institutions; miscellaneous liabilities,FA703190005,306.3,54.1,131.3,36.8,-127.2,459.2,420.2,-143.3,-210.8,36
+36,"U.S.-chartered depository institutions; net transactions due to holding companies, excluding foreign bank subsidiaries; liability",FA763194735,195.9,42.1,118.3,88.6,51.8,151.3,285.1,145.8,-109.1,37
+37,Foreign banking offices in the U.S.; equity investment by funding corporations; liability,FA753194503,-20.3,2.2,-5.9,-3.1,-11.9,86.9,-48.8,-36.5,-25.3,38
+38,Private depository institutions; unidentified miscellaneous liabilities,FA703193005,130.6,9.9,19.0,-48.7,-167.2,221.1,183.9,-252.6,-76.4,39
+39,Private depository institutions; sector discrepancy,FA707005005,50.4,-146.6,-126.2,-97.9,-92.9,-119.8,-3.3,-307.6,-74.2,40
+40,U.S.-chartered depository institutions; leases to households; asset (Call Report; consolidated)(3),FA763066303,0.7,-0.6,1.4,-1.4,-1.2,0.4,1.0,2.7,1.5,41
+41,Private depository institutions; uninsured checkable and time and savings deposits; liability(4),FA703139105,459.8,134.4,225.6,7.6,217.2,365.2,90.7,71.5,375.0,42

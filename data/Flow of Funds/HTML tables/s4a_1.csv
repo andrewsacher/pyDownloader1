@@ -1,0 +1,118 @@
+,Description,Series code,2008,2009,2010,2011,2012,2013,2014,2015,Line
+0,Nonfinancial noncorporate business; gross value added,FA116902505,2632.4,2466.4,2546.2,2751.6,2909.8,3020.8,3177.2,3305.5,1
+1,"Nonfinancial noncorporate business; consumption of fixed capital, structures, equipment, and intellectual property products, current cost basis",FA116300001,254.5,253.0,251.8,265.0,273.0,284.4,298.6,308.7,2
+2,Nonfinancial noncorporate business; net value added,FA116902605,2378.0,2213.4,2294.4,2486.6,2636.8,2736.4,2878.7,2996.8,3
+3,Nonfinancial noncorporate business; compensation of employees paid,FA116025001,843.4,805.4,816.6,845.9,892.6,920.5,967.8,1019.6,4
+4,Nonfinancial noncorporate business; wages and salaries paid,FA116020001,712.1,675.0,684.6,713.1,752.7,775.7,818.3,864.0,5
+5,Nonfinancial noncorporate business; employers' social contributions paid,FA116401005,131.3,130.4,131.9,132.8,139.9,144.8,149.5,155.6,6
+6,"Nonfinancial noncorporate business; taxes on production and imports less subsidies, payable",FA116240101,157.9,145.4,150.7,158.7,167.5,176.6,188.0,191.8,7
+7,"Nonfinancial noncorporate business; operating surplus, net",FA116402105,1376.7,1262.6,1327.1,1482.0,1576.7,1639.3,1722.9,1785.4,8
+8,"Nonfinancial noncorporate business; net national income/balance of primary incomes, net",FA116140001,15.0,21.0,23.0,25.5,27.3,29.8,29.4,25.6,9
+9,"Nonfinancial noncorporate business; operating surplus, net",FA116402105,1376.7,1262.6,1327.1,1482.0,1576.7,1639.3,1722.9,1785.4,10
+10,Nonfinancial noncorporate business; interest received,FA116130101,13.6,9.4,8.4,9.1,10.6,9.7,12.3,18.2,11
+11,Nonfinancial noncorporate business; uses of property income (paid),FA116150005,1375.3,1251.0,1312.5,1465.5,1560.1,1619.3,1705.8,1778.0,12
+12,Nonfinancial noncorporate business; interest paid,FA116130001,263.1,242.7,237.9,226.9,226.1,216.8,221.8,244.0,13
+13,"Nonfinancial noncorporate business; withdrawals from income of quasi-corporations, paid(1)",FA116122001,1112.2,1008.3,1074.5,1238.4,1333.8,1402.3,1483.8,1533.7,14
+14,Nonfinancial noncorporate business; reinvested earnings on foreign direct investment in U.S.; paid,FA113192281,0.1,0.0,0.1,0.2,0.2,0.2,0.2,0.3,15
+15,Nonfinancial noncorporate business; rents on land and natural resources paid,FA116112001,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16
+16,"Nonfinancial noncorporate business; net national income/balance of primary incomes, net",FA116140001,15.0,21.0,23.0,25.5,27.3,29.8,29.4,25.6,17
+17,Nonfinancial noncorporate business; other current transfers paid,FA116403001,15.0,21.0,23.0,25.5,27.3,29.8,29.4,25.6,18
+18,"Nonfinancial noncorporate business; disposable income, net; net saving",FA116012005,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19
+19,"Nonfinancial noncorporate business; disposable income, net; net saving",FA116012005,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20
+20,Nonfinancial noncorporate business; net saving less net capital transfers paid,FA116006305,3.3,6.0,7.8,1.6,4.9,0.0,-0.0,0.0,21
+21,"Nonfinancial noncorporate business; disposable income, net; net saving",FA116012005,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22
+22,Nonfinancial noncorporate business; net capital transfers paid,FA115440005,-3.3,-6.0,-7.8,-1.6,-4.9,-0.0,0.0,0.0,23
+23,"Nonfinancial noncorporate business; capital formation, net",FA115050985,50.8,-21.0,-5.1,16.7,35.6,70.9,75.9,85.6,24
+24,Nonfinancial noncorporate business; gross fixed investment (IMA),FA115019085,307.5,248.8,243.1,274.8,312.6,336.5,366.9,382.0,25
+25,Nonfinancial noncorporate business; nonresidential gross fixed capital formation,FA115013085,223.8,182.9,184.9,214.6,243.7,256.7,277.9,280.7,26
+26,"Nonfinancial noncorporate business; gross fixed investment, residential equipment and structures",FA115012005,83.7,65.8,58.3,60.2,68.9,79.7,89.1,101.3,27
+27,"Nonfinancial noncorporate business; consumption of fixed capital, structures, equipment, and intellectual property products, current cost basis",FA116300001,254.5,253.0,251.8,265.0,273.0,284.4,298.6,308.7,28
+28,Nonfinancial noncorporate business; inventories,FA115020005,-2.3,-16.8,3.6,6.8,-4.0,18.8,7.6,12.2,29
+29,Nonfinancial noncorporate business; net lending (+) or borrowing (-) (capital account),FA115000905,-47.5,27.0,12.8,-15.1,-30.7,-70.9,-75.9,-85.6,30
+30,Nonfinancial noncorporate business; net lending (+) or borrowing (-) (capital account),FA115000905,-47.5,27.0,12.8,-15.1,-30.7,-70.9,-75.9,-85.6,31
+31,Nonfinancial noncorporate business; total financial assets,FA114090005,97.3,-117.1,152.0,196.9,301.1,304.5,442.6,319.3,32
+32,Nonfinancial noncorporate business; total currency and deposits; asset,FA114000005,2.5,10.1,0.2,30.6,69.3,23.5,85.0,67.6,33
+33,Nonfinancial noncorporate business; checkable deposits and currency; asset,FA113020005,3.8,14.9,-2.7,24.6,59.3,12.0,69.3,40.1,34
+34,Nonfinancial noncorporate business; total time and savings deposits; asset,FA113030003,-1.2,-4.8,2.9,6.0,10.1,11.5,15.7,27.5,35
+35,Nonfinancial noncorporate business; debt securities; asset,FA114022005,-7.9,-5.5,2.5,1.1,4.2,0.5,1.7,4.2,36
+36,Nonfinancial noncorporate business; total U.S. government securities; asset,FA113061003,-7.5,-5.7,1.9,0.8,4.0,2.2,2.0,3.9,37
+37,Nonfinancial noncorporate business; municipal securities; asset,FA113062003,-0.4,0.2,0.5,0.3,0.2,-1.7,-0.3,0.3,38
+38,Nonfinancial noncorporate business; loans; asset,FA114023005,-3.0,-1.2,4.2,-5.8,-2.4,1.0,-0.4,2.4,39
+39,Nonfinancial noncorporate business; consumer credit; asset,FA113066003,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40
+40,Nonfinancial noncorporate business; total mortgages; asset,FA113065005,-3.0,-1.2,4.2,-5.8,-2.4,1.0,-0.4,2.4,41
+41,Nonfinancial noncorporate business; equity and investment fund shares; asset,FA113081005,2.2,-1.7,3.5,1.1,3.2,2.6,3.7,6.4,42
+42,Nonfinancial noncorporate business; money market mutual fund shares; asset,FA113034003,1.0,-1.7,3.1,0.8,3.0,2.0,2.9,5.9,43
+43,Nonfinancial noncorporate business; equity in Farm Credit System; asset(2),FA113092405,1.2,-0.0,0.4,0.3,0.1,0.6,0.7,0.5,44
+44,Nonfinancial noncorporate business; insurance receivables due from property-casualty insurance companies; asset(3),FA113076005,3.4,-9.8,29.9,-4.7,15.4,-26.1,12.8,-10.2,45
+45,Nonfinancial noncorporate business; other accounts receivable; asset,FA113096005,100.0,-109.0,111.8,174.5,211.4,303.0,339.9,248.9,46
+46,Nonfinancial noncorporate business; trade receivables; asset,FA113070003,-3.0,-26.3,37.0,61.0,4.6,48.8,21.2,46.0,47
+47,Nonfinancial noncorporate business; unidentified miscellaneous assets,FA113093005,102.9,-82.7,74.7,113.5,206.9,254.1,318.7,202.9,48
+48,Nonfinancial noncorporate business; total liabilities,FA114190005,134.4,-161.8,122.4,211.9,331.8,375.4,518.6,404.9,49
+49,Nonfinancial noncorporate business; loans; liability,FA114123005,325.5,-97.1,-19.5,-56.8,175.3,109.0,283.9,303.4,50
+50,Nonfinancial noncorporate business; short-term loans; liability,FA114141005,131.8,-107.3,-12.1,-25.9,73.8,28.4,96.1,103.6,51
+51,Nonfinancial noncorporate business; depository institution loans n.e.c.; liability,FA113168005,119.6,-102.0,-16.8,-26.5,64.6,22.3,86.7,97.9,52
+52,Nonfinancial noncorporate business; other loans and advances; liability,FA113169005,12.3,-5.3,4.7,0.6,9.2,6.1,9.3,5.8,53
+53,Nonfinancial noncorporate business; total mortgages; liability,FA113165005,193.7,10.2,-7.4,-30.9,101.5,80.7,187.8,199.7,54
+54,Nonfinancial noncorporate business; equity and investment fund shares; liability,FA113181005,-317.9,-108.0,166.7,234.4,83.6,187.6,140.7,18.7,55
+55,Nonfinancial noncorporate business; proprietors' equity in noncorporate business (net worth),FA112090205,-317.7,-108.1,166.4,234.4,82.8,187.2,138.3,16.9,56
+56,Nonfinancial noncorporate business; U.S. real estate owned by foreigners; liability,FA115114005,-0.2,0.1,0.3,0.0,0.8,0.4,2.5,1.8,57
+57,Nonfinancial noncorporate business; other accounts payable; liability,FA113196005,126.8,43.3,-24.8,34.4,73.0,78.7,94.0,82.8,58
+58,Nonfinancial noncorporate business; trade payables; liability,FA113170005,5.8,16.9,30.3,54.8,13.6,33.7,9.2,51.0,59
+59,Nonfinancial noncorporate business; taxes payable; liability,FA113178003,6.7,-6.3,-0.7,0.6,7.6,3.2,6.8,3.4,60
+60,Nonfinancial noncorporate business; unidentified miscellaneous liabilities,FA113193003,114.3,32.6,-54.3,-21.0,51.8,41.8,77.9,28.4,61
+61,Nonfinancial noncorporate business; net lending (+) or borrowing (-) (financial account),FA115000005,-37.1,44.8,29.5,-15.1,-30.7,-70.9,-75.9,-85.5,62
+62,Nonfinancial noncorporate business; total other volume changes (IMA),FV118090105,-315.4,-96.6,181.5,241.8,81.1,191.7,140.8,19.3,63
+63,Nonfinancial noncorporate business; nonfinancial assets,FV112010005,-4.4,0.0,0.0,0.0,-8.6,0.0,0.0,0.0,64
+64,Nonfinancial noncorporate business; other volume changes excluding disaster losses (IMA),FV118090085,-311.0,-96.6,181.5,241.8,89.7,191.7,140.8,19.3,65
+65,Nonfinancial noncorporate business; nonfinancial assets,FR112010005,-1165.3,-1117.8,442.4,416.5,666.7,961.9,631.3,714.8,66
+66,Nonfinancial noncorporate business; real estate at market value,FR115035005,-1200.9,-1143.6,382.9,370.0,656.1,972.0,622.5,758.7,67
+67,Nonfinancial noncorporate business; residential real estate at market value,FR115035023,-838.8,-441.4,151.5,231.5,360.8,520.5,280.8,495.3,68
+68,Nonfinancial noncorporate business; nonresidential real estate at market value,FR115035035,-362.1,-702.2,231.4,138.6,295.3,451.5,341.7,263.4,69
+69,"Nonfinancial noncorporate business; equipment, current cost basis",FR115015205,34.6,18.7,21.6,16.5,6.5,7.4,4.9,0.9,70
+70,"Nonfinancial noncorporate business; residential equipment, current cost basis",FR115012265,0.1,-2.7,-2.3,1.0,-0.3,-2.0,-2.3,-1.5,71
+71,"Nonfinancial noncorporate business; nonresidential equipment, current cost basis",FR115013265,34.4,21.4,23.9,15.6,6.8,9.4,7.2,2.3,72
+72,"Nonfinancial noncorporate business; nonresidential intellectual property products, current cost basis",FR115013765,6.4,7.5,7.2,2.3,2.2,3.8,2.0,2.8,73
+73,Nonfinancial noncorporate business; inventories,FR115020005,-5.4,-0.3,30.7,27.6,2.0,-21.3,1.9,-47.6,74
+74,Nonfinancial noncorporate business; U.S. real estate owned by foreigners; liability,FR115114005,0.3,1.0,0.2,0.8,-0.5,0.3,0.6,-0.3,75
+75,Nonfinancial noncorporate business; changes in net worth due to nominal holding gains/losses (IMA),FR118200005,-1165.6,-1118.8,442.2,415.7,667.2,961.5,630.7,715.1,76
+76,Nonfinancial noncorporate business; proprietors' equity in noncorporate business (net worth),FC112090205,-1477.7,-1209.4,631.4,659.1,753.2,1153.2,771.5,734.4,77
+77,Nonfinancial noncorporate business; total assets,FL112000005,13121.3,11847.7,12420.3,13050.3,14045.1,15382.4,16532.3,17652.0,78
+78,Nonfinancial noncorporate business; nonfinancial assets,FL112010005,9427.9,8271.4,8692.0,9125.2,9818.9,10851.6,11558.9,12359.3,79
+79,Nonfinancial noncorporate business; real estate at market value,LM115035005,8310.1,7169.3,7536.1,7896.5,8552.2,9539.8,10190.8,10985.8,80
+80,Nonfinancial noncorporate business; residential real estate at market value(4),LM115035023,4597.7,4146.4,4280.9,4497.9,4844.8,5366.2,5652.9,6164.4,81
+81,Nonfinancial noncorporate business; nonresidential real estate at market value,LM115035035,3712.3,3023.0,3255.2,3398.6,3707.3,4173.6,4537.9,4821.4,82
+82,"Nonfinancial noncorporate business; equipment, current cost basis",FL115015205,699.6,696.3,709.2,740.7,772.6,810.7,849.1,879.5,83
+83,"Nonfinancial noncorporate business; residential equipment, current cost basis",FL115012265,46.6,44.0,42.2,43.9,44.4,43.5,42.7,43.0,84
+84,"Nonfinancial noncorporate business; nonresidential equipment, current cost basis",FL115013265,653.0,652.4,667.0,696.8,728.3,767.2,806.4,836.5,85
+85,"Nonfinancial noncorporate business; nonresidential intellectual property products, current cost basis",FL115013765,178.6,183.2,189.9,196.6,204.7,214.3,222.7,233.0,86
+86,Nonfinancial noncorporate business; inventories,FL115020005,239.6,222.5,256.9,291.3,289.3,286.8,296.3,261.0,87
+87,Nonfinancial noncorporate business; total financial assets,FL114090005,3693.4,3576.3,3728.3,3925.1,4226.3,4530.8,4973.4,5292.7,88
+88,Nonfinancial noncorporate business; total currency and deposits; asset,FL114000005,877.6,887.7,887.9,918.5,987.8,1011.3,1096.3,1164.0,89
+89,Nonfinancial noncorporate business; checkable deposits and currency; asset,FL113020005,519.5,534.4,531.6,556.3,615.5,627.5,696.8,736.9,90
+90,Nonfinancial noncorporate business; total time and savings deposits; asset,FL113030003,358.1,353.3,356.2,362.2,372.3,383.8,399.5,427.0,91
+91,Nonfinancial noncorporate business; debt securities; asset,FL114022005,56.7,51.2,53.7,54.8,59.0,59.5,61.2,65.4,92
+92,Nonfinancial noncorporate business; total U.S. government securities; asset,FL113061003,51.8,46.1,48.1,48.9,52.9,55.2,57.2,61.1,93
+93,Nonfinancial noncorporate business; municipal securities; asset,FL113062003,4.9,5.1,5.6,5.9,6.1,4.4,4.0,4.3,94
+94,Nonfinancial noncorporate business; loans; asset,FL114023005,39.1,37.9,42.1,36.3,33.9,34.8,34.5,36.8,95
+95,Nonfinancial noncorporate business; consumer credit; asset,FL113066003,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,96
+96,Nonfinancial noncorporate business; total mortgages; asset,FL113065005,39.1,37.9,42.1,36.3,33.9,34.8,34.5,36.8,97
+97,Nonfinancial noncorporate business; equity and investment fund shares; asset,FL113081005,81.7,80.1,83.5,84.7,87.8,90.4,94.1,100.5,98
+98,Nonfinancial noncorporate business; money market mutual fund shares; asset,FL113034003,75.4,73.7,76.8,77.7,80.7,82.7,85.6,91.5,99
+99,Nonfinancial noncorporate business; equity in Farm Credit System; asset(2),FL113092405,6.4,6.3,6.7,7.0,7.2,7.7,8.5,9.0,100
+100,Nonfinancial noncorporate business; insurance receivables due from property-casualty insurance companies; asset(3),FL113076005,111.6,101.8,131.7,127.0,142.5,116.4,129.1,118.9,101
+101,Nonfinancial noncorporate business; other accounts receivable; asset,FL113096005,2526.6,2417.6,2529.4,2703.9,2915.3,3218.3,3558.1,3807.1,102
+102,Nonfinancial noncorporate business; trade receivables; asset,FL113070003,522.7,496.3,533.4,594.4,598.9,647.8,668.9,715.0,103
+103,Nonfinancial noncorporate business; unidentified miscellaneous assets,FL113093005,2003.9,1921.3,1996.0,2109.5,2316.4,2570.5,2889.2,3092.1,104
+104,Nonfinancial noncorporate business; total liabilities and net worth,FL112100005,13121.3,11847.7,12420.3,13050.3,14045.1,15382.4,16532.3,17652.0,105
+105,Nonfinancial noncorporate business; total liabilities,FL114190005,5795.2,5731.0,5672.2,5643.0,5884.7,6068.7,6447.1,6832.4,106
+106,Nonfinancial noncorporate business; loans; liability,FL114123005,4094.0,3985.4,3950.9,3886.6,4057.5,4162.1,4443.4,4744.4,107
+107,Nonfinancial noncorporate business; short-term loans; liability,FL114141005,1223.7,1116.4,1098.2,1072.3,1148.6,1176.9,1273.0,1376.6,108
+108,Nonfinancial noncorporate business; depository institution loans n.e.c.; liability,FL113168005,1046.2,944.2,927.4,900.9,968.0,990.3,1077.1,1174.9,109
+109,Nonfinancial noncorporate business; other loans and advances; liability,FL113169005,177.4,172.1,170.8,171.3,180.6,186.6,196.0,201.7,110
+110,Nonfinancial noncorporate business; total mortgages; liability,FL113165005,2870.3,2869.0,2852.7,2814.3,2908.9,2985.1,3170.4,3367.7,111
+111,Nonfinancial noncorporate business; U.S. real estate owned by foreigners; liability,FL115114005,3.7,4.8,5.3,6.1,6.3,7.1,10.2,11.8,112
+112,Nonfinancial noncorporate business; other accounts payable; liability,FL113196005,1697.6,1740.8,1716.0,1750.4,1820.9,1899.6,1993.5,2076.3,113
+113,Nonfinancial noncorporate business; trade payables; liability,FL113170005,380.7,397.6,427.8,482.7,493.8,527.5,536.7,587.7,114
+114,Nonfinancial noncorporate business; taxes payable; liability,FL113178003,106.2,99.9,99.2,99.7,107.4,110.5,117.4,120.8,115
+115,Nonfinancial noncorporate business; unidentified miscellaneous liabilities,FL113193003,1210.7,1243.3,1189.0,1168.0,1219.7,1261.5,1339.4,1367.9,116
+116,Nonfinancial noncorporate business; proprietors' equity in noncorporate business (net worth),FL112090205,7326.1,6116.7,6748.1,7407.3,8160.4,9313.7,10085.1,10819.6,117

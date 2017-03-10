@@ -1,0 +1,20 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,"Life insurance companies, separate accounts; total financial assets",FL544090085,2420.0,2397.3,2482.1,2360.8,2397.3,2399.9,2426.4,2488.1,2482.1,1
+1,"Life insurance companies, separate accounts; checkable deposits and currency; asset",FL543020083,15.4,13.7,14.0,13.8,13.7,12.9,13.0,13.3,14.0,2
+2,"Life insurance companies, separate accounts; variable annuity money market mutual fund shares; asset",FL543034385,25.7,27.6,25.0,29.7,27.6,27.9,24.7,25.2,25.0,3
+3,"Life insurance companies, separate accounts; debt securities; asset",LM544022085,328.1,363.6,395.1,365.5,363.6,384.3,397.5,403.2,395.1,4
+4,"Life insurance companies, separate accounts; commercial paper; asset",LM543069183,22.3,19.8,21.1,20.0,19.8,19.8,20.1,20.4,21.1,5
+5,"Life insurance companies, separate accounts; Treasury securities; asset",LM543061183,45.8,56.4,60.7,56.6,56.4,59.9,62.0,62.5,60.7,6
+6,"Life insurance companies, separate accounts; agency- and GSE-backed securities; asset",LM543061783,73.4,73.7,79.1,74.0,73.7,77.3,79.1,80.1,79.1,7
+7,"Life insurance companies, separate accounts; municipal securities; asset",LM543062083,6.9,8.3,9.0,8.3,8.3,8.8,9.1,9.2,9.0,8
+8,"Life insurance companies, separate accounts; corporate and foreign bonds; asset",LM543063085,179.7,205.3,225.3,206.6,205.3,218.4,227.2,231.0,225.3,9
+9,"Life insurance companies, separate accounts; loans; asset",FL544023085,12.1,25.5,27.1,25.6,25.5,25.7,26.1,26.5,27.1,10
+10,"Life insurance companies, separate accounts; policy loans; asset",FL543069483,0.4,5.0,5.5,5.2,5.0,5.2,5.3,5.4,5.5,11
+11,"Life insurance companies, separate accounts; total mortgages; asset",FL543065083,11.8,20.5,21.6,20.4,20.5,20.5,20.8,21.1,21.6,12
+12,"Life insurance companies, separate accounts; corporate equities; asset",LM543064183,234.4,225.0,235.2,212.9,225.0,223.0,224.9,231.0,235.2,13
+13,"Life insurance companies, separate accounts; mutual fund shares, including variable annuity mutual fund shares; asset",LM543064285,1696.2,1628.3,1680.2,1585.7,1628.3,1616.1,1632.5,1678.8,1680.2,14
+14,"Life insurance companies, separate accounts; total miscellaneous assets",FL543090085,108.0,113.7,105.3,127.7,113.7,110.0,107.7,110.2,105.3,15
+15,"Life insurance companies, separate accounts; total liabilities",FL544190085,2421.3,2410.8,2496.4,2369.9,2410.8,2413.7,2440.3,2502.4,2496.4,16
+16,"Life insurance companies, separate accounts; life insurance reserves; liability",FL543140083,283.4,317.8,321.8,310.2,317.8,310.1,313.5,321.5,321.8,17
+17,"Life insurance companies, separate accounts; pension entitlements, excluding unallocated insurance contracts; liability(1)",FL543150085,1825.4,1793.6,1868.1,1749.5,1793.6,1802.8,1821.3,1867.4,1868.1,18
+18,"Life insurance companies, separate accounts; total miscellaneous liabilities",FL543190085,312.5,299.3,306.5,310.2,299.3,300.8,305.5,313.5,306.5,19

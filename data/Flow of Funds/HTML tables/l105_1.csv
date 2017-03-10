@@ -1,0 +1,37 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,General government; total financial assets,FL364090005,4859.3,5208.5,5539.5,5002.5,5208.5,5253.5,5358.6,5436.6,5539.5,1
+1,Federal government; U.S. official reserve assets,FL313011005,98.0,86.9,86.9,89.2,86.9,88.0,88.1,90.0,86.9,2
+2,General government; checkable deposits and currency; asset,FL363020005,368.1,470.6,542.7,333.8,470.6,451.2,499.3,489.6,542.7,3
+3,General government; total time and savings deposits; asset,FL363030005,323.3,336.9,342.3,328.4,336.9,341.7,337.1,331.0,342.3,4
+4,"State and local governments, excluding employee retirement funds; money market mutual fund shares; asset",FL213034003,165.1,177.3,183.2,173.6,177.3,178.2,179.3,182.1,183.2,5
+5,"State and local governments, excluding employee retirement funds; security repurchase agreements; asset",FL212051003,131.8,142.0,146.7,138.9,142.0,142.8,143.6,145.8,146.7,6
+6,General government; debt securities; asset,FL364022005,1307.5,1338.5,1402.8,1332.1,1338.5,1340.9,1367.5,1394.5,1402.8,7
+7,"State and local governments, excluding employee retirement funds; commercial paper; asset",FL213069103,66.1,63.3,62.3,65.6,63.3,60.6,61.0,61.9,62.3,8
+8,"State and local governments, excluding employee retirement funds; Treasury securities, including SLGS; asset",FL213061105,621.6,666.1,717.5,643.0,666.1,679.7,697.2,713.4,717.5,9
+9,General government; agency- and GSE-backed securities; asset,FL363061705,437.0,415.7,423.2,433.3,415.7,406.1,413.7,420.5,423.2,10
+10,"State and local governments, excluding employee retirement funds; municipal securities; asset",FL213062003,13.6,14.4,14.9,14.1,14.4,14.5,14.6,14.8,14.9,11
+11,General government; corporate and foreign bonds; asset,FL363063005,169.2,179.1,185.0,176.0,179.1,180.1,181.2,183.9,185.0,12
+12,General government; loans; asset,FL364023005,1367.9,1485.8,1598.7,1465.8,1485.8,1527.7,1540.8,1580.4,1598.7,13
+13,General government; total mortgages; asset,FL363065005,326.3,337.9,348.4,334.5,337.9,340.0,341.3,344.9,348.4,14
+14,"Federal government; consumer credit, student loans; asset",FL313066220,846.2,949.7,1050.1,936.5,949.7,989.7,1001.1,1036.7,1050.1,15
+15,Federal government; other loans and advances; asset,FL313069005,195.4,198.2,200.2,194.8,198.2,198.0,198.4,198.8,200.2,16
+16,General government; corporate equities; asset,LM363064105,207.1,211.5,224.2,204.5,211.5,212.3,214.9,220.1,224.2,17
+17,"State and local governments, excluding employee retirement funds; mutual fund shares; asset",LM213064203,84.3,86.5,93.1,82.9,86.5,87.0,88.3,91.0,93.1,18
+18,General government; trade receivables; asset,FL363070005,232.2,245.6,257.5,235.3,245.6,248.0,252.4,257.4,257.5,19
+19,General government; taxes receivable; asset,FL363078005,302.9,329.9,347.0,323.6,329.9,332.7,340.6,343.6,347.0,20
+20,General government; total miscellaneous assets,FL363090005,271.2,297.1,314.4,294.3,297.1,303.0,306.8,311.0,314.4,21
+21,General government; total liabilities,FL364190005,22250.7,23384.2,24404.6,23044.4,23384.2,23759.4,23846.0,24083.9,24404.6,22
+22,Federal government; special drawing rights (SDRs) allocations; liability,FL313111303,51.2,48.9,47.5,49.6,48.9,49.8,49.4,49.3,47.5,23
+23,Monetary authority; SDR certificates issued by federal government; asset,FL713014003,5.2,5.2,5.2,5.2,5.2,5.2,5.2,5.2,5.2,24
+24,Federal government; Treasury currency; liability,FL313112003,25.3,25.3,25.3,25.3,25.3,25.3,25.3,25.3,25.3,25
+25,General government; debt securities; liability,FL364122005,17458.7,18191.8,19062.6,17434.1,18191.8,18444.4,18470.7,18721.9,19062.6,26
+26,Federal government; debt securities; liability,FL314122005,14441.1,15165.6,16008.3,14400.8,15165.6,15401.8,15409.7,15668.3,16008.3,27
+27,"State and local governments, excluding employee retirement funds; municipal securities; liability",FL213162005,3017.6,3026.2,3054.3,3033.3,3026.2,3042.7,3061.0,3053.6,3054.3,28
+28,General government; loans; liability,FL364123005,16.6,16.9,17.8,16.7,16.9,17.1,17.1,16.9,17.8,29
+29,Federal government; multifamily residential mortgages; liability,FL313165403,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30
+30,"State and local governments, excluding employee retirement funds; U.S. government loans; liability",FL213169203,16.6,16.9,17.8,16.7,16.9,17.1,17.1,16.9,17.8,31
+31,General government; trade payables; liability,FL363170005,1073.4,1125.8,1181.5,1121.5,1125.8,1144.1,1161.9,1174.5,1181.5,32
+32,Federal government; life insurance reserves; liability,FL313140003,51.3,51.1,51.3,50.8,51.1,51.1,51.2,51.3,51.3,33
+33,General government; total miscellaneous liabilities,FL363190005,3569.1,3919.1,4013.4,4341.2,3919.1,4022.6,4065.1,4039.5,4013.4,34
+34,General government (consolidated); total financial assets(2),FL374090005,4221.1,4525.6,4804.2,4342.9,4525.6,4556.7,4644.3,4706.3,4804.2,35
+35,General government (consolidated); total liabilities(2),FL374190005,21612.5,22701.3,23669.4,22384.7,22701.3,23062.6,23131.7,23353.6,23669.4,36

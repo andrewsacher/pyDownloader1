@@ -1,0 +1,38 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Rest of the world; total financial assets,FL264090005,22973.9,22767.1,23918.5,22760.7,22767.1,23159.1,23622.2,23998.0,23918.5,1
+1,Federal government; special drawing rights (SDRs) allocations; liability,FL313111303,51.2,48.9,47.5,49.6,48.9,49.8,49.4,49.3,47.5,2
+2,Rest of the world; net interbank transactions with banks in foreign countries; asset,FL264016005,445.2,326.6,133.4,397.9,326.6,286.4,316.5,222.4,133.4,3
+3,Rest of the world; U.S. checkable deposits and currency; asset,FL263020005,674.1,706.8,764.3,693.0,706.8,727.2,740.5,748.7,764.3,4
+4,Rest of the world; U.S. total time and savings deposits; asset,FL263030005,499.1,480.1,543.7,473.9,480.1,498.3,521.2,529.6,543.7,5
+5,Rest of the world; U.S. money market mutual fund shares; asset,FL263034003,113.2,114.5,113.4,110.9,114.5,114.7,111.9,111.0,113.4,6
+6,Rest of the world; security repurchase agreements; asset,FL262051003,811.0,667.6,734.6,749.8,667.6,705.5,746.6,746.7,734.6,7
+7,"Rest of the world; debt securities, excluding negotiable certificates of deposit; asset",FL264022005,10172.2,10358.7,10697.4,10354.5,10358.7,10681.0,10864.6,10923.0,10697.4,8
+8,Rest of the world; commercial paper; asset,LM263069103,107.9,104.1,134.9,100.8,104.1,101.5,108.8,127.7,134.9,9
+9,Rest of the world; Treasury securities; asset,LM263061105,6156.0,6148.1,6002.1,6106.3,6148.1,6287.0,6278.9,6154.9,6002.1,10
+10,Rest of the world; Treasury bills and certificates; asset,LM263061110,671.6,724.7,669.7,667.1,724.7,724.9,684.0,695.6,669.7,11
+11,"Rest of the world; other Treasury securities, excluding Treasury bills and certificates; asset",LM263061120,5484.4,5423.4,5332.4,5439.2,5423.4,5562.1,5594.9,5459.3,5332.4,12
+12,Rest of the world; agency- and GSE-backed securities; asset,LM263061705,899.6,913.5,987.9,939.1,913.5,947.3,977.8,1010.7,987.9,13
+13,Rest of the world; municipal securities; asset,FL263062003,80.6,87.5,106.4,86.4,87.5,88.2,89.8,92.1,106.4,14
+14,Rest of the world; corporate and foreign bonds; asset(1),LM263063005,2928.0,3105.5,3466.0,3121.9,3105.5,3257.0,3409.2,3537.6,3466.0,15
+15,Rest of the world; U.S. nonfinancial business loans; asset,FL263069500,170.6,207.5,214.1,195.2,207.5,214.0,202.8,209.4,214.1,16
+16,Rest of the world; U.S. corporate equities; asset,LM263064105,5921.5,5507.3,5828.0,5377.9,5507.3,5408.0,5428.7,5693.0,5828.0,17
+17,Rest of the world; U.S. mutual fund shares; asset,LM263064203,607.8,597.1,662.1,610.6,597.1,613.9,626.0,671.2,662.1,18
+18,Rest of the world; trade receivables; asset,FL263070003,161.7,175.6,180.7,176.3,175.6,180.4,185.2,182.0,180.7,19
+19,Rest of the world; foreign direct investment in U.S.; asset (current cost)(2),FL263092001,3346.3,3576.4,3999.4,3571.1,3576.4,3679.8,3828.8,3911.7,3999.4,20
+20,Rest of the world; total liabilities,FL264190005,10515.4,10393.2,10811.5,10567.9,10393.2,10681.1,10883.0,10952.8,10811.5,21
+21,Rest of the world; U.S. official reserve assets; liability(3),FL263111005,118.9,106.4,106.2,109.0,106.4,108.5,109.0,111.3,106.2,22
+22,"Rest of the world; U.S. private deposits, including negotiable certificates of deposit; liability",FL263191005,827.4,585.9,544.5,667.6,585.9,624.5,579.2,565.3,544.5,23
+23,Rest of the world; security repurchase agreements; liability,FL262151003,708.2,783.0,871.5,850.6,783.0,851.1,946.9,928.9,871.5,24
+24,"Rest of the world; debt securities, excluding negotiable certificates of deposit; liability",FL264122005,2866.9,2717.3,2773.6,2788.0,2717.3,2782.8,2835.3,2854.8,2773.6,25
+25,Rest of the world; commercial paper; liability,FL263169105,385.6,444.8,360.0,447.8,444.8,467.3,469.2,385.7,360.0,26
+26,Rest of the world; bonds; liability,LM263163005,2481.4,2272.5,2413.6,2340.2,2272.5,2315.4,2366.1,2469.1,2413.6,27
+27,Rest of the world; loans; liability,FL264123005,339.2,362.6,346.9,359.1,362.6,363.4,362.8,356.4,346.9,28
+28,Rest of the world; depository institution loans n.e.c.; liability,FL263168005,305.3,328.0,312.6,325.1,328.0,328.7,328.6,321.6,312.6,29
+29,Rest of the world; other loans and advances; liability,FL263169005,33.9,34.6,34.4,34.1,34.6,34.8,34.2,34.9,34.4,30
+30,Rest of the world; trade credit and advances; liability,FL263170003,47.0,44.7,46.4,45.7,44.7,48.0,45.7,47.0,46.4,31
+31,"Rest of the world; U.S. direct investment abroad, including Netherlands Antillean Financial subsidiaries; liability (current cost)",FL263192005,5457.9,5648.6,5970.8,5593.2,5648.6,5756.7,5836.9,5922.2,5970.8,32
+32,Rest of the world; total miscellaneous liabilities,FL263190005,149.8,144.6,151.6,154.7,144.6,145.9,167.3,166.9,151.6,33
+33,"Federal government; U.S. equity in IBRD, etc.; asset",FL313092803,62.4,64.6,66.6,64.6,64.6,66.3,66.5,66.6,66.6,34
+34,Rest of the world; nonofficial U.S. currencies; liability,FL263191103,4.2,3.6,8.2,3.3,3.6,2.8,5.6,9.6,8.2,35
+35,Rest of the world; net transactions due to holding companies; liability,FL263194735,83.3,76.4,76.8,86.8,76.4,76.8,95.1,90.7,76.8,36
+36,Rest of the world; foreign corporate equities including foreign investment fund shares; liability,LM263164103,6770.6,6828.2,7128.5,6605.6,6828.2,6738.8,6796.8,7218.1,7128.5,37

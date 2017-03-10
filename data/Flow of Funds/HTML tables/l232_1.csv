@@ -1,0 +1,30 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,"Federal government; U.S. equity in IBRD, etc.; asset",FL313092803,62.4,64.6,66.6,64.6,64.6,66.3,66.5,66.6,66.6,1
+1,"Federal government; U.S. equity in IBRD, etc.; asset",FL313092803,62.4,64.6,66.6,64.6,64.6,66.3,66.5,66.6,66.6,2
+2,Monetary authority; Federal Reserve bank stock; liability,FL713164003,28.6,29.5,30.4,29.3,29.5,30.1,30.1,30.2,30.4,3
+3,Monetary authority; Federal Reserve bank stock; liability,FL713164003,28.6,29.5,30.4,29.3,29.5,30.1,30.1,30.2,30.4,4
+4,Government-sponsored enterprises; equity in government-sponsored enterprises (GSEs); liability,FL403192405,42.9,44.2,46.9,42.3,44.2,42.7,45.4,46.0,46.9,5
+5,Nonfinancial corporate business; equity in Fannie Mae and Farm Credit System; asset,FL103092405,0.7,0.8,0.9,0.8,0.8,0.9,1.0,0.9,0.9,6
+6,Nonfinancial noncorporate business; equity in Farm Credit System; asset,FL113092405,8.5,9.0,9.7,8.8,9.0,9.1,9.5,9.7,9.7,7
+7,Federal government; equity in government-sponsored enterprises (GSEs); asset,FL313092403,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8
+8,U.S.-chartered depository institutions; equity in FHLB; asset,FL763092405,27.3,25.9,28.1,24.4,25.9,24.3,26.7,26.9,28.1,9
+9,Credit unions; equity in FHLB; asset,FL473092403,2.9,3.3,3.2,3.3,3.3,3.5,3.2,3.4,3.2,10
+10,Property-casualty insurance companies; equity in FHLB; asset,FL513092403,0.1,0.1,0.2,0.1,0.1,0.1,0.2,0.2,0.2,11
+11,"Life insurance companies, general accounts; equity in FHLB; asset",FL543092473,3.0,3.4,3.7,3.5,3.4,3.5,3.6,3.7,3.7,12
+12,Finance companies; equity in FHLB; asset,FL613092403,0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,13
+13,Mortgage real estate investment trusts; equity in FHLB; asset,FL643092473,0.3,1.4,0.9,1.1,1.4,1.1,1.0,1.0,0.9,14
+14,"U.S.-chartered depository institutions; net transactions due to holding companies, excluding foreign bank subsidiaries; liability",FL763194735,2133.2,2175.3,2293.5,2162.3,2175.3,2213.1,2284.4,2320.8,2293.5,15
+15,Property-casualty insurance companies; net transactions due to holding companies; liability,FL513194733,5.3,4.5,4.3,4.8,4.5,4.0,4.4,4.0,4.3,16
+16,Life insurance companies; net transactions due to holding companies; liability,FL543194733,11.5,12.0,13.3,12.1,12.0,12.9,13.7,14.0,13.3,17
+17,Finance companies; net transactions due to holding companies; liability,FL613194733,62.2,59.7,51.2,58.3,59.7,56.1,56.2,53.1,51.2,18
+18,Security brokers and dealers; net transactions due to holding companies; liability,FL663194735,1092.4,1028.4,1140.0,1140.1,1028.4,1051.0,983.7,1112.5,1140.0,19
+19,Rest of the world; net transactions due to holding companies; liability,FL263194735,83.3,76.4,76.8,86.8,76.4,76.8,95.1,90.7,76.8,20
+20,Holding companies; net transactions due from own subsidiaries; asset,FL733094703,3387.9,3356.3,3579.0,3464.4,3356.3,3414.0,3437.4,3595.2,3579.0,21
+21,Nonfinancial corporate business; equity investment in finance company subsidiaries; asset,FL103094105,100.5,96.4,82.6,94.2,96.4,90.6,90.8,85.8,82.6,22
+22,Nonfinancial corporate business; equity investment in finance company subsidiaries; asset,FL103094105,100.5,96.4,82.6,94.2,96.4,90.6,90.8,85.8,82.6,23
+23,Foreign banking offices in the U.S.; equity investment by funding corporations; liability,FL753194503,103.2,105.4,99.4,108.4,105.4,127.1,114.9,105.8,99.4,24
+24,Security brokers and dealers; investment by funding corporations; liability,FL663194505,607.4,643.6,679.1,632.7,643.6,671.8,686.7,676.0,679.1,25
+25,Funding corporations; equity investment in own subsidiaries; asset,FL503094505,710.6,749.0,778.5,741.0,749.0,798.9,801.6,781.8,778.5,26
+26,Funding corporations; equity investment in funds associated with PPIP; liability,FL503194305,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27
+27,Households and nonprofit organizations; equity investment in funding corporations under PPIP; asset(1),FL153094305,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28
+28,Federal government; equity investment in funding corporations under PPIP; asset,FL313094303,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29

@@ -1,0 +1,44 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Nonfinancial corporate business; total financial assets,FL104090005,17274.4,18173.0,19223.9,17882.4,18173.0,18385.1,18723.5,18998.2,19223.9,1
+1,Nonfinancial corporate business; private foreign deposits; asset,FL103091003,69.7,48.8,52.3,49.8,48.8,38.2,49.8,52.6,52.3,2
+2,Nonfinancial corporate business; checkable deposits and currency; asset,FL103020005,347.2,334.3,401.2,355.5,334.3,334.6,381.1,402.7,401.2,3
+3,Nonfinancial corporate business; total time and savings deposits; asset,FL103030003,613.1,582.1,616.0,595.9,582.1,579.7,584.2,624.9,616.0,4
+4,Nonfinancial corporate business; money market mutual fund shares; asset,FL103034003,558.2,576.8,583.1,558.8,576.8,574.6,577.0,575.2,583.1,5
+5,Nonfinancial corporate business; security repurchase agreements; asset,FL102051003,21.7,27.7,25.9,27.0,27.7,24.5,23.3,23.4,25.9,6
+6,Nonfinancial corporate business; debt securities; asset,FL104022005,133.3,126.5,146.4,117.5,126.5,134.5,130.9,151.5,146.4,7
+7,Nonfinancial corporate business; commercial paper; asset,FL103069100,56.5,54.8,65.6,54.9,54.8,55.1,59.0,61.5,65.6,8
+8,Nonfinancial corporate business; Treasury securities; asset,FL103061103,41.7,35.8,39.5,30.4,35.8,44.2,34.0,36.8,39.5,9
+9,Nonfinancial corporate business; agency- and GSE-backed securities; asset,FL103061703,13.9,11.9,13.2,10.1,11.9,14.7,16.3,12.3,13.2,10
+10,Nonfinancial corporate business; municipal securities; asset,FL103062003,21.2,24.0,28.1,22.2,24.0,20.6,21.5,41.0,28.1,11
+11,Nonfinancial corporate business; loans; asset,FL104023005,73.4,74.6,75.8,75.5,74.6,73.2,73.9,74.6,75.8,12
+12,Nonfinancial corporate business; total mortgages; asset,FL103065003,29.0,31.0,32.9,30.5,31.0,31.5,32.0,32.4,32.9,13
+13,Nonfinancial corporate business; consumer credit; asset,FL103066005,44.4,43.6,42.8,45.0,43.6,41.7,41.9,42.2,42.8,14
+14,Nonfinancial corporate business; mutual fund shares; asset,LM103064203,234.5,235.7,255.9,228.3,235.7,238.1,244.1,254.5,255.9,15
+15,Nonfinancial corporate business; trade receivables; asset,FL103070005,2658.9,2637.9,2756.6,2733.8,2637.9,2670.6,2774.3,2815.3,2756.6,16
+16,Nonfinancial corporate business; U.S. direct investment abroad; asset(1),FL103092005,4615.6,4807.2,5090.4,4724.6,4807.2,4903.9,4969.4,5044.4,5090.4,17
+17,Nonfinancial corporate business; total miscellaneous assets,FL103090005,7948.7,8721.5,9220.4,8415.7,8721.5,8813.1,8915.5,8978.8,9220.4,18
+18,Nonfinancial corporate business; insurance receivables due from property-casualty insurance companies; asset,FL103076005,343.3,345.7,359.5,347.1,345.7,347.3,350.1,354.1,359.5,19
+19,Nonfinancial corporate business; equity in Fannie Mae and Farm Credit System; asset,FL103092405,0.7,0.8,0.9,0.8,0.8,0.9,1.0,0.9,0.9,20
+20,Nonfinancial corporate business; equity investment in finance company subsidiaries; asset,FL103094105,100.5,96.4,82.6,94.2,96.4,90.6,90.8,85.8,82.6,21
+21,Nonfinancial corporate business; unidentified miscellaneous assets,FL103093005,7504.2,8278.6,8777.4,7973.6,8278.6,8374.3,8473.7,8538.0,8777.4,22
+22,Nonfinancial corporate business; total liabilities,FL104190005,16572.0,17355.2,18064.4,17134.6,17355.2,17573.6,17817.8,17976.4,18064.4,23
+23,Nonfinancial corporate business; debt securities; liability,FL104122005,5121.7,5529.5,5825.2,5503.2,5529.5,5674.0,5758.2,5836.7,5825.2,24
+24,Nonfinancial corporate business; commercial paper; liability,FL103169100,182.0,176.5,182.8,201.2,176.5,185.5,186.9,177.9,182.8,25
+25,Nonfinancial corporate business; municipal securities; liability(2),FL103162000,529.2,543.6,561.3,545.0,543.6,547.3,557.7,560.2,561.3,26
+26,Nonfinancial corporate business; corporate bonds; liability(1),FL103163003,4410.5,4809.4,5081.2,4757.0,4809.4,4941.2,5013.6,5098.6,5081.2,27
+27,Nonfinancial corporate business; loans; liability,FL104123005,2377.4,2479.3,2598.8,2434.6,2479.3,2540.9,2532.7,2579.9,2598.8,28
+28,Nonfinancial corporate business; depository institution loans n.e.c.; liability,FL103168005,856.0,935.8,985.0,905.5,935.8,964.5,977.3,986.9,985.0,29
+29,Nonfinancial corporate business; other loans and advances; liability(3),FL103169005,1126.2,1108.7,1140.0,1112.4,1108.7,1141.3,1107.5,1130.3,1140.0,30
+30,Nonfinancial corporate business; total mortgages; liability,FL103165005,395.2,434.7,473.8,416.7,434.7,435.1,447.8,462.7,473.8,31
+31,Nonfinancial corporate business; trade payables; liability,FL103170005,2088.4,2047.7,2145.9,2077.6,2047.7,2025.1,2090.8,2131.4,2145.9,32
+32,Nonfinancial corporate business; taxes payable; liability,FL103178000,43.5,41.7,28.7,56.8,41.7,40.7,32.4,35.2,28.7,33
+33,Nonfinancial corporate business; foreign direct investment in U.S.; liability,FL103192005,2740.6,2964.8,3313.2,2945.8,2964.8,3012.1,3150.7,3227.5,3313.2,34
+34,Nonfinancial corporate business; total miscellaneous liabilities,FL103190005,4200.5,4292.2,4152.7,4116.6,4292.2,4280.8,4253.1,4165.7,4152.7,35
+35,Private pension funds; pension fund contributions receivable; asset,FL573074005,76.1,71.8,70.4,72.7,71.8,71.5,71.0,70.4,70.4,36
+36,Private defined benefit pension funds; claims of pension fund on sponsor; asset,FL573073005,283.5,497.4,496.0,520.1,497.4,522.0,528.4,507.5,496.0,37
+37,Nonfinancial corporate business; unidentified miscellaneous liabilities,FL103193005,3840.9,3723.1,3586.4,3523.8,3723.1,3687.2,3653.6,3587.8,3586.4,38
+38,Nonfinancial corporate business; corporate equities; liability,LM103164103,22681.1,21706.3,23621.2,20709.2,21706.3,21783.5,22158.9,22985.3,23621.2,39
+39,Nonfinancial corporate business; liquid assets (broad measure)(4),FL104001005,1977.7,1931.9,2080.8,1932.8,1931.9,1924.2,1990.4,2085.0,2080.8,40
+40,Nonfinancial corporate business; total short-term liabilities(5),FL104150005,4296.0,4310.5,4482.3,4353.5,4310.5,4357.0,4394.9,4461.7,4482.3,41
+41,Nonfinancial corporate business; liquid assets as a percentage of short-term liabilties,FL104001006,46.0,44.8,46.4,44.4,44.8,44.2,45.3,46.7,46.4,42
+42,Nonfinancial corporate business; short-term debt as a percentage of total debt(6),FL104140006,28.9,27.7,27.4,28.0,27.7,27.9,27.4,27.3,27.4,43

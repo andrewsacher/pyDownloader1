@@ -1,0 +1,33 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,All sectors; corporate equities; asset,LM893064105,36730.6,35781.7,39029.7,34272.2,35781.7,35573.0,36212.6,37830.4,39029.7,1
+1,All domestic sectors; corporate equities; liability,LM883164105,29960.0,28953.4,31901.2,27666.6,28953.4,28834.2,29415.8,30612.3,31901.2,2
+2,Nonfinancial corporate business; corporate equities; liability,LM103164103,22681.1,21706.3,23621.2,20709.2,21706.3,21783.5,22158.9,22985.3,23621.2,3
+3,Nonfinancial corporate business; public corporate equities less intercompany holdings; liability(2),LM103164115,18679.6,17716.7,18825.0,16842.1,17716.7,17737.5,18040.1,18561.9,18825.0,4
+4,Nonfinancial corporate business; closely held corporate equities; liability,LM103164123,4001.5,3989.6,4796.3,3867.1,3989.6,4045.9,4118.7,4423.5,4796.3,5
+5,Domestic financial sectors; corporate equities; liability,LM793164105,7278.9,7247.1,8280.0,6957.5,7247.1,7050.7,7256.9,7626.9,8280.0,6
+6,Domestic financial sectors; corporate equities (excluding closely held); liability(3),LM793164115,6861.1,6830.5,7779.2,6553.6,6830.5,6628.2,6826.8,7165.0,7779.2,7
+7,Domestic financial sectors; closely held corporate equities; liability,LM793164123,417.8,416.6,500.8,403.8,416.6,422.5,430.1,461.9,500.8,8
+8,Rest of the world; foreign corporate equities including foreign investment fund shares; liability(4),LM263164103,6770.6,6828.2,7128.5,6605.6,6828.2,6738.8,6796.8,7218.1,7128.5,9
+9,All sectors; corporate equities; asset,LM893064105,36730.6,35781.7,39029.7,34272.2,35781.7,35573.0,36212.6,37830.4,39029.7,10
+10,Households and nonprofit organizations; corporate equities; asset,LM153064105,14357.4,14189.7,15874.2,13556.7,14189.7,14196.3,14616.9,15302.3,15874.2,11
+11,Federal government; corporate equities; asset,LM313064105,33.4,33.4,33.3,33.4,33.4,33.4,33.4,33.4,33.3,12
+12,"State and local governments, excluding employee retirement funds; corporate equities; asset",LM213064103,173.6,178.0,190.9,171.0,178.0,178.9,181.5,186.8,190.9,13
+13,Monetary authority; corporate equities; asset,FL713064103,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14
+14,U.S.-chartered depository institutions; corporate equities; asset,LM763064105,108.5,100.0,106.2,94.0,100.0,93.6,97.2,100.8,106.2,15
+15,Foreign banking offices in the U.S.; corporate equities; asset,FL753064103,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16
+16,Property-casualty insurance companies; corporate equities; asset,LM513064105,331.1,323.0,326.2,309.1,323.0,319.9,318.7,319.2,326.2,17
+17,Life insurance companies; corporate equities; asset,LM543064105,317.9,308.6,329.4,298.8,308.6,310.3,314.9,322.8,329.4,18
+18,"Private pension funds, including 403(b) plans; corporate equities; asset",LM573064105,2284.3,2163.9,2326.9,2071.4,2163.9,2160.7,2184.7,2251.7,2326.9,19
+19,Federal government retirement funds; corporate equities; asset,LM343064105,218.7,219.0,239.4,206.2,219.0,216.6,219.3,228.9,239.4,20
+20,State and local government employee defined benefit retirement funds; corporate equities; asset,LM223064145,2257.8,2157.2,2277.3,2057.7,2157.2,2155.1,2175.8,2241.8,2277.3,21
+21,Mutual funds; corporate equities; asset,LM653064100,8799.2,8625.3,9187.8,8282.6,8625.3,8555.7,8649.3,9007.5,9187.8,22
+22,Closed-end funds; corporate equities; asset,LM553064103,119.3,99.7,101.4,101.4,99.7,97.6,101.3,103.2,101.4,23
+23,Exchange-traded funds; corporate equities; asset,LM563064103,1620.0,1709.7,2032.6,1568.6,1709.7,1710.0,1749.5,1881.0,2032.6,24
+24,Security brokers and dealers; corporate equities; asset,LM663064103,187.8,166.8,176.1,143.3,166.8,136.8,141.4,158.0,176.1,25
+25,Funding corporations; corporate equities; asset,FL503064105,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26
+26,Rest of the world; U.S. corporate equities; asset(5),LM263064105,5921.5,5507.3,5828.0,5377.9,5507.3,5408.0,5428.7,5693.0,5828.0,27
+27,All domestic sectors; public corporate equities less intercompany holdings; liability(6),LM883164115,25540.6,24547.3,26604.1,23395.7,24547.3,24365.7,24867.0,25726.9,26604.1,28
+28,All domestic sectors; closely held corporate equities; liability(7),LM883164125,4419.3,4406.1,5297.1,4270.9,4406.1,4468.4,4548.8,4885.4,5297.1,29
+29,All domestic sectors; closely held S corporation corporate equities; liability,LM883164133,2924.6,2757.6,3294.7,2672.1,2757.6,2704.5,2796.5,3038.6,3294.7,30
+30,All domestic sectors; closely held C corporation corporate equities; liability,LM883164135,1494.7,1648.6,2002.4,1598.8,1648.6,1763.9,1752.3,1846.8,2002.4,31
+31,Interest rates and price indexes; Dow Jones U.S. Total Market Index(8),PC073164013,10.4,-1.5,10.3,-7.7,5.7,0.4,2.1,3.9,3.6,32

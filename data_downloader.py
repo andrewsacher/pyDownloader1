@@ -75,10 +75,11 @@ class web_data(object):
                 print(s)
     
     # Method to scrape HTML tables into memory
-    def read_tables(self, crawl_page = False, page_type = "html"):
+    def read_tables(self, crawl_page = False, page_type = "html", row_min = 1):
         
         self.crawl_page = crawl_page
         self.page_type = page_type
+        self.row_min = row_min
         self.pages = list()
         self.tables = list()
         
@@ -99,18 +100,22 @@ class web_data(object):
             try:
                 page_tables = pd.read_html(page, flavor = "bs4", header = 0)
                 for table in page_tables:
-                    self.tables.append(table)
+                    if len(table) >= self.row_min:
+                        self.tables.append(table)
+                    else:
+                        next
             except:
                 next
 
         return(self.tables)
   
     # Method to scrape HTML tables and save to disk
-    def download_tables(self, save_path, crawl_page = False, page_type = "html"):
+    def download_tables(self, save_path, crawl_page = False, page_type = "html", row_min = 1):
         
         self.save_path = save_path
         self.crawl_page = crawl_page
         self.page_type = page_type
+        self.row_min = row_min
         self.pages = list()
         self.tables = list()
         self.file_names = list()
@@ -133,16 +138,20 @@ class web_data(object):
                 page_tables = pd.read_html(page, flavor = "bs4", header = 0)
                 counter = 1
                 for table in page_tables:
-                    self.tables.append(table)
-                    file_name = os.path.join(self.save_path, page[page.rfind("/") + 1: -(len(page_type) + 1)] + "_" + str(counter) + ".csv")
-                    self.file_names.append(file_name)
-                    counter += 1
+                    if len(table) >= self.row_min:
+                        self.tables.append(table)
+                        file_name = os.path.join(self.save_path, page[page.rfind("/") + 1: -(len(page_type) + 1)] + "_" + str(counter) + ".csv")
+                        self.file_names.append(file_name)
+                        counter += 1
+                    else:
+                        next
             except:
                 next
 
         # Save tables
         for i in range(0, len(self.tables)):
             self.tables[i].to_csv(self.file_names[i])
+
 
 
 

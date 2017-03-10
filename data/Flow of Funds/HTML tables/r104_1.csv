@@ -1,0 +1,22 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Nonfinancial noncorporate business; proprietors' equity in noncorporate business (net worth)(1),FC112090205,771.5,734.4,414.9,163.4,165.3,53.7,126.0,143.5,91.7,1
+1,Nonfinancial noncorporate business; net capital transfers paid,FU115440005,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2
+2,Nonfinancial noncorporate business; net investment,FU115060005,138.3,16.9,15.8,6.2,2.2,10.2,1.8,2.0,1.8,3
+3,Nonfinancial noncorporate business; net physical investment,FU115061005,75.9,85.5,62.8,21.4,20.2,17.9,14.8,14.3,15.8,4
+4,Nonfinancial noncorporate business; total capital expenditures,FU115050005,374.5,394.2,381.6,98.9,98.3,96.5,94.2,94.3,96.5,5
+5,"Nonfinancial noncorporate business; consumption of fixed capital, structures, equipment, and intellectual property products, current cost basis (gross saving) (NIPA basis)",FU116300005,298.6,308.7,318.8,77.5,78.1,78.6,79.4,80.1,80.7,6
+6,Nonfinancial noncorporate business; net lending (+) or borrowing (-) (financial account),FU115000005,-75.9,-85.5,-62.8,-21.4,-20.2,-17.9,-14.8,-14.3,-15.8,7
+7,Nonfinancial noncorporate business; total financial assets,FU114090005,442.6,319.3,336.5,59.9,104.9,94.4,77.9,89.3,75.0,8
+8,Nonfinancial noncorporate business; total liabilities,FU114190005,518.6,404.9,399.3,81.3,125.1,112.3,92.7,103.6,90.8,9
+9,Nonfinancial noncorporate business; proprietors' equity in noncorporate business (net worth)(2),FU112090205,138.3,16.9,15.8,6.2,2.2,10.2,1.8,2.0,1.8,10
+10,Nonfinancial noncorporate business; real estate at market value(3),FR115035005,622.5,758.7,522.2,176.6,174.5,74.0,149.1,176.4,122.7,11
+11,Nonfinancial noncorporate business; residential real estate at market value,FR115035023,280.8,495.3,343.3,102.9,115.3,74.4,90.3,93.9,84.6,12
+12,Nonfinancial noncorporate business; nonresidential real estate at market value,FR115035035,341.7,263.4,178.9,73.7,59.2,-0.4,58.8,82.5,38.1,13
+13,Nonfinancial noncorporate business; holding gains on assets at current cost(3),FR118100005,8.2,-43.6,-124.7,-19.9,-11.8,-31.0,-25.4,-35.2,-33.1,14
+14,"Nonfinancial noncorporate business; residential equipment, current cost basis",FR115012265,-2.3,-1.5,-2.7,-0.5,-0.4,-0.6,-0.3,-1.0,-0.8,15
+15,"Nonfinancial noncorporate business; nonresidential equipment, current cost basis",FR115013265,7.2,2.3,-15.4,-2.6,0.5,-9.2,-5.8,1.1,-1.6,16
+16,"Nonfinancial noncorporate business; nonresidential intellectual property products, current cost basis",FR115013765,2.0,2.8,-89.5,-0.4,-2.8,-18.0,-21.6,-24.2,-25.6,17
+17,Nonfinancial noncorporate business; inventories,FR115020005,1.9,-47.6,-17.1,-16.4,-9.4,-3.2,2.3,-11.1,-5.1,18
+18,Nonfinancial noncorporate business; U.S. real estate owned by foreigners; liability,FR115114005,0.6,-0.3,0.0,0.0,-0.3,0.0,0.0,0.0,0.0,19
+19,Nonfinancial noncorporate business; other volume changes(4),FV118090005,2.5,2.4,1.5,0.5,0.5,0.5,0.4,0.4,0.3,20
+20,Nonfinancial noncorporate business; proprietors' equity in noncorporate business (net worth)(5),FL112090205,10085.1,10819.6,11234.5,10654.3,10819.6,10873.2,10999.2,11142.8,11234.5,21

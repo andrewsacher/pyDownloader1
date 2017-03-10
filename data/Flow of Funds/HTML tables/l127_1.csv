@@ -1,0 +1,21 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Issuers of asset-backed securities; total financial assets,FL674090005,1424.2,1339.0,1238.7,1363.3,1339.0,1316.1,1273.9,1261.0,1238.7,1
+1,Issuers of asset-backed securities; debt securities; asset,FL674022005,27.3,28.2,19.9,28.7,28.2,27.2,24.9,21.2,19.9,2
+2,Issuers of asset-backed securities; Treasury securities; asset,FL673061103,27.2,28.2,19.9,28.6,28.2,27.2,24.9,21.2,19.9,3
+3,Issuers of asset-backed securities; agency- and GSE-backed securities; asset(1),FL673061703,0.1,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,4
+4,Issuers of asset-backed securities; loans; asset,FL674023005,1303.2,1212.8,1115.0,1243.7,1212.8,1190.4,1148.9,1139.5,1115.0,5
+5,Issuers of asset-backed securities; securitized other loans and advances; asset,FL673069005,159.3,158.3,159.4,159.2,158.3,174.0,162.4,162.8,159.4,6
+6,Issuers of asset-backed securities; total mortgages; asset(2),FL673065005,1094.1,1008.5,903.8,1036.4,1008.5,972.0,937.8,925.9,903.8,7
+7,Issuers of asset-backed securities; home mortgages; asset,FL673065105,699.6,595.0,522.7,620.1,595.0,580.5,556.4,545.3,522.7,8
+8,Issuers of asset-backed securities; multifamily residential mortgages; asset,FL673065405,68.4,62.0,47.3,63.3,62.0,57.2,55.4,51.4,47.3,9
+9,Issuers of asset-backed securities; commercial mortgages; asset,FL673065505,326.1,351.5,333.8,353.0,351.5,334.3,326.0,329.2,333.8,10
+10,Issuers of asset-backed securities; consumer credit; asset,FL673066000,49.8,46.0,51.8,48.0,46.0,44.4,48.7,50.8,51.8,11
+11,Issuers of asset-backed securities; trade receivables; asset,FL673070003,31.3,34.1,33.3,31.7,34.1,35.5,35.1,34.4,33.3,12
+12,Issuers of asset-backed securities; funding agreements backing securities; asset(3),FL673090543,62.3,63.8,70.6,59.3,63.8,62.9,64.9,66.0,70.6,13
+13,Issuers of asset-backed securities; debt securities; liability,FL674122005,1424.2,1339.0,1238.7,1363.3,1339.0,1316.1,1273.9,1261.0,1238.7,14
+14,Issuers of asset-backed securities; debt securities; liability,FL674122005,1424.2,1339.0,1238.7,1363.3,1339.0,1316.1,1273.9,1261.0,1238.7,15
+15,"Issuers of asset-backed securities; commercial paper, excluding U.S.-chartered commercial banks' asset-backed commercial paper; liability",FL673169105,64.8,57.5,77.8,58.1,57.5,67.0,65.3,77.8,77.8,16
+16,Issuers of asset-backed securities; corporate and foreign bonds; liability(4),FL673163005,1359.4,1281.5,1160.9,1305.2,1281.5,1249.0,1208.5,1183.2,1160.9,17
+17,Issuers of asset-backed securities; consumer leases(5),FL675013013,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18
+18,Real estate investment trusts; securitized assets(6),FL643065045,172.5,143.0,126.9,150.3,143.0,151.8,147.9,137.8,126.9,19
+19,U.S.-chartered depository institutions; asset-backed commercial paper; liability(7),FL763169103,54.5,53.6,49.0,51.1,53.6,56.6,55.5,52.3,49.0,20

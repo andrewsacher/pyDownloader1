@@ -1,0 +1,25 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Funding corporations; total financial assets,FA504090005,15.7,148.1,118.1,223.8,194.8,541.2,8.4,-90.8,13.7,1
+1,Funding corporations; money market mutual fund shares; asset,FA503034003,13.4,35.1,-0.5,52.2,7.2,142.3,-69.1,-25.5,-49.8,2
+2,Funding corproations; security repurchase agreements; asset,FA502051003,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3
+3,Funding corporations; debt securities; asset,FA504022005,-2.0,73.8,86.0,113.6,156.7,181.8,57.7,25.6,78.9,4
+4,Funding corporations; commercial paper; asset,FA503069105,-6.7,75.2,90.1,95.9,173.0,150.3,84.3,36.3,89.3,5
+5,"Funding corporations; corporate and foreign bonds, including financial stabilization programs; asset",FA503063005,4.7,-1.4,-4.1,17.8,-16.3,31.5,-26.6,-10.7,-10.4,6
+6,Funding corporations; syndicated loans to nonfinancial corporate business; asset,FA503069805,1.5,0.8,3.0,4.0,-0.9,17.4,8.8,-11.6,-2.4,7
+7,Funding corporations; corporate equities; asset(2),FA503064105,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8
+8,Funding corporations; equity investment in own subsidiaries; asset,FA503094505,2.8,38.4,29.6,54.0,31.8,199.6,11.0,-79.4,-13.0,9
+9,Foreign banking offices in the U.S.; equity investment by funding corporations; liability,FA753194503,-20.3,2.2,-5.9,-3.1,-11.9,86.9,-48.8,-36.5,-25.3,10
+10,Security brokers and dealers; investment by funding corporations; liability,FA663194505,23.1,36.2,35.5,57.0,43.7,112.7,59.8,-42.9,12.4,11
+11,Funding corporations; total liabilities,FA504190005,15.7,148.1,118.1,223.8,194.8,541.2,8.4,-90.8,13.7,12
+12,Funding corporations; debt securities; liability,FA504122005,25.8,66.2,34.5,157.7,53.0,142.6,33.5,-61.8,23.9,13
+13,Funding corporations; commercial paper; liability,FA503169105,3.6,39.9,-1.3,122.4,3.0,61.6,-34.0,-36.9,4.2,14
+14,Funding corporations; corporate and foreign bonds where the proceeds are down-streamed to broker-dealer subsidiaries by investment banks that are holding-company parents; liability,FA503163005,22.2,26.3,35.8,35.3,50.0,81.0,67.5,-24.8,19.7,15
+15,Funding corporations; loans; liability,FA504123005,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16
+16,Monetary authority; depository institution loans n.e.c. to funding corporations; asset(3),FA713068505,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17
+17,Funding corporations; U.S. government loans to TALF LLC and loans made under PPIP; liability(4),FA503169205,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18
+18,Funding corporations; corporate equities; liability(5),FA503164105,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19
+19,Funding corporations; foriegn direct investment in U.S.; liability,FA503192003,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,20
+20,Funding corporations; total miscellaneous liabilities,FA503190005,-10.7,81.4,83.0,65.4,141.2,398.0,-25.6,-29.6,-10.8,21
+21,Security brokers and dealers; securities borrowed (net); asset,FA663097005,47.1,-13.8,-40.5,177.7,-162.6,315.3,-266.5,-106.6,-104.4,22
+22,Funding corporations; equity investment in funds associated with PPIP; liability,FA503194305,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23
+23,Funding corporations; unidentified miscellaneous liabilities (net),FA503193005,-57.8,95.1,123.5,-112.3,303.9,82.7,240.8,77.0,93.6,24

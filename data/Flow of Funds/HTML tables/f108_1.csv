@@ -1,0 +1,58 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Domestic financial sectors; gross saving including foreign earnings retained abroad and CCAdj less net capital transfers paid (other than for financial stabilization program),FA796000105,198.6,211.1,277.8,236.6,167.8,249.3,267.8,304.3,289.8,1
+1,Domestic financial sectors; gross investment,FA795090005,256.0,431.6,476.0,373.8,324.6,484.9,287.4,588.3,543.3,2
+2,Domestic financial sectors; gross fixed investment,FA795019005,225.5,238.5,252.9,224.4,242.6,241.1,251.8,251.8,266.7,3
+3,"Real estate investment trusts; gross fixed investment, multifamily residential structures",FA645012063,7.8,-0.0,7.8,-18.5,-1.1,-1.3,8.4,4.6,19.4,4
+4,"Domestic financial sectors; gross fixed investment, nonresidential structures, equipment, and intellectual property products",FA795013005,217.7,238.5,245.1,242.8,243.8,242.5,243.4,247.2,247.3,5
+5,Domestic financial sectors; net lending (+) or borrowing (-) (financial account),FA795000005,30.5,193.1,223.1,149.5,81.9,243.8,35.6,336.5,276.6,6
+6,Domestic financial sectors; total financial assets,FA794090005,2553.4,1359.6,2272.3,1209.6,601.2,4234.2,2091.1,2689.4,74.3,7
+7,Monetary authority; U.S. official reserve assets,FA713011005,0.2,0.1,-0.1,0.2,0.1,-0.5,0.0,-0.0,-0.1,8
+8,Monetary authority; SDR certificates issued by federal government; asset,FA713014003,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9
+9,Monetary authority; Treasury currency; asset,FA713012003,0.8,1.3,1.0,1.3,1.0,0.6,1.3,1.3,0.7,10
+10,Money market mutual funds; private foreign deposits; asset,FA633091003,-9.8,-13.4,-9.2,-39.7,-6.0,26.0,-18.6,-34.2,-10.0,11
+11,Domestic financial sectors; net interbank transactions; asset,FA794010005,131.5,-401.8,-216.6,-178.8,-898.0,610.6,-331.4,-492.8,-652.6,12
+12,Domestic financial sectors; checkable deposits and currency; asset,FA793020005,-15.8,-13.1,33.1,127.7,-47.4,22.6,69.0,129.1,-88.1,13
+13,Domestic financial sectors; total time and savings deposits; asset,FA793030005,14.0,-85.1,-323.3,-237.7,-183.3,301.7,-426.8,-1029.5,-138.6,14
+14,Domestic financial sectors; money market mutual fund shares; asset,FA793034005,19.4,36.6,1.6,104.3,-10.2,143.7,-72.6,-19.8,-44.7,15
+15,Domestic financial sectors; federal funds and security repurchase agreements; asset,FA792050005,11.0,57.2,66.1,378.0,-260.0,-485.6,508.5,926.0,-684.6,16
+16,Domestic financial sectors; debt securities; asset,FA794022005,824.7,634.1,1213.0,-51.6,2102.4,1327.2,1442.0,1192.9,889.9,17
+17,Domestic financial sectors; open market paper; asset,FA793069175,-25.1,18.2,-96.7,66.1,-1.8,282.6,-150.4,-579.4,60.4,18
+18,Domestic financial sectors; Treasury securities; asset,FA793061105,605.4,416.7,693.2,-40.2,1869.9,645.1,450.3,1005.9,671.4,19
+19,Domestic financial sectors; agency- and GSE-backed securities; asset,FA793061705,65.2,27.6,384.4,-39.9,191.9,194.6,663.1,400.9,278.9,20
+20,Domestic financial sectors; municipal securities; asset,FA793062005,12.7,65.1,16.4,22.3,58.7,70.5,129.6,-59.1,-75.3,21
+21,Domestic financial sectors; corporate and foreign bonds; asset,FA793063005,166.6,106.5,215.7,-60.0,-16.3,134.4,349.3,424.6,-45.5,22
+22,Domestic financial sectors; loans; asset,FA794023005,777.8,724.3,881.8,353.4,860.3,938.7,939.5,1136.6,512.4,23
+23,Domestic financial sectors; depository institution loans n.e.c.; asset,FA793068005,320.0,280.6,153.6,180.4,248.7,424.2,155.6,168.8,-134.1,24
+24,Domestic financial sectors; other loans and advances; asset,FA793069005,150.1,-59.2,87.9,-351.2,42.8,48.3,149.9,205.8,-52.2,25
+25,Domestic financial sectors; total mortgages; asset,FA793065005,193.4,369.4,505.5,375.8,436.9,366.0,494.9,596.4,564.8,26
+26,Domestic financial sectors; consumer credit; asset,FA793066005,114.4,133.5,134.7,148.4,131.9,100.2,139.1,165.6,133.8,27
+27,Domestic financial sectors; corporate equities; asset,FA793064105,-12.1,37.7,-85.3,16.6,56.7,-369.6,-285.8,-45.2,359.6,28
+28,Domestic financial sectors; mutual fund shares; asset,FA793064205,19.1,20.1,-42.8,-110.5,22.2,104.3,-61.0,-113.1,-101.4,29
+29,Domestic financial sectors; trade receivables; asset,FA793070005,1.3,9.0,12.9,4.6,-6.0,21.7,-0.1,16.0,13.7,30
+30,Domestic financial sectors; life insurance reserves; asset,FA793040005,10.9,10.6,9.6,9.6,10.6,9.5,9.7,10.0,9.3,31
+31,Domestic financial sectors; U.S. direct investment abroad; asset,FA793092005,19.2,25.8,39.0,7.6,12.9,37.1,51.7,41.5,25.9,32
+32,Domestic financial sectors; total miscellaneous assets,FA793090005,761.1,316.4,691.4,824.5,-1054.2,1546.1,265.7,970.8,-17.0,33
+33,Domestic financial sectors; total liabilities,FA794190005,2522.8,1166.5,2049.2,1060.2,519.3,3990.4,2055.5,2353.0,-202.3,34
+34,Domestic financial sectors; net interbank transactions; liability,FA794110005,115.3,-529.7,-415.3,-168.0,-1308.9,762.3,-547.1,-742.2,-1134.1,35
+35,Domestic financial sectors; checkable deposits and currency; liability,FA793120005,351.1,292.2,290.3,-107.7,641.8,536.3,396.9,280.4,-52.3,36
+36,Private depository institutions; total time and savings deposits; liability,FA703130005,513.2,406.2,518.2,494.9,389.9,548.6,279.7,590.9,653.4,37
+37,Money market mutual funds; total financial assets,FA634090005,6.8,30.1,-26.6,43.4,118.0,257.0,-94.7,-266.1,-2.6,38
+38,Domestic financial sectors; federal funds and security repurchase agreements; liability,FA792150005,9.0,-25.1,-19.4,228.8,-138.0,-690.0,239.8,536.7,-164.3,39
+39,Domestic financial sectors; debt securities; liability,FA794122005,174.4,152.6,386.6,275.4,324.3,349.7,421.0,503.7,272.1,40
+40,Domestic financial sectors; open market paper; liability,FA793169175,-37.3,-42.7,22.0,-100.4,-88.8,167.5,-32.9,-32.8,-13.8,41
+41,Government-sponsored enterprises and federally related mortgage pools; U.S. government agency securities; liability,FA423161705,150.3,220.4,351.7,318.6,498.1,60.8,580.4,329.8,435.9,42
+42,Domestic financial sectors; corporate and foreign bonds; liability,FA793163005,61.5,-25.1,12.9,57.2,-85.1,121.3,-126.5,206.7,-150.0,43
+43,Domestic financial sectors; loans; liability,FA794123005,149.2,2.6,60.1,11.5,-96.0,264.3,155.6,36.4,-216.0,44
+44,Domestic financial sectors; depository institution loans n.e.c.; liability,FA793168005,13.3,-18.6,-4.3,-49.6,-94.6,32.3,-7.5,106.3,-148.3,45
+45,Domestic financial sectors; other loans and advances; liability,FA793169005,126.6,17.2,70.3,46.7,26.6,209.2,181.0,-44.4,-64.6,46
+46,Real estate investment trusts; total mortgages; liability,FA643165005,9.3,4.0,-6.0,14.4,-28.0,22.7,-17.9,-25.6,-3.1,47
+47,Domestic financial sectors; corporate equities; liability,FA793164105,235.6,232.8,269.7,139.8,308.4,146.0,109.0,418.6,405.1,48
+48,Mutual funds; mutual fund shares; liability,FA653164205,309.7,95.7,24.9,-35.4,-59.9,-24.1,78.6,201.6,-156.6,49
+49,Security brokers and dealers; trade payables; liability,FA663170003,3.4,8.4,10.4,2.4,8.4,-4.1,6.5,18.2,20.9,50
+50,Life insurance companies; life insurance reserves; liability,FA543140005,45.3,46.3,49.2,59.2,30.1,23.1,83.0,38.7,52.0,51
+51,Households and nonprofit organizations; pension entitlements; asset,FA153050005,297.5,446.5,388.0,397.1,522.0,580.2,332.2,308.0,331.5,52
+52,Domestic financial sectors; taxes payable (net); liability,FA793178005,17.8,-12.0,-4.4,-15.0,-13.6,50.0,-1.1,0.7,-67.3,53
+53,Security brokers and dealers; proprietors' equity in noncorporate business,FA662090205,2.0,2.3,9.1,24.2,-11.7,-12.2,-9.1,64.9,-7.2,54
+54,Domestic financial sectors; foreign direct investment in U.S.; liability,FA793192005,21.6,31.3,74.0,12.4,52.5,222.9,41.6,23.1,8.4,55
+55,Domestic financial sectors; total miscellaneous liabilities,FA793190005,271.1,-13.7,434.5,-302.7,-248.1,980.3,563.6,339.3,-145.3,56
+56,Domestic financial sectors; sector discrepancy,FA797005005,-57.5,-220.4,-198.1,-137.3,-156.7,-235.6,-19.6,-284.0,-253.4,57

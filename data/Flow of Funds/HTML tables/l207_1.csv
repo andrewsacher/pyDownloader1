@@ -1,0 +1,47 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,All sectors; federal funds and security repurchase agreements; liability,FL892150005,3661.7,3711.5,3780.5,3819.6,3711.5,3612.6,3766.8,3883.7,3780.5,1
+1,Monetary authority; security repurchase agreements; liability,FL712151003,509.8,712.4,725.2,641.1,712.4,550.5,543.9,665.0,725.2,2
+2,"U.S.-chartered depository institutions, including IBFs; federal funds and security repurchase agreements; liability",FL762150005,236.2,196.8,162.6,205.9,196.8,193.7,184.1,180.1,162.6,3
+3,"U.S.-chartered depository institutions, including IBFs; federal funds; liability(2)",FL762152005,38.7,39.4,33.0,29.8,39.4,39.7,28.4,32.5,33.0,4
+4,"U.S.-chartered depository institutions, including IBFs; security repurchase agreements; liability",FL762151005,197.5,157.4,129.6,176.1,157.4,154.0,155.7,147.6,129.6,5
+5,"Foreign banking offices in the U.S., including IBFs; federal funds and security repurchase agreements; liability",FL752150005,371.3,406.6,476.2,375.4,406.6,407.9,429.1,440.8,476.2,6
+6,"Foreign banking offices in the U.S., including IBFs; federal funds; liability(2)",FL752152005,27.2,26.9,36.7,26.9,26.9,34.5,34.8,39.0,36.7,7
+7,"Foreign banking offices in the U.S., including IBFs; security repurchase agreements; liability",FL752151005,344.1,379.7,439.6,348.5,379.7,373.4,394.3,401.7,439.6,8
+8,Credit unions; federal funds and security repurchase agreements held by Corporate Credit Unions; liability,FL472150053,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9
+9,Property-casualty insurance companies; security repurchase agreements; liability,FL512151003,1.0,1.4,1.0,1.3,1.4,0.5,0.5,0.6,1.0,10
+10,"Life insurance companies, general accounts; security repurchase agreements; liability",FL542151073,21.9,22.8,22.4,22.4,22.8,22.9,22.6,22.7,22.4,11
+11,Government-sponsored enterprises; federal funds and security repurchase agreements; liability,FL402150005,0.1,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,12
+12,Mortgage real estate investment trusts; security repurchase agreements; liability,FL642151073,265.5,220.0,208.4,229.1,220.0,219.8,216.7,209.4,208.4,13
+13,Security brokers and dealers; security repurchase agreements; liability,FL662151003,1547.7,1368.3,1313.1,1493.7,1368.3,1366.1,1423.0,1436.1,1313.1,14
+14,Holding companies; security repurchase agreements; liability,FL732151003,0.0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,15
+15,Rest of the world; security repurchase agreements; liability,FL262151003,708.2,783.0,871.5,850.6,783.0,851.1,946.9,928.9,871.5,16
+16,All sectors; federal funds and security repurchase agreements; asset,FL892050005,3445.6,3375.6,3511.7,3513.9,3375.6,3256.6,3434.3,3685.4,3511.7,17
+17,Nonfinancial corporate business; security repurchase agreements; asset,FL102051003,21.7,27.7,25.9,27.0,27.7,24.5,23.3,23.4,25.9,18
+18,"State and local governments, excluding employee retirement funds; security repurchase agreements; asset",FL212051003,131.8,142.0,146.7,138.9,142.0,142.8,143.6,145.8,146.7,19
+19,Monetary authority; security repurchase agreements; asset,FL712051000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20
+20,"U.S.-chartered depository institutions, including IBFs; federal funds and security repurchase agreements; asset",FL762050005,185.0,209.8,218.5,212.3,209.8,205.6,215.6,234.4,218.5,21
+21,"U.S.-chartered depository institutions, including IBFs; federal funds; asset(2)",FL762052005,30.6,19.4,21.3,19.3,19.4,21.9,18.5,20.1,21.3,22
+22,"U.S.-chartered depository institutions, including IBFs; security repurchase agreements; asset",FL762051005,154.4,190.4,197.3,193.0,190.4,183.8,197.1,214.3,197.3,23
+23,Foreign banking offices in the U.S. including IBFs; federal funds and security repurchase agreements; asset,FL752050005,218.1,218.5,193.1,198.5,218.5,205.8,203.4,204.8,193.1,24
+24,"Foreign banking offices in the U.S., including IBFs; federal funds; asset(2)",FL752052005,1.3,0.9,0.6,0.7,0.9,0.8,0.8,1.0,0.6,25
+25,"Foreign banking offices in the U.S., including IBFs; security repurchase agreements; asset",FL752051005,216.9,217.6,192.4,197.8,217.6,205.0,202.6,203.8,192.4,26
+26,Credit unions; federal funds and security repurchase agreements held by Corporate Credit Unions (net of liabilities before 2002:Q4); asset,FL472050053,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27
+27,Credit unions; federal funds held by Corporate Credit Unions; asset,FL472052053,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28
+28,Credit unions; security repurchase agreements held by Corporate Credit Unions; asset,FL472051053,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29
+29,Property-casualty insurance companies; security repurchase agreements; asset,FL512051003,1.8,1.8,2.2,1.8,1.8,1.3,1.3,1.9,2.2,30
+30,"Life insurance companies, general accounts; security repurchase agreements; asset",FL542051073,3.1,2.7,2.9,3.1,2.7,2.8,2.8,2.8,2.9,31
+31,Private pension funds; security repurchase agreements; asset,FL572051005,3.0,2.8,2.8,2.8,2.8,2.8,2.8,2.8,2.8,32
+32,State and local government employee defined benefit retirement funds; security repurchase agreements; asset,FL222051043,3.6,3.6,3.7,3.6,3.6,3.4,3.6,3.7,3.7,33
+33,Money market mutual funds; security repurchase agreements; asset,FL632051000,654.5,699.3,800.2,696.5,699.3,597.1,641.5,855.6,800.2,34
+34,Mutual funds; security repurchase agreements; asset,FL652051003,94.1,81.7,80.6,82.9,81.7,86.8,84.3,84.5,80.6,35
+35,Government-sponsored enterprises; federal funds and security repurchase agreements; asset,FL402050005,162.6,182.9,185.7,149.0,182.9,159.9,164.8,172.2,185.7,36
+36,Government-sponsored enterprises; federal funds held by FHLB; asset(3),FL402052033,52.8,42.4,60.9,31.0,42.4,49.4,45.7,58.2,60.9,37
+37,Security brokers and dealers; security repurchase agreements; asset,FL662051003,1152.7,1133.3,1112.7,1243.6,1133.3,1115.3,1197.4,1204.3,1112.7,38
+38,Holding companies; security repurchase agreements; asset,FL732051003,2.5,2.1,2.1,4.0,2.1,3.0,3.2,2.3,2.1,39
+39,Funding corproations; security repurchase agreements; asset,FL502051003,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40
+40,Rest of the world; security repurchase agreements; asset,FL262051003,811.0,667.6,734.6,749.8,667.6,705.5,746.6,746.7,734.6,41
+41,Instrument discrepancies; federal funds and security repurchase agreements,FL902050005,216.1,335.8,268.8,305.8,335.8,356.0,332.5,198.3,268.8,42
+42,Interest rates and price indexes; effective Federal funds rate (percent)(4),FL072052006,0.12,0.24,0.54,0.14,0.24,0.36,0.38,0.4,0.54,43
+43,"Monetary authority; security repurchase agreements, reverse repurchase agreement operations; liability(6)",FL712151103,396.7,474.6,468.4,449.6,474.6,303.8,278.8,412.5,468.4,44
+44,Money market mutual funds; security repurchase agreements (Federal Reserve reverse repurchase agreement operations); asset(7),FL632051103,371.2,424.0,403.4,414.4,424.0,267.7,242.8,384.3,403.4,45
+45,"Domestic financial sectors, excluding money market mutual funds; security repurchase agreements (Federal Reserve Reverse Repurchase Agreement Operational Exercise); asset(8)",FL792051115,25.5,50.6,64.9,35.2,50.6,36.2,36.0,28.2,64.9,46

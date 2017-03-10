@@ -1,0 +1,33 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,All sectors; corporate equities; asset,FA893064105,272.7,-125.5,-229.7,-703.8,-444.6,-716.6,79.7,-349.7,67.8,1
+1,Nonfinancial corporate business; corporate equities; liability,FA103164103,-394.5,-560.9,-565.7,-627.2,-536.2,-620.6,-652.4,-666.8,-322.9,2
+2,Domestic financial sectors; corporate equities; liability,FA793164105,235.6,232.8,269.7,139.8,308.4,146.0,109.0,418.6,405.1,3
+3,U.S.-chartered depository institutions; corporate equities; liability,FA763164103,2.7,9.5,4.5,2.2,9.5,3.4,4.6,3.3,6.9,4
+4,Property-casualty insurance companies; corporate equities; liability,FA513164103,-16.9,-22.0,-17.8,-24.8,-23.4,-24.4,-19.4,-15.2,-12.4,5
+5,"Life insurance companies, general accounts; corporate equities; liability",FA543164173,-14.9,-10.0,-4.7,-7.5,-6.3,-7.3,-5.9,-2.9,-2.6,6
+6,Closed-end funds; total financial assets,FA554090005,4.9,1.7,0.9,2.0,-2.3,0.7,-1.2,2.7,1.5,7
+7,Exchange-traded funds; total financial assets,FA564090005,240.8,231.0,283.9,172.6,363.1,138.4,123.2,365.3,508.7,8
+8,Real estate investment trusts; corporate equities; liability,FA643164103,32.7,27.1,32.4,8.1,13.3,28.6,41.6,41.6,17.7,9
+9,Government-sponsored enterprises; corporate equities; liability,FA403164105,-1.7,-1.4,3.4,-1.4,6.6,-1.8,-0.2,10.4,5.2,10
+10,Security brokers and dealers; corporate equities; liability,FA663164103,-11.7,3.5,-21.5,39.0,-25.7,24.2,-9.6,-22.0,-78.8,11
+11,Holding companies; corporate equities; liability,FA733164103,-0.3,-6.5,-11.4,-50.4,-26.4,-15.8,-24.0,35.4,-41.3,12
+12,Funding corporations; corporate equities; liability(2),FA503164105,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13
+13,Rest of the world; foreign corporate equities including foreign investment fund shares; liability(3),FA263164103,431.6,202.6,66.2,-216.5,-216.7,-242.1,623.1,-101.6,-14.4,14
+14,All sectors; corporate equities; asset,FA893064105,272.7,-125.5,-229.7,-703.8,-444.6,-716.6,79.7,-349.7,67.8,15
+15,Households and nonprofit organizations; corporate equities; asset,FA153064105,167.9,18.1,-38.5,-623.1,9.0,96.2,551.7,-744.3,-57.6,16
+16,Federal government; corporate equities; asset,FA313064105,-1.6,-0.0,-0.1,-0.2,-0.0,0.0,-0.1,-0.1,-0.0,17
+17,"State and local governments, excluding employee retirement funds; corporate equities; asset",FA213064103,2.0,5.3,3.2,6.8,6.6,2.1,2.3,6.0,2.3,18
+18,Monetary authority; corporate equities; asset,FA713064103,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19
+19,U.S.-chartered depository institutions; corporate equities; asset,FA763064105,0.7,2.0,-7.2,3.2,3.5,-29.5,-1.9,0.8,1.8,20
+20,Foreign banking offices in the U.S.; corporate equities; asset,FA753064103,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,-0.0,0.0,21
+21,Property-casualty insurance companies; corporate equities; asset,FA513064105,3.4,-1.9,-10.1,10.1,-13.2,-0.9,-14.1,-13.6,-11.6,22
+22,Life insurance companies; corporate equities; asset,FA543064105,-5.0,-2.7,-5.8,-9.3,-3.1,-7.6,-4.9,-5.6,-5.1,23
+23,"Private pension funds, including 403(b) plans; corporate equities; asset",FA573064105,-183.9,-112.6,-56.7,-99.2,-104.2,-44.9,-84.4,-74.3,-23.4,24
+24,Federal government retirement funds; corporate equities; asset,FA343064105,3.5,0.2,-5.2,-1.2,-0.0,-11.9,-9.3,-7.4,7.6,25
+25,State and local government employee defined benefit retirement funds; corporate equities; asset,FA223064145,-132.2,-66.7,-68.4,-47.7,-72.9,-8.6,-77.3,-119.8,-67.9,26
+26,Mutual funds; corporate equities; asset,FA653064100,94.5,55.9,-116.6,94.5,-138.7,-114.2,-132.2,-140.0,-80.0,27
+27,Closed-end funds; corporate equities; asset,FA553064103,7.6,0.3,-0.1,0.3,-0.9,-0.8,0.2,0.3,0.0,28
+28,Exchange-traded funds; corporate equities; asset,FA563064103,190.7,173.5,188.4,88.6,312.1,-27.2,34.8,260.5,485.4,29
+29,Security brokers and dealers; corporate equities; asset,FA663064103,8.7,-10.3,-3.6,-22.7,74.0,-124.1,3.3,53.9,52.6,30
+30,Funding corporations; corporate equities; asset,FA503064105,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,31
+31,Rest of the world; U.S. corporate equities; asset(4),FA263064105,116.5,-186.6,-109.1,-103.9,-516.9,-445.3,-188.4,433.9,-236.5,32

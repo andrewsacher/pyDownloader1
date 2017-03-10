@@ -1,0 +1,46 @@
+, Description,Households and Nonprofit Organziations;Use,Households and Nonprofit Organziations;Source,Nonfinancial Business;Use,Nonfinancial Business;Source,Federal Government;Use,Federal Government;Source,State and Local Governments;Use,State and Local Governments;Source,Domestic Nonfinancial Sectors;Use,Domestic Nonfinancial Sectors;Source,Domestic Financial Sectors;Use,Domestic Financial Sectors;Source,Rest of the World;Use,Rest of the World;Source,All Sectors;Use,All Sectors;Source,Instrument Discrep- ancy;
+0,,(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12),(13),(14),(15),(16),(17)
+1,Gross saving less net cap. transfers,--,2612.6,--,2162.1,--,-432.4,--,137.1,--,4479.4,--,277.8,--,478.8,--,5236.0,--
+2,Capital consumption,--,1530.0,--,1687.0,--,271.6,--,255.4,--,3744.0,--,205.0,--,--,--,3949.0,--
+3,Net saving (1 less 2),--,1082.6,--,475.1,--,-703.9,--,-118.3,--,735.4,--,72.8,--,478.8,--,1287.0,--
+4,Gross investment (5 plus 11),2643.9,--,2123.8,--,-370.3,--,180.1,--,4577.4,--,476.0,--,242.6,--,5296.0,--,-60.0
+5,Capital expenditures,2053.6,--,2048.9,--,257.4,--,364.6,--,4724.5,--,252.9,--,0.2,--,4977.6,--,258.4
+6,Capital expenditures; Consumer durables,1320.3,--,--,--,--,--,--,--,1320.3,--,--,--,--,--,1320.3,--,--
+7,Capital expenditures; Residential,594.6,--,103.6,--,1.4,--,6.3,--,706.0,--,7.8,--,--,--,713.8,--,--
+8,Capital expenditures; Nonresidential,146.9,--,1917.4,--,265.0,--,349.2,--,2678.5,--,245.1,--,--,--,2923.6,--,--
+9,Capital expenditures; Inventory change,--,--,20.0,--,--,--,--,--,20.0,--,--,--,--,--,20.0,--,--
+10,Capital expenditures; Nonproduced nonfinancial assets,-8.2,--,7.9,--,-9.0,--,9.2,--,-0.2,--,--,--,0.2,--,--,--,--
+11,Net lending (+) or net borrowing (-),590.2,--,74.9,--,-627.8,--,-184.5,--,-147.1,--,223.1,--,242.4,--,318.4,--,-318.4
+12,Net acquisition of financial assets,1118.6,--,1295.1,--,262.7,--,117.5,--,2793.8,--,2272.3,--,654.3,--,5720.3,--,--
+13,Net increase in liabilities,--,528.4,--,1220.2,--,890.4,--,302.0,--,2940.9,--,2049.2,--,411.8,--,5401.9,--
+14,Net increase in liabilities; U.S. official reserve assets,--,--,--,--,1.0,0.0,--,--,1.0,0.0,-0.1,--,0.0,0.8,0.8,0.8,--
+15,Net increase in liabilities; SDR certificates,--,--,--,--,--,0.0,--,--,--,0.0,0.0,--,--,--,0.0,0.0,--
+16,Net increase in liabilities; Treasury currency,--,--,--,--,--,0.0,--,--,--,0.0,1.0,--,--,--,1.0,0.0,-1.0
+17,Net increase in liabilities; Foreign deposits,-2.1,--,3.5,--,--,--,--,--,1.4,--,-9.2,--,--,-42.0,-7.8,-42.0,-34.2
+18,Net increase in liabilities; Interbank claims,--,--,--,--,--,--,--,--,--,--,-216.6,-415.3,-193.2,--,-409.8,-415.3,-5.5
+19,Net increase in liabilities; Checkable dep. and currency,14.8,--,112.5,--,65.7,--,6.2,--,199.3,--,33.1,290.3,57.5,--,289.9,290.3,0.4
+20,Net increase in liabilities; Time and savings deposits,710.9,--,61.6,--,-0.2,--,5.7,--,778.0,--,-323.3,518.2,63.5,--,518.2,518.2,--
+21,Net increase in liabilities; Money market fund shares,-45.2,--,12.2,--,--,--,5.9,--,-27.1,--,1.6,-26.6,-1.1,--,-26.6,-26.6,--
+22,Net increase in liabilities; Fed. funds and security RPs,--,--,-1.8,--,--,--,4.7,--,3.0,--,66.1,-19.4,67.0,88.5,136.1,69.0,-67.1
+23,Net increase in liabilities; Debt securities,-59.8,-3.4,24.2,295.7,0.0,842.7,64.3,28.1,28.7,1163.0,1213.0,386.6,313.6,5.6,1555.3,1555.3,--
+24,Net increase in liabilities; Debt securities; Open market paper,--,--,10.9,6.2,--,--,-1.0,--,9.9,6.2,-96.7,22.0,30.2,-84.8,-56.6,-56.6,--
+25,Net increase in liabilities; Debt securities; Treasury securities,205.5,--,7.7,--,--,842.8,51.4,--,264.6,842.8,693.2,--,-115.0,--,842.8,842.8,--
+26,Net increase in liabilities; Debt securities; Agency- and GSE-backed sec.,-120.1,--,1.2,--,0.0,-0.1,7.5,--,-111.4,-0.1,384.4,351.7,78.6,--,351.6,351.6,--
+27,Net increase in liabilities; Debt securities; Municipal securities,11.2,-3.4,4.4,17.7,--,--,0.5,28.1,16.1,42.4,16.4,--,10.0,--,42.4,42.4,--
+28,Net increase in liabilities; Debt securities; Corporate and fgn. bonds,-156.4,--,--,271.7,0.0,--,6.0,--,-150.4,271.7,215.7,12.9,309.8,90.4,375.1,375.1,--
+29,Net increase in liabilities; Loans,-7.4,524.5,3.6,428.1,105.6,0.0,7.8,0.9,109.5,953.5,881.8,60.1,6.6,-15.7,997.9,997.9,--
+30,Net increase in liabilities; Loans; Depository inst. loans n.e.c.,--,52.3,--,121.1,--,--,--,--,--,173.4,153.6,-4.3,--,-15.4,153.6,153.6,--
+31,Net increase in liabilities; Loans; Other loans and advances,-1.1,-10.5,--,34.9,1.9,--,--,0.9,0.9,25.3,87.9,70.3,6.6,-0.2,95.4,95.4,--
+32,Net increase in liabilities; Loans; Mortgages,-0.9,253.8,4.3,272.1,3.2,0.0,7.8,--,14.4,525.9,505.5,-6.0,--,--,519.9,519.9,--
+33,Net increase in liabilities; Loans; Consumer credit,-5.4,229.0,-0.8,--,100.4,--,--,--,94.3,229.0,134.7,--,--,--,229.0,229.0,--
+34,Net increase in liabilities; Corporate equities,-38.5,--,--,-565.7,-0.1,--,3.2,--,-35.4,-565.7,-85.3,269.7,-109.1,66.2,-229.7,-229.7,--
+35,Net increase in liabilities; Mutual fund shares,27.2,--,7.4,--,--,--,1.6,--,36.3,--,-42.8,24.9,31.4,--,24.9,24.9,--
+36,Net increase in liabilities; Trade credit,6.9,6.8,165.0,156.3,1.3,15.0,10.6,40.8,183.8,218.9,12.9,10.4,4.9,1.5,201.6,230.8,29.2
+37,Net increase in liabilities; Life insurance reserves,39.7,--,--,--,--,0.1,--,--,39.7,0.1,9.6,49.2,--,--,49.3,49.3,--
+38,Net increase in liabilities; Pension entitlements,388.0,--,--,--,--,--,--,--,388.0,--,--,388.0,--,--,388.0,388.0,--
+39,Net increase in liabilities; Taxes payable,--,--,--,-9.6,76.2,--,3.4,--,79.6,-9.6,--,-4.4,--,--,79.6,-14.1,-93.6
+40,Net increase in liabilities; Equity in noncorp. business,24.9,--,--,15.8,--,--,--,--,24.9,15.8,--,9.1,--,--,24.9,24.9,--
+41,Net increase in liabilities; U.S. direct investment abroad,--,--,260.9,--,--,--,--,--,260.9,--,39.0,--,--,300.0,300.0,300.0,--
+42,Net increase in liabilities; Foreign direct investment in U.S.,--,--,--,339.2,--,--,--,--,--,339.2,--,74.0,413.2,--,413.2,413.2,--
+43,Net increase in liabilities; Miscellaneous,59.0,0.5,646.0,560.3,13.2,32.7,4.1,232.1,722.4,825.6,691.4,434.5,--,6.9,1413.7,1267.1,-146.7
+44,Sector discrepancies (1 less 4),-31.3,--,38.3,--,-62.0,--,-43.0,--,-98.0,--,-198.1,--,236.2,--,-60.0,--,-60.0

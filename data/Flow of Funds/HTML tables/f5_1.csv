@@ -1,0 +1,65 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,All sectors; capital transfers paid,FA895410005,111.3,97.4,107.7,100.9,96.0,100.0,108.1,101.9,120.9,1
+1,Domestic business; capital transfers paid,FA825410005,10.0,0.0,6.5,0.0,0.0,0.0,7.2,0.0,18.7,2
+2,Domestic financial sectors; capital transfers paid,FA795410005,10.0,0.0,1.8,0.0,0.0,0.0,7.2,0.0,0.0,3
+3,"Property-casualty insurance companies; capital transfers paid, disaster-related insurance benefits",FA515410073,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4
+4,"Domestic financial sectors; capital transfers paid, other than for disasters",FA795410003,10.0,0.0,1.8,0.0,0.0,0.0,7.2,0.0,0.0,5
+5,Nonfinancial corporate business; capital transfers paid (includes disaster-related payments by BP to state and local governments),FA105410003,0.0,0.0,4.7,0.0,0.0,0.0,0.0,0.0,18.7,6
+6,Nonfinancial noncorporate business; capital transfers paid,FA115410003,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7
+7,General government; capital transfers paid,FA365410005,77.3,71.7,75.1,75.0,69.6,73.6,74.0,75.8,77.0,8
+8,Federal government; capital transfers paid,FA315410005,77.3,71.7,75.1,75.0,69.6,73.6,74.0,75.8,77.0,9
+9,"State and local governments; capital transfers received, investment grants from federal government",FA205400033,65.7,63.9,68.4,66.5,63.6,67.9,68.3,70.2,67.3,10
+10,"Federal government; capital transfers paid, disaster-related insurance benefits",FA315410073,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11
+11,Federal government; capital transfers paid to financial corporations under the financial stabilization program,FA315410093,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12
+12,Federal government; other capital transfers paid to business,FA315410043,6.7,3.2,2.1,3.7,1.9,1.7,1.6,1.6,3.3,13
+13,Federal government; other capital transfers paid to households,FA315410053,4.5,4.1,4.2,4.3,3.6,3.6,3.6,3.6,6.0,14
+14,Federal government; capital transfers paid to the rest of the world,FA315410063,0.4,0.5,0.4,0.4,0.4,0.4,0.4,0.4,0.4,15
+15,"State and local governments; capital transfers paid, disaster-related insurance benefits",FA205410073,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16
+16,"State and local governments; capital transfers paid, disaster-related insurance benefits",FA205410073,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17
+17,Households and nonprofit organizations; capital transfers paid; estate and gift taxes,FA155410035,24.1,25.6,26.2,25.9,26.4,26.4,27.0,26.1,25.1,18
+18,"Federal government; capital transfers received, estate and gift taxes paid by persons",FA315400053,18.8,20.2,20.9,20.5,21.0,20.9,21.6,20.9,20.0,19
+19,"State and local governments; capital transfers received, estate and gift taxes paid by persons",FA205400053,5.3,5.4,5.3,5.4,5.4,5.5,5.4,5.1,5.1,20
+20,Rest of the world; capital transfers paid,FA265410005,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21
+21,"Rest of the world; capital transfers paid, disaster-related insurance benefits",FA265410073,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22
+22,"Rest of the world; capital transfers paid, other than for disasters",FA265410003,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23
+23,All sectors; capital transfers received,FA895400005,111.3,97.4,107.7,100.9,96.0,100.0,108.1,101.9,120.9,24
+24,Domestic business; capital transfers received,FA825400005,6.7,3.2,2.1,3.7,1.9,1.7,1.6,1.6,3.3,25
+25,Domestic financial sectors; capital transfers received,FA795400005,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26
+26,"Property-casualty insurance companies; capital transfers received, disaster-related insurance benefits",FA515400073,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27
+27,"Domestic financial sectors; capital transfers received, other",FA795400003,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28
+28,Nonfinancial corporate business; capital transfers received,FA105400005,6.7,3.2,2.1,3.7,1.9,1.7,1.6,1.6,3.3,29
+29,"Nonfinancial corporate business; capital transfers received, disaster-related insurance benefits",FA105400073,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30
+30,"Nonfinancial corporate business; capital transfers received, other",FA105400003,6.7,3.2,2.1,3.7,1.9,1.7,1.6,1.6,3.3,31
+31,Nonfinancial noncorporate business; capital transfers received,FA115400005,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32
+32,"Nonfinancial noncorporate business; capital transfers received, disaster-related insurance benefits",FA115400075,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33
+33,"Nonfinancial noncorporate business; capital transfers received, other",FA115400003,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34
+34,General government; capital transfers received,FA365400005,89.7,89.5,94.6,92.5,90.0,94.3,95.3,96.3,92.5,35
+35,"Federal government; capital transfers received, estate and gift taxes paid by persons",FA315400053,18.8,20.2,20.9,20.5,21.0,20.9,21.6,20.9,20.0,36
+36,"Federal government; capital transfers received, estate and gift taxes paid by persons",FA315400053,18.8,20.2,20.9,20.5,21.0,20.9,21.6,20.9,20.0,37
+37,State and local governments; capital transfers received,FA205400005,70.9,69.3,73.7,71.9,69.1,73.4,73.7,75.3,72.5,38
+38,"State and local governments; capital transfers received, disaster-related insurance benefits",FA205400073,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,39
+39,"State and local governments; capital transfers received, estate and gift taxes paid by persons",FA205400053,5.3,5.4,5.3,5.4,5.4,5.5,5.4,5.1,5.1,40
+40,"State and local governments; capital transfers received, investment grants from federal government",FA205400033,65.7,63.9,68.4,66.5,63.6,67.9,68.3,70.2,67.3,41
+41,"State and local governments; capital transfers received, other (includes disaster-related payments by BP to state and local governments for the 2010 Gulf oil spill)",FA205400003,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,42
+42,Households and nonprofit organizations; capital transfers received,FA155400005,14.5,4.1,10.7,4.3,3.6,3.6,10.8,3.6,24.7,43
+43,"Households and nonprofit organizations; capital transfers received, disaster-related insurance benefits",FA155400073,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,44
+44,"Households and nonprofit organizations; capital transfers received, other",FA155400003,14.5,4.1,10.7,4.3,3.6,3.6,10.8,3.6,24.7,45
+45,Rest of the world; capital transfers received,FA265400005,0.4,0.5,0.4,0.4,0.4,0.4,0.4,0.4,0.4,46
+46,Rest of the world; capital transfers received from U.S. government,FA265400033,0.4,0.5,0.4,0.4,0.4,0.4,0.4,0.4,0.4,47
+47,"Rest of the world; capital transfers received, other",FA265400003,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,48
+48,Domestic business; net capital transfers paid,FA825440005,3.3,-3.2,4.4,-3.7,-1.9,-1.7,5.6,-1.6,15.4,49
+49,Domestic financial sectors; net capital transfers paid,FA795440005,10.0,0.0,1.8,0.0,0.0,0.0,7.2,0.0,0.0,50
+50,Property-casualty insurance companies; net capital transfers paid,FA515440005,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,51
+51,U.S.-chartered depository institutions; net capital transfers paid,FA765440005,10.0,0.0,1.8,0.0,0.0,0.0,7.2,0.0,0.0,52
+52,U.S.-chartered depository institutions; capital transfers received from the federal government under the financial stabilization program(2),FA765400035,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,53
+53,"U.S.-chartered depository institutions; net capital transfers paid, other",FA765440015,10.0,0.0,1.8,0.0,0.0,0.0,7.2,0.0,0.0,54
+54,Government-sponsored enterprises; capital transfers received from the federal government(2),FA405400033,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55
+55,Holding companies; capital transfers received by GMAC from the federal government under the financial stabilization program(2),FA735400033,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,56
+56,Funding corporations; capital transfers received by AIG from the federal government under the financial stabilization program(2),FA505400033,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,57
+57,Nonfinancial corporate business; net capital transfers paid,FA105440005,-6.7,-3.2,2.6,-3.7,-1.9,-1.7,-1.6,-1.6,15.4,58
+58,Nonfinancial noncorporate business; net capital transfers paid,FA115440005,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,59
+59,General government; net capital transfers paid,FA365440005,-12.5,-17.8,-19.5,-17.5,-20.5,-20.8,-21.3,-20.5,-15.4,60
+60,Federal government; net capital transfers paid,FA315440005,58.4,51.5,54.2,54.4,48.6,52.6,52.4,54.8,57.1,61
+61,State and local governments; net capital transfers paid,FA205440005,-70.9,-69.3,-73.7,-71.9,-69.1,-73.4,-73.7,-75.3,-72.5,62
+62,Households and nonprofit organizations; net capital transfers paid,FA155440005,9.6,21.5,15.4,21.6,22.7,22.8,16.1,22.4,0.4,63
+63,Rest of the world; net capital transfers paid,FA265440005,-0.4,-0.5,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,64

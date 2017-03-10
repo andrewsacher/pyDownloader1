@@ -1,0 +1,83 @@
+,Description,Series code,2008,2009,2010,2011,2012,2013,2014,2015,Line
+0,All sectors; gross value added (IMA),FA896902505,14619.2,14343.4,14915.2,15556.3,16358.5,16829.5,17651.1,18290.3,1
+1,Households and nonprofit organizations; gross value added (IMA),FA156902505,1855.3,1913.6,1928.8,1974.4,2029.4,2084.3,2165.2,2258.9,2
+2,Nonfinancial noncorporate business; gross value added,FA116902505,2632.4,2466.4,2546.2,2751.6,2909.8,3020.8,3177.2,3305.5,3
+3,Nonfinancial corporate business; gross value added,FA106902501,7256.8,6859.8,7238.7,7592.3,8011.9,8305.2,8703.9,9008.8,4
+4,Domestic financial sectors; gross value added (IMA),FA796902505,851.9,1015.4,1042.8,1045.8,1187.3,1172.1,1303.7,1354.9,5
+5,Federal government; gross value added (IMA),FA316902505,637.6,668.8,704.5,720.9,723.7,715.2,725.7,735.1,6
+6,State and local governments; gross value added (IMA),FA206902505,1385.2,1419.4,1454.2,1471.4,1496.5,1532.0,1575.3,1627.0,7
+7,All sectors; net saving including net capital transfers paid (IMA),FA896006001,-95.0,-300.4,-124.1,-16.1,327.0,421.6,592.0,615.5,8
+8,Households and nonprofit organizations; net saving including net capital transfers paid excluding consumer durables and government insurance and pension fund reserves,FA156006005,536.7,667.4,630.0,710.1,946.7,620.1,726.0,783.6,9
+9,"Nonfinancial corporate business; disposable income, net; net saving (IMA Q4)",FA106012095,296.7,381.0,603.5,584.2,556.7,641.8,634.2,551.5,10
+10,"Domestic financial sectors; disposable income, net; net saving including foreign earnings retained abroad and CCAdj (IMA Q4)",FA796012095,-129.4,171.9,208.4,149.7,134.5,-6.0,14.5,11.4,11
+11,"Federal government; net saving including net capital transfers paid, insurance and pension fund reserves adjustment and contributions for government social insurance for U.S. affiliated areas (IMA)",FA316006085,-634.0,-1248.8,-1328.7,-1244.1,-1090.1,-643.8,-612.9,-569.7,12
+12,State and local governments; net saving including net capital transfers paid (IMA),FA206006095,-165.1,-271.9,-237.3,-215.9,-220.8,-190.5,-169.8,-161.3,13
+13,Households and nonprofit organizations; net capital transfers paid,FA155440005,7.7,-28.4,-20.6,2.0,-5.1,20.0,9.6,21.5,14
+14,Nonfinancial noncorporate business; net capital transfers paid,FA115440005,-3.3,-6.0,-7.8,-1.6,-4.9,-0.0,0.0,0.0,15
+15,Nonfinancial corporate business; net capital transfers paid,FA105440005,-3.7,38.3,20.9,-6.4,-17.0,-5.7,-6.7,-3.2,16
+16,Domestic financial sectors; net capital transfers paid,FA795440005,-60.5,-121.9,-41.5,-32.4,9.6,0.0,10.0,0.0,17
+17,Federal government; net capital transfers paid,FA315440005,117.6,186.3,126.3,113.9,85.0,58.2,58.4,51.5,18
+18,State and local governments; net capital transfers paid,FA205440005,-63.2,-67.7,-76.7,-73.8,-74.2,-71.6,-70.9,-69.3,19
+19,Rest of the world; net capital transfers paid,FA265440005,5.4,-0.6,-0.7,-1.6,6.5,-0.8,-0.4,-0.5,20
+20,All domestic sectors; gross fixed investment,FA885019005,3091.4,2672.7,2691.1,2836.0,3064.3,3206.2,3415.5,3576.6,21
+21,Households and nonprofit organizations; gross fixed investment excluding consumer durables,FA155019005,580.4,468.1,452.4,451.9,505.3,571.2,610.8,688.1,22
+22,Nonfinancial noncorporate business; gross fixed investment (IMA),FA115019085,307.5,248.8,243.1,274.8,312.6,336.5,366.9,382.0,23
+23,Nonfinancial corporate business; gross fixed capital formation with equity REITs (IMA),FA105019085,1372.7,1141.9,1181.0,1303.9,1439.9,1505.0,1625.5,1654.6,24
+24,"Domestic financial sectors; gross fixed investment, nonresidential structures, equipment, and intellectual property products",FA795013005,196.2,166.9,162.8,167.5,192.1,201.3,217.7,238.5,25
+25,Federal government; gross fixed investment,FA315019001,275.8,284.0,300.0,297.4,284.7,268.4,262.9,261.2,26
+26,State and local governments; gross fixed investment,FA205019001,358.8,363.0,351.9,340.5,329.7,323.9,331.6,352.2,27
+27,"All domestic sectors; consumption of fixed capital, equipment, software, and structures, current cost basis (IMA, sum of parts)",FA886300095,2363.4,2368.4,2381.6,2450.6,2534.2,2628.9,2745.2,2830.8,28
+28,"Households and nonprofit organizations; consumption of fixed capital, structures, equipment, and intellectual property products, current cost basis (NIPA basis)",FA156300003,414.6,403.3,400.5,398.2,404.6,427.7,456.3,471.8,29
+29,"Nonfinancial noncorporate business; consumption of fixed capital, structures, equipment, and intellectual property products, current cost basis",FA116300001,254.5,253.0,251.8,265.0,273.0,284.4,298.6,308.7,30
+30,"Nonfinancial corporate business; consumption of fixed capital, structures, equipment, and intellectual property products, including equity REIT residential structures (NIPA basis)",FA106300083,1093.9,1092.0,1094.6,1139.2,1186.2,1228.2,1282.8,1329.6,31
+31,"Domestic financial sectors; consumption of fixed capital, structures, equipment, and intellectual property products, including noncorporate financial and excluding REIT residential structures, current cost basis (IMA)",FA796300081,173.9,177.4,176.7,168.6,174.2,182.2,190.2,198.2,32
+32,"Federal government; consumption of fixed capital, structures, equipment, and intellectual property products, current cost basis (NIPA basis)",FA316300003,226.3,234.5,245.3,257.4,264.3,268.0,271.3,271.5,33
+33,"State and local governments; consumption of fixed capital, equipment, software, and structures, current cost basis (NIPA basis)",FA206300003,200.2,208.2,212.7,222.2,231.9,238.5,246.1,251.0,34
+34,Nonfinancial business; inventories,FA145020005,-32.0,-147.6,61.5,41.8,61.8,92.4,65.4,93.4,35
+35,Nonfinancial noncorporate business; inventories,FA115020005,-2.3,-16.8,3.6,6.8,-4.0,18.8,7.6,12.2,36
+36,Nonfinancial corporate business; inventories including IVA,FA105020005,-29.7,-130.8,57.9,34.9,65.8,73.6,57.9,81.2,37
+37,All domestic sectors; net lending (+) or borrowing (-) (capital account) (IMA),FA885000985,-785.6,-457.8,-495.8,-444.8,-258.4,-249.0,-144.2,-224.2,38
+38,Households and nonprofit organizations; net lending (+) or borrowing (-) (capital account),FA155000905,374.2,640.6,607.2,662.3,858.9,464.6,569.9,554.0,39
+39,Nonfinancial noncorporate business; net lending (+) or borrowing (-) (capital account),FA115000905,-47.5,27.0,12.8,-15.1,-30.7,-70.9,-75.9,-85.6,40
+40,"Nonfinancial corporate business; net lending (+) or borrowing (-) (capital account), includes statistical discrepancy",FA105000905,33.8,417.2,439.3,391.4,253.4,295.7,238.5,118.7,41
+41,Domestic financial sectors; net lending (+) or borrowing (-) (capital account) (IMA),FA795000995,-91.2,304.4,263.8,183.3,107.0,-25.1,-23.0,-28.9,42
+42,Federal government; net lending (+) or borrowing (-) (capital account) (IMA),FA315000995,-780.6,-1475.7,-1508.7,-1397.1,-1193.4,-700.0,-660.3,-580.1,43
+43,State and local governments; net lending (+) or borrowing (-) (capital account) (IMA),FA205000995,-274.3,-371.4,-310.3,-269.6,-253.6,-213.3,-193.3,-202.3,44
+44,Gross domestic product (GDP); statistical discrepancy (calculated from components) (IMA),FA087005995,99.4,75.3,49.2,-38.3,-203.3,-137.9,-258.0,-253.7,45
+45,Rest of the world; net lending (+) or borrowing (-) (capital account),FA265000905,686.2,382.5,446.6,483.2,461.7,386.9,402.2,477.9,46
+46,All domestic sectors; net lending (+) or borrowing (-) (financial account),FA885000005,-1074.3,-679.9,-625.2,-526.7,-953.8,129.2,-321.6,311.4,47
+47,Households and nonprofit organizations; net lending (+) or borrowing (-) (financial account),FA155000005,1364.3,597.2,841.9,1501.2,930.2,895.3,963.7,896.0,48
+48,Nonfinancial noncorporate business; net lending (+) or borrowing (-) (financial account),FA115000005,-37.1,44.8,29.5,-15.1,-30.7,-70.9,-75.9,-85.5,49
+49,Nonfinancial corporate business; net lending (+) or borrowing (-) (financial account),FA105000005,-947.7,548.5,145.2,-397.5,-479.2,63.1,-458.4,31.9,50
+50,Domestic financial sectors; net lending (+) or borrowing (-) (financial account),FA795000005,-296.0,-130.9,60.4,69.7,25.4,153.2,30.5,193.1,51
+51,Federal government; net lending (+) or borrowing (-) (financial account),FA315000005,-789.1,-1288.6,-1416.9,-1350.0,-1131.2,-661.2,-600.2,-514.0,52
+52,"State and local governments, excluding employee retirement funds; net lending (+) or borrowing (-) (financial account)",FA215000005,-368.7,-450.9,-285.3,-335.1,-268.3,-250.2,-181.3,-210.1,53
+53,Rest of the world; net lending (+) or borrowing (-) (financial account),FA265000005,765.2,28.0,268.2,416.7,467.3,389.6,365.5,86.6,54
+54,Households and nonprofit organizations; total other volume changes (IMA),FV158090185,1564.2,130.8,971.7,525.8,246.4,1404.6,577.6,1093.9,55
+55,Nonfinancial noncorporate business; total other volume changes (IMA),FV118090105,-315.4,-96.6,181.5,241.8,81.1,191.7,140.8,19.3,56
+56,Nonfinancial corporate business; total other volume changes (IMA),FV108090105,-195.7,-78.0,192.1,-34.5,-406.6,146.9,-88.3,515.9,57
+57,Domestic financial sectors; total other volume changes (IMA),FV798090185,-336.2,-392.5,-140.0,-147.4,132.8,179.4,-58.9,102.2,58
+58,Federal government; total other volume changes (IMA),FV318090185,86.7,131.1,-31.0,48.2,41.3,24.9,74.5,101.8,59
+59,"State and local governments, excluding employee retirement funds; total other volume changes (IMA)",FV218090185,-110.7,-40.7,-217.8,-58.0,3.5,-40.0,-33.9,-29.8,60
+60,Rest of the world; total other volume changes (IMA),FV268090185,69.8,-339.9,-179.9,-70.6,-0.1,7.3,-36.6,-391.3,61
+61,Households and nonprofit organizations; changes in net worth due to nominal holding gains/losses excluding disaster-related losses on residential structures (IMA),FR158200095,-12402.0,935.5,2524.9,55.9,4651.7,7659.3,3686.6,1546.9,62
+62,Nonfinancial noncorporate business; nonfinancial assets,FR112010005,-1165.3,-1117.8,442.4,416.5,666.7,961.9,631.3,714.8,63
+63,Nonfinancial corporate business; changes in net worth due to nominal holding gains/losses (IMA),FR108200005,3793.4,-4888.6,-1094.8,450.8,-1240.3,-3591.4,-1359.7,1378.9,64
+64,Domestic financial sectors; changes in net worth due to nominal holding gains/losses (IMA),FR798200005,1850.0,24.5,-408.4,534.3,-579.4,-1307.6,-302.8,-10.4,65
+65,Federal government; changes in net worth due to nominal holding gains/losses (IMA),FR318200005,1.2,-157.9,18.5,37.4,45.3,79.4,58.9,7.7,66
+66,"State and local governments, excluding employee retirement funds; changes in net worth due to nominal holding gains/losses (IMA)",FR218200005,-503.1,288.1,451.5,381.1,505.2,866.8,423.3,14.4,67
+67,Rest of the world; net lending (+) or borrowing (-) (financial account),FR265000005,1154.7,-900.5,-192.9,876.2,-371.0,397.0,860.4,-228.7,68
+68,Households and nonprofit organizations; net worth,FC152090005,-10308.7,1762.1,4147.2,1289.8,5849.9,9663.9,4980.6,3402.9,69
+69,Nonfinancial noncorporate business; proprietors' equity in noncorporate business (net worth),FC112090205,-1477.7,-1209.4,631.4,659.1,753.2,1153.2,771.5,734.4,70
+70,Nonfinancial corporate business; net worth (IMA),FC102090085,3898.0,-4624.0,-320.1,1006.9,-1073.2,-2796.9,-807.1,2449.5,71
+71,Domestic financial sectors; net worth (IMA),FC792090095,1444.9,-74.2,-298.5,569.0,-321.7,-1134.1,-357.2,103.2,72
+72,Federal government; net worth (IMA),FC312090095,-663.6,-1461.9,-1467.5,-1272.4,-1088.5,-597.6,-537.9,-511.7,73
+73,"State and local governments, excluding employee retirement funds; net worth (IMA)",FC212090095,-715.6,43.3,73.1,181.1,362.0,707.9,290.5,-107.4,74
+74,Rest of the world; net worth (IMA),FC262090095,1910.8,-857.9,73.9,1288.7,90.5,791.3,1226.0,-142.1,75
+75,Households and nonprofit organizations; net worth,FL152090005,56190.6,57952.7,62100.0,63389.8,69239.7,78903.6,83884.2,87287.1,76
+76,Nonfinancial noncorporate business; proprietors' equity in noncorporate business (net worth),FL112090205,7326.1,6116.7,6748.1,7407.3,8160.4,9313.7,10085.1,10819.6,77
+77,Nonfinancial corporate business; net worth (IMA),FL102090085,6671.8,2047.9,1727.7,2734.6,1661.4,-1135.5,-1942.6,506.9,78
+78,Domestic financial sectors; net worth (IMA),FL792090095,1276.6,1202.4,903.9,1472.9,1151.2,17.0,-340.1,-236.9,79
+79,Federal government; net worth (IMA),FL312090095,-5303.0,-6764.9,-8232.5,-9504.9,-10593.3,-11190.9,-11728.9,-12240.5,80
+80,"State and local governments, excluding employee retirement funds; net worth (IMA)",FL212090095,5918.0,5961.3,6034.4,6215.5,6577.5,7285.3,7575.9,7468.5,81
+81,Rest of the world; net worth (IMA),FL262090095,3075.4,2217.5,2291.3,3580.1,3670.6,4461.9,5687.8,5545.7,82

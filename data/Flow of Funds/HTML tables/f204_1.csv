@@ -1,0 +1,37 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Domestic financial sectors; checkable deposits and currency; liability,FA793120005,351.1,292.2,290.3,-107.7,641.8,536.3,396.9,280.4,-52.3,1
+1,Monetary authority; checkable deposits and currency; liability,FA713120005,152.2,204.4,170.2,51.6,460.7,149.4,229.1,147.5,154.8,2
+2,Monetary authority; checkable deposits due to the federal government; liability,FA713123005,61.0,110.1,65.6,-75.2,367.4,53.5,91.5,105.8,11.8,3
+3,Monetary authority; checkable deposits due to government-sponsored enterprises; liability,FA713124003,-5.8,10.9,21.9,15.5,-4.2,40.8,40.0,-45.8,52.5,4
+4,Monetary authority; checkable deposits due to rest of the world; liability,FA713122605,-2.7,-0.0,-0.0,3.9,-4.0,-0.1,0.0,-0.1,0.0,5
+5,Monetary authority; currency outside banks; liability,FA713125005,99.7,83.4,82.7,107.3,101.6,55.3,97.6,87.6,90.6,6
+6,U.S.-chartered depository institutions; checkable deposits; liability,FA763127005,136.2,50.3,113.3,-127.3,126.4,290.0,91.2,218.9,-147.0,7
+7,"U.S.-chartered depository institutions; checkable deposits due to the federal government, including demand notes issued to U.S. Treasury and tax and loan accounts; liability",FA763123005,0.9,-0.2,-0.1,0.2,-0.7,-0.4,0.4,-0.0,-0.4,8
+8,U.S.-chartered depository institutions; checkable deposits due to rest of the world; liability,FA763122605,5.3,-12.9,11.5,-45.5,10.3,24.9,-1.3,23.5,-1.1,9
+9,U.S.-chartered depository institutions; checkable deposits due to private domestic sectors; liability,FA763129205,130.0,63.4,101.9,-82.0,116.8,265.5,92.2,195.3,-145.5,10
+10,Foreign banking offices in the U.S.; checkable deposits; liability,FA753127005,45.2,16.4,-2.8,-33.4,5.3,72.5,80.5,-86.1,-78.1,11
+11,Foreign banking offices in the U.S.; checkable deposits due to rest of the world; liability,FA753122603,14.0,7.2,3.8,8.7,-7.7,6.8,25.6,-22.4,5.1,12
+12,Foreign banking offices in the U.S.; checkable deposits due to private domestic sectors; liability,FA753129205,31.2,9.2,-6.6,-42.1,13.1,65.7,54.8,-63.6,-83.1,13
+13,Banks in U.S.-affiliated areas; checkable deposits; liability,FA743127003,5.2,1.6,5.7,-1.6,-1.4,13.5,-3.8,4.2,9.0,14
+14,Credit unions; checkable deposits; liability,FA473127003,12.2,19.5,3.9,3.1,50.6,11.0,-0.1,-4.0,8.9,15
+15,Domestic financial sectors; checkable deposits and currency; liability,FA793120005,351.1,292.2,290.3,-107.7,641.8,536.3,396.9,280.4,-52.3,16
+16,Households and nonprofit organizations; checkable deposits and currency; asset,FA153020005,73.2,144.5,14.8,-189.5,325.8,301.7,-45.8,-137.0,-59.6,17
+17,Nonfinancial business; checkable deposits and currency; asset,FA143020005,133.2,27.2,112.5,15.7,-31.0,52.4,228.2,135.1,34.4,18
+18,Nonfinancial corporate business; checkable deposits and currency; asset,FA103020005,63.9,-12.9,66.9,-13.6,-85.0,1.2,186.0,86.6,-6.3,19
+19,Nonfinancial noncorporate business; checkable deposits and currency; asset,FA113020005,69.3,40.1,45.6,29.3,54.0,51.2,42.2,48.4,40.6,20
+20,Federal government; checkable deposits and currency; asset,FA313020005,60.8,109.9,65.7,-63.2,370.1,78.9,52.6,116.4,15.1,21
+21,"State and local governments, excluding employee retirement funds; checkable deposits and currency; asset",FA213020005,16.0,-8.8,6.2,-6.3,-27.9,25.9,0.7,11.7,-13.6,22
+22,Domestic financial sectors; checkable deposits and currency; asset,FA793020005,-15.8,-13.1,33.1,127.7,-47.4,22.6,69.0,129.1,-88.1,23
+23,Property-casualty insurance companies; checkable deposits and currency; asset,FA513020003,5.9,-2.8,-7.2,16.4,-6.3,-5.7,16.2,-32.0,-7.5,24
+24,Life insurance companies; checkable deposits and currency; asset,FA543020005,5.0,9.1,4.4,43.1,27.6,-9.2,41.4,-25.2,10.5,25
+25,Private pension funds; checkable deposits and currency; asset,FA573020005,3.3,1.0,2.4,2.5,2.4,2.5,2.9,1.8,2.2,26
+26,State and local government employee defined benefit retirement funds; checkable deposits and currency; asset,FA223020043,0.4,0.0,0.1,-0.3,-0.1,-0.8,0.7,0.5,0.1,27
+27,Money market mutual funds; checkable deposits and currency; asset,FA633020000,-17.9,11.9,22.0,15.2,12.4,16.9,-9.5,171.9,-91.1,28
+28,Government-sponsored enterprises; checkable deposits and currency; asset,FA403020005,-16.6,-24.0,7.5,24.9,-25.6,-25.2,35.6,-15.6,35.2,29
+29,Finance companies; checkable deposits and currency; asset,FA613020003,-0.2,0.1,-10.0,3.4,-7.1,17.4,-47.1,-6.7,-3.6,30
+30,Real estate investment trusts; checkable deposits and currency; asset,FA643020005,4.3,-2.9,0.8,16.6,-12.7,7.3,16.3,-6.0,-14.5,31
+31,Security brokers and dealers; checkable deposits and currency; asset,FA663020003,0.0,-5.7,13.1,5.8,-37.9,19.2,12.3,40.4,-19.4,32
+32,Rest of the world; U.S. checkable deposits and currency; asset,FA263020005,82.8,32.6,57.5,20.6,55.1,81.9,53.1,32.7,62.4,33
+33,Rest of the world; checkable deposits; asset,FA263027003,16.5,-5.7,15.2,-32.9,-1.4,31.6,24.4,1.0,4.0,34
+34,Rest of the world; currency; asset,FA263025003,66.3,38.4,42.3,53.5,56.5,50.3,28.7,31.8,58.4,35
+35,Instrument discrepancies; checkable deposits and currency (total mail float),FA903020005,0.9,-0.3,0.4,-12.7,-2.8,-27.0,39.0,-7.6,-2.8,36

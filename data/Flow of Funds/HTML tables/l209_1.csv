@@ -1,0 +1,34 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,All sectors; open market paper; liability,FL893169175,930.4,941.5,884.9,991.3,941.5,1021.1,1015.9,911.3,884.9,1
+1,All sectors; commercial paper; liability,FL893169105,930.4,941.5,884.9,991.3,941.5,1021.1,1015.9,911.3,884.9,2
+2,Nonfinancial corporate business; commercial paper; liability,FL103169100,182.0,176.5,182.8,201.2,176.5,185.5,186.9,177.9,182.8,3
+3,Rest of the world; commercial paper; liability,FL263169105,385.6,444.8,360.0,447.8,444.8,467.3,469.2,385.7,360.0,4
+4,Rest of the world; commercial paper issued by nonfinancial firms; liability,FL263169110,45.2,44.1,44.6,57.8,44.1,57.3,61.6,61.0,44.6,5
+5,Rest of the world; commercial paper issued by financial firms; liability,FL263169123,340.4,400.7,315.4,390.0,400.7,410.1,407.6,324.7,315.4,6
+6,Domestic financial sectors; commercial paper; liability,FL793169100,362.9,320.1,342.1,342.3,320.1,368.4,359.8,347.7,342.1,7
+7,U.S.-chartered depository institutions; asset-backed commercial paper; liability,FL763169103,54.5,53.6,49.0,51.1,53.6,56.6,55.5,52.3,49.0,8
+8,"Issuers of asset-backed securities; commercial paper, excluding U.S.-chartered commercial banks' asset-backed commercial paper; liability",FL673169105,64.8,57.5,77.8,58.1,57.5,67.0,65.3,77.8,77.8,9
+9,Finance companies; commercial paper; liability,FL613169100,117.8,114.6,125.6,122.0,114.6,118.7,121.6,120.0,125.6,10
+10,Mortgage real estate investment trusts; commercial paper; liability,FL643169173,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11
+11,Holding companies; commercial paper; liability,FL733169103,77.0,5.7,2.2,16.0,5.7,5.6,4.6,2.8,2.2,12
+12,Funding corporations; commercial paper; liability,FL503169105,48.9,88.8,87.5,95.1,88.8,120.5,112.8,94.8,87.5,13
+13,Private depository institutions; bankers' acceptances; liability(1),FL703169605,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14
+14,U.S.-chartered depository institutions; bankers' acceptances; liability,FL763169603,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15
+15,Foreign banking offices in the U.S.; bankers' acceptances; liability,FL753169603,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16
+16,All sectors; open market paper; liability,FL893169175,930.4,941.5,884.9,991.3,941.5,1021.1,1015.9,911.3,884.9,17
+17,Nonfinancial corporate business; commercial paper; asset,FL103069100,56.5,54.8,65.6,54.9,54.8,55.1,59.0,61.5,65.6,18
+18,"State and local governments, excluding employee retirement funds; commercial paper; asset",FL213069103,66.1,63.3,62.3,65.6,63.3,60.6,61.0,61.9,62.3,19
+19,Monetary authority; bankers' acceptances; asset,FL713069603,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20
+20,U.S.-chartered depository institutions; open market paper; asset(1),FL763069175,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21
+21,Foreign banking offices in the U.S.; bankers' acceptances; asset(1),FL753069603,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22
+22,Credit unions; commercial paper held by Corporate Credit Unions; asset,FL473069153,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23
+23,Property-casualty insurance companies; commercial paper; asset,LM513069103,8.0,8.9,15.0,8.7,8.9,8.8,9.0,12.8,15.0,24
+24,Life insurance companies; commercial paper; asset,LM543069105,50.5,43.3,47.8,47.3,43.3,44.7,44.9,46.3,47.8,25
+25,Private pension funds; total commercial paper; asset,FL573069105,43.2,46.3,49.0,45.6,46.3,47.1,47.8,48.3,49.0,26
+26,State and local government employee defined benefit retirement funds; commercial paper; asset,FL223069143,41.3,41.5,42.9,41.9,41.5,39.6,41.3,42.6,42.9,27
+27,Money market mutual funds; open market paper; asset,FL633069175,338.6,298.8,103.8,338.4,298.8,333.4,272.1,113.3,103.8,28
+28,Mutual funds; commercial paper; asset,LM653069100,94.1,81.7,80.6,82.9,81.7,86.8,84.3,84.5,80.6,29
+29,Government-sponsored enterprises; commercial paper; asset,FL403069105,6.0,5.5,5.9,5.0,5.5,5.5,5.6,5.8,5.9,30
+30,Security brokers and dealers; commercial paper; asset,FL663069103,20.8,19.5,13.8,19.5,19.5,20.3,17.0,13.6,13.8,31
+31,Funding corporations; commercial paper; asset,FL503069105,97.3,173.9,263.3,180.5,173.9,217.7,265.0,292.9,263.3,32
+32,Rest of the world; commercial paper; asset,LM263069103,107.9,104.1,134.9,100.8,104.1,101.5,108.8,127.7,134.9,33

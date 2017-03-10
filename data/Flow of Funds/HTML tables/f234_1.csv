@@ -1,0 +1,41 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,All sectors; unidentified miscellaneous liabilities,FA893193005,1069.4,443.9,662.7,204.8,885.9,787.0,1327.2,276.9,259.8,1
+1,Nonfinancial corporate business; unidentified miscellaneous liabilities,FA103193005,985.8,592.1,539.6,855.8,1209.6,629.3,760.8,452.5,315.7,2
+2,Nonfinancial noncorporate business; unidentified miscellaneous liabilities,FA113193003,77.9,28.4,17.4,21.1,19.8,17.6,17.3,17.5,17.3,3
+3,"Federal government; unidentified miscellaneous liabilities, including liability due to FICO",FA313193005,3.0,3.5,5.8,-9.5,28.4,-17.9,7.1,-6.2,40.1,4
+4,Monetary authority; unidentified miscellaneous liabilities,FA713193005,2.4,-0.3,-0.8,-203.9,208.4,-80.2,60.7,-196.9,213.1,5
+5,"U.S.-chartered depository institutions, including IBFs; unidentified miscellaneous liabilities",FA763193005,122.5,22.9,26.5,-59.8,-157.6,116.8,151.0,-129.6,-32.0,6
+6,"Foreign banking offices in the U.S., including IBFs; unidentified miscellaneous liability",FA753193005,8.6,-11.3,-11.4,29.3,-16.4,77.1,54.7,-113.3,-64.3,7
+7,Banks in U.S.-affiliated areas; unidentified miscellaneous liabilities,FA743193005,-1.6,-2.3,-0.3,-7.0,-2.0,1.6,-0.2,3.3,-5.8,8
+8,Credit unions; unidentified miscellaneous liabilities,FA473193005,1.2,0.5,4.2,-11.2,8.9,25.6,-21.6,-13.0,25.7,9
+9,Property-casualty insurance companies; unidentified miscellaneous liabilities,FA513193005,-7.1,-1.9,-4.3,-8.8,-67.0,-42.0,8.9,27.6,-11.7,10
+10,Life insurance companies; unidentified miscellaneous liabilities,FA543193005,23.1,-3.0,47.5,90.4,-78.0,125.4,112.2,3.6,-51.3,11
+11,Government-sponsored enterprises; unidentified miscellaneous liabilities,FA403193005,-3.4,-5.3,0.8,10.6,-6.8,0.9,-9.7,1.0,11.1,12
+12,Finance companies; unidentified miscellaneous liabilities,FA613193005,-8.2,-5.3,-30.0,-26.4,-26.2,7.2,-46.6,-24.0,-56.6,13
+13,Real estate investment trusts; unidentified miscellaneous liabilities,FA643193005,6.9,-1.9,11.7,41.5,-51.4,26.0,29.3,0.3,-8.6,14
+14,Security brokers and dealers; unidentified miscellaneous liabilities,FA663193005,-52.5,-119.6,-52.9,-109.3,-409.6,-188.8,85.7,66.4,-174.7,15
+15,Holding companies; unidentified miscellaneous liabilities,FA733193005,-31.4,-147.7,-14.7,-295.7,-78.0,5.6,-123.3,110.7,-51.8,16
+16,Funding corporations; unidentified miscellaneous liabilities (net),FA503193005,-57.8,95.1,123.5,-112.3,303.9,82.7,240.8,77.0,93.6,17
+17,All sectors; unidentified miscellaneous assets,FA893093005,932.5,735.9,809.4,453.9,741.1,1590.2,608.1,566.5,472.9,18
+18,Nonfinancial corporate business; unidentified miscellaneous assets,FA103093005,422.2,675.7,441.5,601.1,562.5,828.2,462.7,151.6,323.6,19
+19,Nonfinancial noncorporate business; unidentified miscellaneous assets,FA113093005,318.7,202.9,201.8,151.8,265.4,229.6,186.4,212.7,178.4,20
+20,Federal government; unidentified miscellaneous assets,FA313093003,10.2,12.2,11.2,10.8,9.6,14.3,11.1,9.1,10.4,21
+21,"State and local governments, excluding employee retirement funds; unidentified miscellaneous assets",FA213093003,7.0,11.5,4.1,25.5,1.5,2.7,3.0,7.8,3.1,22
+22,Monetary authority; unidentified miscellaneous assets,FA713093005,-1.8,-19.7,-16.4,-20.4,-14.7,-14.7,-16.7,-18.1,-16.0,23
+23,"U.S.-chartered depository institutions, including IBFs; unidentified miscellaneous assets",FA763093005,-5.5,14.5,55.8,-60.8,-67.7,215.9,106.0,-52.1,-46.8,24
+24,"Foreign banking offices in the U.S., including IBFs; unidentified miscellaneous assets",FA753093005,14.4,-13.0,4.9,-35.6,-10.5,22.9,25.8,-26.0,-3.0,25
+25,Banks in U.S.-affiliated areas; unidentified miscellaneous assets,FA743093005,12.8,1.5,6.6,-3.4,-4.6,21.8,-13.1,-3.8,21.7,26
+26,Credit unions; unidentified miscellaneous assets,FA473093005,4.9,5.7,11.9,11.2,15.8,-16.0,43.8,-28.2,48.0,27
+27,Property-casualty insurance companies; unidentified miscellaneous assets,FA513093005,-1.6,20.8,28.1,31.9,-12.8,68.7,16.5,19.1,8.3,28
+28,Life insurance companies; unidentified miscellaneous assets,FA543093005,72.4,8.2,42.1,41.4,-25.4,54.6,69.7,-43.2,87.4,29
+29,Private pension funds; unidentified miscellaneous assets,FA573093005,25.9,44.6,30.4,27.7,33.5,26.6,40.0,23.6,31.5,30
+30,State and local government employee retirement funds; unidentified miscellaneous assets,FA223093005,13.9,4.3,-5.0,-9.4,-4.2,-31.4,0.7,11.3,-0.7,31
+31,Money market mutual funds; unidentified miscellaneous assets,FA633093005,-14.7,-7.0,-6.3,33.6,48.6,-94.0,13.7,11.9,43.1,32
+32,Mutual funds; unidentified miscellaneous assets,FA653093005,102.8,-49.0,-110.4,115.5,88.5,38.6,-127.6,-196.9,-155.8,33
+33,Exchange-traded funds; unidentified miscellaneous assets (commodity funds),FA563093003,-1.4,2.1,11.7,-2.4,1.8,39.3,28.5,8.0,-29.0,34
+34,Government-sponsored enterprises; unidentified miscellaneous assets,FA403093005,-11.0,-6.5,2.6,-48.4,-24.0,31.9,31.6,30.1,-83.1,35
+35,Finance companies; unidentified miscellaneous assets,FA613093005,9.5,-11.3,-66.7,-90.7,126.9,36.5,-133.4,-124.5,-45.4,36
+36,Real estate investment trusts; unidentified miscellaneous assets,FA643093005,13.1,10.1,25.1,11.2,-13.7,38.8,30.4,12.5,18.7,37
+37,Security brokers and dealers; unidentified miscellaneous assets,FA663093005,3.4,-45.8,21.4,-93.2,-109.2,62.6,20.3,19.9,-17.3,38
+38,Holding companies; unidentified miscellaneous assets,FA733093005,-62.7,-126.0,115.0,-243.4,-125.9,13.5,-191.2,541.8,95.8,39
+39,Instrument discrepancies; total miscellaneous assets,FA903090005,136.9,-292.0,-146.7,-249.1,144.8,-803.2,719.1,-289.6,-213.1,40

@@ -1,0 +1,30 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,"Foreign banking offices in the U.S., including IBFs; total financial assets",FL754090005,2093.4,1951.5,1842.3,2090.1,1951.5,2040.7,2103.7,1925.6,1842.3,1
+1,Foreign banking offices in the U.S.; vault cash; asset,FL753025003,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2
+2,Foreign banking offices in the U.S.; depository institution reserves; asset,FL753013003,888.8,690.3,567.8,871.1,690.3,749.2,766.0,602.3,567.8,3
+3,Foreign banking offices in the U.S. including IBFs; federal funds and security repurchase agreements; asset,FL752050005,218.1,218.5,193.1,198.5,218.5,205.8,203.4,204.8,193.1,4
+4,Foreign banking offices in the U.S.; debt securities; asset,FL754022005,274.3,265.3,276.0,262.7,265.3,286.5,310.7,300.0,276.0,5
+5,Foreign banking offices in the U.S.; bankers' acceptances; asset,FL753069603,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6
+6,Foreign banking offices in the U.S.; Treasury securities; asset,FL753061103,56.5,69.8,94.0,54.7,69.8,79.2,89.2,99.0,94.0,7
+7,Foreign banking offices in the U.S.; agency- and GSE-backed securities; asset,FL753061703,20.5,23.1,21.1,20.9,23.1,23.2,22.9,24.8,21.1,8
+8,Foreign banking offices in the U.S.; municipal securities; asset,FL753062003,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9
+9,"Foreign banking offices in the U.S., including IBFs; corporate and foreign bonds; asset",FL753063005,197.3,172.4,160.8,187.2,172.4,184.2,198.5,176.1,160.8,10
+10,Foreign banking offices in the U.S.; loans; asset,FL754023005,640.9,719.0,742.1,696.8,719.0,735.1,753.1,754.5,742.1,11
+11,Foreign banking offices in the U.S.; depository institution loans n.e.c.; asset,FL753068005,603.3,667.6,675.0,650.1,667.6,679.0,692.6,689.6,675.0,12
+12,Foreign banking offices in the U.S.; customers' liability on acceptances; asset,FL753069703,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13
+13,Foreign banking offices in the U.S.; total mortgages; asset,FL753065005,37.6,51.3,67.2,46.6,51.3,56.1,60.5,64.9,67.2,14
+14,Foreign banking offices in the U.S.; corporate equities; asset,FL753064103,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15
+15,"Foreign banking offices in the U.S., including IBFs; unidentified miscellaneous assets",FL753093005,71.3,58.4,63.3,61.0,58.4,64.1,70.5,64.0,63.3,16
+16,"Foreign banking offices in the U.S., including IBFs; total liabilities",FL754190005,2188.7,2027.9,1886.6,2204.1,2027.9,2092.7,2133.8,1929.4,1886.6,17
+17,Foreign banking offices in the U.S.; net interbank transactions; liability,FL754110005,197.7,120.6,65.4,260.8,120.6,114.7,169.4,91.2,65.4,18
+18,Foreign banking offices in the U.S.; net interbank transactions with banks in foreign countries; liability,FL754116005,174.4,92.3,30.6,229.5,92.3,82.8,134.4,55.3,30.6,19
+19,Foreign banking offices in the U.S.; net interbank transactions with U.S. banking; liability,FL754112005,23.3,28.3,34.7,31.3,28.3,31.9,35.1,35.9,34.7,20
+20,Foreign banking offices in the U.S.; checkable deposits; liability,FL753127005,137.8,154.1,151.3,152.8,154.1,172.3,192.4,170.9,151.3,21
+21,"Foreign banking offices in the U.S., including IBFs; total time and savings deposits; liability",FL753130005,1056.3,934.9,794.3,990.7,934.9,943.4,885.2,806.0,794.3,22
+22,"Foreign banking offices in the U.S., including IBFs; federal funds and security repurchase agreements; liability",FL752150005,371.3,406.6,476.2,375.4,406.6,407.9,429.1,440.8,476.2,23
+23,Foreign banking offices in the U.S.; bankers' acceptances; liability(2),FL753169603,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24
+24,Foreign banking offices in the U.S.; foreign direct investment in the U.S.; liability,FL753192003,202.8,197.9,203.0,203.7,197.9,199.8,201.5,201.9,203.0,25
+25,Foreign banking offices in the U.S.; total miscellaneous liabilities,FL753190005,222.8,213.7,196.3,220.8,213.7,254.7,256.2,218.7,196.3,26
+26,Foreign banking offices in the U.S.; equity investment by funding corporations; liability,FL753194503,103.2,105.4,99.4,108.4,105.4,127.1,114.9,105.8,99.4,27
+27,"Foreign banking offices in the U.S., including IBFs; unidentified miscellaneous liability",FL753193005,119.6,108.3,96.9,112.4,108.3,127.6,141.3,112.9,96.9,28
+28,"Foreign banking offices in the U.S., including IBFs; uninsured checkable and time and savings deposits; liability(3)",FL753139105,1194.1,1089.1,945.6,1143.5,1089.1,1115.7,1077.6,976.9,945.6,29

@@ -1,0 +1,30 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Personal sector; total financial assets,FL174090005,64341.7,65894.4,69872.9,64207.9,65894.4,66125.6,66641.6,68301.0,69872.9,1
+1,Households and nonprofit organizations; private foreign deposits; asset,FL153091003,45.7,31.6,29.5,36.1,31.6,32.4,30.3,30.1,29.5,2
+2,Personal sector; checkable deposits and currency; asset,FL173020005,1785.6,1970.2,2019.8,1818.4,1970.2,2016.9,2004.5,1967.2,2019.8,3
+3,Personal sector; total time and savings deposits; asset,FL173030005,8290.5,8818.3,9556.7,8673.5,8818.3,8934.1,9019.2,9371.7,9556.7,4
+4,Personal sector; money market mutual fund shares; asset,FL173034005,1198.3,1159.9,1120.6,1095.6,1159.9,1129.1,1079.9,1064.0,1120.6,5
+5,Personal sector; debt securities; asset,FL174022005,4040.4,4488.1,4315.6,4381.4,4488.1,4235.5,3806.4,3814.4,4315.6,6
+6,Personal sector; Treasury securities; asset,FL173061105,895.4,1193.2,1444.1,1094.3,1193.2,1141.9,1100.8,1220.4,1444.1,7
+7,Households and nonprofit organizations; agency- and GSE-backed securities; asset,FL153061705,299.2,521.7,407.1,412.8,521.7,474.0,396.8,344.7,407.1,8
+8,Personal sector; municipal securities; asset,FL173062005,1693.2,1637.8,1648.7,1688.1,1637.8,1628.0,1603.2,1592.9,1648.7,9
+9,Households and nonprofit organizations; corporate and foreign bonds; asset,FL153063005,1152.6,1135.4,815.8,1186.2,1135.4,991.6,705.6,656.5,815.8,10
+10,Personal sector; loans; asset,FL174023005,1096.9,1037.6,1032.6,1065.7,1037.6,1079.1,1079.4,1053.9,1032.6,11
+11,Households and nonprofit organizations; other loans and advances; asset,FL153069005,893.2,842.6,841.6,866.3,842.6,884.4,886.3,862.3,841.6,12
+12,Personal sector; mortgages; asset,FL173065005,156.0,150.8,152.3,154.0,150.8,152.0,151.8,151.6,152.3,13
+13,Personal sector; consumer credit; asset,FL173066005,47.6,44.2,38.7,45.5,44.2,42.8,41.4,39.9,38.7,14
+14,Households and nonprofit organizations; corporate equities; asset(2),LM153064105,14357.4,14189.7,15874.2,13556.7,14189.7,14196.3,14616.9,15302.3,15874.2,15
+15,Households and nonprofit organizations; mutual fund shares; asset,LM153064205,6726.2,6504.3,6851.5,6360.6,6504.3,6513.1,6656.4,6903.2,6851.5,16
+16,Nonprofit organizations; grants and trade receivables; asset,FL163070005,220.1,227.0,233.9,225.3,227.0,228.8,230.5,232.2,233.9,17
+17,Households and nonprofit organizations; life insurance reserves; asset,FL153040005,1282.8,1310.6,1368.3,1298.3,1310.6,1316.0,1340.3,1356.6,1368.3,18
+18,Households and nonprofit organizations; pension entitlements; asset,FL153050005,20666.8,21256.1,22259.4,20886.9,21256.1,21467.4,21729.7,22078.2,22259.4,19
+19,"Life insurance companies; pension entitlements, excluding unallocated insurance contracts; liability",FL543150005,2833.1,2857.0,2988.1,2796.9,2857.0,2874.6,2919.7,2974.6,2988.1,20
+20,Private pension funds; total liabilities,FL574190005,8462.0,8667.5,9122.7,8483.0,8667.5,8760.1,8875.8,9053.4,9122.7,21
+21,General government; pension entitlements; liability,FL363150005,9371.6,9731.7,10148.7,9607.0,9731.7,9832.8,9934.2,10050.2,10148.7,22
+22,Personal sector; other financial assets,FL173099005,4631.0,4900.9,5210.8,4809.5,4900.9,4976.9,5048.0,5127.3,5210.8,23
+23,Personal sector; total liabilities,FL174190005,20735.2,21463.4,22318.5,21200.6,21463.4,21570.1,21827.2,22080.3,22318.5,24
+24,Personal sector; home mortgages; liability,FL173165105,9926.9,10017.6,10250.5,9988.1,10017.6,10028.0,10089.4,10183.6,10250.5,25
+25,"Personal sector; commercial, multifamily, and farm mortgages; liability",FL173165205,2926.2,3120.3,3337.7,3062.6,3120.3,3167.0,3219.2,3282.7,3337.7,26
+26,Households and nonprofit organizations; consumer credit; liability,FL153166000,3318.0,3535.7,3764.7,3481.4,3535.7,3538.8,3604.3,3692.2,3764.7,27
+27,Households and nonprofit organizations; other loans and advances; liability,FL153169005,513.8,437.3,426.7,436.7,437.3,413.8,424.8,448.0,426.7,28
+28,Personal sector; other liabilities,FL173199005,4050.4,4352.6,4538.8,4231.9,4352.6,4422.5,4489.5,4473.8,4538.8,29

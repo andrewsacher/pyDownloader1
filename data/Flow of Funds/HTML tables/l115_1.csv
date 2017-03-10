@@ -1,0 +1,29 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Property-casualty insurance companies; total financial assets,FL514090005,1845.3,1848.7,1947.2,1849.1,1848.7,1902.3,1925.8,1952.3,1947.2,1
+1,Property-casualty insurance companies; checkable deposits and currency; asset,FL513020003,36.5,33.8,26.5,35.4,33.8,32.4,36.4,28.4,26.5,2
+2,Property-casualty insurance companies; money market mutual fund shares; asset,FL513034003,18.5,21.7,19.3,20.9,21.7,20.7,21.0,19.8,19.3,3
+3,Property-casualty insurance companies; security repurchase agreements; asset,FL512051003,1.8,1.8,2.2,1.8,1.8,1.3,1.3,1.9,2.2,4
+4,Property-casualty insurance companies; debt securities; asset,LM514022005,1012.1,995.1,1052.0,997.1,995.1,1033.1,1046.9,1070.4,1052.0,5
+5,Property-casualty insurance companies; commercial paper; asset,LM513069103,8.0,8.9,15.0,8.7,8.9,8.8,9.0,12.8,15.0,6
+6,Property-casualty insurance companies; Treasury securities; asset,LM513061103,104.9,100.7,118.8,101.5,100.7,102.8,104.6,114.3,118.8,7
+7,Property-casualty insurance companies; agency- and GSE-backed securities; asset,LM513061703,111.6,102.7,105.5,104.6,102.7,105.7,106.1,107.1,105.5,8
+8,Property-casualty insurance companies; municipal securities; asset,LM513062003,339.6,345.8,359.8,343.3,345.8,358.4,363.7,367.1,359.8,9
+9,Property-casualty insurance companies; corporate and foreign bonds; asset,LM513063003,448.1,437.0,452.9,439.0,437.0,457.3,463.4,469.0,452.9,10
+10,Property-casualty insurance companies; commercial mortgages; asset,FL513065503,9.9,12.3,15.8,11.5,12.3,13.0,13.8,14.8,15.8,11
+11,Property-casualty insurance companies; corporate equities; asset,LM513064105,331.1,323.0,326.2,309.1,323.0,319.9,318.7,319.2,326.2,12
+12,Property-casualty insurance companies; mutual fund shares; asset,LM513064203,18.2,18.4,18.8,17.8,18.4,17.7,17.9,18.3,18.8,13
+13,Property-casualty insurance companies; trade receivables; asset,FL513070003,103.8,110.1,123.7,114.0,110.1,114.1,114.4,119.2,123.7,14
+14,Property-casualty insurance companies; U.S. direct investment abroad; asset,FL513092003,113.4,111.8,113.8,117.6,111.8,112.2,113.2,113.3,113.8,15
+15,Property-casualty insurance companies; total miscellaneous assets,FL513090005,200.0,220.8,249.0,224.0,220.8,238.0,242.2,247.0,249.0,16
+16,Property-casualty insurance companies; equity in FHLB; asset,FL513092403,0.1,0.1,0.2,0.1,0.1,0.1,0.2,0.2,0.2,17
+17,Property-casualty insurance companies; unidentified miscellaneous assets,FL513093005,199.8,220.7,248.8,223.9,220.7,237.8,242.0,246.7,248.8,18
+18,Property-casualty insurance companies; total liabilities,FL514190005,1095.5,1110.4,1169.4,1120.0,1110.4,1130.4,1138.7,1157.9,1169.4,19
+19,Property-casualty insurance companies; security repurchase agreements; liability,FL512151003,1.0,1.4,1.0,1.3,1.4,0.5,0.5,0.6,1.0,20
+20,Property-casualty insurance companies; FHLB advances; liability,FL513169333,2.2,2.4,3.4,2.1,2.4,2.3,3.5,3.8,3.4,21
+21,Property-casualty insurance companies; taxes payable (net); liability,FL513178003,37.2,29.6,27.5,27.7,29.6,29.8,26.1,26.9,27.5,22
+22,Property-casualty insurance companies; foreign direct investment in U.S.; liability,FL513192003,67.9,77.0,106.8,71.0,77.0,104.1,104.6,105.9,106.8,23
+23,Property-casualty insurance companies; total miscellaneous liabilities,FL513190005,987.2,1000.0,1030.7,1017.9,1000.0,993.8,1003.9,1020.7,1030.7,24
+24,Property-casualty insurance companies; net transactions due to holding companies; liability,FL513194733,5.3,4.5,4.3,4.8,4.5,4.0,4.4,4.0,4.3,25
+25,Property-casualty insurance companies; policy payables; liability,FL513176003,822.5,838.1,873.3,838.9,838.1,842.8,850.4,860.6,873.3,26
+26,Property-casualty insurance companies; unidentified miscellaneous liabilities,FL513193005,159.4,157.4,153.1,174.2,157.4,146.9,149.2,156.1,153.1,27
+27,Property-casualty insurance companies; securities lending; liability(1),FL513170603,2.9,2.8,4.1,3.2,2.8,3.9,3.9,4.0,4.1,28

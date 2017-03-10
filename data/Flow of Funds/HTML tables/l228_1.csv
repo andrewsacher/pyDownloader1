@@ -1,0 +1,13 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,All sectors; taxes payable; liability,FL893178005,181.5,171.1,157.0,188.4,171.1,183.5,175.7,179.6,157.0,1
+1,Nonfinancial corporate business; taxes payable; liability,FL103178000,43.5,41.7,28.7,56.8,41.7,40.7,32.4,35.2,28.7,2
+2,Nonfinancial noncorporate business; taxes payable; liability,FL113178003,117.4,120.8,124.1,119.7,120.8,121.7,122.5,123.4,124.1,3
+3,U.S.-chartered depository institutions; taxes payable (net); liability,FL763178003,-32.3,-36.7,-36.7,-32.2,-36.7,-26.3,-21.9,-21.9,-36.7,4
+4,Property-casualty insurance companies; taxes payable (net); liability,FL513178003,37.2,29.6,27.5,27.7,29.6,29.8,26.1,26.9,27.5,5
+5,"Life insurance companies, general accounts; taxes payable (net); liability",FL543178073,3.9,3.9,2.1,3.7,3.9,4.6,4.7,3.4,2.1,6
+6,Finance companies; taxes payable; liability,FL613178003,7.8,8.5,8.1,8.7,8.5,9.0,8.4,8.6,8.1,7
+7,Security brokers and dealers; taxes payable; liability,FL663178003,4.0,3.2,3.3,4.1,3.2,4.1,3.5,4.0,3.3,8
+8,All sectors; taxes receivable; asset,FL893078005,302.9,329.9,347.0,323.6,329.9,332.7,340.6,343.6,347.0,9
+9,Federal government; taxes receivable; asset,FL313078005,165.6,179.2,186.5,177.4,179.2,181.1,182.9,184.7,186.5,10
+10,"State and local governments, excluding employee retirement funds; taxes receivable; asset",FL213078005,137.2,150.6,160.4,146.2,150.6,151.6,157.7,158.9,160.4,11
+11,Instrument discrepancies; taxes receivable,FL903078005,-121.4,-158.8,-189.9,-135.2,-158.8,-149.2,-164.8,-164.1,-189.9,12

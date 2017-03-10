@@ -1,0 +1,24 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Credit unions; total financial assets,FL474090005,1065.9,1150.5,1243.0,1125.2,1150.5,1174.0,1193.2,1224.4,1243.0,1
+1,Credit unions; depository institution reserves; asset,FL473013003,45.7,51.2,52.0,47.7,51.2,64.3,54.7,63.9,52.0,2
+2,Credit unions; federal funds and security repurchase agreements held by Corporate Credit Unions (net of liabilities before 2002:Q4); asset,FL472050053,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3
+3,Credit unions; debt securities; asset,FL474022005,222.8,219.9,212.3,216.2,219.9,218.2,218.9,215.3,212.3,4
+4,Credit unions; commercial paper held by Corporate Credit Unions; asset,FL473069153,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5
+5,Credit unions; Treasury securities; asset,FL473061105,21.6,29.2,24.7,22.9,29.2,28.5,23.4,23.3,24.7,6
+6,Credit unions; agency- and GSE-backed securities; asset,FL473061705,187.5,175.6,171.0,178.3,175.6,173.4,178.9,175.4,171.0,7
+7,Credit unions; municipal securities; asset,FL473062005,3.8,4.3,5.1,4.4,4.3,4.8,4.9,5.0,5.1,8
+8,Credit unions; corporate and foreign bonds; asset,FL473063005,9.9,10.8,11.5,10.7,10.8,11.4,11.7,11.6,11.5,9
+9,Credit unions; loans; asset,FL474023000,728.9,804.9,892.5,787.5,804.9,809.2,831.8,867.7,892.5,10
+10,Credit unions; depository institution loans n.e.c.; asset,FL473068005,53.7,57.7,68.7,56.4,57.7,61.1,57.3,63.8,68.7,11
+11,Credit unions; home mortgages; asset,FL473065100,372.5,404.9,441.8,397.7,404.9,403.0,416.7,430.4,441.8,12
+12,Credit unions; consumer credit; asset,FL473066000,302.8,342.3,382.0,333.4,342.3,345.1,357.8,373.5,382.0,13
+13,Credit unions; mutual fund shares; asset,LM473064205,2.1,1.9,1.9,2.1,1.9,1.9,2.0,2.0,1.9,14
+14,Credit unions; total miscellaneous assets,FL473090005,66.4,72.6,84.2,71.6,72.6,80.3,85.8,75.4,84.2,15
+15,Credit unions; total liabilities,FL474190005,958.4,1036.4,1120.7,1011.3,1036.4,1055.6,1073.6,1101.7,1120.7,16
+16,Credit unions; net interbank transactions; liability,FL474110005,-62.8,-60.5,-61.7,-61.7,-60.5,-63.1,-64.5,-60.3,-61.7,17
+17,Credit unions; checkable deposits; liability,FL473127003,133.9,153.4,157.3,140.7,153.4,156.1,156.1,155.1,157.3,18
+18,Credit unions; total time and savings deposits; liability,FL473130005,836.5,882.9,958.3,871.6,882.9,898.7,920.4,944.8,958.3,19
+19,Credit unions; federal funds and security repurchase agreements held by Corporate Credit Unions; liability,FL472150053,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20
+20,Credit unions; FHLB advances; liability,FL473169333,35.4,44.7,46.7,44.9,44.7,42.9,44.5,46.4,46.7,21
+21,Credit unions; unidentified miscellaneous liabilities,FL473193005,15.4,16.0,20.1,15.7,16.0,21.0,17.1,15.7,20.1,22
+22,Credit unions; uninsured checkable and time and savings deposits; liability(1),FL473139103,48.4,54.8,63.6,52.7,54.8,58.0,59.0,61.7,63.6,23

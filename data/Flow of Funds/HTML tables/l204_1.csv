@@ -1,0 +1,37 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Domestic financial sectors; checkable deposits and currency; liability,FL793120005,3537.5,3829.7,4120.0,3558.0,3829.7,3879.4,4011.9,4021.3,4120.0,1
+1,Monetary authority; checkable deposits and currency; liability,FL713120005,1516.4,1720.8,1890.9,1557.3,1720.8,1733.8,1810.9,1803.8,1890.9,2
+2,Monetary authority; checkable deposits due to the federal government; liability,FL713123005,223.7,333.7,399.4,198.9,333.7,314.0,363.7,353.5,399.4,3
+3,Monetary authority; checkable deposits due to government-sponsored enterprises; liability,FL713124003,20.2,31.1,52.9,32.1,31.1,41.2,51.3,39.8,52.9,4
+4,Monetary authority; checkable deposits due to rest of the world; liability,FL713122605,5.3,5.2,5.2,6.2,5.2,5.2,5.2,5.2,5.2,5
+5,Monetary authority; currency outside banks; liability,FL713125005,1267.3,1350.7,1433.5,1320.0,1350.7,1373.3,1390.7,1405.4,1433.5,6
+6,U.S.-chartered depository institutions; checkable deposits; liability,FL763127005,1716.1,1766.4,1879.7,1671.9,1766.4,1778.8,1815.0,1853.0,1879.7,7
+7,"U.S.-chartered depository institutions; checkable deposits due to the federal government, including demand notes issued to U.S. Treasury and tax and loan accounts; liability",FL763123005,2.5,2.3,2.2,2.3,2.3,2.2,2.1,2.1,2.2,8
+8,U.S.-chartered depository institutions; checkable deposits due to rest of the world; liability,FL763122605,56.5,43.6,55.1,41.0,43.6,49.8,49.5,55.4,55.1,9
+9,U.S.-chartered depository institutions; checkable deposits due to private domestic sectors; liability,FL763129205,1657.1,1720.5,1822.4,1628.5,1720.5,1726.8,1763.4,1795.6,1822.4,10
+10,Foreign banking offices in the U.S.; checkable deposits; liability,FL753127005,137.8,154.1,151.3,152.8,154.1,172.3,192.4,170.9,151.3,11
+11,Foreign banking offices in the U.S.; checkable deposits due to rest of the world; liability,FL753122603,54.2,61.4,65.1,63.3,61.4,63.0,69.5,63.9,65.1,12
+12,Foreign banking offices in the U.S.; checkable deposits due to private domestic sectors; liability,FL753129205,83.6,92.8,86.2,89.5,92.8,109.2,122.9,107.0,86.2,13
+13,Banks in U.S.-affiliated areas; checkable deposits; liability,FL743127003,33.4,35.0,40.8,35.4,35.0,38.4,37.5,38.5,40.8,14
+14,Credit unions; checkable deposits; liability,FL473127003,133.9,153.4,157.3,140.7,153.4,156.1,156.1,155.1,157.3,15
+15,Domestic financial sectors; checkable deposits and currency; liability,FL793120005,3537.5,3829.7,4120.0,3558.0,3829.7,3879.4,4011.9,4021.3,4120.0,16
+16,Households and nonprofit organizations; checkable deposits and currency; asset,FL153020005,1088.8,1233.3,1237.2,1095.0,1233.3,1267.1,1244.2,1194.7,1237.2,17
+17,Nonfinancial business; checkable deposits and currency; asset,FL143020005,1044.0,1071.2,1183.7,1079.0,1071.2,1084.3,1141.4,1175.1,1183.7,18
+18,Nonfinancial corporate business; checkable deposits and currency; asset,FL103020005,347.2,334.3,401.2,355.5,334.3,334.6,381.1,402.7,401.2,19
+19,Nonfinancial noncorporate business; checkable deposits and currency; asset,FL113020005,696.8,736.9,782.6,723.4,736.9,749.7,760.3,772.4,782.6,20
+20,Federal government; checkable deposits and currency; asset,FL313020005,226.8,338.1,404.0,202.6,338.1,317.6,366.9,355.7,404.0,21
+21,"State and local governments, excluding employee retirement funds; checkable deposits and currency; asset",FL213020005,141.3,132.5,138.7,131.2,132.5,133.7,132.3,134.0,138.7,22
+22,Domestic financial sectors; checkable deposits and currency; asset,FL793020005,359.7,346.6,390.7,355.7,346.6,347.8,384.4,409.7,390.7,23
+23,Property-casualty insurance companies; checkable deposits and currency; asset,FL513020003,36.5,33.8,26.5,35.4,33.8,32.4,36.4,28.4,26.5,24
+24,Life insurance companies; checkable deposits and currency; asset,FL543020005,57.1,66.3,81.6,59.4,66.3,64.0,85.2,79.0,81.6,25
+25,Private pension funds; checkable deposits and currency; asset,FL573020005,18.8,19.9,22.2,19.3,19.9,20.5,21.2,21.6,22.2,26
+26,State and local government employee defined benefit retirement funds; checkable deposits and currency; asset,FL223020043,4.4,4.5,4.6,4.5,4.5,4.2,4.4,4.6,4.6,27
+27,Money market mutual funds; checkable deposits and currency; asset,FL633020000,-4.4,7.6,29.6,1.7,7.6,7.3,13.4,49.4,29.6,28
+28,Government-sponsored enterprises; checkable deposits and currency; asset,FL403020005,65.0,41.0,48.5,47.4,41.0,34.7,43.6,39.7,48.5,29
+29,Finance companies; checkable deposits and currency; asset,FL613020003,31.9,32.0,22.0,33.8,32.0,36.4,24.6,22.9,22.0,30
+30,Real estate investment trusts; checkable deposits and currency; asset,FL643020005,38.5,35.7,36.4,38.8,35.7,37.5,41.6,40.1,36.4,31
+31,Security brokers and dealers; checkable deposits and currency; asset,FL663020003,111.8,106.1,119.2,115.6,106.1,110.9,114.0,124.1,119.2,32
+32,Rest of the world; U.S. checkable deposits and currency; asset,FL263020005,674.1,706.8,764.3,693.0,706.8,727.2,740.5,748.7,764.3,33
+33,Rest of the world; checkable deposits; asset,FL263027003,115.9,110.2,125.4,110.6,110.2,118.1,124.2,124.4,125.4,34
+34,Rest of the world; currency; asset,FL263025003,558.2,596.6,638.9,582.5,596.6,609.2,616.3,624.3,638.9,35
+35,Instrument discrepancies; checkable deposits and currency (total mail float),FL903020005,2.8,1.2,1.4,1.6,1.2,1.7,2.1,3.3,1.4,36

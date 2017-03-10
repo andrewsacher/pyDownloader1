@@ -1,0 +1,20 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Households and nonprofit organizations; total assets,FL152000005,98172.3,101918.0,107909.5,99739.3,101918.0,102525.5,103510.4,105716.7,107909.5,1
+1,Households and nonprofit organizations; nonfinancial assets,FL152010005,28718.8,30496.8,32431.4,30064.8,30496.8,30913.8,31334.6,31827.2,32431.4,2
+2,Households and nonprofit organizations; total financial assets,FL154090005,69453.5,71421.3,75478.1,69674.4,71421.3,71611.7,72175.8,73889.5,75478.1,3
+3,Households and nonprofit organizations; total currency and deposits including money market fund shares; asset(1),FL154000025,10138.2,10724.5,11391.9,10392.4,10724.5,10834.8,10837.9,11115.9,11391.9,4
+4,Households and nonprofit organizations; debt securities; asset,FL154022005,3979.2,4422.7,4246.0,4317.3,4422.7,4168.9,3738.8,3745.7,4246.0,5
+5,Households and nonprofit organizations; loans; asset,FL154023005,1062.4,1000.8,993.4,1029.7,1000.8,1041.6,1041.4,1015.2,993.4,6
+6,Households and nonprofit organizations; directly and indirectly held corporate equities; asset,LM153064475,23905.4,23515.1,25796.4,22491.3,23515.1,23475.1,24018.7,25068.0,25796.4,7
+7,Households and nonprofit organizations; corporate equities; asset,LM153064105,14357.4,14189.7,15874.2,13556.7,14189.7,14196.3,14616.9,15302.3,15874.2,8
+8,Households and nonprofit organizations; indirectly held corporate equities; asset,LM153064175,9547.9,9325.4,9922.2,8934.6,9325.4,9278.8,9401.9,9765.7,9922.2,9
+9,Life insurance companies; corporate equities held directly and indirectly through mutual funds; asset,LM543064153,1369.4,1313.9,1369.1,1254.8,1313.9,1289.7,1293.9,1336.1,1369.1,10
+10,Private defined contribution pension funds; corporate equities held directly and indirectly through mutual funds; asset(2),LM573064175,3262.7,3254.3,3494.7,3113.7,3254.3,3282.2,3338.4,3459.2,3494.7,11
+11,Federal government retirement funds; corporate equities held by Thrift Savings Plan; asset(2),LM343064123,208.2,210.2,230.6,197.8,210.2,208.0,210.7,220.3,230.6,12
+12,State and local government employee retirement funds; corporate equities held indirectly through mutual funds; asset(2),LM223064213,207.1,197.0,204.5,189.2,197.0,199.8,200.1,205.6,204.5,13
+13,Mutual funds; corporate equities indirectly held by households; asset,LM653064155,4500.6,4349.9,4623.4,4179.2,4349.9,4299.0,4358.7,4544.5,4623.4,14
+14,"Households and nonprofit organizations; other financial assets, excluding directly and indirectly held equity",FL153099475,30368.3,31758.2,33050.5,31443.8,31758.2,32091.4,32539.0,32944.7,33050.5,15
+15,Households and nonprofit organizations; total liabilities,FL154190005,14288.1,14631.0,15104.1,14490.4,14631.0,14636.1,14802.7,14954.6,15104.1,16
+16,Households and nonprofit organizations; net worth,FL152090005,83884.2,87287.1,92805.4,85248.9,87287.1,87889.4,88707.7,90762.1,92805.4,17
+17,Households and nonprofit organizations; directly and indirectly held corporate equities as a percentage of total assets,FL153064476,24.4,23.1,23.9,22.6,23.1,22.9,23.2,23.7,23.9,18
+18,Households and nonprofit organizations; directly and indirectly held corporate equities as a percentage of total financial assets,FL153064486,34.4,32.9,34.2,32.3,32.9,32.8,33.3,33.9,34.2,19

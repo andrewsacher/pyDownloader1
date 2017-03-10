@@ -1,0 +1,33 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,"Foreign banking offices in the U.S.; consumption of fixed capital, nonresidential structures, equipment, and intellectual property products, current cost basis (gross saving)",FA756330005,4.4,3.4,3.5,3.5,3.5,3.5,3.5,3.5,3.6,1
+1,"Foreign banking offices in the U.S.; gross fixed investment, nonresidential structures, equipment, and intellectual property products",FA755013005,3.8,3.3,3.3,3.4,3.3,3.3,3.3,3.3,3.4,2
+2,"Foreign banking offices in the U.S., including IBFs; total financial assets",FA754090005,56.3,-142.0,-109.2,-54.1,-570.5,348.1,268.7,-701.1,-352.4,3
+3,Foreign banking offices in the U.S.; vault cash; asset,FA753025003,0.0,-0.0,-0.0,0.0,0.0,0.0,0.0,-0.0,0.0,4
+4,Foreign banking offices in the U.S.; depository institution reserves; asset,FA753013003,-59.3,-198.4,-122.6,-62.2,-723.2,235.6,66.9,-654.7,-138.0,5
+5,Foreign banking offices in the U.S. including IBFs; federal funds and security repurchase agreements; asset,FA752050005,41.1,0.4,-25.4,-48.2,80.1,-50.8,-9.7,5.4,-46.7,6
+6,Foreign banking offices in the U.S.; debt securities; asset,FA754022005,-14.5,-9.0,10.7,37.9,10.0,85.1,96.6,-42.7,-96.3,7
+7,Foreign banking offices in the U.S.; bankers' acceptances; asset,FA753069603,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8
+8,Foreign banking offices in the U.S.; Treasury securities; asset,FA753061103,-10.5,13.3,24.2,-10.4,60.7,37.5,40.2,39.2,-20.0,9
+9,Foreign banking offices in the U.S.; agency- and GSE-backed securities; asset,FA753061703,-4.9,2.6,-2.0,-9.3,8.6,0.4,-0.9,7.6,-15.0,10
+10,Foreign banking offices in the U.S.; municipal securities; asset,FA753062003,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11
+11,"Foreign banking offices in the U.S., including IBFs; corporate and foreign bonds; asset",FA753063005,0.9,-24.9,-11.5,57.6,-59.2,47.3,57.3,-89.5,-61.3,12
+12,Foreign banking offices in the U.S.; loans; asset,FA754023005,74.7,78.1,23.2,54.1,73.0,55.3,89.0,16.8,-68.4,13
+13,Foreign banking offices in the U.S.; depository institution loans n.e.c.; asset,FA753068005,67.4,64.4,7.3,31.4,54.2,36.3,71.2,-0.7,-77.5,14
+14,Foreign banking offices in the U.S.; customers' liability on acceptances; asset,FA753069703,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15
+15,Foreign banking offices in the U.S.; total mortgages; asset,FA753065005,7.3,13.8,15.8,22.7,18.8,18.9,17.9,17.4,9.1,16
+16,Foreign banking offices in the U.S.; corporate equities; asset,FA753064103,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,-0.0,0.0,17
+17,"Foreign banking offices in the U.S., including IBFs; unidentified miscellaneous assets",FA753093005,14.4,-13.0,4.9,-35.6,-10.5,22.9,25.8,-26.0,-3.0,18
+18,"Foreign banking offices in the U.S., including IBFs; total liabilities",FA754190005,57.1,-154.9,-141.3,25.6,-656.5,237.4,170.3,-820.2,-152.8,19
+19,Foreign banking offices in the U.S.; net interbank transactions; liability,FA754110005,-70.3,-77.2,-55.2,124.8,-560.9,-23.3,218.7,-313.0,-103.2,20
+20,Foreign banking offices in the U.S.; net interbank transactions with banks in foreign countries; liability,FA754116005,-68.4,-82.2,-61.6,107.2,-549.0,-37.9,206.2,-316.2,-98.7,21
+21,Foreign banking offices in the U.S.; net interbank transactions with U.S. banking; liability,FA754112005,-1.9,5.0,6.5,17.6,-11.8,14.6,12.5,3.2,-4.5,22
+22,Foreign banking offices in the U.S.; checkable deposits; liability,FA753127005,45.2,16.4,-2.8,-33.4,5.3,72.5,80.5,-86.1,-78.1,23
+23,"Foreign banking offices in the U.S., including IBFs; total time and savings deposits; liability",FA753130005,33.8,-121.4,-140.6,-97.4,-223.2,34.0,-232.9,-316.6,-47.0,24
+24,"Foreign banking offices in the U.S., including IBFs; federal funds and security repurchase agreements; liability",FA752150005,58.6,35.3,69.6,3.4,149.7,-17.0,91.1,43.7,160.6,25
+25,Foreign banking offices in the U.S.; bankers' acceptances; liability(2),FA753169603,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26
+26,Foreign banking offices in the U.S.; foreign direct investment in the U.S.; liability,FA753192003,1.5,1.1,5.1,2.0,0.9,7.3,7.1,1.6,4.5,27
+27,Foreign banking offices in the U.S.; total miscellaneous liabilities,FA753190005,-11.7,-9.1,-17.4,26.2,-28.3,164.0,5.9,-149.8,-89.6,28
+28,Foreign banking offices in the U.S.; equity investment by funding corporations; liability,FA753194503,-20.3,2.2,-5.9,-3.1,-11.9,86.9,-48.8,-36.5,-25.3,29
+29,"Foreign banking offices in the U.S., including IBFs; unidentified miscellaneous liability",FA753193005,8.6,-11.3,-11.4,29.3,-16.4,77.1,54.7,-113.3,-64.3,30
+30,Foreign banking offices in the U.S.; sector discrepancy,FA757005005,1.2,-12.9,-31.9,79.8,-85.7,-110.6,-98.1,-118.9,199.8,31
+31,"Foreign banking offices in the U.S., including IBFs; uninsured checkable and time and savings deposits; liability(3)",FA753139105,78.3,-114.8,-84.6,-143.2,-242.1,130.9,-146.6,-419.2,96.3,32

@@ -1,0 +1,38 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Private depository institutions; total financial assets,FL704090005,16897.9,17372.7,18078.2,17253.4,17372.7,17695.8,17958.1,18051.8,18078.2,1
+1,Private depository institutions; vault cash; asset,FL703025005,75.7,74.2,76.0,67.6,74.2,69.8,73.3,65.1,76.0,2
+2,Monetary authority; depository institution reserves; liability,FL713113003,2378.0,1977.2,1759.7,2197.7,1977.2,2125.4,2038.3,1923.0,1759.7,3
+3,Private depository institutions; federal funds and security repurchase agreements; asset,FL702050005,403.2,428.4,411.6,410.8,428.4,411.5,419.1,439.2,411.6,4
+4,Private depository institutions; debt securities; asset,FL704022005,3662.1,3865.4,4156.8,3766.6,3865.4,3903.8,3972.2,4075.0,4156.8,5
+5,Private depository institutions; open market paper; asset,FL703069175,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6
+6,Private depository institutions; Treasury securities; asset,FL703061105,499.8,536.6,653.2,500.6,536.6,545.3,561.3,612.7,653.2,7
+7,Private depository institutions; agency- and GSE-backed securities; asset,FL703061705,1970.0,2125.2,2265.7,2062.5,2125.2,2128.3,2152.0,2207.8,2265.7,8
+8,Private depository institutions; municipal securities; asset,FL703062005,458.0,505.4,556.0,494.7,505.4,514.3,531.0,542.4,556.0,9
+9,Private depository institutions; corporate and foreign bonds; asset,FL703063005,734.2,698.2,681.9,708.8,698.2,716.0,728.0,712.1,681.9,10
+10,Private depository institutions; loans; asset,FL704023005,9087.2,9755.5,10345.8,9516.9,9755.5,9860.7,10081.7,10227.9,10345.8,11
+11,Private depository institutions; depository institution loans n.e.c.; asset,FL703068005,2910.2,3205.8,3359.4,3099.6,3205.8,3284.0,3341.6,3362.0,3359.4,12
+12,Private depository institutions; other loans and advances; asset,FL703069005,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13
+13,Private depository institutions; total mortgages; asset,FL703065005,4531.1,4779.1,5072.4,4700.4,4779.1,4825.9,4935.7,5016.7,5072.4,14
+14,Private depository institutions; consumer credit; asset,FL703066005,1645.9,1770.6,1914.0,1717.0,1770.6,1750.8,1804.4,1849.2,1914.0,15
+15,Private depository institutions; corporate equities; asset,LM703064105,108.5,100.0,106.2,94.0,100.0,93.6,97.2,100.8,106.2,16
+16,Private depository institutions; mutual fund shares; asset,LM703064205,61.8,56.8,60.0,55.6,56.8,58.2,59.7,58.9,60.0,17
+17,U.S.-chartered depository institutions; life insurance reserves; asset,FL763040005,149.6,156.2,161.8,154.5,156.2,157.6,159.0,160.5,161.8,18
+18,U.S.-chartered depository institutions; U.S. direct investment abroad; asset,FL763092000,261.0,253.2,237.9,262.1,253.2,254.6,241.2,243.7,237.9,19
+19,Private depository institutions; miscellaneous assets,FL703090005,710.7,705.9,762.4,727.5,705.9,760.7,816.4,757.6,762.4,20
+20,Private depository institutions; total liabilities,FL704190005,17528.8,17945.5,18597.4,17806.8,17945.5,18237.4,18516.2,18569.9,18597.4,21
+21,Private depository institutions; net interbank transactions; liability,FL704110005,411.9,284.5,84.9,358.4,284.5,230.7,255.0,170.4,84.9,22
+22,Private depository institutions; checkable deposits; liability,FL703127005,2021.2,2108.9,2229.1,2000.8,2108.9,2145.6,2201.0,2217.5,2229.1,23
+23,Private depository institutions; total time and savings deposits; liability,FL703130005,10448.7,10854.9,11373.1,10761.8,10854.9,11052.6,11058.4,11215.2,11373.1,24
+24,Private depository institutions; federal funds and security repurchase agreements; liability,FL702150005,607.5,603.4,638.8,581.3,603.4,601.6,613.3,620.8,638.8,25
+25,Private depository institutions; debt securities; liability,FL704122005,263.5,254.2,232.8,247.3,254.2,263.4,257.0,245.9,232.8,26
+26,Private depository institutions; open market paper; liability,FL703169175,54.5,53.6,49.0,51.1,53.6,56.6,55.5,52.3,49.0,27
+27,U.S.-chartered depository institutions; corporate and foreign bonds; liability,FL763163005,209.0,200.6,183.7,196.2,200.6,206.9,201.5,193.6,183.7,28
+28,Private depository institutions; other loans and advances; liability,FL703169005,503.6,543.3,614.0,505.1,543.3,527.4,593.5,592.6,614.0,29
+29,U.S.-chartered depository institutions; taxes payable (net); liability,FL763178003,-32.3,-36.7,-36.7,-32.2,-36.7,-26.3,-21.9,-21.9,-36.7,30
+30,Foreign banking offices in the U.S.; foreign direct investment in the U.S.; liability,FL753192003,202.8,197.9,203.0,203.7,197.9,199.8,201.5,201.9,203.0,31
+31,Private depository institutions; miscellaneous liabilities,FL703190005,3101.9,3135.0,3258.4,3180.8,3135.0,3242.6,3358.6,3327.5,3258.4,32
+32,"U.S.-chartered depository institutions; net transactions due to holding companies, excluding foreign bank subsidiaries; liability",FL763194735,2133.2,2175.3,2293.5,2162.3,2175.3,2213.1,2284.4,2320.8,2293.5,33
+33,Foreign banking offices in the U.S.; equity investment by funding corporations; liability,FL753194503,103.2,105.4,99.4,108.4,105.4,127.1,114.9,105.8,99.4,34
+34,Private depository institutions; unidentified miscellaneous liabilities,FL703193005,865.5,854.3,865.4,910.1,854.3,902.3,959.3,900.9,865.4,35
+35,U.S.-chartered depository institutions; leases to households; asset (Call Report; consolidated)(2),FL763066303,8.6,8.0,9.4,8.3,8.0,8.1,8.3,9.0,9.4,36
+36,Private depository institutions; uninsured checkable and time and savings deposits; liability(3),FL703139105,5448.2,5592.4,5759.2,5534.8,5592.4,5675.7,5701.4,5724.1,5759.2,37

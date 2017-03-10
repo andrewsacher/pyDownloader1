@@ -1,0 +1,47 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Monetary authority; gross saving,FA716000105,5.7,-10.6,-3.0,8.8,-71.4,-1.7,-2.8,-4.2,-3.2,1
+1,"Monetary authority; gross fixed investment, nonresidential structures, equipment, and intellectual property products",FA715013005,0.7,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,2
+2,Monetary authority; total financial assets,FA714090005,481.6,-13.3,-32.6,0.1,-19.6,39.7,-68.4,-59.4,-42.2,3
+3,Monetary authority; U.S. official reserve assets,FA713011005,0.2,0.1,-0.1,0.2,0.1,-0.5,0.0,-0.0,-0.1,4
+4,Monetary authority; SDR certificates issued by federal government; asset,FA713014003,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5
+5,Monetary authority; Treasury currency; asset,FA713012003,0.8,1.3,1.0,1.3,1.0,0.6,1.3,1.3,0.7,6
+6,Monetary authority; Federal Reserve float; asset(2),FA713022003,0.4,0.5,-0.8,1.3,0.2,-4.6,-0.4,2.2,-0.3,7
+7,"Monetary authority; loans to domestic banks, including AMLF; asset(2)",FA713068705,0.1,-0.0,-0.1,0.3,-0.5,-0.2,0.6,-0.0,-0.5,8
+8,Monetary authority; loans to domestic banks through the discount window; asset(3),FA713068703,0.1,-0.0,-0.1,0.3,-0.5,-0.2,0.6,-0.0,-0.5,9
+9,U.S.-chartered depository institutions; commercial paper funded by borrowing from the Asset-Backed Commercial Paper Money Market Mutual Fund Liquidity Facility (AMLF); asset(4),FA763069143,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10
+10,Monetary authority; security repurchase agreements; asset,FA712051000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11
+11,Monetary authority; debt securities; asset,FA714022005,480.7,5.1,-20.8,17.2,-6.9,62.4,-64.5,-60.8,-20.2,12
+12,Monetary authority; bankers' acceptances; asset,FA713069603,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13
+13,Monetary authority; Treasury securities; asset,FA713061100,252.6,0.2,2.1,-16.3,-23.2,54.7,-9.7,-15.8,-21.0,14
+14,Monetary authority; Treasury bills; asset,FA713061113,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15
+15,"Monetary authority; Other Treasury securities, excluding Treasury bills; asset",FA713061125,252.6,0.2,2.1,-16.3,-23.2,54.7,-9.7,-15.8,-21.0,16
+16,Monetary authority; agency- and GSE-backed securities; asset,FA713061705,228.1,4.9,-22.8,33.5,16.3,7.8,-54.8,-45.1,0.8,17
+17,Monetary authority; agency mortgage-backed securities; asset,FA713061903,246.7,10.6,-6.1,36.7,24.9,22.5,-38.2,-26.7,18.1,18
+18,Monetary authority; agency- and GSE-backed securities other than MBS; asset,FA713061703,-18.5,-5.7,-16.8,-3.2,-8.6,-14.7,-16.6,-18.4,-17.2,19
+19,Monetary authority; depository institution loans n.e.c.; asset,FA713068005,-0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20
+20,Monetary authority; depository institution loans n.e.c. to households (Term Asset-Backed Securities Loan Facility); asset(5),FA713068303,-0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21
+21,Monetary authority; loans to brokers and dealers; asset(6),FA713068665,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22
+22,Monetary authority; depository institution loans n.e.c. to funding corporations; asset(7),FA713068505,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23
+23,Monetary authority; depository institution loans n.e.c. to foreign banks; asset,FA713068473,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24
+24,Monetary authority; corporate equities; asset(8),FA713064103,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25
+25,Monetary authority; total miscellaneous assets,FA713090005,-0.5,-20.2,-11.8,-20.2,-13.4,-18.1,-5.3,-2.1,-21.7,26
+26,Monetary authority; nonofficial foreign currencies (swap lines); asset(9),FA713091103,1.3,-0.5,4.6,0.2,1.3,-3.4,11.4,16.0,-5.8,27
+27,Monetary authority; unidentified miscellaneous assets,FA713093005,-1.8,-19.7,-16.4,-20.4,-14.7,-14.7,-16.7,-18.1,-16.0,28
+28,Monetary authority; total liabilities,FA714190005,480.6,5.3,-32.6,-0.5,57.5,39.7,-68.4,-59.4,-42.2,29
+29,Monetary authority; depository institution reserves; liability,FA713113003,128.9,-400.8,-217.5,-179.2,-882.0,592.8,-348.4,-461.0,-653.4,30
+30,Private depository institutions; vault cash; asset,FA703025005,2.0,-1.4,1.7,-1.2,-15.7,22.6,16.8,-34.1,1.6,31
+31,Monetary authority; checkable deposits and currency; liability,FA713120005,152.2,204.4,170.2,51.6,460.7,149.4,229.1,147.5,154.8,32
+32,Monetary authority; checkable deposits due to the federal government; liability,FA713123005,61.0,110.1,65.6,-75.2,367.4,53.5,91.5,105.8,11.8,33
+33,Monetary authority; Treasury cash holdings; liability,FA713123023,-0.0,0.1,-0.1,0.4,0.3,-0.2,-0.6,0.3,0.1,34
+34,Monetary authority; deposits in Treasury general deposit account; liability,FA713123030,61.1,110.0,65.7,-75.5,367.1,53.7,92.1,105.6,11.7,35
+35,Monetary authority; deposits in Treasury temporary supplementary financing account; liability,FA713123043,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,36
+36,Monetary authority; checkable deposits due to government-sponsored enterprises; liability,FA713124003,-5.8,10.9,21.9,15.5,-4.2,40.8,40.0,-45.8,52.5,37
+37,Monetary authority; checkable deposits due to rest of the world; liability,FA713122605,-2.7,-0.0,-0.0,3.9,-4.0,-0.1,0.0,-0.1,0.0,38
+38,Monetary authority; currency outside banks; liability,FA713125005,99.7,83.4,82.7,107.3,101.6,55.3,97.6,87.6,90.6,39
+39,Monetary authority; security repurchase agreements; liability,FA712151003,193.9,202.6,12.8,331.7,285.3,-647.4,-26.8,484.8,240.7,40
+40,"Monetary authority; security repurchase agreements, reverse repurchase agreement operations; liability(10)",FA712151103,199.0,77.9,-6.2,228.0,99.9,-683.0,-100.2,534.9,223.3,41
+41,"Monetary authority; security repurchase agreements, excluding those in the reverse repurchase agreement operations; liability",FA712151115,-5.0,124.7,19.0,103.6,185.4,35.6,73.4,-50.1,17.3,42
+42,Monetary authority; total miscellaneous liabilities,FA713190005,3.5,0.6,0.2,-203.3,209.1,-77.6,60.8,-196.6,214.2,43
+43,Monetary authority; Federal Reserve bank stock; liability,FA713164003,1.1,0.9,1.0,0.6,0.7,2.5,0.1,0.3,1.1,44
+44,Monetary authority; unidentified miscellaneous liabilities,FA713193005,2.4,-0.3,-0.8,-203.9,208.4,-80.2,60.7,-196.9,213.1,45
+45,Monetary authority; sector discrepancy,FA717005005,3.9,7.2,-3.8,7.4,4.9,-2.5,-3.6,-5.1,-4.0,46

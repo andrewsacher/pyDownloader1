@@ -1,0 +1,21 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Mutual funds; undistributed corporate profits; gross saving; net saving,FA656006403,-73.6,-68.3,-58.2,-68.0,-67.6,-39.1,-55.2,-76.8,-61.7,1
+1,Mutual funds; total financial assets,FA654090000,309.7,95.7,24.9,-35.4,-59.9,-24.1,78.6,201.6,-156.6,2
+2,Mutual funds; security repurchase agreements; asset,FA652051003,9.9,-12.4,-1.1,-22.9,-4.8,20.5,-10.1,1.0,-15.8,3
+3,Mutual funds; debt securities; asset (market value),FA654022005,93.1,116.7,234.4,-171.7,6.0,9.0,367.9,507.2,53.5,4
+4,Mutual funds; commercial paper; asset,FA653069100,9.9,-12.4,-1.1,-17.5,13.9,5.5,-20.1,10.2,-0.1,5
+5,Mutual funds; Treasury securities; asset (market value),FA653061105,193.3,155.3,58.0,222.1,193.2,-29.9,118.0,103.2,40.5,6
+6,Mutual funds; agency- and GSE-backed securities; asset (market value),FA653061703,-200.4,-98.2,56.6,-208.0,-141.7,65.5,58.0,74.0,29.0,7
+7,Mutual funds; municipal securities; asset (market value),FA653062003,15.1,16.2,42.2,-10.6,21.7,79.8,94.5,82.8,-88.5,8
+8,Mutual funds; corporate and foreign bonds; asset (market value),FA653063005,75.1,55.8,78.8,-157.6,-81.0,-111.9,117.5,237.0,72.6,9
+9,Mutual funds; syndicated loans to nonfinancial corporate business; asset,FA653069803,9.4,-15.6,18.6,-50.9,-11.0,22.1,-19.5,30.4,41.4,10
+10,Mutual funds; corporate equities; asset,FA653064100,94.5,55.9,-116.6,94.5,-138.7,-114.2,-132.2,-140.0,-80.0,11
+11,Mutual funds; unidentified miscellaneous assets,FA653093005,102.8,-49.0,-110.4,115.5,88.5,38.6,-127.6,-196.9,-155.8,12
+12,Mutual funds; mutual fund shares; liability,FA653164205,309.7,95.7,24.9,-35.4,-59.9,-24.1,78.6,201.6,-156.6,13
+13,Mutual funds; sector discrepancy,FA657005005,-73.6,-68.3,-58.2,-68.0,-67.6,-39.1,-55.2,-76.8,-61.7,14
+14,Variable annuity mutual funds; total financial assets (market value),FA654090500,-47.2,-44.4,-60.0,-53.5,-33.7,-57.7,-65.0,-47.5,-70.0,15
+15,Mutual funds; total financial assets in domestic equity funds,FA654091603,-0.8,-102.3,-159.5,-189.8,-90.1,-70.8,-156.5,-236.4,-174.1,16
+16,Mutual funds; total financial assets in world equity funds,FA654092603,120.0,126.4,9.9,143.0,45.0,92.6,-10.5,-70.6,28.1,17
+17,Mutual funds; total financial assets in hybrid funds,FA654091403,56.6,8.3,-17.6,-25.3,-34.0,-15.2,5.6,-2.1,-58.9,18
+18,Mutual funds; total financial assets in taxable bond funds,FA654091303,93.1,35.0,155.1,-126.7,-56.4,72.5,156.1,260.7,131.0,19
+19,Mutual funds; total financial assets in municipal bond funds,FA654091203,40.8,28.2,37.0,2.9,56.3,70.8,90.7,80.0,-93.6,20

@@ -1,0 +1,22 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,All sectors; multifamily residential mortgages; asset,FA893065405,58.2,94.5,106.1,86.2,111.4,103.0,95.2,108.8,117.2,1
+1,Nonfinancial corporate business; multifamily residential mortgages; liability,FA103165405,2.8,4.7,5.3,4.4,5.8,5.1,4.7,5.4,5.8,2
+2,Nonfinancial noncorporate business; multifamily residential mortgages; liability,FA113165405,54.0,90.1,99.8,83.9,110.9,97.7,88.4,102.0,111.0,3
+3,Federal government; multifamily residential mortgages; liability,FA313165403,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4
+4,Equity real estate investment trusts; multifamily residential mortgages; liability,FA643165483,1.4,-0.3,1.1,-2.1,-5.4,0.2,2.2,1.5,0.4,5
+5,All sectors; multifamily residential mortgages; asset,FA893065405,58.2,94.5,106.1,86.2,111.4,103.0,95.2,108.8,117.2,6
+6,Households and nonprofit organizations; multifamily residential mortgages; asset,FA153065403,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7
+7,Nonfinancial corporate business; multifamily residential mortgages; asset,FA103065403,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8
+8,Nonfinancial noncorporate business; multifamily residential mortgages; asset,FA113065403,-0.1,0.8,0.8,0.6,1.0,0.9,0.7,0.9,0.7,9
+9,Federal government; multifamily residential mortgages; asset,FA313065405,-0.6,-0.3,-0.3,-0.7,0.1,-0.2,-0.2,-0.8,0.2,10
+10,"State and local governments, excluding employee retirement funds; multifamily residential mortgages; asset",FA213065403,1.9,4.9,3.0,6.3,6.2,1.9,2.2,5.5,2.2,11
+11,U.S.-chartered depository institutions; multifamily residential mortgages; asset,FA763065403,38.0,51.0,43.2,60.4,64.0,36.1,57.2,39.8,39.7,12
+12,Foreign banking offices in the U.S.; multifamily residential mortgages; asset,FA753065403,0.2,1.2,2.1,2.2,1.0,0.9,3.0,2.1,2.6,13
+13,Life insurance companies; multifamily residential mortgages; asset,FA543065405,2.8,4.3,5.4,4.9,4.8,8.0,5.3,4.6,3.8,14
+14,Private pension funds; multifamily residential mortgages; asset,FA573065403,-0.0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,15
+15,State and local government employee defined benefit retirement funds; multifamily residential mortgages; asset,FA223065443,0.2,-0.1,-1.0,-0.6,-0.4,-1.5,0.0,-1.9,-0.5,16
+16,Government-sponsored enterprises; multifamily residential mortgages; asset,FA403065405,-2.7,8.4,26.2,-0.2,-14.5,39.6,-17.2,42.8,39.7,17
+17,Agency-and GSE-backed mortgage pools; multifamily residential mortgages; asset,FA413065405,24.3,32.2,41.3,24.1,54.7,36.6,52.3,31.2,45.4,18
+18,Issuers of asset-backed securities; multifamily residential mortgages; asset,FA673065405,-2.4,-6.4,-14.7,-11.7,-5.0,-19.1,-7.5,-15.8,-16.4,19
+19,Finance companies; multifamily residential mortgages; asset,FA613065403,0.1,-0.8,0.0,-0.1,-0.0,0.0,0.0,-0.0,0.0,20
+20,Real estate investment trusts; multifamily residential mortgages; asset,FA643065405,-3.3,-0.3,0.1,1.2,-0.3,0.1,-0.4,0.7,0.0,21

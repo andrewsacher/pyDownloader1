@@ -1,0 +1,53 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Personal sector; total financial assets,FA174090005,1684.6,1590.9,1439.3,1712.0,1884.8,1687.1,1458.9,1322.1,1288.9,1
+1,Households and nonprofit organizations; private foreign deposits; asset,FA153091003,-6.4,-14.1,-2.1,-15.0,-17.9,3.3,-8.3,-0.8,-2.5,2
+2,Personal sector; checkable deposits and currency; asset,FA173020005,142.5,184.7,60.5,-160.2,379.8,352.9,-3.5,-88.5,-18.9,3
+3,Personal sector; total time and savings deposits; asset,FA173030005,454.0,527.4,738.5,788.5,579.0,178.4,581.2,1461.7,732.8,4
+4,Personal sector; money market mutual fund shares; asset,FA173034005,-22.6,-38.4,-39.3,-134.8,26.7,117.6,-25.0,-246.8,-3.0,5
+5,Personal sector; debt securities; asset,FA174022005,-40.3,149.7,-55.5,1050.4,122.2,46.8,-460.5,107.1,84.6,6
+6,Personal sector; Treasury securities; asset,FA173061105,-224.6,220.8,209.4,628.5,95.0,54.2,354.0,378.4,51.1,7
+7,Households and nonprofit organizations; agency- and GSE-backed securities; asset,FA153061705,105.3,194.3,-120.1,362.8,445.1,-183.0,-219.1,-211.9,133.7,8
+8,Personal sector; municipal securities; asset,FA173062005,-59.3,-60.7,11.5,-6.9,-119.8,-23.2,-45.7,8.5,106.3,9
+9,Households and nonprofit organizations; corporate and foreign bonds; asset,FA153063005,138.3,-204.7,-156.4,65.9,-298.2,198.7,-549.8,-67.9,-206.5,10
+10,Personal sector; loans; asset,FA174023005,45.2,-59.3,-5.0,-14.8,-112.6,166.1,1.2,-102.2,-85.0,11
+11,Households and nonprofit organizations; corporate equities; asset(2),FA153064105,167.9,18.1,-38.5,-623.1,9.0,96.2,551.7,-744.3,-57.6,12
+12,Households and nonprofit organizations; mutual fund shares; asset,FA153064205,241.7,58.3,27.2,102.1,18.4,-198.8,125.4,214.9,-32.5,13
+13,Nonprofit organizations; grants and trade receivables; asset,FA163070005,6.9,6.9,6.9,6.9,6.9,6.9,6.9,6.9,6.9,14
+14,Households and nonprofit organizations; life insurance reserves; asset,FA153040005,35.1,35.6,39.7,49.0,20.7,13.2,74.1,28.8,42.7,15
+15,Households and nonprofit organizations; pension entitlements; asset,FA153050005,297.5,446.5,388.0,397.1,522.0,580.2,332.2,308.0,331.5,16
+16,Personal sector; other financial assets,FA173099005,363.2,275.4,318.8,265.9,330.6,324.4,283.4,377.4,290.0,17
+17,Personal sector; total capital expenditures,FA175050005,2195.8,2349.5,2435.2,2370.8,2389.7,2395.0,2411.6,2439.3,2494.8,18
+18,"Personal sector; gross fixed investment, residential equipment and structures",FA175012005,562.8,643.6,705.0,655.4,677.3,697.5,698.2,700.1,724.2,19
+19,"Personal sector; gross fixed investment, nonresidential structures, equipment, and intellectual property products",FA175013005,414.9,426.4,418.9,429.1,423.4,418.4,418.9,417.6,420.5,20
+20,"Households and nonprofit organizations; gross fixed investment, consumer durable goods",FA155111003,1218.5,1275.4,1320.3,1284.3,1291.0,1286.2,1308.1,1330.7,1356.2,21
+21,Households and nonprofit organizations; acquisition of nonproduced nonfinancial assets (net),FA155420003,-8.0,-8.2,-8.2,-8.2,-8.2,-8.2,-8.2,-8.2,-8.2,22
+22,Nonfinancial noncorporate business; inventories,FA115020005,7.6,12.2,-0.8,10.2,6.2,1.1,-5.4,-1.0,2.0,23
+23,"Personal sector; consumption of fixed capital, structures, equipment, and intellectual property products, including consumer durables, current cost basis",FA176300005,1760.0,1814.0,1848.8,1824.7,1839.6,1818.0,1841.9,1860.9,1874.3,24
+24,"Personal sector; consumption of fixed capital, residential equipment and structures, current cost basis",FA176320005,422.8,436.2,450.3,438.6,442.1,444.2,448.8,452.4,456.0,25
+25,"Personal sector; consumption of fixed capital, nonresidential structures, equipment, and intellectual property products, current cost basis",FA176330005,332.1,344.3,359.4,345.5,348.0,350.1,356.6,363.3,367.7,26
+26,"Households and nonprofit organizations; consumption of fixed capital, consumer durable goods",FA156300103,1005.1,1033.5,1039.0,1040.7,1049.4,1023.7,1036.5,1045.3,1050.6,27
+27,Personal sector; nonfinancial assets(3),FA172010005,435.8,535.5,586.4,546.1,550.1,577.0,569.7,578.5,620.5,28
+28,"Personal sector; residential equipment and structures, current cost basis",FA175012865,140.1,207.4,254.7,216.8,235.1,253.3,249.3,247.8,268.2,29
+29,"Personal sector; nonresidential structures, equipment, and intellectual property products, current cost basis",FA175013865,82.8,82.2,59.4,83.6,75.4,68.3,62.3,54.4,52.8,30
+30,"Households and nonprofit organizations; consumer durable goods, current cost basis",FA155111005,213.4,241.9,281.3,243.7,241.6,262.4,271.7,285.5,305.6,31
+31,Households and nonprofit organizations; acquisition of nonproduced nonfinancial assets (net),FA155420003,-8.0,-8.2,-8.2,-8.2,-8.2,-8.2,-8.2,-8.2,-8.2,32
+32,Nonfinancial noncorporate business; inventories,FA115020005,7.6,12.2,-0.8,10.2,6.2,1.1,-5.4,-1.0,2.0,33
+33,Personal sector; total liabilities,FA174190005,796.8,780.4,911.8,491.3,1030.3,759.7,992.9,980.7,914.1,34
+34,Personal sector; home mortgages; liability,FA173165105,38.9,140.9,264.7,149.2,179.4,165.1,259.2,315.6,319.0,35
+35,"Personal sector; commercial, multifamily, and farm mortgages; liability",FA173165205,188.0,194.1,217.5,187.4,230.5,187.1,208.7,253.9,220.3,36
+36,Households and nonprofit organizations; consumer credit; liability,FA153166000,221.8,232.7,229.0,244.1,216.3,196.7,228.9,261.4,228.8,37
+37,Households and nonprofit organizations; other loans and advances; liability,FA153169005,33.2,-76.5,-10.5,-294.2,2.5,-94.0,44.1,92.9,-85.2,38
+38,Personal sector; other liabilities,FA173199005,315.0,289.2,211.2,204.9,401.6,304.8,252.0,56.9,231.3,39
+39,Personal sector; net capital transfers paid(4),FA175440005,9.6,21.5,15.4,21.6,22.7,22.8,16.1,22.4,0.4,40
+40,Personal sector; personal saving including consumer durables (FOF),FA176007025,1333.2,1367.5,1129.3,1788.3,1427.2,1527.2,1051.8,942.2,995.7,41
+41,"Households and nonprofit organizations; consumer durable goods, current cost basis",FA155111005,213.4,241.9,281.3,243.7,241.6,262.4,271.7,285.5,305.6,42
+42,"Federal government; life insurance and pension fund reserves, adjustment to convert NIPA to FOF savings; liability(5)",FA313154015,-2.0,-2.2,-2.4,-2.6,-2.4,-2.9,-3.2,-2.5,-1.1,43
+43,Households and nonprofit organizations; adjustment to contributions for government social insurance paid for U.S. affiliated areas,FA156600075,5.1,5.1,5.1,5.1,5.0,5.0,5.1,5.1,5.2,44
+44,Personal sector; personal saving excluding consumer durables and federal government life insurance reserves and Railroad Retirement Board and National Railroad Retirement Investment Trust pension fund reserves (FOF)(6),FA176007005,1127.0,1132.9,855.5,1552.3,1193.1,1272.7,788.4,664.4,696.3,45
+45,Households and nonprofit organizations; personal saving excluding consumer durables and federal government life insurance reserves and Railroad Retirement Board and National Railroad Retirement Investment Trust pension fund reserves (NIPA),FA156007015,726.0,783.6,824.2,798.5,826.8,845.5,822.8,828.0,800.6,46
+46,Personal sector; difference between FOF and NIPA personal saving excluding consumer durables,FA176007085,401.0,349.3,31.3,753.8,366.4,427.2,-34.4,-163.6,-104.2,47
+47,Households and nonprofit organizations; disposable personal income,FA156012005,13022.7,13519.8,14045.5,13611.7,13726.4,13807.4,13977.3,14128.7,14268.5,48
+48,Personal sector; personal saving (FOF concept; FOF data) as a percentage of disposable personal income,FA176007026,10.2,10.1,8.0,13.1,10.4,11.1,7.5,6.7,7.0,49
+49,Personal sector; personal saving (NIPA concept; FOF data) as a percentage of disposable personal income,FA176007006,8.7,8.4,6.1,11.4,8.7,9.2,5.6,4.7,4.9,50
+50,Households and nonprofit organizations; personal saving (NIPA concept; NIPA data) as a percentage of disposable personal income,FA156007016,5.6,5.8,5.9,5.9,6.0,6.1,5.9,5.9,5.6,51
+51,Personal sector; difference between FOF and NIPA personal saving excluding consumer durables as a percentage of disposable personal income,FA176007086,3.1,2.6,0.2,5.5,2.7,3.1,-0.2,-1.2,-0.7,52

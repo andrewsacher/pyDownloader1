@@ -1,0 +1,56 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,All sectors; total loans; liability,FL894123005,23031.4,23802.9,24764.4,23521.5,23802.9,23977.5,24276.4,24569.3,24764.4,1
+1,Domestic financial sectors; depository institution loans n.e.c.; asset,FL793068005,2910.2,3205.8,3359.4,3099.6,3205.8,3284.0,3341.6,3362.0,3359.4,2
+2,All sectors; other loans and advances; liability,FL893169005,3323.4,3253.4,3348.8,3230.7,3253.4,3283.4,3337.4,3356.0,3348.8,3
+3,All sectors; total mortgages; asset,FL893065005,13479.7,13808.0,14291.5,13709.8,13808.0,13871.3,13993.0,14159.2,14291.5,4
+4,All sectors; home mortgages; asset,FL893065105,9938.4,10031.0,10265.7,10001.0,10031.0,10041.9,10103.7,10198.5,10265.7,5
+5,All sectors; multifamily residential mortgages; asset,FL893065405,986.1,1080.6,1186.7,1052.7,1080.6,1106.4,1130.2,1157.4,1186.7,6
+6,All sectors; commercial mortgages; asset,FL893065505,2358.5,2487.6,2614.8,2450.3,2487.6,2510.4,2542.6,2582.9,2614.8,7
+7,All sectors; farm mortgages; asset,FL893065603,196.8,208.8,224.4,205.8,208.8,212.7,216.6,220.5,224.4,8
+8,Households and nonprofit organizations; consumer credit; liability,FL153166000,3318.0,3535.7,3764.7,3481.4,3535.7,3538.8,3604.3,3692.2,3764.7,9
+9,All sectors; total loans; liability,FL894123005,23031.4,23802.9,24764.4,23521.5,23802.9,23977.5,24276.4,24569.3,24764.4,10
+10,Domestic nonfinancial sectors; loans; liability,FL384123005,20563.7,21309.3,22201.4,21022.9,21309.3,21451.7,21681.7,21960.0,22201.4,11
+11,Households and nonprofit organizations; loans; liability,FL154123005,13726.4,14068.8,14538.0,13928.6,14068.8,14070.4,14234.7,14388.2,14538.0,12
+12,Nonfinancial corporate business; loans; liability,FL104123005,2377.4,2479.3,2598.8,2434.6,2479.3,2540.9,2532.7,2579.9,2598.8,13
+13,Nonfinancial noncorporate business; loans; liability,FL114123005,4443.4,4744.4,5046.9,4643.1,4744.4,4823.3,4897.2,4975.0,5046.9,14
+14,Federal government; multifamily residential mortgages; liability,FL313165403,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15
+15,"State and local governments, excluding employee retirement funds; U.S. government loans; liability",FL213169203,16.6,16.9,17.8,16.7,16.9,17.1,17.1,16.9,17.8,16
+16,Domestic financial sectors; loans; liability,FL794123005,2128.4,2131.0,2216.1,2139.4,2131.0,2162.3,2232.0,2253.0,2216.1,17
+17,U.S.-chartered depository institutions; FHLB advances and Sallie Mae loans; liability,FL763169305,468.2,498.7,567.3,460.2,498.7,484.5,549.0,546.2,567.3,18
+18,Credit unions; FHLB advances; liability,FL473169333,35.4,44.7,46.7,44.9,44.7,42.9,44.5,46.4,46.7,19
+19,Property-casualty insurance companies; FHLB advances; liability,FL513169333,2.2,2.4,3.4,2.1,2.4,2.3,3.5,3.8,3.4,20
+20,"Life insurance companies, general accounts; FHLB advances; liability",FL543169373,51.9,58.1,67.8,57.2,58.1,60.6,65.2,67.5,67.8,21
+21,Government-sponsored enterprises; U.S. government loans to Sallie Mae; liability,FL403169283,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22
+22,Finance companies; loans; liability,FL614123005,141.2,156.5,156.5,153.2,156.5,157.4,155.9,157.6,156.5,23
+23,Real estate investment trusts; loans; liability,FL644123005,270.4,299.6,276.2,305.7,299.6,299.5,291.8,282.9,276.2,24
+24,Security brokers and dealers; loans; liability,FL664123005,962.5,913.2,921.3,934.9,913.2,952.3,964.4,942.2,921.3,25
+25,Holding companies; depository institution loans n.e.c.; liability,FL733168003,194.2,155.6,174.5,178.8,155.6,160.3,155.2,204.1,174.5,26
+26,Funding corporations; loans; liability,FL504123005,2.4,2.4,2.4,2.4,2.4,2.4,2.4,2.4,2.4,27
+27,Rest of the world; loans; liability,FL264123005,339.2,362.6,346.9,359.1,362.6,363.4,362.8,356.4,346.9,28
+28,All sectors; total loans; liability,FL894123005,23031.4,23802.9,24764.4,23521.5,23802.9,23977.5,24276.4,24569.3,24764.4,29
+29,Domestic nonfinancial sectors; loans; asset,FL384023005,2538.1,2597.9,2707.1,2607.1,2597.9,2680.0,2694.1,2708.9,2707.1,30
+30,Households and nonprofit organizations; loans; asset,FL154023005,1062.4,1000.8,993.4,1029.7,1000.8,1041.6,1041.4,1015.2,993.4,31
+31,Nonfinancial corporate business; loans; asset,FL104023005,73.4,74.6,75.8,75.5,74.6,73.2,73.9,74.6,75.8,32
+32,Nonfinancial noncorporate business; loans; asset,FL114023005,34.5,36.8,39.2,36.1,36.8,37.5,38.1,38.7,39.2,33
+33,Federal government; loans; asset,FL314023005,1158.8,1264.4,1369.9,1248.3,1264.4,1305.1,1316.8,1353.0,1369.9,34
+34,"State and local governments, excluding employee retirement funds; total mortgages; asset",FL213065005,209.1,221.4,228.8,217.5,221.4,222.6,223.9,227.4,228.8,35
+35,Domestic financial sectors; loans; asset,FL794023005,20322.6,20997.4,21843.2,20719.2,20997.4,21083.4,21379.5,21651.1,21843.2,36
+36,Monetary authority; depository institution loans n.e.c.; asset,FL713068005,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,37
+37,U.S.-chartered depository institutions; loans; asset,FL764023005,7670.0,8189.9,8671.4,7990.8,8189.9,8275.2,8456.2,8565.5,8671.4,38
+38,Foreign banking offices in the U.S.; loans; asset,FL754023005,640.9,719.0,742.1,696.8,719.0,735.1,753.1,754.5,742.1,39
+39,Banks in U.S.-affiliated areas; loans; asset,FL744023003,47.4,41.7,39.8,41.9,41.7,41.2,40.6,40.2,39.8,40
+40,Credit unions; loans; asset,FL474023000,728.9,804.9,892.5,787.5,804.9,809.2,831.8,867.7,892.5,41
+41,Property-casualty insurance companies; commercial mortgages; asset,FL513065503,9.9,12.3,15.8,11.5,12.3,13.0,13.8,14.8,15.8,42
+42,Life insurance companies; loans; asset,FL544023005,546.8,586.3,617.5,570.7,586.3,595.2,603.1,612.2,617.5,43
+43,Private pension funds; total mortgages; asset,FL573065005,24.0,21.3,21.3,21.6,21.3,21.4,21.3,21.2,21.3,44
+44,State and local government employee defined benefit retirement funds; total mortgages; asset,FL223065043,10.0,9.6,6.4,9.9,9.6,8.3,8.3,6.8,6.4,45
+45,Mutual funds; syndicated loans to nonfinancial corporate business; asset,FL653069803,154.5,138.9,157.5,141.6,138.9,144.4,139.5,147.1,157.5,46
+46,Government-sponsored enterprises; loans; asset,FL404023005,5542.3,5666.3,5853.3,5611.4,5666.3,5659.1,5735.1,5769.2,5853.3,47
+47,Agency-and GSE-backed mortgage pools; total mortgages; asset,FL413065005,1648.5,1775.5,1932.8,1729.5,1775.5,1803.9,1844.0,1885.3,1932.8,48
+48,Issuers of asset-backed securities; loans; asset,FL674023005,1303.2,1212.8,1115.0,1243.7,1212.8,1190.4,1148.9,1139.5,1115.0,49
+49,Finance companies; loans; asset,FL614023005,1243.7,1226.3,1188.4,1239.9,1226.3,1196.7,1189.4,1192.6,1188.4,50
+50,Real estate investment trusts; total mortgages; asset,FL643065005,247.3,217.7,221.3,230.4,217.7,227.7,225.8,236.3,221.3,51
+51,Security brokers and dealers; other loans and advances; asset,FL663069005,428.2,338.1,329.7,341.3,338.1,322.2,327.1,357.1,329.7,52
+52,Holding companies; other loans and advances; asset,FL733069005,64.8,24.0,22.6,37.7,24.0,23.2,22.0,24.5,22.6,53
+53,Funding corporations; syndicated loans to nonfinancial corporate business; asset,FL503069805,12.1,12.9,16.0,13.1,12.9,17.3,19.5,16.6,16.0,54
+54,Rest of the world; U.S. nonfinancial business loans; asset,FL263069500,170.6,207.5,214.1,195.2,207.5,214.0,202.8,209.4,214.1,55

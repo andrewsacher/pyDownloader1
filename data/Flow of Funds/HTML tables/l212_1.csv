@@ -1,0 +1,26 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Domestic nonfinancial sectors; municipal securities; liability,FL383162005,3776.3,3791.2,3833.7,3801.1,3791.2,3812.1,3840.7,3833.4,3833.7,1
+1,"State and local governments, excluding employee retirement funds; municipal securities; liability",FL213162005,3017.6,3026.2,3054.3,3033.3,3026.2,3042.7,3061.0,3053.6,3054.3,2
+2,"State and local governments, excluding employee retirement funds; short-term municipal securities; liability(1)",FL213162400,38.9,32.8,30.2,31.5,32.8,32.4,27.0,29.9,30.2,3
+3,"State and local governments, excluding employee retirement funds; long-term municipal securities; liability",FL213162200,2978.7,2993.4,3024.1,3001.7,2993.4,3010.3,3034.0,3023.7,3024.1,4
+4,Nonprofit organizations; municipal securities; liability(2),FL163162003,229.5,221.5,218.1,222.8,221.5,222.2,221.9,219.6,218.1,5
+5,Nonfinancial corporate business; municipal securities; liability,FL103162000,529.2,543.6,561.3,545.0,543.6,547.3,557.7,560.2,561.3,6
+6,Domestic nonfinancial sectors; municipal securities; liability,FL383162005,3776.3,3791.2,3833.7,3801.1,3791.2,3812.1,3840.7,3833.4,3833.7,7
+7,Households and nonprofit organizations; municipal securities; asset,FL153062005,1689.2,1633.5,1644.1,1683.9,1633.5,1623.6,1598.8,1588.3,1644.1,8
+8,Nonfinancial corporate business; municipal securities; asset,FL103062003,21.2,24.0,28.1,22.2,24.0,20.6,21.5,41.0,28.1,9
+9,Nonfinancial noncorporate business; municipal securities; asset,FL113062003,4.0,4.3,4.6,4.2,4.3,4.4,4.5,4.5,4.6,10
+10,"State and local governments, excluding employee retirement funds; municipal securities; asset",FL213062003,13.6,14.4,14.9,14.1,14.4,14.5,14.6,14.8,14.9,11
+11,U.S.-chartered depository institutions; municipal securities; asset,FL763062000,451.5,498.9,549.2,488.1,498.9,507.5,524.1,535.6,549.2,12
+12,Foreign banking offices in the U.S.; municipal securities; asset,FL753062003,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13
+13,Banks in U.S.-affiliated areas; municipal securities; asset,FL743062003,2.7,2.1,1.7,2.2,2.1,2.0,2.0,1.8,1.7,14
+14,Credit unions; municipal securities; asset,FL473062005,3.8,4.3,5.1,4.4,4.3,4.8,4.9,5.0,5.1,15
+15,Property-casualty insurance companies; municipal securities; asset,LM513062003,339.6,345.8,359.8,343.3,345.8,358.4,363.7,367.1,359.8,16
+16,Life insurance companies; municipal securities; asset,LM543062005,164.4,171.7,184.6,169.5,171.7,180.0,186.6,188.4,184.6,17
+17,State and local government employee defined benefit retirement funds; municipal securities; asset,FL223062043,2.2,2.0,2.1,2.0,2.0,2.4,2.4,2.1,2.1,18
+18,Money market mutual funds; municipal securities; asset,FL633062000,282.0,268.4,162.2,256.9,268.4,239.1,215.8,161.4,162.2,19
+19,Mutual funds; municipal securities; asset (market value),LM653062003,586.6,603.7,633.0,593.2,603.7,628.8,668.2,683.4,633.0,20
+20,Closed-end funds; municipal securities; asset,LM553062003,90.2,89.5,86.9,88.5,89.5,90.7,93.4,91.9,86.9,21
+21,Exchange-traded funds; municipal securities; asset,LM563062003,15.1,19.1,24.7,17.5,19.1,21.0,23.1,24.5,24.7,22
+22,Government-sponsored enterprises; municipal securities and Sallie Mae public academic facilities financing and Sallie Mae public warehousing advances; asset,FL403062005,10.8,8.2,5.4,8.7,8.2,7.5,7.5,6.3,5.4,23
+23,Security brokers and dealers; municipal securities; asset,FL663062003,18.9,14.0,21.0,15.9,14.0,18.8,19.7,25.0,21.0,24
+24,Rest of the world; municipal securities; asset,FL263062003,80.6,87.5,106.4,86.4,87.5,88.2,89.8,92.1,106.4,25

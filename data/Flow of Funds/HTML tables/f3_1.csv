@@ -1,0 +1,43 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,U.S. national income,FA086010005,15153.9,15665.3,16114.3,15724.4,15836.2,15844.9,15990.1,16262.3,16360.0,1
+1,Households and nonprofit organizations; compensation of employees received,FA156025105,9253.4,9693.1,10101.6,9740.0,9892.4,9892.6,10046.5,10186.8,10280.5,2
+2,Households and nonprofit organizations; wages and salaries received (IMA),FA156020101,7476.3,7854.8,8189.4,7893.9,8024.6,8011.3,8142.9,8262.3,8341.1,3
+3,Households and nonprofit organizations; supplements to wages and salaries,FA156401101,1777.1,1838.2,1912.2,1846.1,1867.8,1881.3,1903.6,1924.5,1939.4,4
+4,Nonfinancial business; proprietors' income with IVA and CCAdj,FA146111105,1337.7,1376.8,1417.7,1389.0,1400.9,1403.9,1407.8,1420.8,1438.1,5
+5,Nonfinancial noncorporate business; rental income of persons with CCAdj,FA116112103,606.1,659.6,705.1,668.1,677.3,692.8,700.6,705.9,721.3,6
+6,Corporate business; corporate profits before tax including IVA and CCAdj,FA096060035,2152.1,2088.1,2068.9,2095.4,1967.5,2033.5,2021.0,2138.8,2082.5,7
+7,Corporate business; corporate profits before tax with IVA excluding CCAdj,FA096060025,2265.9,2192.4,2172.7,2200.5,2069.8,2139.2,2127.1,2240.8,2183.5,8
+8,Corporate business; corporate profits before tax excluding IVA and CCAdj,FA096060005,2262.9,2137.6,2174.7,2140.8,1998.4,2078.0,2180.6,2242.8,2197.3,9
+9,Nonfinancial corporate business; corporate profits before tax excluding IVA and CCAdj,FA106060005,1371.6,1258.6,1273.7,1277.2,1130.1,1229.3,1288.5,1299.9,1277.4,10
+10,Domestic financial sectors; corporate profits before tax excluding IVA and CCAdj,FA796060005,480.3,493.2,502.9,489.1,471.8,479.1,484.6,534.0,513.9,11
+11,Rest of the world; corporate profits before tax excluding IVA and CCAdj,FA266060005,411.0,385.8,398.0,374.5,396.5,369.6,407.6,408.9,406.0,12
+12,Corporate business; taxes on corporate income (accrual basis),FA096231001,532.7,553.8,548.8,530.0,574.9,527.5,543.9,563.4,560.2,13
+13,Nonfinancial corporate business; taxes on corporate income,FA106231005,313.7,308.1,322.3,306.1,277.6,312.7,321.4,329.8,325.4,14
+14,Domestic financial sectors; taxes on corporate income,FA796231003,219.1,245.7,226.4,223.9,297.3,214.8,222.5,233.7,234.8,15
+15,Corporate business; corporate profits after tax excluding IVA and CCAdj,FA096060015,1730.1,1583.8,1625.9,1610.8,1423.4,1550.5,1636.7,1679.4,1637.1,16
+16,Corporate business; net dividends paid,FA096121073,970.6,971.4,967.9,976.8,956.0,963.3,954.0,972.5,981.7,17
+17,Nonfinancial corporate business; net dividends paid,FA106121075,579.6,608.0,622.2,617.9,625.5,626.8,613.7,605.5,642.7,18
+18,Domestic financial sectors; net dividends paid,FA796121073,250.4,233.0,197.4,219.9,204.9,211.2,187.2,196.1,195.3,19
+19,Rest of the world; net dividends paid,FA266121073,140.6,130.4,148.3,138.9,125.5,125.3,153.1,170.9,143.6,20
+20,Corporate business; undistributed corporate profits excluding IVA and CCAdj,FA096006401,759.6,612.4,658.1,634.0,467.5,587.2,682.7,706.9,655.4,21
+21,Nonfinancial corporate business; undistributed corporate profits excluding IVA and CCAdj,FA106006405,478.4,342.5,329.2,353.2,226.9,289.8,353.3,364.6,309.2,22
+22,Domestic financial sectors; undistributed corporate profits excluding CCAdj,FA796006403,10.7,14.5,79.0,45.3,-30.4,53.1,74.9,104.3,83.8,23
+23,Rest of the world; undistributed corporate profits,FA266006403,270.4,255.4,249.8,235.5,270.9,244.3,254.5,238.0,262.4,24
+24,Nonfinancial corporate business; inventory valuation adjustment (IVA),FA105020601,3.0,54.8,-2.0,59.7,71.4,61.2,-53.5,-2.0,-13.8,25
+25,Corporate business; capital consumption adjustment (CCADj),FA096310003,-113.9,-104.3,-103.7,-105.2,-102.2,-105.7,-106.1,-102.0,-101.0,26
+26,Nonfinancial corporate business; capital consumption adjustment (CCADj),FA106310005,-77.7,-63.7,-62.3,-63.4,-59.6,-63.8,-64.4,-60.9,-60.1,27
+27,Domestic financial sectors; capital consumption adjustment (CCAdj),FA796310003,-36.1,-40.6,-41.4,-41.8,-42.7,-41.9,-41.7,-41.0,-40.9,28
+28,National income; net interest and miscellaneous payments,FA086130003,533.7,524.1,485.3,525.2,503.7,493.1,485.5,485.5,477.0,29
+29,"General government; taxes on production and imports, receivable (IMA)",FA366240005,1210.2,1237.6,1256.2,1239.9,1247.3,1249.8,1246.7,1260.9,1267.5,30
+30,General government; subsidies paid,FA366402005,56.7,56.6,59.2,57.4,57.3,58.3,59.4,60.1,59.0,31
+31,Nonfinancial business; other current transfers paid,FA146403005,137.6,161.4,161.1,143.2,224.5,158.1,164.6,146.9,174.8,32
+32,Households and nonprofit organizations; other current transfers received (IMA),FA156403101,45.5,51.4,53.3,52.1,52.4,52.6,53.0,53.5,54.1,33
+33,General government; other current transfers received from business,FA366403145,100.3,110.7,101.8,89.0,171.9,103.0,106.6,86.0,111.4,34
+34,Rest of the world; other current transfers received,FA266403101,-8.2,-0.8,6.0,2.1,0.2,2.5,5.0,7.4,9.3,35
+35,"General government; operating surplus, net",FA366402105,-20.2,-18.8,-22.4,-18.9,-20.1,-20.5,-23.3,-23.2,-22.6,36
+36,U.S. national income,FA086010005,15153.9,15665.3,16114.3,15724.4,15836.2,15844.9,15990.1,16262.3,16360.0,37
+37,"Private domestic sectors; consumption of fixed capital, structures, equipment, and intellectual property products, current cost basis",FA836300005,2227.8,2308.3,2383.0,2320.7,2339.6,2350.3,2375.1,2393.8,2412.9,38
+38,"General government; consumption of fixed capital, equipment, software, and structures, current cost basis",FA366300005,517.4,522.5,527.0,523.5,523.2,523.3,526.7,527.9,530.1,39
+39,Gross domestic product (GDP); statistical discrepancy (calculated from components),FA087005005,-258.0,-253.7,-263.5,-236.1,-264.8,-264.3,-233.9,-304.7,-251.2,40
+40,Rest of the world; net income payments to the U.S.,FA266904005,248.1,205.7,195.2,190.6,211.4,172.5,207.8,204.0,196.4,41
+41,Gross domestic product (GDP); sum of pieces,FA086902005,17393.1,18036.6,18565.6,18141.9,18222.8,18281.6,18450.1,18675.3,18855.5,42

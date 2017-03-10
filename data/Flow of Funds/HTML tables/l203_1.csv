@@ -1,0 +1,45 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Domestic financial sectors; net interbank transactions; liability,FL794110005,2865.6,2335.8,1920.6,2623.7,2335.8,2425.9,2366.5,2158.5,1920.6,1
+1,Monetary authority; net interbank transactions; liability,FL714110005,2453.7,2051.4,1835.6,2265.3,2051.4,2195.2,2111.5,1988.1,1835.6,2
+2,U.S.-chartered depository institutions; net interbank transactions; liability,FL764110005,282.3,229.5,87.3,164.7,229.5,184.9,155.9,146.8,87.3,3
+3,Foreign banking offices in the U.S.; net interbank transactions; liability,FL754110005,197.7,120.6,65.4,260.8,120.6,114.7,169.4,91.2,65.4,4
+4,Banks in U.S.-affiliated areas; net interbank transactions; liability,FL744110005,-5.3,-5.1,-6.0,-5.4,-5.1,-5.8,-5.9,-7.2,-6.0,5
+5,Credit unions; net interbank transactions; liability,FL474110005,-62.8,-60.5,-61.7,-61.7,-60.5,-63.1,-64.5,-60.3,-61.7,6
+6,All sectors; total net interbank transactions; asset,FL894010005,2898.4,2378.1,1968.3,2663.4,2378.1,2480.5,2427.0,2210.0,1968.3,7
+7,Monetary authority; net interbank transactions; asset,FL714010005,-0.4,0.1,-0.7,0.2,0.1,-1.1,-1.1,-0.5,-0.7,8
+8,U.S.-chartered depository institutions; vault cash and reserves at the Federal Reserve; asset,FL763020005,1519.2,1309.9,1215.9,1346.4,1309.9,1381.6,1290.9,1321.9,1215.9,9
+9,Foreign banking offices in the U.S.; vault cash and reserves at the Federal Reserve; asset,FL753020005,888.8,690.4,567.8,871.2,690.4,749.2,766.0,602.3,567.8,10
+10,Credit unions; depository institution reserves; asset,FL473013003,45.7,51.2,52.0,47.7,51.2,64.3,54.7,63.9,52.0,11
+11,Rest of the world; net interbank transactions with banks in foreign countries; asset,FL264016005,445.2,326.6,133.4,397.9,326.6,286.4,316.5,222.4,133.4,12
+12,Instrument discrepancies; net interbank transactions,FL904010005,-32.8,-42.2,-47.7,-39.7,-42.2,-54.6,-60.5,-51.5,-47.7,13
+13,Private depository institutions; vault cash; asset,FL703025005,75.7,74.2,76.0,67.6,74.2,69.8,73.3,65.1,76.0,14
+14,U.S.-chartered depository institutions; vault cash; asset,FL763025000,75.6,74.2,76.0,67.6,74.2,69.8,73.3,65.1,76.0,15
+15,Foreign banking offices in the U.S.; vault cash; asset,FL753025003,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16
+16,Monetary authority; depository institution reserves; liability,FL713113003,2378.0,1977.2,1759.7,2197.7,1977.2,2125.4,2038.3,1923.0,1759.7,17
+17,U.S.-chartered depository institutions; depository institution reserves; asset,FL763013005,1443.6,1235.6,1139.9,1278.8,1235.6,1311.8,1217.6,1256.8,1139.9,18
+18,Foreign banking offices in the U.S.; depository institution reserves; asset,FL753013003,888.8,690.3,567.8,871.1,690.3,749.2,766.0,602.3,567.8,19
+19,Credit unions; depository institution reserves; asset,FL473013003,45.7,51.2,52.0,47.7,51.2,64.3,54.7,63.9,52.0,20
+20,Monetary authority; net interbank transactions; asset,FL714010005,-0.4,0.1,-0.7,0.2,0.1,-1.1,-1.1,-0.5,-0.7,21
+21,Monetary authority; net interbank transactions; asset,FL714010005,-0.4,0.1,-0.7,0.2,0.1,-1.1,-1.1,-0.5,-0.7,22
+22,Monetary authority; Federal Reserve float; asset,FL713022003,-0.6,-0.0,-0.8,-0.1,-0.0,-1.2,-1.3,-0.7,-0.8,23
+23,"Monetary authority; loans to domestic banks, including AMLF; asset",FL713068705,0.1,0.1,0.1,0.3,0.1,0.1,0.2,0.2,0.1,24
+24,U.S.-chartered depository institutions; net interbank transactions with foreign affiliates including deposits at foreign banks; liability,FL764116205,278.8,239.1,106.6,171.1,239.1,205.9,187.4,172.6,106.6,25
+25,"U.S.-chartered depository institutions, including IBFs; interbank transactions due to foreign affiliates; liability",FL763192605,523.4,496.7,351.2,438.0,496.7,461.4,446.4,422.6,351.2,26
+26,"U.S.-chartered depository institutions, including IBFs; interbank transactions due from foreign affiliates; asset",FL763092605,244.6,257.6,244.6,266.9,257.6,255.4,259.0,250.0,244.6,27
+27,Foreign banking offices in the U.S.; net interbank transactions foreign affiliates including deposits at foreign banks; liability,FL754116205,175.0,93.4,36.1,229.4,93.4,80.4,138.8,57.1,36.1,28
+28,"Foreign banking offices in the U.S., including IBFs; interbank transactions due to foreign affiliates; liability",FL753192605,1067.5,936.7,902.5,1023.2,936.7,897.4,969.5,890.5,902.5,29
+29,"Foreign banking offices in the U.S., including IBFs; interbank transactions due from foreign affiliates; asset",FL753092605,892.5,843.3,866.4,793.9,843.3,817.0,830.7,833.5,866.4,30
+30,Rest of the world; U.S. deposits at foreign banks; liability,FL264116205,21.4,18.7,28.6,17.9,18.7,19.8,25.8,25.5,28.6,31
+31,"U.S.-chartered depository institutions, including IBFs; deposits at foreign banks; asset",FL764016205,12.2,9.7,12.5,9.3,9.7,10.1,11.8,13.3,12.5,32
+32,"Foreign banking offices in the U.S., including IBFs; deposits at foreign banks; asset",FL754016205,9.2,9.1,16.1,8.6,9.1,9.7,13.9,12.1,16.1,33
+33,Rest of the world; loans to U.S. private depository institutions; asset,FL264035125,12.8,12.8,19.2,15.4,12.8,19.9,16.1,18.2,19.2,34
+34,International banking facilities of U.S.-chartered depository institutions; other borrowed money owed to nonrelated foreign banks; liability,FL274135123,4.1,4.9,8.6,6.6,4.9,7.8,6.6,7.8,8.6,35
+35,International banking facilities of foreign banking offices in U.S.; other borrowed money owed to nonrelated foreign banks; liability,FL284135125,8.6,7.9,10.6,8.7,7.9,12.1,9.5,10.4,10.6,36
+36,Rest of the world; net interbank transactions with banks in foreign countries; asset(1),FL264016005,445.2,326.6,133.4,397.9,326.6,286.4,316.5,222.4,133.4,37
+37,U.S.-chartered depository institutions; net interbank transactions with U.S. banking; liability,FL764112005,12.0,-5.0,-14.7,-3.9,-5.0,-17.7,-25.2,-19.8,-14.7,38
+38,U.S.-chartered depository institutions; interbank transactions due to U.S. banks; liability,FL764112205,62.9,46.3,46.1,49.7,46.3,36.6,32.1,41.2,46.1,39
+39,"Foreign banking offices in the U.S., including IBFs; interbank transactions due from U.S. depository institutions; asset",FL754012205,27.6,23.0,26.0,22.3,23.0,22.3,22.2,25.2,26.0,40
+40,Banks in U.S.-affiliated areas; checkable deposits and currency; asset,FL743020003,5.3,5.1,6.0,5.4,5.1,5.8,5.9,7.2,6.0,41
+41,Credit unions; interbank transactions due from U.S. depository institutions; asset,FL474012205,62.8,60.5,61.7,61.7,60.5,63.1,64.5,60.3,61.7,42
+42,Foreign banking offices in the U.S.; interbank transactions due to U.S. banks; liability,FL754112205,50.9,51.3,60.8,53.5,51.3,54.3,57.3,61.0,60.8,43
+43,Instrument discrepancies; net interbank transactions(2),FL904010005,-32.8,-42.2,-47.7,-39.7,-42.2,-54.6,-60.5,-51.5,-47.7,44

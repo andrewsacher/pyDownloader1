@@ -1,0 +1,119 @@
+,Description,Series code,2008,2009,2010,2011,2012,2013,2014,2015,Line
+0,Insurance companies; gross value added (IMA),FA526902505,258.2,285.7,269.2,253.2,268.7,260.8,322.7,355.3,1
+1,"Insurance companies; consumption of fixed capital, structures, equipment, and intellectual property products, including noncorporate financial, current cost basis (IMA)",FA526300081,26.7,27.6,27.4,27.0,27.7,29.6,31.0,31.4,2
+2,Insurance companies; net value added (IMA),FA526902605,231.6,258.1,241.9,226.2,241.0,231.2,291.7,323.9,3
+3,Insurance companies; compensation of employees paid (IMA),FA526025005,119.5,116.0,118.7,127.2,132.2,133.7,137.7,142.0,4
+4,Insurance companies; wages and salaries paid (IMA),FA526020001,99.3,97.4,99.5,107.1,112.1,113.3,116.9,120.8,5
+5,Insurance companies; employers' social contributions paid (IMA),FA526401001,20.2,18.6,19.1,20.1,20.1,20.3,20.8,21.2,6
+6,"Insurance companies; taxes on production and imports less subsidies, payable (IMA)",FA526240101,21.4,22.1,22.3,23.1,23.7,25.4,35.2,40.2,7
+7,"Insurance companies; operating surplus, net (IMA)",FA526402101,90.6,120.0,100.9,75.8,85.1,72.2,118.8,141.7,8
+8,"Insurance companies; net national income/balance of primary incomes, net (IMA)",FA526140005,27.9,55.6,65.2,23.3,12.9,11.7,57.6,84.0,9
+9,"Insurance companies; operating surplus, net (IMA)",FA526402101,90.6,120.0,100.9,75.8,85.1,72.2,118.8,141.7,10
+10,Insurance companies; property income (received) (IMA),FA526150105,301.5,273.1,287.3,266.3,264.4,277.5,281.9,279.3,11
+11,Insurance companies; interest received (IMA),FA526130101,273.8,251.5,248.0,241.7,238.1,248.4,252.6,251.1,12
+12,Insurance companies; dividends received (IMA),FA526121101,19.2,12.2,27.9,13.0,15.5,16.2,16.9,17.6,13
+13,Insurance companies; reinvested earnings on U.S. direct investment abroad; received (IMA),FA523092281,8.6,9.3,11.4,11.5,10.8,12.9,12.4,10.6,14
+14,Insurance companies; uses of property income (paid) (IMA),FA526150005,364.3,337.5,323.1,318.8,336.7,338.0,343.2,337.0,15
+15,Insurance companies; interest paid (IMA),FA526130001,342.0,325.7,304.6,302.8,311.3,312.8,320.8,308.2,16
+16,"Insurance companies; distributed income of corporations, paid (IMA)",FA526120005,21.5,11.3,17.1,13.6,22.6,23.2,19.7,26.6,17
+17,Insurance companies; dividends paid (IMA),FA526121001,15.5,5.4,13.5,10.8,19.1,18.4,14.9,21.5,18
+18,"Insurance companies; withdrawals from income of quasi-corporations, paid (IMA)(1)",FA526122001,6.1,5.9,3.7,2.8,3.5,4.9,4.8,5.1,19
+19,Insurance companies; reinvested earnings on foreign direct investment in U.S.; paid (IMA),FA523192281,0.7,0.4,1.3,2.4,2.9,2.0,2.7,2.3,20
+20,Insurance companies; rents on land and natural resources paid (IMA),FA526112001,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21
+21,"Insurance companies; net national income/balance of primary incomes, net (IMA)",FA526140005,27.9,55.6,65.2,23.3,12.9,11.7,57.6,84.0,22
+22,"Insurance companies; current taxes on income, wealth, etc. paid (IMA)",FA526220001,20.7,25.0,28.9,23.0,29.1,33.8,39.6,42.6,23
+23,Insurance companies; other current transfers paid (IMA),FA526403001,31.5,-4.9,-8.4,-13.9,-67.8,-63.8,-38.4,-6.9,24
+24,"Insurance companies; disposable income, net; net saving including foreign earnings retained abroad and CCAdj (IMA)",FA526012005,-24.4,35.4,44.7,14.3,51.5,41.7,56.4,48.3,25
+25,"Insurance companies; disposable income, net; net saving including foreign earnings retained abroad and CCAdj (IMA)",FA526012005,-24.4,35.4,44.7,14.3,51.5,41.7,56.4,48.3,26
+26,Insurance companies; net saving including foreign earnings retained abroad and CCAdj less net capital transfers paid,FA526006385,-21.5,40.9,44.7,14.3,37.1,41.7,56.4,48.3,27
+27,"Insurance companies; disposable income, net; net saving including foreign earnings retained abroad and CCAdj (IMA)",FA526012005,-24.4,35.4,44.7,14.3,51.5,41.7,56.4,48.3,28
+28,"Insurance companies; net capital transfers paid, including financial stabilization payments (IMA)",FA525440083,-2.8,-5.5,0.0,0.0,14.3,0.0,0.0,0.0,29
+29,"Insurance companies; capital formation, net (IMA)",FA525015085,0.8,0.1,-4.3,-2.4,-0.2,3.4,-0.2,1.5,30
+30,Insurance companies; gross fixed capital formation (IMA),FA525013081,27.4,27.7,23.1,24.7,27.5,33.0,30.8,33.0,31
+31,"Insurance companies; consumption of fixed capital, structures, equipment, and intellectual property products, including noncorporate financial, current cost basis (IMA)",FA526300081,26.7,27.6,27.4,27.0,27.7,29.6,31.0,31.4,32
+32,Insurance companies; net lending (+) or borrowing (-) (capital account) (IMA),FA525000995,-22.3,40.8,49.0,16.6,37.3,38.3,56.6,46.7,33
+33,Insurance companies; net lending (+) or borrowing (-) (capital account) (IMA),FA525000995,-22.3,40.8,49.0,16.6,37.3,38.3,56.6,46.7,34
+34,Insurance companies; total financial assets,FA524090005,300.0,44.5,197.8,192.7,87.4,108.7,163.7,164.5,35
+35,Insurance companies; checkable deposits and currency; asset,FA523020005,9.8,-32.5,5.9,-6.4,12.6,-14.9,10.9,6.4,36
+36,Insurance companies; debt securities; asset,FA524022005,24.5,103.9,139.9,76.3,40.2,114.6,72.3,102.1,37
+37,Insurance companies; commercial paper; asset,FA523069105,1.6,3.1,-10.9,-11.2,16.1,10.4,-8.3,-6.3,38
+38,Insurance companies; Treasury securities; asset,FA523061105,14.0,50.5,23.9,14.9,-2.9,-7.5,20.3,14.8,39
+39,Insurance companies; agency- and GSE-backed securities; asset(2),FA523061705,-16.5,21.3,0.7,-0.6,-25.9,-12.6,-29.1,-15.5,40
+40,Insurance companies; municipal securities; asset,FA523062005,40.4,-7.7,11.7,-28.9,-1.0,8.9,-7.7,19.1,41
+41,Insurance companies; corporate and foreign bonds; asset,FA523063005,-14.9,36.8,114.5,102.1,53.9,115.4,97.0,90.0,42
+42,Insurance companies; total loans including security repurchase agreements; asset,FA524035005,42.9,-27.0,-8.9,17.3,15.8,19.1,31.6,41.4,43
+43,"Insurance companies; loans including security repurchase agreements, excluding mortgages; asset",FA524041005,26.4,-10.1,0.0,1.5,3.2,-2.0,8.0,-0.9,44
+44,Insurance companies; total mortgages; asset,FA523065005,16.4,-16.8,-8.9,15.8,12.6,21.1,23.6,42.4,45
+45,Insurance companies; equity and investment fund shares; asset (IMA),FA523081005,113.1,34.2,21.5,34.9,6.2,-25.0,-28.8,-22.5,46
+46,Insurance companies; corporate equities; asset,FA523064105,61.7,-2.2,4.6,17.4,1.9,-8.8,-1.6,-4.6,47
+47,Insurance companies; mutual fund shares; asset,FA523064205,-9.5,43.5,61.6,11.0,2.2,-18.3,-31.9,-28.7,48
+48,Insurance companies; money market mutual fund shares; asset,FA523034005,48.4,-24.7,-24.2,3.0,-4.2,-13.6,2.1,5.8,49
+49,Insurance companies; equity in FHLB; asset(2),FA523092405,1.0,-0.3,-0.1,-0.8,0.1,0.9,0.1,0.5,50
+50,Insurance companies; U.S. direct investment abroad; asset,FA523092005,11.5,17.9,-20.4,4.4,6.3,14.8,2.4,4.5,51
+51,"Life insurance companies, general accounts; deferred and unpaid life insurance premiums; asset",FA543077073,3.2,-4.9,2.6,-0.5,0.6,3.0,1.2,1.7,52
+52,Insurance companies; other accounts receivable; asset (IMA),FA523096005,106.6,-29.2,36.8,71.2,12.0,12.1,76.5,35.4,53
+53,Insurance companies; total liabilities,FA524190005,205.4,-14.5,139.3,178.5,75.4,111.8,79.6,111.4,54
+54,Issuers of asset-backed securities; funding agreements backing securities; asset,FA673090543,-8.1,-34.3,-9.7,-8.5,-0.4,-8.4,9.2,1.6,55
+55,Insurance companies; short-term loans including security repurchase agreements; liability,FA524141005,19.6,-6.6,-4.8,5.1,4.9,8.7,2.5,7.6,56
+56,Insurance companies; equity and investment fund shares excluding mutual fund shares and money market fund shares; liability (IMA),FA523181105,4.6,16.6,13.9,-20.5,-11.1,-12.4,-24.3,-13.1,57
+57,Insurance companies; corporate equities; liability,FA523164105,-10.3,-6.2,-17.5,-22.3,-24.5,-16.8,-31.8,-32.0,58
+58,Insurance companies; foreign direct investment in U.S.; liability,FA523192005,27.4,13.5,9.1,-7.5,9.9,12.0,6.6,19.2,59
+59,Insurance companies; net transactions due to holding companies; liability,FA523194735,-12.5,9.3,22.2,9.3,3.5,-7.6,0.9,-0.3,60
+60,"Insurance companies; insurance, pension and standardized guarantee schemes; liability (IMA)",FA523152005,175.8,90.7,146.0,209.7,38.0,72.5,74.9,127.8,61
+61,Insurance companies; miscellaneous and taxes payable; libility (IMA),FA523196105,13.6,-80.9,-6.0,-7.3,44.0,51.4,17.3,-12.5,62
+62,Insurance companies; net lending (+) or borrowing (-) (financial account),FA525000005,94.6,59.0,58.5,14.2,12.0,-3.0,84.1,53.0,63
+63,Insurance companies; total other volume changes (IMA),FV528090185,117.0,-32.0,9.1,-2.7,-42.7,-42.1,28.4,7.4,64
+64,Insurance companies; nonfinancial assets (does not include land),FV522010095,-0.1,0.0,0.0,0.0,-0.1,0.0,0.0,0.0,65
+65,Insurance companies; other volume changes (IMA),FV528090085,0.2,-50.3,-0.4,-0.2,-17.2,-0.7,0.9,1.1,66
+66,Insurance companies; statistical discrepancy (IMA)(3),FU527005045,-116.9,-18.2,-9.5,2.4,25.3,41.3,-27.5,-6.3,67
+67,Insurance companies; nonfinancial assets (does not include land),FR522010095,10.3,-8.4,0.2,5.7,2.1,5.3,3.4,2.5,68
+68,"Insurance companies; nonresidential structures, current cost basis",FR525013665,9.2,-7.3,0.2,5.1,2.2,4.7,3.5,2.7,69
+69,"Insurance companies; nonresidential equipment, current cost basis",FR525013265,0.9,-0.7,0.2,0.5,-0.0,0.3,0.5,-0.1,70
+70,"Insurance companies; nonresidential intellectual property products, current cost basis",FR525013765,0.2,-0.4,-0.2,0.0,-0.1,0.3,-0.5,-0.0,71
+71,Insurance companies; revaluation on debt securities and equity and investment fund shares; asset (IMA),FR524090085,-1035.9,630.1,295.4,149.8,296.2,158.5,267.1,-231.3,72
+72,Insurance companies; debt securities; asset,FR524022005,-336.3,322.4,131.2,195.7,80.6,-202.2,144.8,-164.2,73
+73,Insurance companies; corporate equities; asset,FR523064105,-191.3,83.3,24.3,2.7,52.2,110.7,33.8,-12.8,74
+74,Insurance companies; mutual fund shares; asset,FR523064205,-477.7,217.2,126.7,-43.1,146.5,257.0,84.1,-39.4,75
+75,Insurance companies; U.S. direct investment abroad; asset,FR523092005,-30.6,7.2,13.1,-5.4,16.9,-6.9,4.4,-14.9,76
+76,"Insurance companies; revaluation of equity and investment fund shares and insurance, pension and standardized guarantee schemes; liability (IMA)",FR524190085,-990.2,314.8,207.6,-61.7,232.9,365.6,206.2,-81.3,77
+77,Insurance companies; corporate equities; liability,FR523164105,-386.4,49.4,42.5,-61.5,79.5,122.2,59.1,-11.0,78
+78,Insurance companies; foreign direct investment in U.S.; liability,FR523192005,-61.3,9.1,11.9,30.0,-23.9,-43.2,26.1,-15.3,79
+79,Insurance companies; net transactions due to holding companies; liability,FR523194735,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,80
+80,"Insurance companies; insurance, pension and standardized guarantee schemes; liability (IMA)",FR523152005,-542.6,256.3,153.2,-30.2,177.4,286.5,121.0,-55.1,81
+81,Insurance companies; changes in net worth due to nominal holding gains/losses (IMA),FR528200005,-35.4,306.9,88.0,217.2,65.3,-201.8,64.4,-147.4,82
+82,Insurance companies; net worth (IMA),FC522090095,60.1,315.8,141.9,228.8,59.7,-202.2,149.2,-91.7,83
+83,Insurance companies and pension funds; total assets (does not include land),FL522000095,6073.6,6689.7,7178.4,7524.1,7910.2,8185.4,8620.3,8558.7,84
+84,Insurance companies; nonfinancial assets (does not include land)(4),FL522010095,250.1,241.6,237.2,240.3,242.9,250.8,254.9,260.2,85
+85,"Insurance companies; nonresidential structures, current cost basis",FL525013665,159.4,151.7,149.6,152.3,152.1,155.1,158.2,161.2,86
+86,"Insurance companies; nonresidential equipment, current cost basis",FL525013265,49.5,47.3,46.3,46.2,46.4,47.4,47.8,47.9,87
+87,"Insurance companies; nonresidential intellectual property products, current cost basis",FL525013765,41.2,42.6,41.3,41.8,44.4,48.3,49.0,51.1,88
+88,Insurance companies; total financial assets,FL524090005,5823.5,6448.1,6941.3,7283.8,7667.3,7934.6,8365.4,8298.5,89
+89,Insurance companies; checkable deposits and currency; asset,FL523020005,110.9,78.4,84.3,85.1,97.7,82.7,93.7,100.1,90
+90,Insurance companies; debt securities; asset,LM524022005,2970.0,3458.9,3730.0,4006.7,4127.6,4039.9,4257.0,4194.9,91
+91,Insurance companies; commercial paper; asset,LM523069105,58.2,61.2,50.3,40.3,56.3,66.8,58.5,52.2,92
+92,Insurance companies; Treasury securities; asset,LM523061105,185.5,222.9,254.0,300.0,292.7,269.5,304.9,312.2,93
+93,Insurance companies; agency- and GSE-backed securities; asset(2),LM523061705,484.5,501.6,506.4,534.0,513.1,475.8,478.2,449.3,94
+94,Insurance companies; municipal securities; asset,LM523062005,430.2,457.6,469.6,490.4,487.5,481.6,504.0,517.5,95
+95,Insurance companies; corporate and foreign bonds; asset,LM523063005,1811.6,2215.6,2449.7,2642.0,2778.0,2746.3,2911.4,2863.8,96
+96,Insurance companies; total loans including security repurchase agreements; asset,FL524035005,526.3,486.8,477.9,495.1,510.9,530.0,561.6,603.0,97
+97,"Insurance companies; loans including security repurchase agreements, excluding mortgages; asset",FL524041005,178.9,156.2,156.2,157.7,160.9,158.8,166.9,166.0,98
+98,Insurance companies; total mortgages; asset,FL523065005,347.4,330.6,321.7,337.4,350.1,371.1,394.7,437.1,99
+99,Insurance companies; equity and investment fund shares; asset (IMA),FL523081005,1508.6,1800.5,1986.1,1975.8,2197.6,2533.2,2626.7,2537.0,100
+100,Insurance companies; corporate equities; asset,LM523064105,380.9,411.9,440.8,460.9,514.9,616.8,649.0,631.6,101
+101,Insurance companies; mutual fund shares; asset,LM523064205,863.5,1124.3,1312.6,1280.6,1429.3,1667.9,1720.1,1652.0,102
+102,Insurance companies; money market mutual fund shares; asset,FL523034005,133.5,108.8,84.6,87.9,83.7,70.1,72.2,78.0,103
+103,Insurance companies; equity in FHLB; asset(2),FL523092405,3.2,2.9,2.8,2.0,2.1,3.0,3.1,3.5,104
+104,Insurance companies; U.S. direct investment abroad; asset,FL523092005,127.6,152.7,145.4,144.4,167.6,175.4,182.2,171.8,105
+105,"Life insurance companies, general accounts; deferred and unpaid life insurance premiums; asset",FL543077073,27.8,22.9,25.5,25.0,25.7,28.7,29.9,31.6,106
+106,Insurance companies; other accounts receivable; asset (IMA),FL523096005,679.9,600.7,637.4,696.0,708.0,720.0,796.5,831.9,107
+107,Insurance companies; total liabilities and net worth (IMA),FL522100005,6073.6,6689.7,7178.4,7524.1,7910.2,8185.4,8620.3,8558.7,108
+108,Insurance companies; total liabilities and equity,FL524194005,5595.0,5895.3,6242.2,6359.1,6685.5,7162.8,7448.5,7478.6,109
+109,Issuers of asset-backed securities; funding agreements backing securities; asset,FL673090543,114.2,80.0,70.3,61.9,61.5,53.1,62.3,63.8,110
+110,Insurance companies; short-term loans including security repurchase agreements; liability,FL524141005,67.3,60.7,55.9,61.0,65.9,74.6,77.0,84.7,111
+111,Insurance companies; equity and investment fund shares excluding mutual fund shares and money market fund shares; liability (IMA),FL523181105,495.4,570.5,638.7,586.8,584.1,645.8,706.6,667.2,112
+112,Insurance companies; corporate equities; liability,LM523164105,352.7,396.0,420.9,337.2,392.2,497.6,524.9,481.9,113
+113,Insurance companies; foreign direct investment in U.S.; liability,FL523192005,111.4,134.1,155.0,177.5,163.4,132.2,164.9,168.8,114
+114,Insurance companies; net transactions due to holding companies; liability,FL523194735,31.2,40.5,62.7,72.0,28.4,15.9,16.8,16.6,115
+115,"Insurance companies; insurance, pension and standardized guarantee schemes; liability (IMA)",FL523152005,4468.0,4814.9,5114.1,5293.6,5509.0,5868.1,6064.0,6136.8,116
+116,Insurance companies; miscellaneous and taxes payable; libility (IMA),FL523196105,450.1,369.2,363.2,355.9,465.0,521.3,538.6,526.1,117
+117,Insurance companies; net worth (IMA),FL522090095,478.6,794.4,936.2,1165.0,1224.8,1022.6,1171.8,1080.0,118

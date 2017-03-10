@@ -1,0 +1,26 @@
+, Description,Series code,2014  ,2015  ,2016  ,2015   Q3,2015   Q4,2016   Q1,2016   Q2,2016   Q3,2016   Q4,Line
+0,Security brokers and dealers; total financial assets,FL664090005,3254.7,3044.0,3022.5,3200.6,3044.0,3050.7,3116.5,3151.3,3022.5,1
+1,Security brokers and dealers; checkable deposits and currency; asset,FL663020003,111.8,106.1,119.2,115.6,106.1,110.9,114.0,124.1,119.2,2
+2,Security brokers and dealers; security repurchase agreements; asset,FL662051003,1152.7,1133.3,1112.7,1243.6,1133.3,1115.3,1197.4,1204.3,1112.7,3
+3,Security brokers and dealers; debt securities; asset,FL664022005,337.3,300.6,305.6,308.1,300.6,295.3,320.8,315.5,305.6,4
+4,Security brokers and dealers; commercial paper; asset,FL663069103,20.8,19.5,13.8,19.5,19.5,20.3,17.0,13.6,13.8,5
+5,Security brokers and dealers; Treasury securities; asset,FL663061105,60.2,65.3,97.6,53.6,65.3,90.8,87.9,94.6,97.6,6
+6,Security brokers and dealers; agency- and GSE-backed securities; asset,FL663061703,121.9,109.7,93.2,122.8,109.7,102.6,122.2,107.2,93.2,7
+7,Security brokers and dealers; municipal securities; asset,FL663062003,18.9,14.0,21.0,15.9,14.0,18.8,19.7,25.0,21.0,8
+8,Security brokers and dealers; corporate and foreign bonds; asset,FL663063005,115.5,92.1,80.0,96.4,92.1,62.9,74.1,75.1,80.0,9
+9,Security brokers and dealers; other loans and advances; asset,FL663069005,428.2,338.1,329.7,341.3,338.1,322.2,327.1,357.1,329.7,10
+10,Security brokers and dealers; corporate equities; asset,LM663064103,187.8,166.8,176.1,143.3,166.8,136.8,141.4,158.0,176.1,11
+11,Security brokers and dealers; U.S. direct investment abroad; asset,FL663092003,171.0,183.7,195.7,179.7,183.7,188.4,190.6,193.8,195.7,12
+12,Security brokers and dealers; total miscellaneous assets,FL663090005,866.0,815.6,783.5,869.0,815.6,881.8,825.2,798.6,783.5,13
+13,Security brokers and dealers; total liabilities,FL664190005,3044.9,2833.1,2812.8,2985.7,2833.1,2837.3,2901.3,2932.8,2812.8,14
+14,Security brokers and dealers; security repurchase agreements; liability,FL662151003,1547.7,1368.3,1313.1,1493.7,1368.3,1366.1,1423.0,1436.1,1313.1,15
+15,Security brokers and dealers; corporate and foreign bonds; liability,FL663163003,123.9,131.3,129.1,135.4,131.3,119.5,111.0,125.6,129.1,16
+16,Security brokers and dealers; loans; liability,FL664123005,962.5,913.2,921.3,934.9,913.2,952.3,964.4,942.2,921.3,17
+17,Security brokers and dealers; depository institution loans n.e.c.; liability(1),FL663168005,93.5,92.5,104.4,90.2,92.5,92.3,101.0,103.9,104.4,18
+18,Households and nonprofit organizations; cash accounts at brokers and dealers,FL153067005,869.0,820.6,817.0,844.6,820.6,860.1,863.5,838.3,817.0,19
+19,Security brokers and dealers; trade payables; liability,FL663170003,17.9,26.3,36.7,24.2,26.3,25.3,26.9,31.4,36.7,20
+20,Security brokers and dealers; taxes payable; liability,FL663178003,4.0,3.2,3.3,4.1,3.2,4.1,3.5,4.0,3.3,21
+21,"Security brokers and dealers; foreign direct investment in U.S., adjusted for U.S. Intermediate Holding Companies; liability",FL663192005,131.2,137.5,21.0,136.9,137.5,155.2,157.4,48.7,21.0,22
+22,Security brokers and dealers; total miscellaneous liabilities,FL663190005,257.6,253.3,388.2,256.5,253.3,214.8,215.1,344.6,388.2,23
+23,Security brokers and dealers; equity investment by parent companies; liability,FL663194005,1699.7,1671.9,1819.1,1772.7,1671.9,1722.8,1670.4,1788.5,1819.1,24
+24,Security brokers and dealers; unidentified miscellaneous liabilities,FL663193005,-1442.1,-1418.6,-1430.8,-1516.2,-1418.6,-1508.0,-1455.3,-1443.9,-1430.8,25
