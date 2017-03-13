@@ -51,15 +51,15 @@ dot.download_tables(save_path = my_file, crawl_page = True, page_type = "html", 
 
 Some HTML tables have merged cells that `pandas` has difficulty parsing. Consider this table from SSA...
 
-!(https://github.com/andrewsacher/pyDownloader1/blob/master/assets/ssa_html.png)
+![ssa_html](https://github.com/andrewsacher/pyDownloader1/blob/master/assets/ssa_html.png)
 
 with the cell containing "Old-Age and Survivors Insurance" being two columns merged. If downloaded as is using `download_tables`, the resulting CSV looks like this:
 
-!(https://github.com/andrewsacher/pyDownloader1/blob/master/assets/ssa_csv.png)
+![ssa_csv](https://github.com/andrewsacher/pyDownloader1/blob/master/assets/ssa_csv.png)
 
 The cells are shifted. It this occurs, use the `row_shift` argument. In this case, a value of -1 (with the default being 0) shifts the rows who are misaligned to the left by one cell. The resulting CSV now looks like:
 
-!(https://github.com/andrewsacher/pyDownloader1/blob/master/assets/ssa_csv1.png)
+![ssa_csv1](https://github.com/andrewsacher/pyDownloader1/blob/master/assets/ssa_csv1.png)
 
 which is easier to parse. 
 
