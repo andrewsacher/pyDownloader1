@@ -1,6 +1,7 @@
 import os
 import requests
 import urllib
+import math
 import pandas as pd
 import numpy as np
 from bs4 import BeautifulSoup 
@@ -75,11 +76,12 @@ class web_data(object):
                 print(s)
     
     # Method to scrape HTML tables into memory
-    def read_tables(self, crawl_page = False, page_type = "html", row_min = 1):
+    def read_tables(self, crawl_page = True, page_type = "html", row_min = 1, row_shift = 0):
         
         self.crawl_page = crawl_page
         self.page_type = page_type
         self.row_min = row_min
+        self.row_shift = row_shift
         self.pages = list()
         self.tables = list()
         
@@ -106,16 +108,26 @@ class web_data(object):
                         next
             except:
                 next
+                
+        # Fix rows
+        if self.row_shift != 0:
+            for n in range(0, len(self.tables)):
+                for i in range(0, len(self.tables[n])):
+                    this_row = self.tables[n].iloc[i, ]
+                    if this_row.isnull()[0]:
+                        for j in range(0, len(this_row)):
+                            self.tables[n].iloc[i, j] = this_row.shift(periods = self.row_shift)[j]
 
         return(self.tables)
   
     # Method to scrape HTML tables and save to disk
-    def download_tables(self, save_path, crawl_page = False, page_type = "html", row_min = 1):
+    def download_tables(self, save_path, crawl_page = True, page_type = "html", row_min = 1, row_shift = 0):
         
         self.save_path = save_path
         self.crawl_page = crawl_page
         self.page_type = page_type
         self.row_min = row_min
+        self.row_shift = row_shift
         self.pages = list()
         self.tables = list()
         self.file_names = list()
@@ -147,11 +159,19 @@ class web_data(object):
                         next
             except:
                 next
+                
+        # Fix rows
+        if self.row_shift != 0:
+            for n in range(0, len(self.tables)):
+                for i in range(0, len(self.tables[n])):
+                    this_row = self.tables[n].iloc[i, ]
+                    if this_row.isnull()[0]:
+                        for j in range(0, len(this_row)):
+                            self.tables[n].iloc[i, j] = this_row.shift(periods = self.row_shift)[j]
 
         # Save tables
         for i in range(0, len(self.tables)):
-            self.tables[i].to_csv(self.file_names[i])
+            self.tables[i].to_csv(self.file_names[i], index = False)
 
 
-
-
+            
