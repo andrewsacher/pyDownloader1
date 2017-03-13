@@ -47,19 +47,19 @@ dot_tables = dot.read_tables(crawl_page = True, page_type = "html", row_min = 1)
 dot.download_tables(save_path = my_file, crawl_page = True, page_type = "html", row_min = 1)
 ```
 
-### Parsing data with merged cells
+## Parsing data with merged cells
 
-Some HTML tables have merged cells that `pandas` has difficulty parsing. Consider this table from SSA..
+Some HTML tables have merged cells that `pandas` has difficulty parsing. Consider this table from SSA...
 
-[pic]
+!(https://github.com/andrewsacher/pyDownloader1/blob/master/assets/ssa_html.png)
 
-with the cell containing "Old-Age and Survivors Insurance" being two columns merged. If downloaded as it, the resulting CSV looks like this:
+with the cell containing "Old-Age and Survivors Insurance" being two columns merged. If downloaded as is using `download_tables`, the resulting CSV looks like this:
 
-[pic]
+!(https://github.com/andrewsacher/pyDownloader1/blob/master/assets/ssa_csv.png)
 
 The cells are shifted. It this occurs, use the `row_shift` argument. In this case, a value of -1 (with the default being 0) shifts the rows who are misaligned to the left by one cell. The resulting CSV now looks like:
 
-[pic]
+!(https://github.com/andrewsacher/pyDownloader1/blob/master/assets/ssa_csv1.png)
 
 which is easier to parse. 
 
