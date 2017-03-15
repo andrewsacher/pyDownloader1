@@ -57,12 +57,13 @@ with the cell containing "Old-Age and Survivors Insurance" being two columns mer
 
 ![ssa_csv](https://github.com/andrewsacher/pyDownloader1/blob/master/assets/ssa_csv.png)
 
-The cells are shifted. It this occurs, use the `row_shift` argument. In this case, a value of -1 (with the default being 0) shifts the rows who are misaligned to the left by one cell. The resulting CSV now looks like:
+The cells are shifted. It this occurs, use the `row_shift` argument. In this case, a value of -1 (with the default being 0) shifts the rows who are misaligned to the left by one cell. 
+
+In addition, if the `record_shifts` argument is set to `True`, the CSV files will include a column that indicates how much each row has been shifted. This provides context for indentation. 
+
+The resulting CSV now looks like:
 
 ![ssa_csv1](https://github.com/andrewsacher/pyDownloader1/blob/master/assets/ssa_csv1.png)
 
 which is easier to parse. 
-
-To be added: the ability to record indents for similar examples above. 
-
 
