@@ -1,0 +1,25 @@
+Age,All beneficiaries (thousands),Hispanic origin a (thousands),Hispanic origin as a percentage of all beneficiaries a,Total,Male,Female,Total.1,Male.1,Female.1,Total.2,Male.2,Female.2
+,Social Security beneficiaries,,,,,,,,,,,
+"Total, all ages",49744,22184,27559,3771.0,1641.0,2131.0,7.6,7.4,7.7,,,
+15–34,1849,879,970,278.0,133.0,145.0,15.0,15.1,14.9,,,
+35–44,1245,592,653,160.0,66.0,94.0,12.9,11.2,14.4,,,
+45–54,2304,1072,1232,207.0,87.0,120.0,9.0,8.1,9.8,,,
+55–64,6590,2938,3652,565.0,231.0,334.0,8.6,7.9,9.2,,,
+65–74,20958,9637,11321,1469.0,640.0,829.0,7.0,6.6,7.3,,,
+75 or older,16798,7067,9731,1092.0,484.0,608.0,6.5,6.8,6.2,,,
+,Supplemental Security Income recipients,,,,,,,,,,,
+"Total, all ages",6847,2980,3867,1103.0,426.0,676.0,16.1,14.3,17.5,,,
+15–34,1255,646,610,254.0,137.0,117.0,20.2,21.2,19.2,,,
+35–44,868,386,481,120.0,45.0,76.0,13.9,11.6,15.7,,,
+45–54,1342,580,762,176.0,72.0,104.0,13.1,12.4,13.6,,,
+55–64,1856,876,980,242.0,78.0,165.0,13.0,8.9,16.8,,,
+65–74,839,304,535,172.0,49.0,123.0,20.5,16.1,23.0,,,
+75 or older,687,188,499,139.0,47.0,92.0,20.2,24.8,18.4,,,
+,Average annual benefit in 2014 (dollars),,,,,,,,,,,
+Social Security,14305,16255,12735,11985.0,13563.0,10769.0,. . .,. . .,. . .,,,
+Supplemental Security Income,7927,8709,7324,7657.0,8318.0,7241.0,. . .,. . .,. . .,,,
+"SOURCE: Census Bureau, Current Population Survey, public-use file of the March 2015 Income Supplement.","NOTES: Table includes civilian noninstitutionalized population residing in the 50 states and the District of Columbia.
+          For a discussion of standard errors of estimated numbers and percentages, see Census Bureau, Current Population Reports, Series P-60.
+          Totals do not necessarily equal the sum of rounded components.
+          OASDI = Old-Age, Survivors, and Disability Insurance; . . . = not applicable.
+        ",a. Persons of Hispanic origin may be of any race.,CONTACT: (410) 965-0090 or statistics@ssa.gov.,,,,,,,,,
