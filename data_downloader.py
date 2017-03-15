@@ -79,10 +79,11 @@ class web_data(object):
     def read_tables(self, crawl_page = True, page_type = "html", row_min = 1, row_shift = 0):
         
         self.crawl_page = crawl_page
-        self.page_type = page_type
-        self.row_min = row_min
-        self.row_shift = row_shift
-        self.pages = list()
+        self.page_type  = page_type
+        self.row_min    = row_min
+        self.row_shift  = row_shift
+        
+        self.pages  = list()
         self.tables = list()
         
         # Crawl page to find all links to pages with tables
@@ -121,16 +122,18 @@ class web_data(object):
         return(self.tables)
   
     # Method to scrape HTML tables and save to disk
-    def download_tables(self, save_path, crawl_page = True, page_type = "html", row_min = 1, row_shift = 0):
+    def download_tables(self, save_path, crawl_page = True, page_type = "html", row_min = 1, row_shift = 0, record_shifts = False):
         
-        self.save_path = save_path
-        self.crawl_page = crawl_page
-        self.page_type = page_type
-        self.row_min = row_min
-        self.row_shift = row_shift
-        self.pages = list()
-        self.tables = list()
-        self.file_names = list()
+        self.save_path     = save_path
+        self.crawl_page    = crawl_page
+        self.page_type     = page_type
+        self.row_min       = row_min
+        self.row_shift     = row_shift
+        self.record_shifts = record_shifts
+        
+        self.pages       = list()
+        self.tables      = list()
+        self.file_names  = list()
         
         # Crawl page to find all links to pages with tables
         if self.crawl_page == True:
@@ -163,15 +166,27 @@ class web_data(object):
         # Fix rows
         if self.row_shift != 0:
             for n in range(0, len(self.tables)):
+                self.shift_index = list()
                 for i in range(0, len(self.tables[n])):
                     this_row = self.tables[n].iloc[i, ]
                     if this_row.isnull()[0]:
+                        if all(this_row.isnull()):
+                            self.shift_index.append(0)
+                        else:
+                            self.shift_index.append(self.row_shift)
                         for j in range(0, len(this_row)):
                             self.tables[n].iloc[i, j] = this_row.shift(periods = self.row_shift)[j]
-
+                    else:
+                        self.shift_index.append(0)
+                if all(np.array(self.shift_index) == 0):
+                    next
+                else:
+                    self.tables[n] = self.tables[n].assign(shift = self.shift_index)
+                
         # Save tables
         for i in range(0, len(self.tables)):
             self.tables[i].to_csv(self.file_names[i], index = False)
 
 
+            
             
