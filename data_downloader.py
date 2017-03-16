@@ -47,10 +47,11 @@ class web_data(object):
         return(self.mem_data)
     
     # Method to download data files to disk
-    def download_files(self, ext, save_path):
-        
+    def download_files(self, save_path, ext):
+       
+        self.save_path = save_path
         self.ext = ext
-        
+         
         # Get links to files
         self.links = list()
         for link in self.url_soup.find_all("a"):
@@ -60,7 +61,7 @@ class web_data(object):
                     self.links.append(urllib.request.urljoin(self.url, this_link))
         
         # Download files to directory
-        self.save_path = save_path
+       
         
         self.failed_links = list()
         for link in self.links:
@@ -187,6 +188,24 @@ class web_data(object):
         for i in range(0, len(self.tables)):
             self.tables[i].to_csv(self.file_names[i], index = False)
 
+url = "https://www.ssa.gov/oact/STATS/"
 
-            
-            
+ff = web_data(url)
+my_path = "C:\\Users\\jricco\\Documents\\PPI projects\\Ballmer\\pyDownloader1\\data\\SSA\\Statistical Tables\\HTML Tables"
+
+ff.download_tables(save_path = my_path, crawl_page = True, page_type = "html", row_min = 1, row_shift = -1, record_shifts = True)
+
+
+def strip_footnotes(x):
+    end = x[-2:]
+    match_obj = re.match("([0-9])\D", end)
+    if match_obj:
+        return(x[:-1])
+    else:
+        return(x)
+
+for col in test.columns: 
+    if 
+    [strip_footnotes(x) for x in col]
+
+    
