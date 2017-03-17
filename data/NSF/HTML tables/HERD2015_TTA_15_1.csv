@@ -1,45 +1,45 @@
-R&D field,Total,Federally financed,All separately budgeted R&D expenditures,Imputed amount,Imputed amount as % of total,All separately budgeted R&D expenditures.1,Imputed amount.1,Imputed amount as % of total.1
-All R&D fields,68668,73,0.1,37877,43,0.1,,
-All science and engineering,65044,718,1.1,36805,80,0.2,,
-Computer sciences,1964,20,1.0,1421,2,0.2,,
-Environmental sciences,3249,12,0.4,2067,2,0.1,,
-Atmospheric sciences,576,0,0.1,456,0,0.0,,
-Earth sciences,1110,9,0.8,696,2,0.3,,
-Oceanography,1052,0,0.0,648,0,0.0,,
-"Environmental sciences, nec",511,3,0.6,267,0,0.0,,
-Life sciences,38820,472,1.2,21187,52,0.2,,
-Agricultural sciences,3465,5,0.1,1089,3,0.3,,
-Biological sciences,11711,164,1.4,7107,22,0.3,,
-Medical sciences,21347,263,1.2,11749,25,0.2,,
-"Life sciences, nec",2297,40,1.8,1242,2,0.1,,
-Mathematical sciences,642,16,2.4,425,1,0.2,,
-Physical sciences,4711,49,1.0,3116,12,0.4,,
-Astronomy,673,2,0.4,403,0,0.0,,
-Chemistry,1758,13,0.8,1095,3,0.2,,
-Physics,2053,29,1.4,1468,9,0.6,,
-"Physical sciences, nec",227,4,1.6,150,0,0.0,,
-Psychology,1184,8,0.6,763,1,0.2,,
-Social sciences,2322,42,1.8,920,2,0.2,,
-Economics,462,9,1.9,151,0,0.3,,
-Political science,460,5,1.0,137,0,0.3,,
-Sociology,525,15,2.9,262,1,0.2,,
-"Social sciences, nec",875,13,1.5,369,1,0.2,,
-"Sciences, nec",1082,5,0.5,451,0,0.0,,
-Engineering,11070,94,0.9,6456,8,0.1,,
-Aeronautical and astronautical engineering,734,9,1.2,516,1,0.3,,
-Bioengineering and biomedical engineering,1004,12,1.2,606,0,0.0,,
-Chemical engineering,915,12,1.4,463,0,0.0,,
-Civil engineering,1288,6,0.5,571,1,0.2,,
-Electrical engineering,2494,23,0.9,1772,3,0.2,,
-Mechanical engineering,1516,14,0.9,958,2,0.2,,
-Metallurgical and materials engineering,1096,5,0.5,496,1,0.2,,
-"Engineering, nec",2024,23,1.1,1073,5,0.4,,
-All non-science and engineering,3624,77,2.1,1072,4,0.4,,
-Business and management,571,6,1.0,70,0,0.2,,
-"Communications, journalism, and library science",168,4,2.3,42,0,0.0,,
-Education,1292,27,2.1,643,3,0.4,,
-Humanities,430,23,5.5,60,0,0.1,,
-Law,175,0,0.2,24,0,0.1,,
-Social work,216,1,0.4,102,0,0.3,,
-Visual and performing arts,101,4,4.3,9,0,0.2,,
-"Non-science and engineering, nec",671,10,1.5,122,1,1.0,,
+R&D field,Total,Federally financed,All separately budgeted R&D expenditures,Imputed amount,Imputed amount as % of total,All separately budgeted R&D expenditures.1
+All R&D fields,68668,73,0.1,37877,43,0.1
+All science and engineering,65044,718,1.1,36805,80,0.2
+Computer sciences,1964,20,1.0,1421,2,0.2
+Environmental sciences,3249,12,0.4,2067,2,0.1
+Atmospheric sciences,576,0,0.1,456,0,0.0
+Earth sciences,1110,9,0.8,696,2,0.3
+Oceanography,1052,0,0.0,648,0,0.0
+"Environmental sciences, nec",511,3,0.6,267,0,0.0
+Life sciences,38820,472,1.2,21187,52,0.2
+Agricultural sciences,3465,5,0.1,1089,3,0.3
+Biological sciences,11711,164,1.4,7107,22,0.3
+Medical sciences,21347,263,1.2,11749,25,0.2
+"Life sciences, nec",2297,40,1.8,1242,2,0.1
+Mathematical sciences,642,16,2.4,425,1,0.2
+Physical sciences,4711,49,1.0,3116,12,0.4
+Astronomy,673,2,0.4,403,0,0.0
+Chemistry,1758,13,0.8,1095,3,0.2
+Physics,2053,29,1.4,1468,9,0.6
+"Physical sciences, nec",227,4,1.6,150,0,0.0
+Psychology,1184,8,0.6,763,1,0.2
+Social sciences,2322,42,1.8,920,2,0.2
+Economics,462,9,1.9,151,0,0.3
+Political science,460,5,1.0,137,0,0.3
+Sociology,525,15,2.9,262,1,0.2
+"Social sciences, nec",875,13,1.5,369,1,0.2
+"Sciences, nec",1082,5,0.5,451,0,0.0
+Engineering,11070,94,0.9,6456,8,0.1
+Aeronautical and astronautical engineering,734,9,1.2,516,1,0.3
+Bioengineering and biomedical engineering,1004,12,1.2,606,0,0.0
+Chemical engineering,915,12,1.4,463,0,0.0
+Civil engineering,1288,6,0.5,571,1,0.2
+Electrical engineering,2494,23,0.9,1772,3,0.2
+Mechanical engineering,1516,14,0.9,958,2,0.2
+Metallurgical and materials engineering,1096,5,0.5,496,1,0.2
+"Engineering, nec",2024,23,1.1,1073,5,0.4
+All non-science and engineering,3624,77,2.1,1072,4,0.4
+Business and management,571,6,1.0,70,0,0.2
+"Communications, journalism, and library science",168,4,2.3,42,0,0.0
+Education,1292,27,2.1,643,3,0.4
+Humanities,430,23,5.5,60,0,0.1
+Law,175,0,0.2,24,0,0.1
+Social work,216,1,0.4,102,0,0.3
+Visual and performing arts,101,4,4.3,9,0,0.2
+"Non-science and engineering, nec",671,10,1.5,122,1,1.0

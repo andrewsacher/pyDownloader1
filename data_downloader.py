@@ -18,7 +18,7 @@ class web_data(object):
     #=======================================
     # Method to download data files to disk
     #=======================================
-
+    
     def download_files(self, 
                        save_path, 
                        ext):
@@ -54,12 +54,13 @@ class web_data(object):
     
     def download_tables(self, 
                         save_path, 
-                        crawl_page = True, 
-                        page_type = "html", 
-                        row_min = 1, 
-                        row_shift = 0, 
-                        record_shifts = False, 
-                        remove_footnotes = True):
+                        crawl_page       = True, 
+                        page_type        = "html", 
+                        row_min          = 1, 
+                        row_shift        = 0, 
+                        record_shifts    = False, 
+                        remove_footnotes = True,
+                        remove_blanks    = None):
         
         self.save_path        = save_path
         self.crawl_page       = crawl_page
@@ -68,6 +69,7 @@ class web_data(object):
         self.row_shift        = row_shift
         self.record_shifts    = record_shifts
         self.remove_footnotes = remove_footnotes
+        self.remove_blanks    = remove_blanks
         
         self.pages       = list()
         self.tables      = list()
@@ -141,11 +143,21 @@ class web_data(object):
                         next
                     else:
                         self.tables[n].iloc[:, i] = self.tables[n].iloc[:, i].apply(strip_footnotes)
+                        
+        # Remove empty columns
+        if self.remove_blanks != None:
+            for n in range(0, len(self.tables)):
+                self.tables[n] = self.tables[n].dropna(axis = self.remove_blanks, how = "all")
                 
         # Save tables
         for i in range(0, len(self.tables)):
             self.tables[i].to_csv(self.file_names[i], index = False)
 
 
+
+      
+
+
+     
         
     
