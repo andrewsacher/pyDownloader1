@@ -1,0 +1,34 @@
+"
+Type
+","
+Notification or Request
+","
+Policy Reference  
+","
+Location
+"
+Budget Activities,,,
+"Additional categories of participant support costs other than those described in 2 CFR § 200.75 (such as incentives, gifts, souvenirs, t-shirts and/or memorabilia)",Request,PAPPG (II.C.2.g(v)),Research.gov
+Change in Person-Months Devoted to Project,Request,PAPPG (VII.B.2.b),Research.gov
+Pre-award Costs in Excess of 90 days,Request,PAPPG (X.A.2.b),Research.gov
+Reallocation of Funds Provided for Participant Support Costs,Request,PAPPG (II.C.2.g(v)),Research.gov
+"Rearrangements/Alterations in excess of $25,000 (Construction)",Request,PAPPG (X.C.1,Research.gov
+Salaries of Administrative or Clerical Staff,Request,PAPPG (II.C.2.g(i)(b)),Research.gov
+Travel Costs for Dependents,Request,PAPPG (II.C.2.g(iv)(a)),Research.gov
+No-Cost Extension,,,
+Grantee-Approved No-Cost Extension,Notification,PAPPG (VI.D.3.c(i)),Research.gov
+First NSF-Approved No-Cost Extension,Request,PAPPG (VI.D.3.c(ii)(a),Research.gov
+Second NSF-Approved No-Cost Extension,Request,PAPPG (VI.D.3.c(ii)(b)),Research.gov
+"Changes in Objectives, Scope, or Methodology or other Significant Changes",,,
+Changes in Objectives or Scope,Request,PAPPG (VII.B.1.a),Research.gov
+Significant Changes/Delays or Events of Unusual Interest,Notification,PAPPG (VII.B.1.c),Research.gov
+Significant Changes in Methods/Procedures,Notification,PAPPG (VII.B.1.b),Research.gov
+Changes in PI/PD and co-PI/PD,,,
+Long-Term Disengagement of the PI/Project Director (PD) or co-PI/co-PD,Request,PAPPG (VII.B.2.a),Research.gov
+PI/PD or co-PI/co-PD Transfer from one organization to another,Request,PAPPG (VII.B.2.f),FastLane
+Substitute (Change) PI/PD or co-PI/co-PD,Request,PAPPG (VII.B.2.e),FastLane
+Withdrawal of PI/PD or co-PI/co-PD,Request,PAPPG (VII.B.2.d),Research.gov
+Other,,,
+Annual and Final Cost Share Notification by Recipient,Notification,PAPPG (VII.D.5,FastLane
+"Conflicts of Interest that cannot be satisfactorily managed, reduced or eliminated and research that proceeds without the imposition of conditions or restrictions when a conflict of interest exists",Notification,PAPPG (IX.A),Research.gov
+"Subawarding, Transferring or Contracting Out Part of an NSF Award",Request,PAPPG (II.C.2.g(vi)(e)) PAPPG (VII.B.3,FastLane
