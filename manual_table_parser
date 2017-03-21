@@ -1,0 +1,68 @@
+import os
+import requests
+import urllib
+import math
+import pandas as pd
+import numpy as np
+from bs4 import BeautifulSoup 
+
+html_string = '''
+  <table>
+        <tr>
+            <td> Hello! </td>
+            <td> Table </td>
+        </tr>
+        <tr>
+            <td> a </td>
+            <td> b </td>
+            <td> c </td> 
+            <td> d </td>
+        </tr>
+        <tr>
+            <td> lol </td>
+            <td> no </td>
+        </tr>        
+    </table>
+'''
+
+soup = BeautifulSoup(html_string)
+
+table = soup.find_all("table")[0]
+
+# Find number of rows and columns
+n_cols = 0
+n_rows = 0
+
+for row in table.find_all("tr"):
+    td_tags = row.find_all("td")
+    if len(td_tags) > 0:
+        n_rows += 1
+        if len(td_tags) > n_cols:
+            n_cols = len(td_tags)
+                
+print(n_cols) 
+print(n_rows)
+
+# Create dataframe
+df = pd.DataFrame(index = range(0, n_rows), columns = range(0, n_cols))
+
+# Fill dataframe
+row_counter = 0
+for row in table.find_all("tr"):
+    col_counter = 0 
+    columns = row.find_all("td")
+    for col in columns:
+        df.iat[row_counter, col_counter] = col.get_text()
+        col_counter += 1
+    row_counter += 1
+
+df
+
+
+
+
+
+
+
+
+
