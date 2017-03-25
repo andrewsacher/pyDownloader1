@@ -6,189 +6,52 @@ import pandas as pd
 import numpy as np
 from bs4 import BeautifulSoup 
 
-html_string = '''
-<table>
-    <caption><span class="tableNumber">Table&nbsp;7.A1 </span>Number of recipients of federally administered payments, total payments, and average monthly payment, by source of payment, eligibility category, and age, December&nbsp;2014</caption>
-    <colgroup span="1" style="width:20em"></colgroup>
-    <colgroup span="7" style="width:7em"></colgroup>
-    <thead>
-      <tr>
-        <th rowspan="2" class="stubHeading" id="c1">Source of payment</th>
-        <th rowspan="2" id="c2">All recipients</th>
-        <th colspan="3" class="spanner" id="c3">Category</th>
-        <th colspan="3" class="spanner" id="c4">Age</th>
-      </tr>
-      <tr>
-        <th id="c5" headers="c3">Aged</th>
-        <th id="c6" headers="c3">Blind</th>
-        <th id="c7" headers="c3">Disabled</th>
-        <th id="c8" headers="c4">Under 18</th>
-        <th id="c9" headers="c4"><span class="nobr">18&ndash;64</span></th>
-        <th id="c10" headers="c4">65 or older&nbsp;<sup>a</sup></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>&nbsp;</td>
-        <th colspan="7" class="panel" id="r1">Number&nbsp;of&nbsp;recipients</th>
-      </tr>
-      <tr>
-        <th class="stub2" id="r2" headers="r1 c1">Total</th>
-        <td headers="r1 r2 c2">8,335,704</td>
-        <td headers="r1 r2 c3 c5">1,151,940</td>
-        <td headers="r1 r2 c3 c6">67,383</td>
-        <td headers="r1 r2 c3 c7">7,116,381</td>
-        <td headers="r1 r2 c4 c8">1,299,761</td>
-        <td headers="r1 r2 c4 c9">4,913,072</td>
-        <td headers="r1 r2 c4 c10">2,122,871</td>
-      </tr>
-      <tr class="topPad1">
-        <th class="stub0" id="r3" headers="r1 c1">Federal payment only</th>
-        <td headers="r1 r3 c2">6,786,257</td>
-        <td headers="r1 r3 c3 c5">739,314</td>
-        <td headers="r1 r3 c3 c6">46,446</td>
-        <td headers="r1 r3 c3 c7">6,000,497</td>
-        <td headers="r1 r3 c4 c8">1,151,300</td>
-        <td headers="r1 r3 c4 c9">4,158,859</td>
-        <td headers="r1 r3 c4 c10">1,476,098</td>
-      </tr>
-      <tr>
-        <th class="stub0" id="r4" headers="r1 c1">Federal payment and state supplementation</th>
-        <td headers="r1 r4 c2">1,375,578</td>
-        <td headers="r1 r4 c3 c5">354,333</td>
-        <td headers="r1 r4 c3 c6">17,958</td>
-        <td headers="r1 r4 c3 c7">1,003,287</td>
-        <td headers="r1 r4 c4 c8">147,484</td>
-        <td headers="r1 r4 c4 c9">671,395</td>
-        <td headers="r1 r4 c4 c10">556,699</td>
-      </tr>
-      <tr>
-        <th class="stub0" id="r5" headers="r1 c1">State supplementation only</th>
-        <td headers="r1 r5 c2">173,869</td>
-        <td headers="r1 r5 c3 c5">58,293</td>
-        <td headers="r1 r5 c3 c6">2,979</td>
-        <td headers="r1 r5 c3 c7">112,597</td>
-        <td headers="r1 r5 c4 c8">977</td>
-        <td headers="r1 r5 c4 c9">82,818</td>
-        <td headers="r1 r5 c4 c10">90,074</td>
-      </tr>
-      <tr class="topPad1">
-        <th class="stub0" id="r6" headers="r1 c1">Total with&mdash;</th>
-        <td colspan="7">&nbsp;</td>
-      </tr>
-      <tr>
-        <th class="stub1" id="r7" headers="r1 r6 c1">Federal payment</th>
-        <td headers="r1 r6 r7 c2">8,161,835</td>
-        <td headers="r1 r6 r7 c3 c5">1,093,647</td>
-        <td headers="r1 r6 r7 c3 c6">64,404</td>
-        <td headers="r1 r6 r7 c3 c7">7,003,784</td>
-        <td headers="r1 r6 r7 c4 c8">1,298,784</td>
-        <td headers="r1 r6 r7 c4 c9">4,830,254</td>
-        <td headers="r1 r6 r7 c4 c10">2,032,797</td>
-      </tr>
-      <tr>
-        <th class="stub1" id="r8" headers="r1 r6 c1">State supplementation</th>
-        <td headers="r1 r6 r8 c2">1,549,447</td>
-        <td headers="r1 r6 r8 c3 c5">412,626</td>
-        <td headers="r1 r6 r8 c3 c6">20,937</td>
-        <td headers="r1 r6 r8 c3 c7">1,115,884</td>
-        <td headers="r1 r6 r8 c4 c8">148,461</td>
-        <td headers="r1 r6 r8 c4 c9">754,213</td>
-        <td headers="r1 r6 r8 c4 c10">646,773</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-        <th colspan="7" class="panel" id="r9">Total&nbsp;payments&nbsp;<sup>b</sup>&nbsp;(thousands&nbsp;of&nbsp;dollars)</th>
-      </tr>
-      <tr>
-        <th class="stub2" id="r10" headers="r9 c1">Total</th>
-        <td headers="r9 r10 c2">4,686,279</td>
-        <td headers="r9 r10 c3 c5">484,313</td>
-        <td headers="r9 r10 c3 c6">37,911</td>
-        <td headers="r9 r10 c3 c7">4,164,055</td>
-        <td headers="r9 r10 c4 c8">862,455</td>
-        <td headers="r9 r10 c4 c9">2,916,253</td>
-        <td headers="r9 r10 c4 c10">907,570</td>
-      </tr>
-      <tr class="topPad1">
-        <th class="stub0" id="r11" headers="r9 c1">Federal payments</th>
-        <td headers="r9 r11 c2">4,457,177</td>
-        <td headers="r9 r11 c3 c5">422,953</td>
-        <td headers="r9 r11 c3 c6">33,820</td>
-        <td headers="r9 r11 c3 c7">4,000,404</td>
-        <td headers="r9 r11 c4 c8">852,672</td>
-        <td headers="r9 r11 c4 c9">2,794,397</td>
-        <td headers="r9 r11 c4 c10">810,108</td>
-      </tr>
-      <tr>
-        <th class="stub0" id="r12" headers="r9 c1">State supplementation</th>
-        <td headers="r9 r12 c2">229,102</td>
-        <td headers="r9 r12 c3 c5">61,360</td>
-        <td headers="r9 r12 c3 c6">4,091</td>
-        <td headers="r9 r12 c3 c7">163,651</td>
-        <td headers="r9 r12 c4 c8">9,783</td>
-        <td headers="r9 r12 c4 c9">121,857</td>
-        <td headers="r9 r12 c4 c10">97,462</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-        <th colspan="7" class="panel" id="r13">Average&nbsp;monthly&nbsp;payment&nbsp;<sup>c</sup>&nbsp;(dollars)</th>
-      </tr>
-      <tr>
-        <th class="stub2" id="r14" headers="r13 c1">Total</th>
-        <td headers="r13 r14 c2">532.08</td>
-        <td headers="r13 r14 c3 c5">419.80</td>
-        <td headers="r13 r14 c3 c6">548.08</td>
-        <td headers="r13 r14 c3 c7">550.11</td>
-        <td headers="r13 r14 c4 c8">633.23</td>
-        <td headers="r13 r14 c4 c9">550.92</td>
-        <td headers="r13 r14 c4 c10">426.65</td>
-      </tr>
-      <tr class="topPad1">
-        <th class="stub0" id="r15" headers="r13 c1">Federal payments</th>
-        <td headers="r13 r15 c2">516.62</td>
-        <td headers="r13 r15 c3 c5">386.32</td>
-        <td headers="r13 r15 c3 c6">511.82</td>
-        <td headers="r13 r15 c3 c7">537.04</td>
-        <td headers="r13 r15 c4 c8">626.69</td>
-        <td headers="r13 r15 c4 c9">537.09</td>
-        <td headers="r13 r15 c4 c10">397.86</td>
-      </tr>
-      <tr>
-        <th class="stub0" id="r16" headers="r13 c1">State supplementation</th>
-        <td headers="r13 r16 c2">141.55</td>
-        <td headers="r13 r16 c3 c5">147.53</td>
-        <td headers="r13 r16 c3 c6">189.43</td>
-        <td headers="r13 r16 c3 c7">138.43</td>
-        <td headers="r13 r16 c4 c8">62.15</td>
-        <td headers="r13 r16 c4 c9">150.31</td>
-        <td headers="r13 r16 c4 c10">149.44</td>
-      </tr>
-    </tbody>
-    <tfoot>
-      <tr>
-        <td class="firstNote" colspan="8">SOURCE: Social Security Administration, Supplemental Security Record, 100&nbsp;percent data.</td>
-      </tr>
-      <tr>
-        <td class="note" colspan="8">NOTE: Totals do not necessarily equal the sum of rounded components.</td>
-      </tr>
-      <tr>
-        <td class="note" colspan="8">a. Includes blind persons and disabled persons aged&nbsp;65 or older.</td>
-      </tr>
-      <tr>
-        <td class="note" colspan="8">b. Includes retroactive payments.</td>
-      </tr>
-      <tr>
-        <td class="note" colspan="8">c. Excludes retroactive payments.</td>
-      </tr>
-      <tr>
-        <td class="lastNote" colspan="8">CONTACT: <span class="nobr">(410) 965-0090</span> or <a href="mailto:statistics@ssa.gov">statistics@ssa.gov</a>.</td>
-      </tr>
-    </tfoot>
-  </table>
-'''
+class web_data(object):
+    
+    def __init__(self, url):
+        
+        self.url      = url
+        self.r        = requests.get(self.url)
+        self.raw_html = self.r.text
+        self.url_soup = BeautifulSoup(self.raw_html)
 
-soup = BeautifulSoup(html_string)
+    #=======================================
+    # Method to download data files to disk
+    #=======================================
+    
+    def download_files(self, 
+                       save_path, 
+                       ext):
+       
+        self.save_path = save_path
+        self.ext = ext
+         
+        # Get links to files
+        self.links = list()
+        for link in self.url_soup.find_all("a"):
+            this_link = link.get("href")
+            if not this_link == None: 
+                if this_link.find("." + self.ext) >= 0:
+                    self.links.append(urllib.request.urljoin(self.url, this_link))
+        
+        # Download files to directory
+        self.failed_links = list()
+        for link in self.links:
+            file_path = os.path.join(self.save_path, link[link.rfind("/") + 1: ])
+            try:
+                urllib.request.urlretrieve(link, file_path)
+            except:
+                self.failed_links.append(link)
+        
+        if len(self.failed_links) > 0:
+            print("The following files could not be downloaded:")
+            for s in self.failed_links:
+                print(s)
+                
+                
+                
+                
+                
 
 table = soup.find_all("table")[0]
 
@@ -202,36 +65,87 @@ for row in table.find_all("tr"):
         n_rows += 1
         if len(col_tags) > n_cols:
             n_cols = len(col_tags)
-                
-print(n_cols) 
-print(n_rows)
+            
+#================
+# FILL DATAFRAME
+#================
 
 # Create dataframe
 df = pd.DataFrame(index = range(0, n_rows), columns = range(0, n_cols))
 
-# Fill dataframe
+# Start by iterating over each row in this table...
 row_counter = 0
+skip_index = [0 for i in range(0, n_cols)]
+
 for row in table.find_all("tr"):
+
+    
+    # Skip row if its blank
     if len(row.find_all(["td", "th"])) == 0:
         next
+    
     else:
-        col_counter = 0 
+        
+        # Get all cells containing data in this row
         columns = row.find_all(["td", "th"])
+        this_skip_index = copy.deepcopy(skip_index)
+        col_counter = -1 
+        col_dim = []
+        row_dim = []
+        col_dim_counter = -1
+        row_dim_counter = -1
         for col in columns:
+                
+            # Determine cell dimensions
             colspan = col.get("colspan")
-            df.iat[row_counter, col_counter] = col.get_text()
-            if colspan == None:
-                col_counter += 1
+            if colspan is None:
+                col_dim.append(1)
             else:
-                col_counter = col_counter + int(colspan)
-        row_counter += 1
+                col_dim.append(int(colspan))
+            col_dim_counter += 1
+                
+            rowspan = col.get("rowspan")
+            if rowspan is None:
+                row_dim.append(1)
+            else:
+                row_dim.append(int(rowspan))
+            row_dim_counter += 1
+                
+            # Adjust column counter
+            col_counter = col_counter + col_dim[col_dim_counter - 1]
+            while skip_index[col_counter] > 0:
+                col_counter += 1
+            
+            if row_counter < 4:
+                print(str(row_counter) + ", " + str(col_counter))
+                print(skip_index)
+                
+            # Parse out footnotes
+            cell_data = col.get_text()
+            footnote = col.find(["sup", "sub"])
+            if footnote is not None:
+                cell_data = cell_data[0: -len(footnote.get_text())]
+            
+            # Insert data into cell
+            try:   
+                df.iat[row_counter, col_counter] = cell_data
+            except:
+                print("failed")
+            
+            # Record column skipping index
+            if row_dim[row_dim_counter] > 1:
+                this_skip_index[col_counter] = row_dim[row_dim_counter]
+    
+    # Adjust row counter 
+    row_counter += 1
+    
+    # Adjust column skipping index
+    skip_index = [i - 1 if i > 0 else i for i in this_skip_index]
+        
+url = "https://www.ssa.gov/policy/docs/statcomps/supplement/2015/7a.html#table7.a2"
 
-
-
-
-
-
-
+save_path = "C:\\Users\\jricco\\Downloads\\" 
+df.to_csv(os.path.join(save_path + "test111.csv"))
 
 
 
