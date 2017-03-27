@@ -1,18 +1,24 @@
-Source of payment,All recipients,Category,Age,Aged,Blind,Disabled,Under 18,18–64,65 or older a
-,Number of recipients,,,,,,,,
-Total,8335704,1151940,67383,7116381,1299761,4913072.0,2122871.0,,
-Federal payment only,6786257,739314,46446,6000497,1151300,4158859.0,1476098.0,,
-Federal payment and state supplementation,1375578,354333,17958,1003287,147484,671395.0,556699.0,,
-State supplementation only,173869,58293,2979,112597,977,82818.0,90074.0,,
-Total with—,,,,,,,,,
-Federal payment,8161835,1093647,64404,7003784,1298784,4830254.0,2032797.0,,
-State supplementation,1549447,412626,20937,1115884,148461,754213.0,646773.0,,
-,Total payments b (thousands of dollars),,,,,,,,
-Total,4686279,484313,37911,4164055,862455,2916253.0,907570.0,,
-Federal payments,4457177,422953,33820,4000404,852672,2794397.0,810108.0,,
-State supplementation,229102,61360,4091,163651,9783,121857.0,97462.0,,
-,Average monthly payment c (dollars),,,,,,,,
-Total,532.08,419.80,548.08,550.11,633.23,550.92,426.65,,
-Federal payments,516.62,386.32,511.82,537.04,626.69,537.09,397.86,,
-State supplementation,141.55,147.53,189.43,138.43,62.15,150.31,149.44,,
-"SOURCE: Social Security Administration, Supplemental Security Record, 100 percent data.",NOTE: Totals do not necessarily equal the sum of rounded components.,a. Includes blind persons and disabled persons aged 65 or older.,b. Includes retroactive payments.,c. Excludes retroactive payments.,CONTACT: (410) 965-0090 or statistics@ssa.gov.,,,,
+Source of payment,All recipients,Category,,,Age,,
+,,Aged,Blind,Disabled,Under 18,18–64,65 or older 
+ ,Number of recipients,,,,,,
+Total,"8,335,704","1,151,940","67,383","7,116,381","1,299,761","4,913,072","2,122,871"
+Federal payment only,"6,786,257","739,314","46,446","6,000,497","1,151,300","4,158,859","1,476,098"
+Federal payment and state supplementation,"1,375,578","354,333","17,958","1,003,287","147,484","671,395","556,699"
+State supplementation only,"173,869","58,293","2,979","112,597",977,"82,818","90,074"
+Total with—, ,,,,,,
+Federal payment,"8,161,835","1,093,647","64,404","7,003,784","1,298,784","4,830,254","2,032,797"
+State supplementation,"1,549,447","412,626","20,937","1,115,884","148,461","754,213","646,773"
+ ,Total payments b (thousands of dollars,,,,,,
+Total,"4,686,279","484,313","37,911","4,164,055","862,455","2,916,253","907,570"
+Federal payments,"4,457,177","422,953","33,820","4,000,404","852,672","2,794,397","810,108"
+State supplementation,"229,102","61,360","4,091","163,651","9,783","121,857","97,462"
+ ,Average monthly payment c (dollars,,,,,,
+Total,532.08,419.80,548.08,550.11,633.23,550.92,426.65
+Federal payments,516.62,386.32,511.82,537.04,626.69,537.09,397.86
+State supplementation,141.55,147.53,189.43,138.43,62.15,150.31,149.44
+,,,,,,,"SOURCE: Social Security Administration, Supplemental Security Record, 100 percent data."
+,,,,,,,NOTE: Totals do not necessarily equal the sum of rounded components.
+,,,,,,,a. Includes blind persons and disabled persons aged 65 or older.
+,,,,,,,b. Includes retroactive payments.
+,,,,,,,c. Excludes retroactive payments.
+,,,,,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.

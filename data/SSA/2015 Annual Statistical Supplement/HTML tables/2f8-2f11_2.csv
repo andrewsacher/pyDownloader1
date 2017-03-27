@@ -1,8 +1,11 @@
-Program,Hearing level receipts,Hearing level dispositions,End-of-year pending cases,2012,2013,2014,2012.1,2013.1,2014.1,2012.2,2013.2,2014.2
-Total,849869,824989,810715.0,820484.0,793580.0,680963.0,816575.0,847984.0,977736.0,,,
-OASI,1902,1973,2018.0,1886.0,1839.0,1818.0,1138.0,1268.0,1471.0,,,
-Disability,,,,,,,,,,,,
-DI,265454,264625,275384.0,252820.0,245018.0,211270.0,241578.0,260441.0,323749.0,,,
-SSI,247341,239355,229830.0,234688.0,230345.0,200983.0,246177.0,254969.0,283589.0,,,
-DI and SSI,335172,319036,303483.0,331090.0,316378.0,266892.0,327682.0,331306.0,368927.0,,,
-"SOURCES: Social Security Administration, Office of Disability Adjudication and Review. Actual data from the Case Processing and Management System and Key Workload Indicator Report.",NOTE: Some claims are resclassifed from one program to another during their processing cycle. End-of-year adjustments account for those reclassifications.,CONTACT: Chuck Gramens (703) 605-8413 or statistics@ssa.gov.,,,,,,,,,,
+Program,Hearing level receipts,,,Hearing level dispositions,,,End-of-year pending cases,,
+,2012,2013,2014,2012,2013,2014,2012,2013,2014
+Total,"849,869","824,989","810,715","820,484","793,580","680,963","816,575","847,984","977,736"
+OASI,"1,902","1,973","2,018","1,886","1,839","1,818","1,138","1,268","1,471"
+Disability,,,,,,,,,
+DI,"265,454","264,625","275,384","252,820","245,018","211,270","241,578","260,441","323,749"
+SSI,"247,341","239,355","229,830","234,688","230,345","200,983","246,177","254,969","283,589"
+DI and SSI,"335,172","319,036","303,483","331,090","316,378","266,892","327,682","331,306","368,927"
+,,,,,,,,,"SOURCES: Social Security Administration, Office of Disability Adjudication and Review. Actual data from the Case Processing and Management System and Key Workload Indicator Report."
+,,,,,,,,,NOTE: Some claims are resclassifed from one program to another during their processing cycle. End-of-year adjustments account for those reclassifications.
+,,,,,,,,,CONTACT: Chuck Gramens (703) 605-8413 or statistics@ssa.gov.

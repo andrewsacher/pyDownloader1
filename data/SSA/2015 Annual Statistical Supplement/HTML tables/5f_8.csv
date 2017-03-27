@@ -1,19 +1,24 @@
-Year of entitlement,Number,Percentage distribution,Cumulative percentage a,Average monthly benefit (dollars),Unnamed: 5
-Total,257871,100.0,. . .,724.07,
-2014,16501,6.4,6.4,678.77,
-2013,25241,9.8,16.2,686.07,
-2012,27359,10.6,26.8,702.46,
-2011,27587,10.7,37.5,715.07,
-2010,27243,10.6,48.1,722.99,
-2009,25398,9.8,57.9,723.91,
-2008,22906,8.9,66.8,738.23,
-2007,18974,7.4,74.1,735.56,
-2006,15618,6.1,80.2,738.85,
-2005,13024,5.1,85.3,748.68,
-2004,10767,4.2,89.4,763.92,
-2003,8663,3.4,92.8,762.81,
-2002,6890,2.7,95.5,770.41,
-2001,5266,2.0,97.5,760.54,
-2000,3788,1.5,99.0,763.68,
-1999,2646,1.0,100.0,746.60,
-"SOURCE: Social Security Administration, Master Beneficiary Record, 100 percent data.","NOTES: Because entitlements can be awarded retroactively, data for current and prior years are subject to revision with each annual update of this table.",Totals do not necessarily equal the sum of rounded components.,. . . = not applicable.,a. Represents those entitled in specified year or later.,CONTACT: (410) 965-0090 or statistics@ssa.gov.
+Year of entitlement,Number,Percentage distribution,Cumulative percentage ,Average monthly benefit (dollars)
+Total,"257,871",100.0,. . .,724.07
+2014,"16,501",6.4,6.4,678.77
+2013,"25,241",9.8,16.2,686.07
+2012,"27,359",10.6,26.8,702.46
+2011,"27,587",10.7,37.5,715.07
+2010,"27,243",10.6,48.1,722.99
+2009,"25,398",9.8,57.9,723.91
+2008,"22,906",8.9,66.8,738.23
+2007,"18,974",7.4,74.1,735.56
+2006,"15,618",6.1,80.2,738.85
+2005,"13,024",5.1,85.3,748.68
+2004,"10,767",4.2,89.4,763.92
+2003,"8,663",3.4,92.8,762.81
+2002,"6,890",2.7,95.5,770.41
+2001,"5,266",2.0,97.5,760.54
+2000,"3,788",1.5,99.0,763.68
+1999,"2,646",1.0,100.0,746.60
+,,,,"SOURCE: Social Security Administration, Master Beneficiary Record, 100 percent data."
+,,,,"NOTES: Because entitlements can be awarded retroactively, data for current and prior years are subject to revision with each annual update of this table."
+,,,,Totals do not necessarily equal the sum of rounded components.
+,,,,. . . = not applicable.
+,,,,a. Represents those entitled in specified year or later.
+,,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.

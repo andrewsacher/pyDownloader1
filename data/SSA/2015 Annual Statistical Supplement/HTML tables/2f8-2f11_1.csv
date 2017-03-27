@@ -1,5 +1,8 @@
 Item,2011,2012,2013,2014
-Number of ALJs,1230,1301,1356,1311.0
-Average monthly hearing dispositions per ALJ a,50,50,48,43.0
-Average hearings pending per ALJ,523,533,577,688.0
-"SOURCES: Social Security Administration, Office of Disability Adjudication and Review. Actual data from the Key Workload Indicator Report.",NOTE: Number of ALJs and average monthly hearing dispositions per ALJ based on fiscal year average ALJ availability; average hearings pending per ALJ based on ALJs on duty. Data exclude Regional Chief ALJs.,a. Calculation excludes Attorney Adjudicator decisions.,CONTACT: Chuck Gramens (703) 605-8413 or statistics@ssa.gov.,
+Number of ALJs,"1,230","1,301","1,356","1,311"
+Average monthly hearing dispositions per ALJ ,50,50,48,43
+Average hearings pending per ALJ,523,533,577,688
+,,,,"SOURCES: Social Security Administration, Office of Disability Adjudication and Review. Actual data from the Key Workload Indicator Report."
+,,,,NOTE: Number of ALJs and average monthly hearing dispositions per ALJ based on fiscal year average ALJ availability; average hearings pending per ALJ based on ALJs on duty. Data exclude Regional Chief ALJs.
+,,,,a. Calculation excludes Attorney Adjudicator decisions.
+,,,,CONTACT: Chuck Gramens (703) 605-8413 or statistics@ssa.gov.

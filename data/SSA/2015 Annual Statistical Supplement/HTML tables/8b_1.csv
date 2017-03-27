@@ -1,68 +1,73 @@
 Type of coverage and service,1990,1995,2000,2005,2010,2013
-,Persons enrolled (fee-for-service and managed care) (thousands),,,,,
-Hospital Insurance and/or Supplementary Medical Insurance,34203,37535,39632,42500,47664,52456.0
-Hospital Insurance,33719,37135,39211,42129,47316,52127.0
-Supplementary Medical Insurance,32629,35685,37369,39730,43954,48040.0
-,Persons enrolled (fee-for-service only) (thousands),,,,,
-Hospital Insurance and/or Supplementary Medical Insurance,--,--,32740,36685,35910,37587.0
-Hospital Insurance,--,--,32329,36318,35572,37281.0
-Supplementary Medical Insurance,--,--,30478,33916,32200,33171.0
-,Persons served (thousands) a,,,,,
-Hospital Insurance and/or Supplementary Medical Insurance,27099,30423,29583,33506,32866,33645.0
-Hospital Insurance,7036,8036,7325,8307,8267,7488.0
-Inpatient hospital,6543,6964,6917,7710,7485,6525.0
-Skilled nursing services,638,1233,1468,1847,1839,1844.0
-Home health services b,1936,3427,1444,1752,1722,1705.0
-Hospice services,--,--,541,871,1157,1315.0
-Supplementary Medical Insurance,26951,30249,29313,33201,31923,33171.0
-Physicians' and other medical services,26350,26539,28763,32709,31415,32558.0
-Outpatient services,15511,19709,21029,24423,23667,24927.0
-Home health services b,38,41,1190,1370,1883,1933.0
-,"Persons served per 1,000 enrollees",,,,,
-Hospital Insurance and/or Supplementary Medical Insurance,792,811,904,913,915,895.0
-Hospital Insurance,209,216,227,229,232,201.0
-Inpatient hospital,194,188,214,212,210,175.0
-Skilled nursing services,19,33,45,51,52,49.0
-Home health services b,57,92,45,48,48,46.0
-Hospice services c,--,--,14,21,24,25.0
-Supplementary Medical Insurance,826,848,962,979,991,1000.0
-Physicians' and other medical services,808,744,944,964,976,982.0
-Outpatient services,475,552,690,720,735,751.0
-Home health services b,1,1,39,40,58,58.0
-,Amount reimbursed (millions of dollars),,,,,
-Hospital Insurance and/or Supplementary Medical Insurance,101419,158980,174261,274143,331129,346023.0
-Hospital Insurance,62347,101835,101663,149392,176224,179433.0
-Inpatient hospital,56716,78944,85197,116647,128728,129519.0
-Skilled nursing services,1971,7799,10621,18964,27258,28177.0
-Home health services b,3660,15092,2918,5916,7252,6787.0
-Hospice services,--,--,2927,7864,12986,14950.0
-Supplementary Medical Insurance,39072,57145,72599,124752,154906,166591.0
-Physicians' and other medical services,30222,41617,51474,83838,95087,98146.0
-Outpatient services,8773,15328,16787,33931,47573,57179.0
-Home health services b,78,200,4338,6982,12245,11266.0
-,Amount reimbursed per person served (dollars),,,,,
-Hospital Insurance and/or Supplementary Medical Insurance,3743,5226,5891,8182,10075,10285.0
-Hospital Insurance,8862,12672,13878,17984,21315,23962.0
-Inpatient hospital,8668,11336,12318,15130,17197,19850.0
-Skilled nursing services,3092,6325,7235,10267,14820,15279.0
-Home health services b,1890,4403,2021,3377,4211,3980.0
-Hospice services,--,--,5409,9027,11220,11371.0
-Supplementary Medical Insurance,1450,1889,2477,3757,4853,5022.0
-Physicians' and other medical services,1147,1409,1709,2563,3027,3014.0
-Outpatient services,566,778,798,1389,2010,2294.0
-Home health services b,2031,4837,3644,5098,6504,5828.0
-,Amount reimbursed per enrollee (dollars),,,,,
-Hospital Insurance and/or Supplementary Medical Insurance,2965,4236,5323,7473,9221,9206.0
-Hospital Insurance,1849,2742,3145,4113,4954,4813.0
-Inpatient hospital,1682,2126,2635,3212,3619,3474.0
-Skilled nursing services,58,210,329,522,766,756.0
-Home health services b,109,406,90,163,204,182.0
-Hospice services c,--,--,75,187,274,287.0
-Supplementary Medical Insurance,1197,1601,2382,3678,4811,5022.0
-Physicians' and other medical services,926,1166,1689,2472,2953,2959.0
-Outpatient services,269,430,551,1000,1477,1724.0
-Home health services b,2,6,142,206,380,340.0
-SOURCE: Centers for Medicare & Medicaid Services.,"NOTES: Measurement of the use of services represents those persons receiving a reimbursed service under the original (or fee-for-service) Medicare plan. Amount reimbursed represents payments recorded on fee-for-service claims only and excludes nonbilling reimbursements, such as end-of-year cost settlements and premiums paid to managed care plans. For all years, total enrollment as of July 1 in the original (or fee-for-service) Medicare program as well as those enrolled in alternative prepaid plans, such as Medicare managed care, are shown. Beginning in 2000, data for the original fee-for-service enrollment population are shown separately, as they provide a more accurate population for denominators for computing persons served per 1,000 enrollees and average fee-for-service reimbursement per enrollee.
+ ,Persons enrolled (fee-for-service and managed care) (thousands),,,,,
+Hospital Insurance and/or Supplementary Medical Insurance,"34,203","37,535","39,632","42,500","47,664","52,456"
+Hospital Insurance,"33,719","37,135","39,211","42,129","47,316","52,127"
+Supplementary Medical Insurance,"32,629","35,685","37,369","39,730","43,954","48,040"
+ ,Persons enrolled (fee-for-service only) (thousands),,,,,
+Hospital Insurance and/or Supplementary Medical Insurance,--,--,"32,740","36,685","35,910","37,587"
+Hospital Insurance,--,--,"32,329","36,318","35,572","37,281"
+Supplementary Medical Insurance,--,--,"30,478","33,916","32,200","33,171"
+ ,Persons served (thousands) ,,,,,
+Hospital Insurance and/or Supplementary Medical Insurance,"27,099","30,423","29,583","33,506","32,866","33,645"
+Hospital Insurance,"7,036","8,036","7,325","8,307","8,267","7,488"
+Inpatient hospital,"6,543","6,964","6,917","7,710","7,485","6,525"
+Skilled nursing services,638,"1,233","1,468","1,847","1,839","1,844"
+Home health services ,"1,936","3,427","1,444","1,752","1,722","1,705"
+Hospice services,--,--,541,871,"1,157","1,315"
+Supplementary Medical Insurance,"26,951","30,249","29,313","33,201","31,923","33,171"
+Physicians' and other medical services,"26,350","26,539","28,763","32,709","31,415","32,558"
+Outpatient services,"15,511","19,709","21,029","24,423","23,667","24,927"
+Home health services ,38,41,"1,190","1,370","1,883","1,933"
+ ,"Persons served per 1,000 enrollees",,,,,
+Hospital Insurance and/or Supplementary Medical Insurance,792,811,904,913,915,895
+Hospital Insurance,209,216,227,229,232,201
+Inpatient hospital,194,188,214,212,210,175
+Skilled nursing services,19,33,45,51,52,49
+Home health services ,57,92,45,48,48,46
+Hospice services ,--,--,14,21,24,25
+Supplementary Medical Insurance,826,848,962,979,991,"1,000"
+Physicians' and other medical services,808,744,944,964,976,982
+Outpatient services,475,552,690,720,735,751
+Home health services ,1,1,39,40,58,58
+ ,Amount reimbursed (millions of dollars),,,,,
+Hospital Insurance and/or Supplementary Medical Insurance,"101,419","158,980","174,261","274,143","331,129","346,023"
+Hospital Insurance,"62,347","101,835","101,663","149,392","176,224","179,433"
+Inpatient hospital,"56,716","78,944","85,197","116,647","128,728","129,519"
+Skilled nursing services,"1,971","7,799","10,621","18,964","27,258","28,177"
+Home health services ,"3,660","15,092","2,918","5,916","7,252","6,787"
+Hospice services,--,--,"2,927","7,864","12,986","14,950"
+Supplementary Medical Insurance,"39,072","57,145","72,599","124,752","154,906","166,591"
+Physicians' and other medical services,"30,222","41,617","51,474","83,838","95,087","98,146"
+Outpatient services,"8,773","15,328","16,787","33,931","47,573","57,179"
+Home health services ,78,200,"4,338","6,982","12,245","11,266"
+ ,Amount reimbursed per person served (dollars),,,,,
+Hospital Insurance and/or Supplementary Medical Insurance,"3,743","5,226","5,891","8,182","10,075","10,285"
+Hospital Insurance,"8,862","12,672","13,878","17,984","21,315","23,962"
+Inpatient hospital,"8,668","11,336","12,318","15,130","17,197","19,850"
+Skilled nursing services,"3,092","6,325","7,235","10,267","14,820","15,279"
+Home health services ,"1,890","4,403","2,021","3,377","4,211","3,980"
+Hospice services,--,--,"5,409","9,027","11,220","11,371"
+Supplementary Medical Insurance,"1,450","1,889","2,477","3,757","4,853","5,022"
+Physicians' and other medical services,"1,147","1,409","1,709","2,563","3,027","3,014"
+Outpatient services,566,778,798,"1,389","2,010","2,294"
+Home health services ,"2,031","4,837","3,644","5,098","6,504","5,828"
+ ,Amount reimbursed per enrollee (dollars),,,,,
+Hospital Insurance and/or Supplementary Medical Insurance,"2,965","4,236","5,323","7,473","9,221","9,206"
+Hospital Insurance,"1,849","2,742","3,145","4,113","4,954","4,813"
+Inpatient hospital,"1,682","2,126","2,635","3,212","3,619","3,474"
+Skilled nursing services,58,210,329,522,766,756
+Home health services ,109,406,90,163,204,182
+Hospice services ,--,--,75,187,274,287
+Supplementary Medical Insurance,"1,197","1,601","2,382","3,678","4,811","5,022"
+Physicians' and other medical services,926,"1,166","1,689","2,472","2,953","2,959"
+Outpatient services,269,430,551,"1,000","1,477","1,724"
+Home health services ,2,6,142,206,380,340
+,,,,,,SOURCE: Centers for Medicare & Medicaid Services.
+,,,,,,"NOTES: Measurement of the use of services represents those persons receiving a reimbursed service under the original (or fee-for-service) Medicare plan. Amount reimbursed represents payments recorded on fee-for-service claims only and excludes nonbilling reimbursements, such as end-of-year cost settlements and premiums paid to managed care plans. For all years, total enrollment as of July 1 in the original (or fee-for-service) Medicare program as well as those enrolled in alternative prepaid plans, such as Medicare managed care, are shown. Beginning in 2000, data for the original fee-for-service enrollment population are shown separately, as they provide a more accurate population for denominators for computing persons served per 1,000 enrollees and average fee-for-service reimbursement per enrollee.
           Characterizations of persons enrolled and persons served may differ slightly from those in other tables in this section because of differences in sources and methodology.
-          -- = not available.
-        ","a. Does not reflect beneficiaries who received covered services, but for whom no program payments were reported. Totals by type of service do not equal the sum of components because one beneficiary may have used several types of services.","b. The Balanced Budget Act of 1997, enacted on August 5, 1997, specified that, effective January 1998, coverage for the majority of home health services not associated with a hospital or skilled nursing facility will be transferred from the Hospital Insurance (HI) program to the Supplementary Medical Insurance (SMI) program. The HI program will cover the first 100 home health agency visits following a hospital or skilled nursing facility stay of at least 3 days. From July 1981 to December 1997, home health agency services were almost exclusively provided by the HI program. For more information, refer to the 1998 HI and SMI trust fund reports.","c. Because managed-care plans convert automatically to fee-for-service payment when a beneficiary elects hospice care, hospice service rates are calculated per 1,000 enrollees in both plan types combined. Prior editions of this table presented rates per 1,000 enrollees in fee-for-service plans only.",CONTACT: Maria Diacogiannis (410) 786-0178 or statistics@ssa.gov.,
+-- = not available.
+"
+,,,,,,"a. Does not reflect beneficiaries who received covered services, but for whom no program payments were reported. Totals by type of service do not equal the sum of components because one beneficiary may have used several types of services."
+,,,,,,"b. The Balanced Budget Act of 1997, enacted on August 5, 1997, specified that, effective January 1998, coverage for the majority of home health services not associated with a hospital or skilled nursing facility will be transferred from the Hospital Insurance (HI) program to the Supplementary Medical Insurance (SMI) program. The HI program will cover the first 100 home health agency visits following a hospital or skilled nursing facility stay of at least 3 days. From July 1981 to December 1997, home health agency services were almost exclusively provided by the HI program. For more information, refer to the 1998 HI and SMI trust fund reports."
+,,,,,,"c. Because managed-care plans convert automatically to fee-for-service payment when a beneficiary elects hospice care, hospice service rates are calculated per 1,000 enrollees in both plan types combined. Prior editions of this table presented rates per 1,000 enrollees in fee-for-service plans only."
+,,,,,,CONTACT: Maria Diacogiannis (410) 786-0178 or statistics@ssa.gov.

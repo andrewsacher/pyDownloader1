@@ -1,57 +1,65 @@
-State or area a,Number b (thousands),Taxable earnings c (millions of dollars),OASDI contributions d (millions of dollars),Total,Wage and salary,Self- employed,Total.1,Wage and salary.1,Self- employed.1,Total.2,Wage and salary.2,Self- employed.2
-All areas,163355,152378,18609,5936714,5581000,355714,736153,692044.0,44109.0,,,
-Alabama,2352,2210,253,77105,73030,4075,9561,9056.0,505.0,,,
-Alaska,407,382,46,15683,14619,1063,1945,1813.0,132.0,,,
-Arizona,3128,2946,320,108822,103411,5411,13494,12823.0,671.0,,,
-Arkansas,1447,1357,155,43920,41478,2442,5446,5143.0,303.0,,,
-California,17736,16107,2507,696464,643123,53341,86362,79747.0,6614.0,,,
-Colorado,2694,2495,339,102026,95136,6890,12651,11797.0,854.0,,,
-Connecticut,1982,1844,228,85355,79294,6061,10584,9832.0,752.0,,,
-Delaware,503,481,38,19187,18423,765,2379,2284.0,95.0,,,
-District of Columbia,392,371,41,19239,18165,1074,2386,2252.0,133.0,,,
-Florida,9505,8748,1258,310204,291995,18209,38465,36207.0,2258.0,,,
-Georgia,4904,4563,594,166819,157809,9010,20686,19568.0,1117.0,,,
-Hawaii,754,708,75,27753,26140,1613,3441,3241.0,200.0,,,
-Idaho,823,771,92,25064,23399,1665,3108,2901.0,206.0,,,
-Illinois,6660,6216,762,249212,234866,14345,30902,29123.0,1779.0,,,
-Indiana,3631,3459,328,119313,113502,5810,14795,14074.0,720.0,,,
-Iowa,1780,1674,201,59883,55778,4105,7425,6916.0,509.0,,,
-Kansas,1587,1491,176,54775,50949,3826,6792,6318.0,474.0,,,
-Kentucky,2215,2085,224,68048,64523,3525,8438,8001.0,437.0,,,
-Louisiana,2226,2071,268,73751,69128,4624,9145,8572.0,573.0,,,
-Maine,732,678,90,22650,20982,1668,2809,2602.0,207.0,,,
-Maryland,3275,3087,336,144498,137567,6931,17918,17058.0,859.0,,,
-Massachusetts,3538,3292,405,149734,140133,9601,18567,17377.0,1190.0,,,
-Michigan,5202,4901,546,177268,167999,9269,21981,20832.0,1149.0,,,
-Minnesota,3193,3015,336,123239,116219,7020,15282,14411.0,871.0,,,
-Mississippi,1426,1325,176,42897,40032,2865,5319,4964.0,355.0,,,
-Missouri,3113,2929,322,100894,95359,5535,12511,11825.0,686.0,,,
-Montana,572,530,73,17096,15650,1446,2120,1941.0,179.0,,,
-Nebraska,1093,1029,121,37044,34614,2430,4593,4292.0,301.0,,,
-Nevada,1270,1191,134,41593,39278,2315,5157,4870.0,287.0,,,
-New Hampshire,798,744,86,31842,29787,2055,3948,3694.0,255.0,,,
-New Jersey,4839,4541,522,215019,202598,12421,26662,25122.0,1540.0,,,
-New Mexico,956,898,103,30899,29267,1632,3832,3629.0,202.0,,,
-New York,10452,9693,1256,418250,393045,25206,51863,48738.0,3126.0,,,
-North Carolina,4967,4654,546,166806,157694,9112,20684,19554.0,1130.0,,,
-North Dakota,491,463,53,17322,15906,1416,2148,1972.0,176.0,,,
-Ohio,5801,5429,621,191035,180501,10535,23688,22382.0,1306.0,,,
-Oklahoma,1984,1862,209,64619,61057,3562,8013,7571.0,442.0,,,
-Oregon,2001,1871,215,70929,66611,4318,8795,8260.0,535.0,,,
-Pennsylvania,6864,6504,640,255238,242289,12948,31649,30044.0,1606.0,,,
-Rhode Island,598,562,62,22119,20928,1190,2743,2595.0,148.0,,,
-South Carolina,2354,2220,234,75977,72293,3684,9421,8964.0,457.0,,,
-South Dakota,556,520,66,16224,15011,1213,2012,1861.0,150.0,,,
-Tennessee,3329,3085,409,108922,100420,8503,13506,12452.0,1054.0,,,
-Texas,12701,11750,1606,466658,435479,31179,57866,53999.0,3866.0,,,
-Utah,1462,1399,132,49108,46981,2127,6089,5826.0,264.0,,,
-Vermont,387,360,46,12866,12018,847,1595,1490.0,105.0,,,
-Virginia,4515,4271,443,185823,177178,8645,23042,21970.0,1072.0,,,
-Washington,3648,3443,341,149581,142151,7430,18548,17627.0,921.0,,,
-West Virginia,890,849,75,28786,27319,1468,3569,3388.0,182.0,,,
-Wisconsin,3261,3101,292,114863,109537,5326,14243,13583.0,660.0,,,
-Wyoming,340,320,38,12378,11651,727,1535,1445.0,90.0,,,
-Outlying area,,,,,,,,,,,,
-Puerto Rico,1101,1014,109,24888,22832,2056,3086,2831.0,255.0,,,
-Other and unknown e,923,868,59,27029,25847,1181,3352,3205.0,146.0,,,
-"SOURCE: Social Security Administration, Continuous Work History Sample, 1 percent sample.",NOTE: Data are based on preliminary estimates.,a. Most state assignments are based on end-of-year residence obtained from electronically filed employer wage reports; the remainder are based on location of employer from reports filed on paper.,b. Workers with earnings in both wage and salary employment and self-employment are counted in each type of employment but only once in the total. National and state totals and subtotals are unduplicated counts of workers in each type of employment.,"c. Includes Social Security taxable wages as reported by employers and Social Security taxable self-employment income as reported by self-employed individuals. Annual maximum taxable earnings for Social Security (OASDI) from a single employer or from self-employment were $113,700 in 2013. Totals do not necessarily equal the sum of rounded components.","d. For 2013 earnings, paid at the rate of 6.2 percent of taxable wages by both employees and employers, 6.2 percent of taxable tips by employees, and 12.4 percent of self-employment income by self-employed workers. Data are unadjusted for multi-employer tax refunds. Totals do not necessarily equal the sum of rounded components.","e. Persons employed in American Samoa, Guam, Northern Mariana Islands, and U.S. Virgin Islands; U.S. citizens employed abroad by U.S. employers; persons employed on U.S. oceanborne vessels; and workers with unknown residence.",CONTACT: (410) 965-0090 or statistics@ssa.gov.,,,,,
+State or area ,Number b (thousands,,,Taxable earnings c (millions of dollars,,,OASDI contributions d (millions of dollars,,
+,Total,Wage and salary,Self- employed,Total,Wage and salary,Self- employed,Total,Wage and salary,Self- employed
+All areas,"163,355","152,378","18,609","5,936,714","5,581,000","355,714","736,153","692,044","44,109"
+Alabama,"2,352","2,210",253,"77,105","73,030","4,075","9,561","9,056",505
+Alaska,407,382,46,"15,683","14,619","1,063","1,945","1,813",132
+Arizona,"3,128","2,946",320,"108,822","103,411","5,411","13,494","12,823",671
+Arkansas,"1,447","1,357",155,"43,920","41,478","2,442","5,446","5,143",303
+California,"17,736","16,107","2,507","696,464","643,123","53,341","86,362","79,747","6,614"
+Colorado,"2,694","2,495",339,"102,026","95,136","6,890","12,651","11,797",854
+Connecticut,"1,982","1,844",228,"85,355","79,294","6,061","10,584","9,832",752
+Delaware,503,481,38,"19,187","18,423",765,"2,379","2,284",95
+District of Columbia,392,371,41,"19,239","18,165","1,074","2,386","2,252",133
+Florida,"9,505","8,748","1,258","310,204","291,995","18,209","38,465","36,207","2,258"
+Georgia,"4,904","4,563",594,"166,819","157,809","9,010","20,686","19,568","1,117"
+Hawaii,754,708,75,"27,753","26,140","1,613","3,441","3,241",200
+Idaho,823,771,92,"25,064","23,399","1,665","3,108","2,901",206
+Illinois,"6,660","6,216",762,"249,212","234,866","14,345","30,902","29,123","1,779"
+Indiana,"3,631","3,459",328,"119,313","113,502","5,810","14,795","14,074",720
+Iowa,"1,780","1,674",201,"59,883","55,778","4,105","7,425","6,916",509
+Kansas,"1,587","1,491",176,"54,775","50,949","3,826","6,792","6,318",474
+Kentucky,"2,215","2,085",224,"68,048","64,523","3,525","8,438","8,001",437
+Louisiana,"2,226","2,071",268,"73,751","69,128","4,624","9,145","8,572",573
+Maine,732,678,90,"22,650","20,982","1,668","2,809","2,602",207
+Maryland,"3,275","3,087",336,"144,498","137,567","6,931","17,918","17,058",859
+Massachusetts,"3,538","3,292",405,"149,734","140,133","9,601","18,567","17,377","1,190"
+Michigan,"5,202","4,901",546,"177,268","167,999","9,269","21,981","20,832","1,149"
+Minnesota,"3,193","3,015",336,"123,239","116,219","7,020","15,282","14,411",871
+Mississippi,"1,426","1,325",176,"42,897","40,032","2,865","5,319","4,964",355
+Missouri,"3,113","2,929",322,"100,894","95,359","5,535","12,511","11,825",686
+Montana,572,530,73,"17,096","15,650","1,446","2,120","1,941",179
+Nebraska,"1,093","1,029",121,"37,044","34,614","2,430","4,593","4,292",301
+Nevada,"1,270","1,191",134,"41,593","39,278","2,315","5,157","4,870",287
+New Hampshire,798,744,86,"31,842","29,787","2,055","3,948","3,694",255
+New Jersey,"4,839","4,541",522,"215,019","202,598","12,421","26,662","25,122","1,540"
+New Mexico,956,898,103,"30,899","29,267","1,632","3,832","3,629",202
+New York,"10,452","9,693","1,256","418,250","393,045","25,206","51,863","48,738","3,126"
+North Carolina,"4,967","4,654",546,"166,806","157,694","9,112","20,684","19,554","1,130"
+North Dakota,491,463,53,"17,322","15,906","1,416","2,148","1,972",176
+Ohio,"5,801","5,429",621,"191,035","180,501","10,535","23,688","22,382","1,306"
+Oklahoma,"1,984","1,862",209,"64,619","61,057","3,562","8,013","7,571",442
+Oregon,"2,001","1,871",215,"70,929","66,611","4,318","8,795","8,260",535
+Pennsylvania,"6,864","6,504",640,"255,238","242,289","12,948","31,649","30,044","1,606"
+Rhode Island,598,562,62,"22,119","20,928","1,190","2,743","2,595",148
+South Carolina,"2,354","2,220",234,"75,977","72,293","3,684","9,421","8,964",457
+South Dakota,556,520,66,"16,224","15,011","1,213","2,012","1,861",150
+Tennessee,"3,329","3,085",409,"108,922","100,420","8,503","13,506","12,452","1,054"
+Texas,"12,701","11,750","1,606","466,658","435,479","31,179","57,866","53,999","3,866"
+Utah,"1,462","1,399",132,"49,108","46,981","2,127","6,089","5,826",264
+Vermont,387,360,46,"12,866","12,018",847,"1,595","1,490",105
+Virginia,"4,515","4,271",443,"185,823","177,178","8,645","23,042","21,970","1,072"
+Washington,"3,648","3,443",341,"149,581","142,151","7,430","18,548","17,627",921
+West Virginia,890,849,75,"28,786","27,319","1,468","3,569","3,388",182
+Wisconsin,"3,261","3,101",292,"114,863","109,537","5,326","14,243","13,583",660
+Wyoming,340,320,38,"12,378","11,651",727,"1,535","1,445",90
+Outlying area, ,,,,,,,,
+Puerto Rico,"1,101","1,014",109,"24,888","22,832","2,056","3,086","2,831",255
+Other and unknown ,923,868,59,"27,029","25,847","1,181","3,352","3,205",146
+,,,,,,,,,"SOURCE: Social Security Administration, Continuous Work History Sample, 1 percent sample."
+,,,,,,,,,NOTE: Data are based on preliminary estimates.
+,,,,,,,,,a. Most state assignments are based on end-of-year residence obtained from electronically filed employer wage reports; the remainder are based on location of employer from reports filed on paper.
+,,,,,,,,,b. Workers with earnings in both wage and salary employment and self-employment are counted in each type of employment but only once in the total. National and state totals and subtotals are unduplicated counts of workers in each type of employment.
+,,,,,,,,,"c. Includes Social Security taxable wages as reported by employers and Social Security taxable self-employment income as reported by self-employed individuals. Annual maximum taxable earnings for Social Security (OASDI) from a single employer or from self-employment were $113,700 in 2013. Totals do not necessarily equal the sum of rounded components."
+,,,,,,,,,"d. For 2013 earnings, paid at the rate of 6.2 percent of taxable wages by both employees and employers, 6.2 percent of taxable tips by employees, and 12.4 percent of self-employment income by self-employed workers. Data are unadjusted for multi-employer tax refunds. Totals do not necessarily equal the sum of rounded components."
+,,,,,,,,,"e. Persons employed in American Samoa, Guam, Northern Mariana Islands, and U.S. Virgin Islands; U.S. citizens employed abroad by U.S. employers; persons employed on U.S. oceanborne vessels; and workers with unknown residence."
+,,,,,,,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.

@@ -1,31 +1,36 @@
-Sex and age,All persons,White alone or in combination,Black or African American alone or in combination,"American Indian, Alaska Native alone or in combination",Asian alone or in combination,Native Hawaiian and Other Pacific Islander alone or in combination,Total,Reporting only one race,Reporting two or more races
-,Social Security beneficiaries (thousands),,,,,,,,
-Total a,49744,49204,540,42439,5388.0,787.0,1607.0,91,
-Sex,,,,,,,,,
-Male,22184,21952,232,19072,2212.0,354.0,743.0,44,
-Female,27559,27252,308,23367,3176.0,432.0,864.0,47,
-Age,,,,,,,,,
-15–54,5397,5253,144,4189,1027.0,178.0,136.0,17,
-55–64,6590,6490,100,5344,1045.0,130.0,159.0,17,
-65–74,20958,20773,185,18074,1983.0,307.0,744.0,46,
-75 or older,16798,16688,111,14833,1332.0,171.0,568.0,11,
-,Supplemental Security Income recipients (thousands),,,,,,,,
-Total a,6847,6681,166,4614,1869.0,196.0,325.0,25,
-Sex,,,,,,,,,
-Male,2980,2923,57,2006,832.0,72.0,121.0,9,
-Female,3867,3757,109,2608,1036.0,124.0,205.0,16,
-Age,,,,,,,,,
-15–54,3465,3341,124,2355,1046.0,113.0,74.0,13,
-55–64,1856,1831,25,1261,512.0,50.0,55.0,4,
-65–74,839,827,12,567,184.0,17.0,82.0,4,
-75 or older,687,681,5,430,127.0,17.0,115.0,3,
-,Average annual benefit in 2014 (dollars),,,,,,,,
-Social Security,14305,14316,13325,14531,12772.0,13399.0,13613.0,14318,
-Supplemental Security Income,7927,7937,7509,7989,7778.0,8338.0,7453.0,b,
-"SOURCE: Census Bureau, Current Population Survey, public-use file of the March 2015 Income Supplement.","NOTES: Table includes civilian noninstitutionalized population residing in the 50 states and the District of Columbia.
+Sex and age,All persons,,,White alone or in combination,Black or African American alone or in combination,"American Indian, Alaska Native alone or in combination",Asian alone or in combination,Native Hawaiian and Other Pacific Islander alone or in combination
+,Total,Reporting only one race,Reporting two or more races,,,,,
+ ,Social Security beneficiaries (thousands),,,,,,,
+Total ,"49,744","49,204",540,"42,439","5,388",787,"1,607",91
+Sex,,,,,,,,
+Male,"22,184","21,952",232,"19,072","2,212",354,743,44
+Female,"27,559","27,252",308,"23,367","3,176",432,864,47
+Age,,,,,,,,
+15–54,"5,397","5,253",144,"4,189","1,027",178,136,17
+55–64,"6,590","6,490",100,"5,344","1,045",130,159,17
+65–74,"20,958","20,773",185,"18,074","1,983",307,744,46
+75 or older,"16,798","16,688",111,"14,833","1,332",171,568,11
+ ,Supplemental Security Income recipients (thousands),,,,,,,
+Total ,"6,847","6,681",166,"4,614","1,869",196,325,25
+Sex,,,,,,,,
+Male,"2,980","2,923",57,"2,006",832,72,121,9
+Female,"3,867","3,757",109,"2,608","1,036",124,205,16
+Age,,,,,,,,
+15–54,"3,465","3,341",124,"2,355","1,046",113,74,13
+55–64,"1,856","1,831",25,"1,261",512,50,55,4
+65–74,839,827,12,567,184,17,82,4
+75 or older,687,681,5,430,127,17,115,3
+ ,Average annual benefit in 2014 (dollars),,,,,,,
+Social Security,"14,305","14,316","13,325","14,531","12,772","13,399","13,613","14,318"
+Supplemental Security Income,"7,927","7,937","7,509","7,989","7,778","8,338","7,453",b
+,,,,,,,,"SOURCE: Census Bureau, Current Population Survey, public-use file of the March 2015 Income Supplement."
+,,,,,,,,"NOTES: Table includes civilian noninstitutionalized population residing in the 50 states and the District of Columbia.
           For certain race categories, some of the change in the number of beneficiaries and recipients relative to the numbers shown in previous editions of this table may be attributable to changes in the Census Bureau race category definitions.
-          For a discussion of standard errors of estimated numbers and percentages, see Census Bureau, Current Population Reports, Series P-60.
-          Totals do not necessarily equal the sum of rounded components.
-          ""In combination"" means in combination with one or more other races.
-          OASDI = Old-Age, Survivors, and Disability Insurance.
-        ",a. The sum of the five race groups adds to more than the total because individuals may report more than one race.,"b. Average benefits are not shown for fewer than 75,000 weighted cases.",CONTACT: (410) 965-0090 or statistics@ssa.gov.,,,,,
+For a discussion of standard errors of estimated numbers and percentages, see Census Bureau, Current Population Reports, Series P-60.
+Totals do not necessarily equal the sum of rounded components.
+""In combination"" means in combination with one or more other races.
+OASDI = Old-Age, Survivors, and Disability Insurance.
+"
+,,,,,,,,a. The sum of the five race groups adds to more than the total because individuals may report more than one race.
+,,,,,,,,"b. Average benefits are not shown for fewer than 75,000 weighted cases."
+,,,,,,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.

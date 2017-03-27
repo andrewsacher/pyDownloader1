@@ -1,14 +1,17 @@
-Type of secondary benefit,Number,Average monthly benefit (dollars),Combined benefit,Retired-worker benefit,Reduced secondary benefit
-All dually entitled retired workers,6976357,1189.32,670.68,518.64,
-Wives and husbands,3082714,822.69,559.73,262.97,
-Wives of—,3018695,824.05,559.76,264.29,
-Retired workers,2974173,825.28,560.65,264.63,
-Disabled workers,44522,741.53,500.13,241.4,
-Husbands of—,64019,758.97,558.44,200.54,
-Retired workers,60911,764.47,562.72,201.75,
-Disabled workers,3108,651.29,474.53,176.76,
-Widow(er)s,3893230,1479.60,758.54,721.06,
-Widows,3762211,1481.76,748.39,733.37,
-Widowers,131019,1417.71,1050.11,367.61,
-Parents,413,1380.71,627.69,753.02,
-"SOURCE: Social Security Administration, Master Beneficiary Record, 100 percent data.",NOTE: Totals do not necessarily equal the sum of rounded components.,CONTACT: (410) 965-0090 or statistics@ssa.gov.,,,
+Type of secondary benefit,Number,Average monthly benefit (dollars),,
+,,Combined benefit,Retired-worker benefit,Reduced secondary benefit
+All dually entitled retired workers,"6,976,357","1,189.32",670.68,518.64
+Wives and husbands,"3,082,714",822.69,559.73,262.97
+Wives of—,"3,018,695",824.05,559.76,264.29
+Retired workers,"2,974,173",825.28,560.65,264.63
+Disabled workers,"44,522",741.53,500.13,241.40
+Husbands of—,"64,019",758.97,558.44,200.54
+Retired workers,"60,911",764.47,562.72,201.75
+Disabled workers,"3,108",651.29,474.53,176.76
+Widow(er)s,"3,893,230","1,479.60",758.54,721.06
+Widows,"3,762,211","1,481.76",748.39,733.37
+Widowers,"131,019","1,417.71","1,050.11",367.61
+Parents,413,"1,380.71",627.69,753.02
+,,,,"SOURCE: Social Security Administration, Master Beneficiary Record, 100 percent data."
+,,,,NOTE: Totals do not necessarily equal the sum of rounded components.
+,,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.

@@ -91,7 +91,7 @@ class data_downloader(object):
         for page in self.pages:
             try:
                 page_tables_html = html_tables(page)
-                page_tables = page_tables_html.read()
+                page_tables = page_tables_html.read(remove_footnotes = self.remove_footnotes)
                 counter = 1
                 for table in page_tables:
                     if len(table) >= self.row_min:
@@ -111,9 +111,9 @@ class data_downloader(object):
                 
         # Save tables
         for i in range(0, len(self.tables)):
-            self.tables[i].to_csv(self.file_names[i], index = False)
-            
-                    
+            self.tables[i].to_csv(self.file_names[i], header = False, index = False)
+        
+
 
 
 

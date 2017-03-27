@@ -1,37 +1,41 @@
-Type of beneficiary and age,All beneficiaries,Beneficiaries with representative payee,Number,Percentage of all beneficiaries
-Total,59007158,5571495,9.4,
-Adults,54651944,1627244,3.0,
-Retired workers,39008771,527635,1.4,
-Under 65,3065297,8946,0.3,
-65–74,20682128,199696,1.0,
-75–84,10905939,155468,1.4,
-85 or older,4355407,163525,3.8,
-Disabled workers,8954518,946015,10.6,
-Under 35,482202,148871,30.9,
-35–44,1007988,179891,17.8,
-45–54,2392369,267969,11.2,
-55–FRA,5071959,349284,6.9,
-Wives and husbands,2452435,22999,0.9,
-Under 65,291473,2420,0.8,
-65–74,1292645,9707,0.8,
-75–84,701227,7527,1.1,
-85 or older,167090,3345,2.0,
-Widow(er)s a,3978349,115821,2.9,
-Under 65,573472,2401,0.4,
-65–74,1185369,17818,1.5,
-75–84,1151211,34598,3.0,
-85 or older,1068297,61004,5.7,
-Disabled widow(er)s,257871,14774,5.7,
-Under 55,32778,2058,6.3,
-55–FRA,225093,12716,5.6,
-Children,4355214,3944251,90.6,
-Under age 18,3166362,3164001,99.9,
-In custody of parent payee,2838770,2838770,100.0,
-Not in custody of parent payee,327592,325231,99.3,
-Disabled adult children,1048879,774621,73.9,
-Under 35,344661,240586,69.8,
-35–44,215921,148935,69.0,
-45–54,237728,178943,75.3,
-55 or older,250569,206157,82.3,
-"Students, aged 18–19",139973,5629,4.0,
-"SOURCE: Social Security Administration, Master Beneficiary Record, 100 percent data.",NOTE: FRA = full retirement age.,"a. Includes nondisabled widow(er)s, widowed mothers and fathers, and parents.",CONTACT: (410) 965-0090 or statistics@ssa.gov.,
+Type of beneficiary and age,All beneficiaries,Beneficiaries with representative payee,
+,,Number,Percentage of all beneficiaries
+Total,"59,007,158","5,571,495",9.4
+Adults,"54,651,944","1,627,244",3.0
+Retired workers,"39,008,771","527,635",1.4
+Under 65,"3,065,297","8,946",0.3
+65–74,"20,682,128","199,696",1.0
+75–84,"10,905,939","155,468",1.4
+85 or older,"4,355,407","163,525",3.8
+Disabled workers,"8,954,518","946,015",10.6
+Under 35,"482,202","148,871",30.9
+35–44,"1,007,988","179,891",17.8
+45–54,"2,392,369","267,969",11.2
+55–FRA,"5,071,959","349,284",6.9
+Wives and husbands,"2,452,435","22,999",0.9
+Under 65,"291,473","2,420",0.8
+65–74,"1,292,645","9,707",0.8
+75–84,"701,227","7,527",1.1
+85 or older,"167,090","3,345",2.0
+Widow(er)s ,"3,978,349","115,821",2.9
+Under 65,"573,472","2,401",0.4
+65–74,"1,185,369","17,818",1.5
+75–84,"1,151,211","34,598",3.0
+85 or older,"1,068,297","61,004",5.7
+Disabled widow(er)s,"257,871","14,774",5.7
+Under 55,"32,778","2,058",6.3
+55–FRA,"225,093","12,716",5.6
+Children,"4,355,214","3,944,251",90.6
+Under age 18,"3,166,362","3,164,001",99.9
+In custody of parent payee,"2,838,770","2,838,770",100.0
+Not in custody of parent payee,"327,592","325,231",99.3
+Disabled adult children,"1,048,879","774,621",73.9
+Under 35,"344,661","240,586",69.8
+35–44,"215,921","148,935",69.0
+45–54,"237,728","178,943",75.3
+55 or older,"250,569","206,157",82.3
+"Students, aged 18–19","139,973","5,629",4.0
+,,,"SOURCE: Social Security Administration, Master Beneficiary Record, 100 percent data."
+,,,NOTE: FRA = full retirement age.
+,,,"a. Includes nondisabled widow(er)s, widowed mothers and fathers, and parents."
+,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.

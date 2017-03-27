@@ -1,62 +1,71 @@
-Program,Benefits paid by type of insurer,Medical benefits paid,Total a,Private carriers b,State funds,Self- insurance c,Total,As a percentage of total benefits
-"Total, state and federal",63574440,35316150,9606106,14961170,31549152,49.6,,
-,State programs,,,,,,,
-Subtotal,59883426,35316150,9606106,14961170,30436905,50.8,,
-Alabama,639311,307539,. . .,331771,439846,68.8,,
-Alaska,253081,185820,. . .,67261,177663,70.2,,
-Arizona,752123,620815,. . .,131308,495649,65.9,,
-Arkansas,202235,152249,. . .,49987,133273,65.9,,
-California,12100181,7127798,1569806,3402576,6622015,54.7,,
-Colorado,858947,248976,447175,162796,500766,58.3,,
-Connecticut,950065,717102,. . .,232963,430379,45.3,,
-Delaware,240313,193163,. . .,47150,142986,59.5,,
-District of Columbia,101630,87111,. . .,14519,37196,36.6,,
-Florida,3131293,2249512,. . .,881781,2082310,66.5,,
-Georgia,1566186,1155895,. . .,410291,792490,50.6,,
-Hawaii,260352,135674,32160,92517,111431,42.8,,
-Idaho,251846,87895,149076,14875,163448,64.9,,
-Illinois,2923024,2214113,. . .,708912,1315361,45.0,,
-Indiana,674206,606979,. . .,67227,494193,73.3,,
-Iowa,668646,524101,. . .,144545,359063,53.7,,
-Kansas,387384,275277,. . .,112107,229719,59.3,,
-Kentucky,697974,383642,99582,214751,381792,54.7,,
-Louisiana,870086,520241,104972,244873,468106,53.8,,
-Maine,247766,172550,. . .,75216,118928,48.0,,
-Maryland,944612,502810,152231,289572,441134,46.7,,
-Massachusetts,1061981,778504,. . .,283477,356246,33.5,,
-Michigan,1134005,718445,. . .,415560,418170,36.9,,
-Minnesota,1064684,807064,. . .,257620,590273,55.4,,
-Mississippi,332790,225037,. . .,107753,198343,59.6,,
-Missouri,873946,558625,108069,207252,494653,56.6,,
-Montana,247003,83859,124512,38632,158082,64.0,,
-Nebraska,305001,243804,. . .,61197,187881,61.6,,
-Nevada,358740,244075,. . .,114665,180805,50.4,,
-New Hampshire,214560,156713,. . .,57846,139678,65.1,,
-New Jersey,2239166,1762282,. . .,476884,1140649,50.9,,
-New Mexico,267330,154707,21597,91025,158526,59.3,,
-New York,5543750,2538864,1208492,1796394,1845620,33.3,,
-North Carolina,1568586,1188756,. . .,379830,719981,45.9,,
-North Dakota,193975,1104,192871,. . .,113592,58.6,,
-Ohio,2070022,14717,1689633,365672,823242,39.8,,
-Oklahoma,878022,479366,230682,167974,395988,45.1,,
-Oregon,668686,225745,310027,132914,353066,52.8,,
-Pennsylvania,2966353,2107745,204783,653826,1408095,47.5,,
-Rhode Island,162356,53559,85725,23072,51629,31.8,,
-South Carolina d,878428,631987,48388,198053,406712,46.3,,
-South Dakota,94015,90320,. . .,3695,63648,67.7,,
-Tennessee,808055,675934,. . .,132121,484833,60.0,,
-Texas,1767908,929389,490742,347778,1090799,61.7,,
-Utah,282462,100816,130333,51313,197441,69.9,,
-Vermont,141511,123286,. . .,18224,69340,49.0,,
-Virginia,953165,742461,. . .,210703,579524,60.8,,
-Washington,2331783,13317,1814346,504120,741875,31.8,,
-West Virginia e,436017,171102,201120,63795,228037,52.3,,
-Wisconsin,1126058,1023284,. . .,102773,770152,68.4,,
-Wyoming,191807,2022,189785,. . .,132274,69.0,,
-,Federal programs f,,,,,,,
-Subtotal,3691014,. . .,. . .,. . .,1112247,30.1,,
-Civilian employee,2948132,. . .,. . .,. . .,923564,31.3,,
-Other,742882,. . .,. . .,. . .,188683,25.4,,
-"SOURCES: National Academy of Social Insurance estimates based on data received from state agencies, the Department of Labor, A.M. Best Company, and the National Council on Compensation Insurance.","NOTES: Totals do not necessarily equal the sum of rounded components.
+Program,Benefits paid by type of insurer,,,,Medical benefits paid,
+,Total ,Private carriers ,State funds,Self- insurance ,Total,As a percentage of total benefits
+"Total, state and federal","63,574,440","35,316,150","9,606,106","14,961,170","31,549,152",49.6
+ ,State programs,,,,,
+Subtotal,"59,883,426","35,316,150","9,606,106","14,961,170","30,436,905",50.8
+Alabama,"639,311","307,539",. . .,"331,771","439,846",68.8
+Alaska,"253,081","185,820",. . .,"67,261","177,663",70.2
+Arizona,"752,123","620,815",. . .,"131,308","495,649",65.9
+Arkansas,"202,235","152,249",. . .,"49,987","133,273",65.9
+California,"12,100,181","7,127,798","1,569,806","3,402,576","6,622,015",54.7
+Colorado,"858,947","248,976","447,175","162,796","500,766",58.3
+Connecticut,"950,065","717,102",. . .,"232,963","430,379",45.3
+Delaware,"240,313","193,163",. . .,"47,150","142,986",59.5
+District of Columbia,"101,630","87,111",. . .,"14,519","37,196",36.6
+Florida,"3,131,293","2,249,512",. . .,"881,781","2,082,310",66.5
+Georgia,"1,566,186","1,155,895",. . .,"410,291","792,490",50.6
+Hawaii,"260,352","135,674","32,160","92,517","111,431",42.8
+Idaho,"251,846","87,895","149,076","14,875","163,448",64.9
+Illinois,"2,923,024","2,214,113",. . .,"708,912","1,315,361",45.0
+Indiana,"674,206","606,979",. . .,"67,227","494,193",73.3
+Iowa,"668,646","524,101",. . .,"144,545","359,063",53.7
+Kansas,"387,384","275,277",. . .,"112,107","229,719",59.3
+Kentucky,"697,974","383,642","99,582","214,751","381,792",54.7
+Louisiana,"870,086","520,241","104,972","244,873","468,106",53.8
+Maine,"247,766","172,550",. . .,"75,216","118,928",48.0
+Maryland,"944,612","502,810","152,231","289,572","441,134",46.7
+Massachusetts,"1,061,981","778,504",. . .,"283,477","356,246",33.5
+Michigan,"1,134,005","718,445",. . .,"415,560","418,170",36.9
+Minnesota,"1,064,684","807,064",. . .,"257,620","590,273",55.4
+Mississippi,"332,790","225,037",. . .,"107,753","198,343",59.6
+Missouri,"873,946","558,625","108,069","207,252","494,653",56.6
+Montana,"247,003","83,859","124,512","38,632","158,082",64.0
+Nebraska,"305,001","243,804",. . .,"61,197","187,881",61.6
+Nevada,"358,740","244,075",. . .,"114,665","180,805",50.4
+New Hampshire,"214,560","156,713",. . .,"57,846","139,678",65.1
+New Jersey,"2,239,166","1,762,282",. . .,"476,884","1,140,649",50.9
+New Mexico,"267,330","154,707","21,597","91,025","158,526",59.3
+New York,"5,543,750","2,538,864","1,208,492","1,796,394","1,845,620",33.3
+North Carolina,"1,568,586","1,188,756",. . .,"379,830","719,981",45.9
+North Dakota,"193,975","1,104","192,871",. . .,"113,592",58.6
+Ohio,"2,070,022","14,717","1,689,633","365,672","823,242",39.8
+Oklahoma,"878,022","479,366","230,682","167,974","395,988",45.1
+Oregon,"668,686","225,745","310,027","132,914","353,066",52.8
+Pennsylvania,"2,966,353","2,107,745","204,783","653,826","1,408,095",47.5
+Rhode Island,"162,356","53,559","85,725","23,072","51,629",31.8
+South Carolina ,"878,428","631,987","48,388","198,053","406,712",46.3
+South Dakota,"94,015","90,320",. . .,"3,695","63,648",67.7
+Tennessee,"808,055","675,934",. . .,"132,121","484,833",60.0
+Texas,"1,767,908","929,389","490,742","347,778","1,090,799",61.7
+Utah,"282,462","100,816","130,333","51,313","197,441",69.9
+Vermont,"141,511","123,286",. . .,"18,224","69,340",49.0
+Virginia,"953,165","742,461",. . .,"210,703","579,524",60.8
+Washington,"2,331,783","13,317","1,814,346","504,120","741,875",31.8
+West Virginia ,"436,017","171,102","201,120","63,795","228,037",52.3
+Wisconsin,"1,126,058","1,023,284",. . .,"102,773","770,152",68.4
+Wyoming,"191,807","2,022","189,785",. . .,"132,274",69.0
+ ,Federal programs ,,,,,
+Subtotal,"3,691,014",. . .,. . .,. . .,"1,112,247",30.1
+Civilian employee,"2,948,132",. . .,. . .,. . .,"923,564",31.3
+Other,"742,882",. . .,. . .,. . .,"188,683",25.4
+,,,,,,"SOURCES: National Academy of Social Insurance estimates based on data received from state agencies, the Department of Labor, A.M. Best Company, and the National Council on Compensation Insurance."
+,,,,,,"NOTES: Totals do not necessarily equal the sum of rounded components.
           . . . = not applicable.
-        ",a. These data may not include second injury fund for all states and may understate total payments.,"b. States with exclusive funds (North Dakota, Ohio, Washington, and Wyoming) may have small amounts of benefits paid by private carriers. This is because some employers doing business in states with exclusive funds may be required by Longshore and Harbor Workers' Compensation Act (LHWCA) provisions to obtain coverage from private carriers, or may obtain employer's liability coverage that the state fund is not authorized to provide. In addition, private carriers may provide excess compensation coverage in some of these states.",c. Includes individual self-insurers and group self-insurance.,d. South Carolina's State Accident Fund is not a competitive state fund.,"e. In 2008, West Virginia completed the transition from an exclusive state fund to a competitive fund. All benefits for workers injured after the transition are paid by private carriers.","f. Federal benefits include those paid under the Federal Employees' Compensation Act for civilian employees; the portion of the Black Lung benefit program that is financed by employers; and a portion of benefits under the LHWCA that are not reflected in state data, namely, benefits paid by self-insured employers and special funds under the LHWCA.",CONTACT: Ishita Sengupta (202) 452-8097 or statistics@ssa.gov.
+"
+,,,,,,a. These data may not include second injury fund for all states and may understate total payments.
+,,,,,,"b. States with exclusive funds (North Dakota, Ohio, Washington, and Wyoming) may have small amounts of benefits paid by private carriers. This is because some employers doing business in states with exclusive funds may be required by Longshore and Harbor Workers' Compensation Act (LHWCA) provisions to obtain coverage from private carriers, or may obtain employer's liability coverage that the state fund is not authorized to provide. In addition, private carriers may provide excess compensation coverage in some of these states."
+,,,,,,c. Includes individual self-insurers and group self-insurance.
+,,,,,,d. South Carolina's State Accident Fund is not a competitive state fund.
+,,,,,,"e. In 2008, West Virginia completed the transition from an exclusive state fund to a competitive fund. All benefits for workers injured after the transition are paid by private carriers."
+,,,,,,"f. Federal benefits include those paid under the Federal Employees' Compensation Act for civilian employees; the portion of the Black Lung benefit program that is financed by employers; and a portion of benefits under the LHWCA that are not reflected in state data, namely, benefits paid by self-insured employers and special funds under the LHWCA."
+,,,,,,CONTACT: Ishita Sengupta (202) 452-8097 or statistics@ssa.gov.

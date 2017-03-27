@@ -1,6 +1,6 @@
 Monthly payment (dollars),All recipients,Aged,Blind,Disabled
-Total,,,,
-Number,259621,122324,1978,135319.0
+Total, ,,,
+Number,"259,621","122,324","1,978","135,319"
 Percent,100.0,100.0,100.0,100.0
 Less than 50,2.8,3.0,1.9,2.6
 50–99,3.4,3.7,2.7,3.2
@@ -24,5 +24,8 @@ Less than 50,2.8,3.0,1.9,2.6
 950–999,0.7,0.8,1.0,0.6
 "1,000–1,049",0.7,0.9,0.8,0.5
 "1,050–1,081",0.4,0.5,0.5,0.3
-"1,082 a",42.2,38.9,48.0,45.0
-"SOURCE: Social Security Administration, Supplemental Security Record, 100 percent data.",NOTE: Totals do not necessarily equal the sum of rounded components.,"a. Couples living in their own household with no countable income were eligible for a federal SSI payment of $1,082 in calendar year 2014.",CONTACT: (410) 965-0090 or statistics@ssa.gov.,
+"1,082 ",42.2,38.9,48.0,45.0
+,,,,"SOURCE: Social Security Administration, Supplemental Security Record, 100 percent data."
+,,,,NOTE: Totals do not necessarily equal the sum of rounded components.
+,,,,"a. Couples living in their own household with no countable income were eligible for a federal SSI payment of $1,082 in calendar year 2014."
+,,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.

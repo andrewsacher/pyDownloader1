@@ -1,98 +1,111 @@
-Year,Total a,Medicaid,Separate Children's Health Insurance Program (CHIP),Aged 65 or older,Blind,Permanent and total disability,Dependent children under age 21,Adults in families with dependent children,Other,Unnamed: 10,Unnamed: 11,Unnamed: 12
-,Number of recipients (thousands),,,,,,,,,,,
-1985,21814,3061,80,2937,9757,5518,1214,--,,,,
-1986,22515,3140,82,3100,10029,5647,1362,--,,,,
-1987,23109,3224,85,3296,10168,5599,1418,--,,,,
-1988,22907,3159,86,3401,10037,5503,1343,--,,,,
-1989,23511,3132,95,3496,10318,5717,1175,--,,,,
-1990,25255,3202,83,3635,11220,6010,1105,--,,,,
-1991,28280,3359,85,3983,13415,6778,658,--,,,,
-1992,30926,3742,84,4378,15104,6954,664,--,,,,
-1993,33432,3863,84,4932,16285,7505,763,--,,,,
-1994,35053,4035,87,5372,17194,7586,779,--,,,,
-1995,36282,4119,92,5767,17164,7604,1537,--,,,,
-1996,36118,4285,95,6126,16739,7127,1746,--,,,,
-1997,34872,3955,. . .,6129,15791,6803,2195,--,,,,
-1998,40649,3964,. . .,6638,18964,7908,3176,--,,,,
-1999,40300,4241,. . .,7303,20119,8552,846,--,,,,
-2000,42886,4289,. . .,7479,21086,10543,862,--,,,,
-2001,46163,4420,. . .,7703,22533,11639,869,--,,,,
-2002,49329,3890,. . .,7411,22421,11253,4354,--,,,,
-2003,51971,4041,. . .,7669,23992,11679,4591,--,,,,
-2004,55002,4318,. . .,7933,25613,12225,4913,--,,,,
-2005 b,57643,4396,. . .,8210,26337,12529,6171,--,,,,
-2006 c,57732,4375,. . .,8332,26771,12598,5656,--,,,,
-2007 d,56825,4043,. . .,8424,26584,12371,5402,--,,,,
-2008 e,58705,4144,. . .,8689,28043,12891,4939,--,,,,
-2009 f,62458,4188,. . .,8998,28634,13907,6731,--,,,,
-2010 g,65562,4286,. . .,9287,30236,15094,6659,--,,,,
-2011 h,69179,4337,. . .,9759,31480,16109,6694,--,,,,
-2012 i,69334,4320,. . .,9856,31466,16522,5996,--,,,,
-2013 j,73656,4113,. . .,9549,29755,14010,7272,8957,,,,
-,Total vendor payments (millions of dollars),,,,,,,,,,,
-1985,37508,14096,249,13203,4414,4746,798,--,,,,
-1986,41005,15097,277,14635,5135,4880,980,--,,,,
-1987,45050,16037,309,16507,5508,5592,1078,--,,,,
-1988,48710,17135,344,18250,5848,5883,1198,--,,,,
-1989,54500,18558,409,20476,6892,6897,1268,--,,,,
-1990,64859,21508,434,23969,9100,8590,1257,--,,,,
-1991,77048,25453,475,27798,11690,10439,1193,--,,,,
-1992,90814,29078,530,33326,14491,12185,1204,--,,,,
-1993,101709,31554,589,38065,16504,13605,1391,--,,,,
-1994,108270,33618,644,41654,17302,13585,1467,--,,,,
-1995,120141,36527,848,48570,17976,13511,2708,--,,,,
-1996,121685,36947,869,51196,17544,12275,2853,--,,,,
-1997,124430,37721,. . .,54130,17544,12307,2727,--,,,,
-1998,142318,40602,. . .,60375,22806,14833,3702,--,,,,
-1999,147372,40470,. . .,63028,20765,15141,7966,--,,,,
-2000,168442,44560,. . .,72772,23490,17671,9948,--,,,,
-2001,186913,48431,. . .,80493,26770,20096,11121,--,,,,
-2002,213497,52012,. . .,92414,31595,23525,13950,--,,,,
-2003,233206,55271,. . .,102014,35079,26689,14153,--,,,,
-2004,257748,59541,. . .,111614,39194,30522,16877,--,,,,
-2005 b,275569,63358,. . .,119647,42012,32385,18167,--,,,,
-2006 c,268505,58109,. . .,116209,44645,32871,16670,--,,,,
-2007 d,276539,57362,. . .,119621,47763,33764,18029,--,,,,
-2008 e,296560,61116,. . .,128945,57073,37133,12294,--,,,,
-2009 f,320752,63531,. . .,139051,57382,43266,17523,--,,,,
-2010 g,338803,65173,. . .,146900,61291,47613,17827,--,,,,
-2011 h,366628,66981,. . .,155630,65582,52712,24289,--,,,,
-2012 i,366993,66309,. . .,156129,65732,54649,22099,--,,,,
-2013 j,373185,62127,. . .,153068,68575,49005,12912,27498,,,,
-,Average payment (dollars),,,,,,,,,,,
-1985,1719,4605,3104,4496,452,860,658,--,,,,
-1986,1821,4808,3401,4721,512,864,719,--,,,,
-1987,1949,4975,3644,5008,542,999,761,--,,,,
-1988,2126,5425,4005,5366,583,1069,891,--,,,,
-1989,2318,5926,4317,5858,668,1206,1079,--,,,,
-1990,2568,6717,5212,6595,811,1429,1138,--,,,,
-1991,2725,7577,5572,6979,871,1540,1813,--,,,,
-1992,2936,7770,6298,7612,959,1752,1813,--,,,,
-1993,3042,8168,7036,7717,1013,1813,1824,--,,,,
-1994,3089,8331,7412,7755,1006,1791,1884,--,,,,
-1995,3311,8868,9256,8422,1047,1777,1762,--,,,,
-1996,3369,8622,9143,8357,1048,1722,1635,--,,,,
-1997,3568,9538,. . .,8832,1111,1809,3597,--,,,,
-1998,3501,10242,. . .,9095,1203,1876,1166,--,,,,
-1999,3657,9541,. . .,8630,1032,1770,9407,--,,,,
-2000,3928,10388,. . .,9729,1114,1676,11536,--,,,,
-2001,4049,10957,. . .,10449,1188,1727,12792,--,,,,
-2002,4328,13370,. . .,12470,1409,2091,3204,--,,,,
-2003,4487,13677,. . .,13303,1462,2285,3083,--,,,,
-2004,4686,13790,. . .,14070,1530,2497,3435,--,,,,
-2005 b,4781,14413,. . .,14574,1595,2585,2944,--,,,,
-2006 c,4651,13283,. . .,13947,1668,2609,2947,--,,,,
-2007 d,4867,14187,. . .,14200,1797,2729,3337,--,,,,
-2008 e,5052,14748,. . .,14840,2035,2881,2489,--,,,,
-2009 f,5136,15169,. . .,15454,2004,3111,2603,--,,,,
-2010 g,5168,15206,. . .,15817,2027,3154,2677,--,,,,
-2011 h,5300,15444,. . .,15947,2083,3272,3629,--,,,,
-2012 i,5293,15350,. . .,15841,2089,3308,3686,--,,,,
-2013 j,5067,15104,. . .,16030,3498,2305,1776,3070,,,,
-"SOURCES: Data through fiscal year 1998 are from HCFA Form 2082; data for fiscal years 1999–2012 are from Medicaid Statistical Information System (MSIS) State Summary Data, Centers for Medicare & Medicaid Services (CMS); data for fiscal year 2013 are from claims files in the MSIS Granular file, CMS.","NOTES: Totals do not necessarily equal the sum of rounded components.
+Year,Total ,Medicaid,,,,,,Separate Children's Health Insurance Program (CHIP)
+,,Aged 65 or older,Blind,Permanent and total disability,Dependent children under age 21,Adults in families with dependent children,Other,
+ ,Number of recipients (thousands),,,,,,,
+1985,"21,814","3,061",80,"2,937","9,757","5,518","1,214",--
+1986,"22,515","3,140",82,"3,100","10,029","5,647","1,362",--
+1987,"23,109","3,224",85,"3,296","10,168","5,599","1,418",--
+1988,"22,907","3,159",86,"3,401","10,037","5,503","1,343",--
+1989,"23,511","3,132",95,"3,496","10,318","5,717","1,175",--
+1990,"25,255","3,202",83,"3,635","11,220","6,010","1,105",--
+1991,"28,280","3,359",85,"3,983","13,415","6,778",658,--
+1992,"30,926","3,742",84,"4,378","15,104","6,954",664,--
+1993,"33,432","3,863",84,"4,932","16,285","7,505",763,--
+1994,"35,053","4,035",87,"5,372","17,194","7,586",779,--
+1995,"36,282","4,119",92,"5,767","17,164","7,604","1,537",--
+1996,"36,118","4,285",95,"6,126","16,739","7,127","1,746",--
+1997,"34,872","3,955",. . .,"6,129","15,791","6,803","2,195",--
+1998,"40,649","3,964",. . .,"6,638","18,964","7,908","3,176",--
+1999,"40,300","4,241",. . .,"7,303","20,119","8,552",846,--
+2000,"42,886","4,289",. . .,"7,479","21,086","10,543",862,--
+2001,"46,163","4,420",. . .,"7,703","22,533","11,639",869,--
+2002,"49,329","3,890",. . .,"7,411","22,421","11,253","4,354",--
+2003,"51,971","4,041",. . .,"7,669","23,992","11,679","4,591",--
+2004,"55,002","4,318",. . .,"7,933","25,613","12,225","4,913",--
+2005 ,"57,643","4,396",. . .,"8,210","26,337","12,529","6,171",--
+2006 ,"57,732","4,375",. . .,"8,332","26,771","12,598","5,656",--
+2007 ,"56,825","4,043",. . .,"8,424","26,584","12,371","5,402",--
+2008 ,"58,705","4,144",. . .,"8,689","28,043","12,891","4,939",--
+2009 ,"62,458","4,188",. . .,"8,998","28,634","13,907","6,731",--
+2010 ,"65,562","4,286",. . .,"9,287","30,236","15,094","6,659",--
+2011 ,"69,179","4,337",. . .,"9,759","31,480","16,109","6,694",--
+2012 ,"69,334","4,320",. . .,"9,856","31,466","16,522","5,996",--
+2013 ,"73,656","4,113",. . .,"9,549","29,755","14,010","7,272","8,957"
+ ,Total vendor payments (millions of dollars),,,,,,,
+1985,"37,508","14,096",249,"13,203","4,414","4,746",798,--
+1986,"41,005","15,097",277,"14,635","5,135","4,880",980,--
+1987,"45,050","16,037",309,"16,507","5,508","5,592","1,078",--
+1988,"48,710","17,135",344,"18,250","5,848","5,883","1,198",--
+1989,"54,500","18,558",409,"20,476","6,892","6,897","1,268",--
+1990,"64,859","21,508",434,"23,969","9,100","8,590","1,257",--
+1991,"77,048","25,453",475,"27,798","11,690","10,439","1,193",--
+1992,"90,814","29,078",530,"33,326","14,491","12,185","1,204",--
+1993,"101,709","31,554",589,"38,065","16,504","13,605","1,391",--
+1994,"108,270","33,618",644,"41,654","17,302","13,585","1,467",--
+1995,"120,141","36,527",848,"48,570","17,976","13,511","2,708",--
+1996,"121,685","36,947",869,"51,196","17,544","12,275","2,853",--
+1997,"124,430","37,721",. . .,"54,130","17,544","12,307","2,727",--
+1998,"142,318","40,602",. . .,"60,375","22,806","14,833","3,702",--
+1999,"147,372","40,470",. . .,"63,028","20,765","15,141","7,966",--
+2000,"168,442","44,560",. . .,"72,772","23,490","17,671","9,948",--
+2001,"186,913","48,431",. . .,"80,493","26,770","20,096","11,121",--
+2002,"213,497","52,012",. . .,"92,414","31,595","23,525","13,950",--
+2003,"233,206","55,271",. . .,"102,014","35,079","26,689","14,153",--
+2004,"257,748","59,541",. . .,"111,614","39,194","30,522","16,877",--
+2005 ,"275,569","63,358",. . .,"119,647","42,012","32,385","18,167",--
+2006 ,"268,505","58,109",. . .,"116,209","44,645","32,871","16,670",--
+2007 ,"276,539","57,362",. . .,"119,621","47,763","33,764","18,029",--
+2008 ,"296,560","61,116",. . .,"128,945","57,073","37,133","12,294",--
+2009 ,"320,752","63,531",. . .,"139,051","57,382","43,266","17,523",--
+2010 ,"338,803","65,173",. . .,"146,900","61,291","47,613","17,827",--
+2011 ,"366,628","66,981",. . .,"155,630","65,582","52,712","24,289",--
+2012 ,"366,993","66,309",. . .,"156,129","65,732","54,649","22,099",--
+2013 ,"373,185","62,127",. . .,"153,068","68,575","49,005","12,912","27,498"
+ ,Average payment (dollars),,,,,,,
+1985,"1,719","4,605","3,104","4,496",452,860,658,--
+1986,"1,821","4,808","3,401","4,721",512,864,719,--
+1987,"1,949","4,975","3,644","5,008",542,999,761,--
+1988,"2,126","5,425","4,005","5,366",583,"1,069",891,--
+1989,"2,318","5,926","4,317","5,858",668,"1,206","1,079",--
+1990,"2,568","6,717","5,212","6,595",811,"1,429","1,138",--
+1991,"2,725","7,577","5,572","6,979",871,"1,540","1,813",--
+1992,"2,936","7,770","6,298","7,612",959,"1,752","1,813",--
+1993,"3,042","8,168","7,036","7,717","1,013","1,813","1,824",--
+1994,"3,089","8,331","7,412","7,755","1,006","1,791","1,884",--
+1995,"3,311","8,868","9,256","8,422","1,047","1,777","1,762",--
+1996,"3,369","8,622","9,143","8,357","1,048","1,722","1,635",--
+1997,"3,568","9,538",. . .,"8,832","1,111","1,809","3,597",--
+1998,"3,501","10,242",. . .,"9,095","1,203","1,876","1,166",--
+1999,"3,657","9,541",. . .,"8,630","1,032","1,770","9,407",--
+2000,"3,928","10,388",. . .,"9,729","1,114","1,676","11,536",--
+2001,"4,049","10,957",. . .,"10,449","1,188","1,727","12,792",--
+2002,"4,328","13,370",. . .,"12,470","1,409","2,091","3,204",--
+2003,"4,487","13,677",. . .,"13,303","1,462","2,285","3,083",--
+2004,"4,686","13,790",. . .,"14,070","1,530","2,497","3,435",--
+2005 ,"4,781","14,413",. . .,"14,574","1,595","2,585","2,944",--
+2006 ,"4,651","13,283",. . .,"13,947","1,668","2,609","2,947",--
+2007 ,"4,867","14,187",. . .,"14,200","1,797","2,729","3,337",--
+2008 ,"5,052","14,748",. . .,"14,840","2,035","2,881","2,489",--
+2009 ,"5,136","15,169",. . .,"15,454","2,004","3,111","2,603",--
+2010 ,"5,168","15,206",. . .,"15,817","2,027","3,154","2,677",--
+2011 ,"5,300","15,444",. . .,"15,947","2,083","3,272","3,629",--
+2012 ,"5,293","15,350",. . .,"15,841","2,089","3,308","3,686",--
+2013 ,"5,067","15,104",. . .,"16,030","3,498","2,305","1,776","3,070"
+,,,,,,,,"SOURCES: Data through fiscal year 1998 are from HCFA Form 2082; data for fiscal years 1999–2012 are from Medicaid Statistical Information System (MSIS) State Summary Data, Centers for Medicare & Medicaid Services (CMS); data for fiscal year 2013 are from claims files in the MSIS Granular file, CMS."
+,,,,,,,,"NOTES: Totals do not necessarily equal the sum of rounded components.
               Beginning with fiscal year 1997, ""Disability"" includes blindness. ""Children"" includes foster care children, and ""Other"" are ""Unknowns."" In fiscal years 1999 and 2000, ""Other"" includes foster care children and ""Unknowns."" In fiscal years 2001 and 2002, ""Other"" includes foster care children, ""Unknowns,"" and individuals covered under the Breast and Cervical Cancer Prevention and Treatment Act of 2000.
-              Beginning with fiscal year 1999, excludes recipients in Puerto Rico and the U.S. Virgin Islands. Data are not available.
-              Beginning with data for fiscal year 2013, the methodology for producing recipient counts was revised to include those who received at least one service through Medicaid or Separate CHIP. Payment amounts are derived from records for all claim types.
-              The MSIS Data Anomalies Report (https://www.cms.gov/Research-Statistics-Data-and-Systems/Computer-Data-and-Systems/MedicaidDataSourcesGenInfo/MSIS-Tables.html) documents any postpublication data quality issues.
-              . . . = not applicable; -- = not available.
-            ",a. Total represents the unduplicated number of recipients receiving any type of medical service during the year.,b. Fiscal year 2005 data are not available for Maine. Fiscal year 2004 data have been substituted.,"c. Fiscal year 2006 data are not available for Maine and Nevada. Fiscal year 2004 data have been substituted for Maine, and fiscal year 2005 data have been substituted for Nevada.","d. Fiscal year 2007 data are not available for Hawaii and Maine. Fiscal year 2006 data have been substituted for Hawaii, and fiscal year 2005 data have been substituted for Maine.",e. Fiscal year 2008 data are not available for Hawaii and Utah. Fiscal year 2007 data have been substituted.,"f. Fiscal year 2009 data are not available for Hawaii, Massachusetts, Missouri, Pennsylvania, Utah, and Wisconsin. Fiscal year 2007 data have been substituted for Hawaii and Utah, and fiscal year 2008 data have been substituted for Massachusetts, Missouri, Pennsylvania, and Wisconsin.","g. Fiscal year 2010 data are not available for Colorado, Hawaii, Idaho, Missouri, New Hampshire, Utah, and Wisconsin. Fiscal year 2007 data have been substituted for Hawaii and Utah. Fiscal year 2008 data have been substituted Missouri and Wisconsin. Fiscal year 2009 data have been substituted for Colorado, Idaho, and New Hampshire.",h. Fiscal year 2011 data are not available for Maine. Fiscal year 2010 data have been substituted.,"i. Fiscal year 2012 data are not available for Arizona, Colorado, the District of Columbia, Florida, Hawaii, Idaho, Kansas, Louisiana, Maine, Massachusetts, Texas, and Utah. Fiscal year 2011 data have been substituted.","j. Fiscal year 2013 data are not available for Colorado, the District of Columbia, Idaho, and Rhode Island. Fiscal year 2011 data have been substituted for Colorado and Idaho, and fiscal year 2012 data have been substituted for the District of Columbia and Rhode Island. Fiscal year 2013 data for Kansas, Louisiana, North Dakota, New Hampshire, and Utah are from partial-year claims files and do not reflect fiscal year totals.",CONTACT: (410) 965-0090 or statistics@ssa.gov.
+Beginning with fiscal year 1999, excludes recipients in Puerto Rico and the U.S. Virgin Islands. Data are not available.
+Beginning with data for fiscal year 2013, the methodology for producing recipient counts was revised to include those who received at least one service through Medicaid or Separate CHIP. Payment amounts are derived from records for all claim types.
+The MSIS Data Anomalies Report (https://www.cms.gov/Research-Statistics-Data-and-Systems/Computer-Data-and-Systems/MedicaidDataSourcesGenInfo/MSIS-Tables.html) documents any postpublication data quality issues.
+. . . = not applicable; -- = not available.
+"
+,,,,,,,,a. Total represents the unduplicated number of recipients receiving any type of medical service during the year.
+,,,,,,,,b. Fiscal year 2005 data are not available for Maine. Fiscal year 2004 data have been substituted.
+,,,,,,,,"c. Fiscal year 2006 data are not available for Maine and Nevada. Fiscal year 2004 data have been substituted for Maine, and fiscal year 2005 data have been substituted for Nevada."
+,,,,,,,,"d. Fiscal year 2007 data are not available for Hawaii and Maine. Fiscal year 2006 data have been substituted for Hawaii, and fiscal year 2005 data have been substituted for Maine."
+,,,,,,,,e. Fiscal year 2008 data are not available for Hawaii and Utah. Fiscal year 2007 data have been substituted.
+,,,,,,,,"f. Fiscal year 2009 data are not available for Hawaii, Massachusetts, Missouri, Pennsylvania, Utah, and Wisconsin. Fiscal year 2007 data have been substituted for Hawaii and Utah, and fiscal year 2008 data have been substituted for Massachusetts, Missouri, Pennsylvania, and Wisconsin."
+,,,,,,,,"g. Fiscal year 2010 data are not available for Colorado, Hawaii, Idaho, Missouri, New Hampshire, Utah, and Wisconsin. Fiscal year 2007 data have been substituted for Hawaii and Utah. Fiscal year 2008 data have been substituted Missouri and Wisconsin. Fiscal year 2009 data have been substituted for Colorado, Idaho, and New Hampshire."
+,,,,,,,,h. Fiscal year 2011 data are not available for Maine. Fiscal year 2010 data have been substituted.
+,,,,,,,,"i. Fiscal year 2012 data are not available for Arizona, Colorado, the District of Columbia, Florida, Hawaii, Idaho, Kansas, Louisiana, Maine, Massachusetts, Texas, and Utah. Fiscal year 2011 data have been substituted."
+,,,,,,,,"j. Fiscal year 2013 data are not available for Colorado, the District of Columbia, Idaho, and Rhode Island. Fiscal year 2011 data have been substituted for Colorado and Idaho, and fiscal year 2012 data have been substituted for the District of Columbia and Rhode Island. Fiscal year 2013 data for Kansas, Louisiana, North Dakota, New Hampshire, and Utah are from partial-year claims files and do not reflect fiscal year totals."
+,,,,,,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.

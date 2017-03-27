@@ -15,7 +15,10 @@ class html_tables(object):
         self.r        = requests.get(self.url)
         self.url_soup = BeautifulSoup(self.r.text)
         
-    def read(self):
+    def read(self, 
+             remove_footnotes = True):
+        
+        self.remove_footnotes = remove_footnotes
         
         self.tables      = []
         self.tables_html = self.url_soup.find_all("table")
@@ -77,12 +80,15 @@ class html_tables(object):
                         col_counter = col_counter + col_dim[col_dim_counter - 1]
                         while skip_index[col_counter] > 0:
                             col_counter += 1
-                            
-                        # Parse out footnotes
+                          
+                        # Get cell contents  
                         cell_data = col.get_text()
-                        footnote = col.find(["sup", "sub"])
-                        if footnote is not None:
-                            cell_data = cell_data[0: -len(footnote.get_text())]
+                        
+                        # Parse out footnotes
+                        if self.remove_footnotes:
+                            footnote = col.find(["sup", "sub"])
+                            if footnote is not None:
+                                cell_data = cell_data[0: -len(footnote.get_text())]
                         
                         # Insert data into cell
                         try:   
