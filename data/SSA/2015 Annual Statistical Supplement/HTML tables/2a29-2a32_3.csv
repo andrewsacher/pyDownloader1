@@ -1,52 +1,52 @@
-Year,Nonblind beneficiaries ,,Blind beneficiaries 
-,Minimum,Maximum,
-1961–1965,50,100,c
-1966–June 1968,75,125,c
-July 1968–1973,90,140,c
-1974–1975,130,200,c
-1976,150,230,c
-1977,160,240,c
-1978,170,260,334
-1979,180,280,375
-1980,190,300,417
-1981,190,300,459
-1982,190,300,500
-1983–1989,190,300,d
-1990,300,500,780
-1991,300,500,810
-1992,300,500,850
-1993,300,500,880
-1994,300,500,930
-1995,300,500,940
-1996,300,500,960
-1997,300,500,"1,000"
-1998,300,500,"1,050"
-January–June 1999,300,500,"1,110"
-July 1999,300,700,"1,110"
-January 2000,300,700,"1,170"
-January 2001,Discontinued,740,"1,240"
-January 2002,. . .,780,"1,300"
-January 2003,. . .,800,"1,330"
-January 2004,. . .,810,"1,350"
-January 2005,. . .,830,"1,380"
-January 2006,. . .,860,"1,450"
-January 2007,. . .,900,"1,500"
-January 2008,. . .,940,"1,570"
-January 2009,. . .,980,"1,640"
-January 2010,. . .,"1,000","1,640"
-January 2011,. . .,"1,000","1,640"
-January 2012,. . .,"1,010","1,690"
-January 2013,. . .,"1,040","1,740"
-January 2014,. . .,"1,070","1,800"
-January 2015,. . .,"1,090","1,820"
-,,,"SOURCES: Social Security Act of 1935 (the Act), as amended through December 31, 2014; regulations issued under the Act; and precedential case decisions (rulings). Social Security Administration, ""Cost-of-Living Increase and Other Determinations for 2015,"" Federal Register, vol. 79, no. 209 (October 29, 2014). See the Social Security Program Rules page (https://www.socialsecurity.gov/regulations/index.htm) for specific laws, regulations, rulings, legislation, and a link to the Federal Register."
+Year,Nonblind beneficiaries ,,Blind beneficiaries ,0
+,Minimum,Maximum,,0
+1961–1965,50,100,c,0
+1966–June 1968,75,125,c,0
+July 1968–1973,90,140,c,0
+1974–1975,130,200,c,0
+1976,150,230,c,0
+1977,160,240,c,0
+1978,170,260,334,0
+1979,180,280,375,0
+1980,190,300,417,0
+1981,190,300,459,0
+1982,190,300,500,0
+1983–1989,190,300,d,0
+1990,300,500,780,0
+1991,300,500,810,0
+1992,300,500,850,0
+1993,300,500,880,0
+1994,300,500,930,0
+1995,300,500,940,0
+1996,300,500,960,0
+1997,300,500,"1,000",0
+1998,300,500,"1,050",0
+January–June 1999,300,500,"1,110",0
+July 1999,300,700,"1,110",0
+January 2000,300,700,"1,170",0
+January 2001,Discontinued,740,"1,240",0
+January 2002,. . .,780,"1,300",0
+January 2003,. . .,800,"1,330",0
+January 2004,. . .,810,"1,350",0
+January 2005,. . .,830,"1,380",0
+January 2006,. . .,860,"1,450",0
+January 2007,. . .,900,"1,500",0
+January 2008,. . .,940,"1,570",0
+January 2009,. . .,980,"1,640",0
+January 2010,. . .,"1,000","1,640",0
+January 2011,. . .,"1,000","1,640",0
+January 2012,. . .,"1,010","1,690",0
+January 2013,. . .,"1,040","1,740",0
+January 2014,. . .,"1,070","1,800",0
+January 2015,. . .,"1,090","1,820",0
+,,,"SOURCES: Social Security Act of 1935 (the Act), as amended through December 31, 2014; regulations issued under the Act; and precedential case decisions (rulings). Social Security Administration, ""Cost-of-Living Increase and Other Determinations for 2015,"" Federal Register, vol. 79, no. 209 (October 29, 2014). See the Social Security Program Rules page (https://www.socialsecurity.gov/regulations/index.htm) for specific laws, regulations, rulings, legislation, and a link to the Federal Register.",0
 ,,,"NOTES: Earnings are net of any wage subsidies and impairment-related expenses.
           The guidelines for substantial gainful activity (SGA) for self-employed individuals differ from the guidelines for wage earners.
 Self-employment activity is generally examined in terms of time spent and degree of effort, as compared with that of nondisabled self-employed individuals.
 . . . = not applicable.
-"
-,,,"a. Earnings above the maximum amount ordinarily demonstrate SGA; earnings below the minimum amount show that SGA has not occurred. When earnings are between the minimum and maximum, other factors are considered."
-,,,"b. The amendments in 1977 provided that, effective 1978, earnings of blind beneficiaries would be evaluated under different SGA guidelines from those of nonblind beneficiaries."
-,,,c. Pre-1978 guidelines are the same as those for nonblind beneficiaries.
-,,,d. Annual amounts were determined by automatic adjustments linked to increases in average wage level. The amounts equal the monthly exempt amounts under the earnings test applicable to beneficiaries who have reached full retirement age (see Table 2.A29 for the amounts for 1983–1995).
-,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.
+",0
+,,,"a. Earnings above the maximum amount ordinarily demonstrate SGA; earnings below the minimum amount show that SGA has not occurred. When earnings are between the minimum and maximum, other factors are considered.",0
+,,,"b. The amendments in 1977 provided that, effective 1978, earnings of blind beneficiaries would be evaluated under different SGA guidelines from those of nonblind beneficiaries.",0
+,,,c. Pre-1978 guidelines are the same as those for nonblind beneficiaries.,0
+,,,d. Annual amounts were determined by automatic adjustments linked to increases in average wage level. The amounts equal the monthly exempt amounts under the earnings test applicable to beneficiaries who have reached full retirement age (see Table 2.A29 for the amounts for 1983–1995).,0
+,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.,0

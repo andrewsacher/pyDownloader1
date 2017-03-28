@@ -62,6 +62,7 @@ class data_downloader(object):
                         page_type        = "html", 
                         row_min          = 1, 
                         remove_footnotes = True,
+                        indent_dict      = None,
                         remove_blanks    = None):
         
         self.save_path        = save_path
@@ -69,6 +70,7 @@ class data_downloader(object):
         self.page_type        = page_type
         self.row_min          = row_min
         self.remove_footnotes = remove_footnotes
+        self.indent_dict      = indent_dict
         self.remove_blanks    = remove_blanks
         
         self.pages       = []
@@ -91,7 +93,8 @@ class data_downloader(object):
         for page in self.pages:
             try:
                 page_tables_html = html_tables(page)
-                page_tables = page_tables_html.read(remove_footnotes = self.remove_footnotes)
+                page_tables = page_tables_html.read(remove_footnotes = self.remove_footnotes, 
+                                                    indent_dict      = self.indent_dict)
                 counter = 1
                 for table in page_tables:
                     if len(table) >= self.row_min:
@@ -105,16 +108,13 @@ class data_downloader(object):
                 next
 
         # Remove empty columns
-        if self.remove_blanks != None:
+        if self.remove_blanks is not None:
             for n in range(0, len(self.tables)):
                 self.tables[n] = self.tables[n].dropna(axis = self.remove_blanks, how = "all")
                 
         # Save tables
         for i in range(0, len(self.tables)):
             self.tables[i].to_csv(self.file_names[i], header = False, index = False)
-        
-
-
 
 
 

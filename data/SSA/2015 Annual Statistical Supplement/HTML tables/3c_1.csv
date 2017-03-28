@@ -1,31 +1,31 @@
-Program and source,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014
- ,Social Security trust funds,,,,,,,,,
-Old-Age and Survivors Insurance ,"520,706","550,415","578,069","590,122","590,322","569,018","592,314","628,302","645,678","674,584"
-Employer,"241,018","253,705","265,753","272,060","269,586","257,245","271,395","285,328","294,995","305,279"
-Employee,"239,163","251,813","263,856","269,956","267,440","257,893","184,227","191,028","292,241","302,850"
-Self-employed,"26,682","29,269","31,269","32,540","33,366","29,635","26,728","27,538","33,578","38,104"
-General fund reimbursement,b,b,b,b,b,"2,155","87,753","97,735","4,169",395
-Taxation of benefits,"13,843","15,628","17,192","15,566","19,930","22,090","22,211","26,675","20,694","27,957"
-Disability Insurance ,"87,150","92,038","96,636","98,879","98,820","94,728","98,389","102,744","106,523","111,488"
-Employer,"40,929","43,081","45,127","46,199","45,783","43,684","46,086","48,451","50,095","51,840"
-Employee,"40,614","42,760","44,804","45,841","45,418","43,794","31,259","32,487","49,603","51,427"
-Self-employed,"4,534","4,967","5,312","5,526","5,664","5,034","4,537","4,677","5,704","6,470"
-General fund reimbursement,b,b,b,b,b,366,"14,927","16,546",729,71
-Taxation of benefits,"1,073","1,230","1,393","1,313","1,955","1,852","1,581",583,391,"1,680"
- ,Medicare trust funds,,,,,,,,,
-Hospital Insurance ,"182,565","194,238","205,289","213,364","206,173","199,102","214,003","227,814","238,544","248,762"
-Employer,"80,159","84,417","89,093","91,981","88,242","84,397","91,381","95,618","102,318","104,720"
-Employee,"80,159","84,417","89,093","91,981","88,242","84,397","91,381","95,618","102,318","104,720"
-Self-employed,"11,065","12,439","13,669","14,732","14,405","13,238","12,830","14,494","16,182","18,006"
-Voluntarily enrolled ,"2,416","2,645","2,841","2,938","2,908","3,310","3,267","3,441","3,417","3,251"
-Taxation of benefits,"8,765","10,319","10,593","11,733","12,376","13,760","15,143","18,643","14,310","18,066"
-Supplementary Medical Insurance ,"37,535","42,853","46,773","50,232","56,040","51,986","57,514","58,024","63,085","65,644"
-Aged,"31,722","36,346","39,676","42,335","47,433","43,168","47,646","48,495","52,814","55,164"
-Disabled,"5,813","6,507","7,096","7,897","8,606","8,818","9,868","9,529","10,270","10,479"
-,,,,,,,,,,SOURCE: Department of the Treasury.
-,,,,,,,,,,NOTE: Totals do not necessarily equal the sum of rounded components.
-,,,,,,,,,,"a. Employment taxes depend on tax rates and, for the Old-Age and Survivors Insurance and Disability Insurance Trust Funds, wage bases (because of taxable maximums). The taxable maximum for Medicare Hospital Insurance was eliminated in 1994. Employer and employee contributions differ by estimated amounts of employee tax overpayments and by employee tax on tips."
-,,,,,,,,,,"b. Between -$500,000 and $500,000."
-,,,,,,,,,,"c. Beginning in July 1973, aged ineligibles may voluntarily enroll for HI."
-,,,,,,,,,,"d. Includes premiums paid on behalf of eligibles by state governments under ""buy-in"" arrangements."
-,,,,,,,,,,CONTACT: Michael Stephens (410) 965-3028 or statistics@ssa.gov.
+Program and source,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,0
+ ,Social Security trust funds,,,,,,,,,,0
+Old-Age and Survivors Insurance ,"520,706","550,415","578,069","590,122","590,322","569,018","592,314","628,302","645,678","674,584",0
+Employer,"241,018","253,705","265,753","272,060","269,586","257,245","271,395","285,328","294,995","305,279",1
+Employee,"239,163","251,813","263,856","269,956","267,440","257,893","184,227","191,028","292,241","302,850",1
+Self-employed,"26,682","29,269","31,269","32,540","33,366","29,635","26,728","27,538","33,578","38,104",1
+General fund reimbursement,b,b,b,b,b,"2,155","87,753","97,735","4,169",395,1
+Taxation of benefits,"13,843","15,628","17,192","15,566","19,930","22,090","22,211","26,675","20,694","27,957",1
+Disability Insurance ,"87,150","92,038","96,636","98,879","98,820","94,728","98,389","102,744","106,523","111,488",0
+Employer,"40,929","43,081","45,127","46,199","45,783","43,684","46,086","48,451","50,095","51,840",1
+Employee,"40,614","42,760","44,804","45,841","45,418","43,794","31,259","32,487","49,603","51,427",1
+Self-employed,"4,534","4,967","5,312","5,526","5,664","5,034","4,537","4,677","5,704","6,470",1
+General fund reimbursement,b,b,b,b,b,366,"14,927","16,546",729,71,1
+Taxation of benefits,"1,073","1,230","1,393","1,313","1,955","1,852","1,581",583,391,"1,680",1
+ ,Medicare trust funds,,,,,,,,,,0
+Hospital Insurance ,"182,565","194,238","205,289","213,364","206,173","199,102","214,003","227,814","238,544","248,762",0
+Employer,"80,159","84,417","89,093","91,981","88,242","84,397","91,381","95,618","102,318","104,720",1
+Employee,"80,159","84,417","89,093","91,981","88,242","84,397","91,381","95,618","102,318","104,720",1
+Self-employed,"11,065","12,439","13,669","14,732","14,405","13,238","12,830","14,494","16,182","18,006",1
+Voluntarily enrolled ,"2,416","2,645","2,841","2,938","2,908","3,310","3,267","3,441","3,417","3,251",1
+Taxation of benefits,"8,765","10,319","10,593","11,733","12,376","13,760","15,143","18,643","14,310","18,066",1
+Supplementary Medical Insurance ,"37,535","42,853","46,773","50,232","56,040","51,986","57,514","58,024","63,085","65,644",0
+Aged,"31,722","36,346","39,676","42,335","47,433","43,168","47,646","48,495","52,814","55,164",1
+Disabled,"5,813","6,507","7,096","7,897","8,606","8,818","9,868","9,529","10,270","10,479",1
+,,,,,,,,,,SOURCE: Department of the Treasury.,0
+,,,,,,,,,,NOTE: Totals do not necessarily equal the sum of rounded components.,0
+,,,,,,,,,,"a. Employment taxes depend on tax rates and, for the Old-Age and Survivors Insurance and Disability Insurance Trust Funds, wage bases (because of taxable maximums). The taxable maximum for Medicare Hospital Insurance was eliminated in 1994. Employer and employee contributions differ by estimated amounts of employee tax overpayments and by employee tax on tips.",0
+,,,,,,,,,,"b. Between -$500,000 and $500,000.",0
+,,,,,,,,,,"c. Beginning in July 1973, aged ineligibles may voluntarily enroll for HI.",0
+,,,,,,,,,,"d. Includes premiums paid on behalf of eligibles by state governments under ""buy-in"" arrangements.",0
+,,,,,,,,,,CONTACT: Michael Stephens (410) 965-3028 or statistics@ssa.gov.,0

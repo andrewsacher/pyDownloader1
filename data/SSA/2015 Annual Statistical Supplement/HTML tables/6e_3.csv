@@ -1,21 +1,21 @@
-Reason payment withheld,Wives and husbands of—,,Children under age 18 of—,,,Disabled adult children of—,,,Students aged 18–19 of—,,
-,Retired workers,Disabled workers,Retired workers,Deceased workers,Disabled workers,Retired workers,Deceased workers,Disabled workers,Retired workers,Deceased workers,Disabled workers
-Total,"359,013","40,846","32,055","43,869","342,242","128,638","124,826","57,868","1,949","2,714","7,549"
-Earnings of—, ,,,,,,,,,,
-Retired workers,"1,876",. . .,867,. . .,. . .,276,. . .,. . .,49,. . .,. . .
-Disabled beneficiaries (substantial gainful activity),. . .,679,. . .,. . .,"12,678",442,765,"1,113",. . .,. . .,73
-Other beneficiaries,"4,415","14,773",32,9,17,. . .,. . .,. . .,3,3,3
-Entitled child not in care of beneficiary,"1,838","8,913",. . .,. . .,. . .,. . .,. . .,. . .,. . .,. . .,. . .
-Payee not determined,51,(X),378,"2,516","2,721",236,977,125,7,24,15
-Recoupment of overpayment for reasons other than earnings,"1,109",716,382,"1,646","7,397",342,502,141,14,55,149
-Address unknown,"2,739",440,"1,589","5,911","18,699","1,137","4,219","1,144",71,265,278
-Determination of continuing disability pending,. . .,(X),. . .,. . .,"2,153",179,550,331,. . .,. . .,22
-Imprisoned or confined,231,226,33,115,119,"1,633","7,160","1,934",3,11,13
-Workers' compensation offset,. . .,170,. . .,. . .,"1,672",. . .,. . .,68,. . .,. . .,47
-Government pension offset,"287,221","4,313",. . .,. . .,. . .,. . .,. . .,. . .,. . .,. . .,. . .
-Technical entitlement,"28,452","9,063","25,131","26,289","284,979","122,805","106,815","50,166","1,690","2,055","6,434"
-Other reasons,"31,081","1,468","3,643","7,383","11,807","1,588","3,838","2,846",112,301,515
-,,,,,,,,,,,"SOURCE: Social Security Administration, Master Beneficiary Record, 100 percent data."
-,,,,,,,,,,,NOTES: . . . = not applicable.
-,,,,,,,,,,,(X) = Suppressed to avoid disclosing information about particular individuals.
-,,,,,,,,,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.
+Reason payment withheld,Wives and husbands of—,,Children under age 18 of—,,,Disabled adult children of—,,,Students aged 18–19 of—,,,0
+,Retired workers,Disabled workers,Retired workers,Deceased workers,Disabled workers,Retired workers,Deceased workers,Disabled workers,Retired workers,Deceased workers,Disabled workers,0
+Total,"359,013","40,846","32,055","43,869","342,242","128,638","124,826","57,868","1,949","2,714","7,549",2
+Earnings of—, ,,,,,,,,,,,0
+Retired workers,"1,876",. . .,867,. . .,. . .,276,. . .,. . .,49,. . .,. . .,1
+Disabled beneficiaries (substantial gainful activity),. . .,679,. . .,. . .,"12,678",442,765,"1,113",. . .,. . .,73,1
+Other beneficiaries,"4,415","14,773",32,9,17,. . .,. . .,. . .,3,3,3,1
+Entitled child not in care of beneficiary,"1,838","8,913",. . .,. . .,. . .,. . .,. . .,. . .,. . .,. . .,. . .,0
+Payee not determined,51,(X),378,"2,516","2,721",236,977,125,7,24,15,0
+Recoupment of overpayment for reasons other than earnings,"1,109",716,382,"1,646","7,397",342,502,141,14,55,149,0
+Address unknown,"2,739",440,"1,589","5,911","18,699","1,137","4,219","1,144",71,265,278,0
+Determination of continuing disability pending,. . .,(X),. . .,. . .,"2,153",179,550,331,. . .,. . .,22,0
+Imprisoned or confined,231,226,33,115,119,"1,633","7,160","1,934",3,11,13,0
+Workers' compensation offset,. . .,170,. . .,. . .,"1,672",. . .,. . .,68,. . .,. . .,47,0
+Government pension offset,"287,221","4,313",. . .,. . .,. . .,. . .,. . .,. . .,. . .,. . .,. . .,0
+Technical entitlement,"28,452","9,063","25,131","26,289","284,979","122,805","106,815","50,166","1,690","2,055","6,434",0
+Other reasons,"31,081","1,468","3,643","7,383","11,807","1,588","3,838","2,846",112,301,515,0
+,,,,,,,,,,,"SOURCE: Social Security Administration, Master Beneficiary Record, 100 percent data.",0
+,,,,,,,,,,,NOTES: . . . = not applicable.,0
+,,,,,,,,,,,(X) = Suppressed to avoid disclosing information about particular individuals.,0
+,,,,,,,,,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.,0

@@ -1,49 +1,49 @@
-Effective date,Amount a per year of coverage over 10 years (dollars,Maximum amount a for workers with 30 or more years of coverage (dollars
- ,Enacted in 1972,
-January 1973,8.50,170.00
- ,Enacted in 1973,
-March 1974,9.00,180.00
- ,Enacted in 1977 ,
-January 1979,11.50,230.00
-June 1979,12.64,252.80
-June 1980,14.45,289.00
-June 1981,16.07,321.40
-June 1982,17.26,345.10
-December 1983,17.86,357.10
-December 1984,18.49,369.50
-December 1985,19.06,380.90
-December 1986,19.31,385.80
-December 1987,20.12,402.00
-December 1988,20.92,418.00
-December 1989,21.90,437.60
-December 1990,23.08,461.20
-December 1991,23.93,478.20
-December 1992,24.65,492.50
-December 1993,25.29,505.30
-December 1994,26.00,519.40
-December 1995,26.68,532.90
-December 1996,27.45,548.30
-December 1997,28.03,559.80
-December 1998,28.39,567.00
-December 1999,c 29.1,c 581.1
-December 2000,30.12,601.40
-December 2001,30.90,617.00
-December 2002,31.33,625.60
-December 2003,31.99,638.70
-December 2004,32.85,655.90
-December 2005,34.20,682.70
-December 2006,35.33,705.20
-December 2007,36.14,721.40
-December 2008,38.24,763.20
-December 2009,38.24,763.20
-December 2010,38.24,763.20
-December 2011,39.62,790.60
-December 2012,40.29,804.00
-December 2013,40.89,816.00
-December 2014,41.59,829.80
-,,"SOURCES: Social Security Act of 1935 (the Act), as amended through December 31, 2014; regulations issued under the Act; and precedential case decisions (rulings). Social Security Administration, ""Cost-of-Living Increase and Other Determinations for 2015,"" Federal Register, vol. 79, no. 209 (October 29, 2014). See the Social Security Program Rules page (https://www.socialsecurity.gov/regulations/index.htm) for specific laws, regulations, rulings, legislation, and a link to the Federal Register."
-,,"NOTE: The special minimum PIA is payable to some persons who have had covered employment or self-employment for many years at low earnings. The formula computes a benefit based on years of coverage rather than earnings, and it applies only if the resulting benefit exceeds the benefit computed by any other method. The usual rates of actuarial reduction apply for retirement before the full retirement age. Although delayed retirement credits are not applicable to the benefit derived from the special minimum PIA, the benefit will be raised if necessary to equal the benefit derived from the regularly computed PIA plus any delayed retirement credits."
-,,"a. The amount effective for a given month applies, as of that month, to all workers from the date of entitlement to benefits."
-,,"b. The 1977 Amendments to the Social Security Act establsihed an initial 1979 factor of $11.50 per year of coverage and automatic annual cost-of-living increases thereafter, beginning with the June 1979 increase. Factors are obtained by applying cost-of-living increases to the previous year's factor and rounding each one to nearest cent. An approximate PIA may be computed by multiplying factor in year of entitlement by the number of years of coverage in excess of 10 with a maximum of 20. Actual PIAs are published yearly in the Federal Register."
-,,"c. The cost-of-living adjustment (COLA) for December 1999 was originally determined to be 2.4 percent, based on the Consumer Price Index (CPI). The underlying CPI was later recomputed by the Bureau of Labor Statistics; a 2.5 percent COLA would have been consistent with the recomputed CPI. Pursuant to Public Law 106-554, benefits were calculated and paid in August 2001 and later as if the COLA for December 1999 had been 2.5 percent. Affected beneficiaries received a one-time payment to cover the shortfall that occurred before August 2001."
-,,CONTACT: (410) 965-0090 or statistics@ssa.gov.
+Effective date,Amount a per year of coverage over 10 years (dollars,Maximum amount a for workers with 30 or more years of coverage (dollars,0
+ ,Enacted in 1972,,0
+January 1973,8.50,170.00,0
+ ,Enacted in 1973,,0
+March 1974,9.00,180.00,0
+ ,Enacted in 1977 ,,0
+January 1979,11.50,230.00,0
+June 1979,12.64,252.80,0
+June 1980,14.45,289.00,0
+June 1981,16.07,321.40,0
+June 1982,17.26,345.10,0
+December 1983,17.86,357.10,0
+December 1984,18.49,369.50,0
+December 1985,19.06,380.90,0
+December 1986,19.31,385.80,0
+December 1987,20.12,402.00,0
+December 1988,20.92,418.00,0
+December 1989,21.90,437.60,0
+December 1990,23.08,461.20,0
+December 1991,23.93,478.20,0
+December 1992,24.65,492.50,0
+December 1993,25.29,505.30,0
+December 1994,26.00,519.40,0
+December 1995,26.68,532.90,0
+December 1996,27.45,548.30,0
+December 1997,28.03,559.80,0
+December 1998,28.39,567.00,0
+December 1999,c 29.1,c 581.1,0
+December 2000,30.12,601.40,0
+December 2001,30.90,617.00,0
+December 2002,31.33,625.60,0
+December 2003,31.99,638.70,0
+December 2004,32.85,655.90,0
+December 2005,34.20,682.70,0
+December 2006,35.33,705.20,0
+December 2007,36.14,721.40,0
+December 2008,38.24,763.20,0
+December 2009,38.24,763.20,0
+December 2010,38.24,763.20,0
+December 2011,39.62,790.60,0
+December 2012,40.29,804.00,0
+December 2013,40.89,816.00,0
+December 2014,41.59,829.80,0
+,,"SOURCES: Social Security Act of 1935 (the Act), as amended through December 31, 2014; regulations issued under the Act; and precedential case decisions (rulings). Social Security Administration, ""Cost-of-Living Increase and Other Determinations for 2015,"" Federal Register, vol. 79, no. 209 (October 29, 2014). See the Social Security Program Rules page (https://www.socialsecurity.gov/regulations/index.htm) for specific laws, regulations, rulings, legislation, and a link to the Federal Register.",0
+,,"NOTE: The special minimum PIA is payable to some persons who have had covered employment or self-employment for many years at low earnings. The formula computes a benefit based on years of coverage rather than earnings, and it applies only if the resulting benefit exceeds the benefit computed by any other method. The usual rates of actuarial reduction apply for retirement before the full retirement age. Although delayed retirement credits are not applicable to the benefit derived from the special minimum PIA, the benefit will be raised if necessary to equal the benefit derived from the regularly computed PIA plus any delayed retirement credits.",0
+,,"a. The amount effective for a given month applies, as of that month, to all workers from the date of entitlement to benefits.",0
+,,"b. The 1977 Amendments to the Social Security Act establsihed an initial 1979 factor of $11.50 per year of coverage and automatic annual cost-of-living increases thereafter, beginning with the June 1979 increase. Factors are obtained by applying cost-of-living increases to the previous year's factor and rounding each one to nearest cent. An approximate PIA may be computed by multiplying factor in year of entitlement by the number of years of coverage in excess of 10 with a maximum of 20. Actual PIAs are published yearly in the Federal Register.",0
+,,"c. The cost-of-living adjustment (COLA) for December 1999 was originally determined to be 2.4 percent, based on the Consumer Price Index (CPI). The underlying CPI was later recomputed by the Bureau of Labor Statistics; a 2.5 percent COLA would have been consistent with the recomputed CPI. Pursuant to Public Law 106-554, benefits were calculated and paid in August 2001 and later as if the COLA for December 1999 had been 2.5 percent. Affected beneficiaries received a one-time payment to cover the shortfall that occurred before August 2001.",0
+,,CONTACT: (410) 965-0090 or statistics@ssa.gov.,0

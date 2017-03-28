@@ -1,74 +1,74 @@
-Census division and state or area,2000,,2010,,2013,
-,Persons served (thousands),Program payments (millions of dollars),Persons served (thousands),Program payments (millions of dollars),Persons served (thousands),Program payments (millions of dollars)
-Total,,,,,,
-All areas,"21,537","16,732","24,222","46,662","25,445","57,154"
-United States,"21,355","16,620","24,159","46,515","25,389","57,013"
-New England,"1,237",937,"1,513","2,987","1,619","3,705"
-Connecticut,274,225,316,591,324,720
-Maine,168,117,193,391,197,474
-Massachusetts,525,410,666,"1,308",728,"1,663"
-New Hampshire,120,79,163,349,183,431
-Rhode Island,77,55,82,142,89,176
-Vermont,74,52,93,205,99,241
-Middle Atlantic,"3,055","2,511","2,927","5,388","3,049","6,651"
-New Jersey,590,519,651,"1,347",676,"1,648"
-New York,"1,348","1,249","1,222","2,251","1,257","2,775"
-Pennsylvania,"1,118",743,"1,054","1,790","1,115","2,228"
-East North Central,"4,142","3,034","4,472","8,340","4,544","9,978"
-Illinois,"1,015",725,"1,250","2,268","1,329","2,880"
-Indiana,587,400,643,"1,187",657,"1,443"
-Michigan,"1,003",807,"1,128","2,096","1,058","2,317"
-Ohio,"1,037",755,972,"1,851",993,"2,155"
-Wisconsin,500,348,479,938,507,"1,183"
-West North Central,"1,888","1,317","2,047","4,098","2,192","5,161"
-Iowa,366,254,366,716,385,906
-Kansas,261,187,273,576,283,662
-Minnesota,420,254,443,856,494,"1,129"
-Missouri,520,384,605,"1,195",632,"1,432"
-Nebraska,174,130,189,396,198,490
-North Dakota,69,48,82,169,93,248
-South Dakota,77,60,88,190,107,295
-South Atlantic,"4,244","3,383","4,911","9,630","5,210","11,692"
-Delaware,68,57,99,177,113,254
-District of Columbia,38,54,42,115,46,148
-Florida,"1,285",932,"1,451","2,713","1,461","2,966"
-Georgia,571,465,679,"1,335",736,"1,644"
-Maryland,324,459,402,"1,210",441,"1,701"
-North Carolina,720,543,843,"1,658",921,"2,002"
-South Carolina,404,282,485,851,518,"1,019"
-Virginia,590,426,671,"1,148",728,"1,467"
-West Virginia,245,164,239,423,245,490
-East South Central,"1,635","1,102","1,837","3,224","1,913","3,946"
-Alabama,424,261,482,776,517,"1,005"
-Kentucky,399,228,477,830,477,999
-Mississippi,292,254,334,707,352,818
-Tennessee,520,360,543,911,566,"1,124"
-West South Central,"2,107","1,848","2,567","5,295","2,641","6,100"
-Arkansas,267,180,307,513,320,630
-Louisiana,339,360,377,877,406,994
-Oklahoma,294,210,360,596,388,817
-Texas,"1,206","1,098","1,523","3,309","1,528","3,660"
-Mountain,"1,047",768,"1,295","2,377","1,439","3,138"
-Arizona,233,169,311,584,343,772
-Colorado,217,178,288,530,327,675
-Idaho,108,74,120,235,137,303
-Montana,101,64,113,221,130,320
-Nevada,75,62,120,223,134,302
-New Mexico,125,97,159,269,164,349
-Utah,146,91,128,220,143,286
-Wyoming,43,33,56,96,61,131
-Pacific,"2,000","1,720","2,589","5,177","2,782","6,641"
-Alaska,26,29,41,91,47,131
-California,"1,346","1,200","1,761","3,596","1,871","4,589"
-Hawaii,58,44,63,123,62,160
-Oregon,225,143,246,439,278,574
-Washington,345,303,478,928,523,"1,187"
-Outlying areas ,182,112,64,146,57,141
-,,,,,,SOURCE: Centers for Medicare & Medicaid Services.
+Census division and state or area,2000,,2010,,2013,,0
+,Persons served (thousands),Program payments (millions of dollars),Persons served (thousands),Program payments (millions of dollars),Persons served (thousands),Program payments (millions of dollars),0
+Total,,,,,,,2
+All areas,"21,537","16,732","24,222","46,662","25,445","57,154",3
+United States,"21,355","16,620","24,159","46,515","25,389","57,013",3
+New England,"1,237",937,"1,513","2,987","1,619","3,705",0
+Connecticut,274,225,316,591,324,720,1
+Maine,168,117,193,391,197,474,1
+Massachusetts,525,410,666,"1,308",728,"1,663",1
+New Hampshire,120,79,163,349,183,431,1
+Rhode Island,77,55,82,142,89,176,1
+Vermont,74,52,93,205,99,241,1
+Middle Atlantic,"3,055","2,511","2,927","5,388","3,049","6,651",0
+New Jersey,590,519,651,"1,347",676,"1,648",1
+New York,"1,348","1,249","1,222","2,251","1,257","2,775",1
+Pennsylvania,"1,118",743,"1,054","1,790","1,115","2,228",1
+East North Central,"4,142","3,034","4,472","8,340","4,544","9,978",0
+Illinois,"1,015",725,"1,250","2,268","1,329","2,880",1
+Indiana,587,400,643,"1,187",657,"1,443",1
+Michigan,"1,003",807,"1,128","2,096","1,058","2,317",1
+Ohio,"1,037",755,972,"1,851",993,"2,155",1
+Wisconsin,500,348,479,938,507,"1,183",1
+West North Central,"1,888","1,317","2,047","4,098","2,192","5,161",0
+Iowa,366,254,366,716,385,906,1
+Kansas,261,187,273,576,283,662,1
+Minnesota,420,254,443,856,494,"1,129",1
+Missouri,520,384,605,"1,195",632,"1,432",1
+Nebraska,174,130,189,396,198,490,1
+North Dakota,69,48,82,169,93,248,1
+South Dakota,77,60,88,190,107,295,1
+South Atlantic,"4,244","3,383","4,911","9,630","5,210","11,692",0
+Delaware,68,57,99,177,113,254,1
+District of Columbia,38,54,42,115,46,148,1
+Florida,"1,285",932,"1,451","2,713","1,461","2,966",1
+Georgia,571,465,679,"1,335",736,"1,644",1
+Maryland,324,459,402,"1,210",441,"1,701",1
+North Carolina,720,543,843,"1,658",921,"2,002",1
+South Carolina,404,282,485,851,518,"1,019",1
+Virginia,590,426,671,"1,148",728,"1,467",1
+West Virginia,245,164,239,423,245,490,1
+East South Central,"1,635","1,102","1,837","3,224","1,913","3,946",0
+Alabama,424,261,482,776,517,"1,005",1
+Kentucky,399,228,477,830,477,999,1
+Mississippi,292,254,334,707,352,818,1
+Tennessee,520,360,543,911,566,"1,124",1
+West South Central,"2,107","1,848","2,567","5,295","2,641","6,100",0
+Arkansas,267,180,307,513,320,630,1
+Louisiana,339,360,377,877,406,994,1
+Oklahoma,294,210,360,596,388,817,1
+Texas,"1,206","1,098","1,523","3,309","1,528","3,660",1
+Mountain,"1,047",768,"1,295","2,377","1,439","3,138",0
+Arizona,233,169,311,584,343,772,1
+Colorado,217,178,288,530,327,675,1
+Idaho,108,74,120,235,137,303,1
+Montana,101,64,113,221,130,320,1
+Nevada,75,62,120,223,134,302,1
+New Mexico,125,97,159,269,164,349,1
+Utah,146,91,128,220,143,286,1
+Wyoming,43,33,56,96,61,131,1
+Pacific,"2,000","1,720","2,589","5,177","2,782","6,641",0
+Alaska,26,29,41,91,47,131,1
+California,"1,346","1,200","1,761","3,596","1,871","4,589",1
+Hawaii,58,44,63,123,62,160,1
+Oregon,225,143,246,439,278,574,1
+Washington,345,303,478,928,523,"1,187",1
+Outlying areas ,182,112,64,146,57,141,0
+,,,,,,SOURCE: Centers for Medicare & Medicaid Services.,0
 ,,,,,,"NOTES: Includes utilization and expenditures for all outpatient facility types. Medicare program payments represent fee-for-service only and exclude amounts paid for managed care services.
           Characterizations of persons served may differ slightly from those in other tables in this section because of differences in sources and methodology.
 Totals do not necessarily equal the sum of rounded components.
 Statistics are subject to sampling error.
-"
-,,,,,,a. Includes unknown residence.
-,,,,,,CONTACT: Maria Diacogiannis (410) 786-0178 or statistics@ssa.gov.
+",0
+,,,,,,a. Includes unknown residence.,0
+,,,,,,CONTACT: Maria Diacogiannis (410) 786-0178 or statistics@ssa.gov.,0

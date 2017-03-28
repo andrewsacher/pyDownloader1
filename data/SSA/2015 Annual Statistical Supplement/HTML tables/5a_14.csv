@@ -1,25 +1,25 @@
-Type of benefit and basis of entitlement,Number (thousands),Average monthly benefit (dollars)
-Total ,"30,194","1,118.04"
-Workers,"23,734","1,142.77"
-Retired,"19,407","1,167.49"
-Full benefit,"4,886","1,362.83"
-Reduced benefit,"14,521","1,101.75"
-Disabled,"4,327","1,031.91"
-Wives of retired and disabled workers,"2,344",658.39
-Entitlement based on care of children,101,371.18
-Husband retired,40,570.44
-Husband disabled,61,242.38
-Entitlement based on age,"2,243",671.32
-Husband retired,"2,164",682.20
-Full benefit,500,869.59
-Reduced benefit,"1,664",625.88
-Husband disabled,79,372.47
-Widows,"4,116","1,237.19"
-Entitlement based on care of children,131,946.57
-"Nondisabled, aged 60 or older","3,744","1,279.52"
-"Disabled, aged 50 to FRA",241,737.33
-,,"SOURCE: Social Security Administration, Master Beneficiary Record, 100 percent data."
-,,NOTES: Totals do not necessarily equal the sum of rounded components.
-,,FRA = full retirement age.
-,,a. Excludes parents and disabled adult children receiving benefits because of a childhood disability.
-,,CONTACT: (410) 965-0090 or statistics@ssa.gov.
+Type of benefit and basis of entitlement,Number (thousands),Average monthly benefit (dollars),0
+Total ,"30,194","1,118.04",4
+Workers,"23,734","1,142.77",0
+Retired,"19,407","1,167.49",1
+Full benefit,"4,886","1,362.83",2
+Reduced benefit,"14,521","1,101.75",2
+Disabled,"4,327","1,031.91",1
+Wives of retired and disabled workers,"2,344",658.39,0
+Entitlement based on care of children,101,371.18,1
+Husband retired,40,570.44,2
+Husband disabled,61,242.38,2
+Entitlement based on age,"2,243",671.32,1
+Husband retired,"2,164",682.20,2
+Full benefit,500,869.59,3
+Reduced benefit,"1,664",625.88,3
+Husband disabled,79,372.47,2
+Widows,"4,116","1,237.19",0
+Entitlement based on care of children,131,946.57,1
+"Nondisabled, aged 60 or older","3,744","1,279.52",1
+"Disabled, aged 50 to FRA",241,737.33,1
+,,"SOURCE: Social Security Administration, Master Beneficiary Record, 100 percent data.",0
+,,NOTES: Totals do not necessarily equal the sum of rounded components.,0
+,,FRA = full retirement age.,0
+,,a. Excludes parents and disabled adult children receiving benefits because of a childhood disability.,0
+,,CONTACT: (410) 965-0090 or statistics@ssa.gov.,0

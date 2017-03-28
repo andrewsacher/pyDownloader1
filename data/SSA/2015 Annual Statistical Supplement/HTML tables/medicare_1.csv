@@ -1,18 +1,18 @@
-Income,Income-related monthly adjustment (dollars),Total monthly premium (dollars)
-,,"Beneficiaries who file individual tax returns and are single individuals, heads of households, qualifying widow(er)s with dependent children, or married individuals who lived apart from their spouse for the entire taxable year and file separately"
-"Less than or equal to $85,000",0,121.80
-"Greater than $85,000 and less than or equal to $107,000",48.70,170.50
-"Greater than $107,000 and less than or equal to $160,000",121.80,243.60
-"Greater than $160,000 and less than or equal to $214,000",194.90,316.70
-"Greater than $214,000",268.00,389.80
-,,Beneficiaries who file joint tax returns
-"Less than or equal to $170,000",0,121.80
-"Greater than $170,000 and less than or equal to $214,000",48.70,170.50
-"Greater than $214,000 and less than or equal to $320,000",121.80,243.60
-"Greater than $320,000 and less than or equal to $428,000",194.90,316.70
-"Greater than $428,000",268.00,389.80
-,,Beneficiaries who are married and lived with their spouse at any time during the year but file separate tax returns
-"Less than or equal to $85,000",0,121.80
-"Greater than $85,000 and less than or equal to $129,000",194.90,316.70
-"Greater than $129,000",268.00,389.80
-,, 
+Income,Income-related monthly adjustment (dollars),Total monthly premium (dollars),0
+,,"Beneficiaries who file individual tax returns and are single individuals, heads of households, qualifying widow(er)s with dependent children, or married individuals who lived apart from their spouse for the entire taxable year and file separately",0
+"Less than or equal to $85,000",0,121.80,0
+"Greater than $85,000 and less than or equal to $107,000",48.70,170.50,0
+"Greater than $107,000 and less than or equal to $160,000",121.80,243.60,0
+"Greater than $160,000 and less than or equal to $214,000",194.90,316.70,0
+"Greater than $214,000",268.00,389.80,0
+,,Beneficiaries who file joint tax returns,0
+"Less than or equal to $170,000",0,121.80,0
+"Greater than $170,000 and less than or equal to $214,000",48.70,170.50,0
+"Greater than $214,000 and less than or equal to $320,000",121.80,243.60,0
+"Greater than $320,000 and less than or equal to $428,000",194.90,316.70,0
+"Greater than $428,000",268.00,389.80,0
+,,Beneficiaries who are married and lived with their spouse at any time during the year but file separate tax returns,0
+"Less than or equal to $85,000",0,121.80,0
+"Greater than $85,000 and less than or equal to $129,000",194.90,316.70,0
+"Greater than $129,000",268.00,389.80,0
+,, ,0

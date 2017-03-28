@@ -16,9 +16,11 @@ class html_tables(object):
         self.url_soup = BeautifulSoup(self.r.text)
         
     def read(self, 
-             remove_footnotes = True):
+             remove_footnotes = True,
+             indent_dict = None):
         
         self.remove_footnotes = remove_footnotes
+        self.indent_dict      = indent_dict
         
         self.tables      = []
         self.tables_html = self.url_soup.find_all("table")
@@ -38,6 +40,8 @@ class html_tables(object):
             
             # Create dataframe
             df = pd.DataFrame(index = range(0, n_rows), columns = range(0, n_cols))
+            if self.indent_dict is not None: 
+                indents = []
             
             # Start by iterating over each row in this table...
             row_counter = 0
@@ -53,12 +57,14 @@ class html_tables(object):
                     
                     # Get all cells containing data in this row
                     columns = row.find_all(["td", "th"])
-                    this_skip_index = copy.deepcopy(skip_index)
-                    col_counter = -1 
                     col_dim = []
                     row_dim = []
                     col_dim_counter = -1
                     row_dim_counter = -1
+                    col_counter = -1
+                    indent_recorded = False
+                    this_skip_index = copy.deepcopy(skip_index)
+                    
                     for col in columns:
                             
                         # Determine cell dimensions
@@ -89,13 +95,29 @@ class html_tables(object):
                             footnote = col.find(["sup", "sub"])
                             if footnote is not None:
                                 cell_data = cell_data[0: -len(footnote.get_text())]
+                                
+                        # Record indents
+                        if self.indent_dict is not None and col_counter == 0:
+                            try:
+                                classes = col.attrs["class"]
+                                indent = 0 
+                                for c in classes: 
+                                    if c in self.indent_dict:
+                                        indent = self.indent_dict[c]
+                                        break
+                            except:
+                                indent = 0
+                            indents.append(indent)
+                            indent_recorded = True
                         
+                        if self.indent_dict is not None and col_counter != 0 and indent_recorded is False:
+                            indent = 0
+                            indents.append(indent)
+                            indent_recorded = True
+                            
                         # Insert data into cell
-                        try:   
-                            df.iat[row_counter, col_counter] = cell_data
-                        except:
-                            print("failed")
-                        
+                        df.iat[row_counter, col_counter] = cell_data
+
                         # Record column skipping index
                         if row_dim[row_dim_counter] > 1:
                             this_skip_index[col_counter] = row_dim[row_dim_counter]
@@ -106,10 +128,13 @@ class html_tables(object):
                 # Adjust column skipping index
                 skip_index = [i - 1 if i > 0 else i for i in this_skip_index]
             
+            # Add indents to dataframe
+            if self.indent_dict is not None: 
+                df = df.assign(indent = indents)
+            
             # Append dataframe to list of tables
             self.tables.append(df)
         
         return(self.tables)
-
-
+        
 

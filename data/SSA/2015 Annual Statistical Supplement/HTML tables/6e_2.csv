@@ -1,24 +1,24 @@
-Reason payment withheld,"Total, all beneficiaries",Retired workers,,,Disabled workers,Wives and husbands,,,,Children,Widowed mothers and fathers,Widow(er)s,Parents
-,,,Subtotal,Wives,,Husbands,,,,,,,
-,,Subtotal,,Men,,,Women,Without children ,With children ,,,,
-Total,"2,402,931","255,306","156,336","98,970","137,816","399,859","280,769","35,351","83,739","741,710","43,769","823,963",508
-Earnings of—, ,,,,,,,,,,,,
-Retired workers,"56,904","53,836","29,457","24,379",. . .,"1,876","1,607",121,148,"1,192",. . .,. . .,. . .
-Disabled beneficiaries (substantial gainful activity),"52,767",. . .,. . .,. . .,"36,916",679,85,566,28,"15,071",. . .,101,. . .
-Other beneficiaries,"55,022",. . .,. . .,. . .,. . .,"19,188",693,"16,657","1,838",67,"23,201","12,566",. . .
-Entitled child not in care of beneficiary,"23,731",. . .,. . .,. . .,. . .,"10,751",. . .,"10,090",661,. . .,"12,980",. . .,. . .
-Payee not determined,"9,644",785,365,420,"1,438",53,45,(X),(X),"6,999",(X),364,(X)
-Recoupment of overpayment for reasons other than earnings,"30,307","8,353","3,950","4,403","5,867","1,825","1,086",634,105,"10,628",(X),"2,621",(X)
-Address unknown,"103,771","35,889","21,262","14,627","18,167","3,179","2,239",413,527,"33,313",356,"12,818",49
-Determination of continuing disability pending,"9,682",. . .,. . .,. . .,"6,329",83,7,(X),(X),"3,235",. . .,35,. . .
-Imprisoned or confined,"72,879","14,911","14,311",600,"45,419",457,75,181,201,"11,021",247,824,. . .
-Workers' compensation offset,"3,537",. . .,. . .,. . .,"1,580",170,53,109,8,"1,787",. . .,. . .,. . .
-Government pension offset,"463,598",. . .,. . .,. . .,. . .,"291,534","218,122",62,"73,350",. . .,73,"171,991",. . .
-Technical entitlement,"1,256,770",. . .,. . .,. . .,. . .,"37,515","29,627","4,394","3,494","626,364",(X),"591,035",(X)
-Other reasons,"264,319","141,532","86,991","54,541","22,100","32,549","27,130","2,051","3,368","32,033","4,092","31,608",405
-,,,,,,,,,,,,,"SOURCE: Social Security Administration, Master Beneficiary Record, 100 percent data."
-,,,,,,,,,,,,,NOTES: . . . = not applicable.
-,,,,,,,,,,,,,(X) = Suppressed to avoid disclosing information about particular individuals.
-,,,,,,,,,,,,,a. Aged 62 or older.
-,,,,,,,,,,,,,b. Under age 65 with entitled children in their care.
-,,,,,,,,,,,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.
+Reason payment withheld,"Total, all beneficiaries",Retired workers,,,Disabled workers,Wives and husbands,,,,Children,Widowed mothers and fathers,Widow(er)s,Parents,0
+,,,Subtotal,Wives,,Husbands,,,,,,,,0
+,,Subtotal,,Men,,,Women,Without children ,With children ,,,,,0
+Total,"2,402,931","255,306","156,336","98,970","137,816","399,859","280,769","35,351","83,739","741,710","43,769","823,963",508,2
+Earnings of—, ,,,,,,,,,,,,,0
+Retired workers,"56,904","53,836","29,457","24,379",. . .,"1,876","1,607",121,148,"1,192",. . .,. . .,. . .,1
+Disabled beneficiaries (substantial gainful activity),"52,767",. . .,. . .,. . .,"36,916",679,85,566,28,"15,071",. . .,101,. . .,1
+Other beneficiaries,"55,022",. . .,. . .,. . .,. . .,"19,188",693,"16,657","1,838",67,"23,201","12,566",. . .,1
+Entitled child not in care of beneficiary,"23,731",. . .,. . .,. . .,. . .,"10,751",. . .,"10,090",661,. . .,"12,980",. . .,. . .,0
+Payee not determined,"9,644",785,365,420,"1,438",53,45,(X),(X),"6,999",(X),364,(X),0
+Recoupment of overpayment for reasons other than earnings,"30,307","8,353","3,950","4,403","5,867","1,825","1,086",634,105,"10,628",(X),"2,621",(X),0
+Address unknown,"103,771","35,889","21,262","14,627","18,167","3,179","2,239",413,527,"33,313",356,"12,818",49,0
+Determination of continuing disability pending,"9,682",. . .,. . .,. . .,"6,329",83,7,(X),(X),"3,235",. . .,35,. . .,0
+Imprisoned or confined,"72,879","14,911","14,311",600,"45,419",457,75,181,201,"11,021",247,824,. . .,0
+Workers' compensation offset,"3,537",. . .,. . .,. . .,"1,580",170,53,109,8,"1,787",. . .,. . .,. . .,0
+Government pension offset,"463,598",. . .,. . .,. . .,. . .,"291,534","218,122",62,"73,350",. . .,73,"171,991",. . .,0
+Technical entitlement,"1,256,770",. . .,. . .,. . .,. . .,"37,515","29,627","4,394","3,494","626,364",(X),"591,035",(X),0
+Other reasons,"264,319","141,532","86,991","54,541","22,100","32,549","27,130","2,051","3,368","32,033","4,092","31,608",405,0
+,,,,,,,,,,,,,"SOURCE: Social Security Administration, Master Beneficiary Record, 100 percent data.",0
+,,,,,,,,,,,,,NOTES: . . . = not applicable.,0
+,,,,,,,,,,,,,(X) = Suppressed to avoid disclosing information about particular individuals.,0
+,,,,,,,,,,,,,a. Aged 62 or older.,0
+,,,,,,,,,,,,,b. Under age 65 with entitled children in their care.,0
+,,,,,,,,,,,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.,0

@@ -1,46 +1,46 @@
-Eligibility year,Calculation of maximum family benefit (based on percentage of PIA) (dollars),,,,First applicable cost-of-living adjustment,
-,150 percent of the first,Plus 272 percent of the next,Plus 134 percent of the next,Plus 175 percent of the amount above,Effective date,Percentage increase
-1979,230,102,101,433,June 1979,9.9
-1980,248,110,109,467,June 1980,14.3
-1981,270,120,118,508,June 1981,11.2
-1982,294,131,129,554,June 1982,7.4
-1983,324,144,142,610,December 1983,3.5
-1984,342,151,150,643,December 1984,3.5
-1985,358,159,158,675,December 1985,3.1
-1986,379,169,166,714,December 1986,1.3
-1987,396,175,174,745,December 1987,4.2
-1988,407,181,179,767,December 1988,4.0
-1989,433,193,190,816,December 1989,4.7
-1990,455,201,200,856,December 1990,5.4
-1991,473,209,208,890,December 1991,3.7
-1992,495,219,217,931,December 1992,3.0
-1993,513,227,226,966,December 1993,2.6
-1994,539,240,237,"1,016",December 1994,2.8
-1995,544,241,239,"1,024",December 1995,2.6
-1996,559,247,246,"1,052",December 1996,2.9
-1997,581,258,255,"1,094",December 1997,2.1
-1998,609,271,267,"1,147",December 1998,1.3
-1999,645,286,283,"1,214",December 1999,a 2.
-2000,679,301,298,"1,278",December 2000,3.5
-2001,717,317,315,"1,349",December 2001,2.6
-2002,756,336,332,"1,424",December 2002,1.4
-2003,774,344,340,"1,458",December 2003,2.1
-2004,782,347,343,"1,472",December 2004,2.7
-2005,801,355,352,"1,508",December 2005,4.1
-2006,838,372,368,"1,578",December 2006,3.3
-2007,869,386,381,"1,636",December 2007,2.3
-2008,909,403,399,"1,711",December 2008,5.8
-2009,950,422,417,"1,789",December 2009,0.0
-2010,972,431,427,"1,830",December 2010,0.0
-2011,957,425,421,"1,803",December 2011,3.6
-2012,980,435,430,"1,845",December 2012,1.7
-2013,"1,011",448,444,"1,903",December 2013,1.5
-2014,"1,042",463,457,"1,962",December 2014,1.7
-2015,"1,056",468,463,"1,987",December 2015,--
-,,,,,,"SOURCES: Social Security Act of 1935 (the Act), as amended through December 31, 2014; regulations issued under the Act; and precedential case decisions (rulings). Social Security Administration, ""Cost-of-Living Increase and Other Determinations for 2015,"" Federal Register, vol. 79, no. 209 (October 29, 2014). See the Social Security Program Rules page (https://www.socialsecurity.gov/regulations/index.htm) for specific laws, regulations, rulings, legislation, and a link to the Federal Register."
+Eligibility year,Calculation of maximum family benefit (based on percentage of PIA) (dollars),,,,First applicable cost-of-living adjustment,,0
+,150 percent of the first,Plus 272 percent of the next,Plus 134 percent of the next,Plus 175 percent of the amount above,Effective date,Percentage increase,0
+1979,230,102,101,433,June 1979,9.9,0
+1980,248,110,109,467,June 1980,14.3,0
+1981,270,120,118,508,June 1981,11.2,0
+1982,294,131,129,554,June 1982,7.4,0
+1983,324,144,142,610,December 1983,3.5,0
+1984,342,151,150,643,December 1984,3.5,0
+1985,358,159,158,675,December 1985,3.1,0
+1986,379,169,166,714,December 1986,1.3,0
+1987,396,175,174,745,December 1987,4.2,0
+1988,407,181,179,767,December 1988,4.0,0
+1989,433,193,190,816,December 1989,4.7,0
+1990,455,201,200,856,December 1990,5.4,0
+1991,473,209,208,890,December 1991,3.7,0
+1992,495,219,217,931,December 1992,3.0,0
+1993,513,227,226,966,December 1993,2.6,0
+1994,539,240,237,"1,016",December 1994,2.8,0
+1995,544,241,239,"1,024",December 1995,2.6,0
+1996,559,247,246,"1,052",December 1996,2.9,0
+1997,581,258,255,"1,094",December 1997,2.1,0
+1998,609,271,267,"1,147",December 1998,1.3,0
+1999,645,286,283,"1,214",December 1999,a 2.,0
+2000,679,301,298,"1,278",December 2000,3.5,0
+2001,717,317,315,"1,349",December 2001,2.6,0
+2002,756,336,332,"1,424",December 2002,1.4,0
+2003,774,344,340,"1,458",December 2003,2.1,0
+2004,782,347,343,"1,472",December 2004,2.7,0
+2005,801,355,352,"1,508",December 2005,4.1,0
+2006,838,372,368,"1,578",December 2006,3.3,0
+2007,869,386,381,"1,636",December 2007,2.3,0
+2008,909,403,399,"1,711",December 2008,5.8,0
+2009,950,422,417,"1,789",December 2009,0.0,0
+2010,972,431,427,"1,830",December 2010,0.0,0
+2011,957,425,421,"1,803",December 2011,3.6,0
+2012,980,435,430,"1,845",December 2012,1.7,0
+2013,"1,011",448,444,"1,903",December 2013,1.5,0
+2014,"1,042",463,457,"1,962",December 2014,1.7,0
+2015,"1,056",468,463,"1,987",December 2015,--,0
+,,,,,,"SOURCES: Social Security Act of 1935 (the Act), as amended through December 31, 2014; regulations issued under the Act; and precedential case decisions (rulings). Social Security Administration, ""Cost-of-Living Increase and Other Determinations for 2015,"" Federal Register, vol. 79, no. 209 (October 29, 2014). See the Social Security Program Rules page (https://www.socialsecurity.gov/regulations/index.htm) for specific laws, regulations, rulings, legislation, and a link to the Federal Register.",0
 ,,,,,,"NOTES: The 1977 amendments provided for annual automatic adjustments of bend points (PIA brackets) in the maximum family benefit formula in proportion to increases in the average wage level. As a result, separate formulas are applicable to workers first eligible in successive calendar years.
           Eligible workers are those who attained age 62 or died in the given year.
 -- = not available.
-"
-,,,,,,"a. The cost-of-living adjustment (COLA) for December 1999 was originally determined to be 2.4 percent, based on the Consumer Price Index (CPI). The underlying CPI was later recomputed by the Bureau of Labor Statistics; a 2.5 percent COLA would have been consistent with the recomputed CPI. Pursuant to Public Law 106-554, benefits were calculated and paid in August 2001 and later as if the COLA for December 1999 had been 2.5 percent. Affected beneficiaries received a one-time payment to cover the shortfall that occurred before August 2001."
-,,,,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.
+",0
+,,,,,,"a. The cost-of-living adjustment (COLA) for December 1999 was originally determined to be 2.4 percent, based on the Consumer Price Index (CPI). The underlying CPI was later recomputed by the Bureau of Labor Statistics; a 2.5 percent COLA would have been consistent with the recomputed CPI. Pursuant to Public Law 106-554, benefits were calculated and paid in August 2001 and later as if the COLA for December 1999 had been 2.5 percent. Affected beneficiaries received a one-time payment to cover the shortfall that occurred before August 2001.",0
+,,,,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.,0

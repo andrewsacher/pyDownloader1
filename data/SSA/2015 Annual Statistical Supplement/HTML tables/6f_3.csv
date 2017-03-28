@@ -1,22 +1,22 @@
-Reason for termination,Wives and husbands of—,,Children under age 18 of—,,,Disabled adult children of—,,,Students aged 18–19 of—,,
-,Retired workers,Disabled workers,Retired workers,Deceased workers,Disabled workers,Retired workers,Deceased workers,Disabled workers,Retired workers,Deceased workers,Disabled workers
-Total,"210,217","34,111","66,583","178,042","317,905","8,616","25,338","17,095","40,892","114,774","119,781"
-Death of beneficiary,"69,097","1,953",141,562,694,"5,883","20,836","1,074",16,55,49
-Death of worker,"110,280","4,243",59,. . .,"35,075",. . .,. . .,"3,960",. . .,. . .,"1,290"
-Attainment of—, ,,,,,,,,,,
-Age 16 by child,"5,964","9,229",. . .,. . .,. . .,. . .,. . .,. . .,. . .,. . .,. . .
-Age 18 by child,. . .,. . .,"64,478","176,956","237,471",. . .,. . .,. . .,. . .,. . .,. . .
-Maximum age as a student,. . .,. . .,. . .,. . .,. . .,. . .,. . .,. . .,"8,065","26,798","24,546"
-FRA by disabled worker,. . .,"14,572",. . .,. . .,"9,713",. . .,. . .,"7,800",. . .,. . .,519
-"Marriage, remarriage, or divorce of beneficiary",785,"1,261",154,177,909,776,"1,359","1,131",23,78,130
-Entitlement to an equal or larger Social Security benefit,"21,391","1,160","1,577",77,127,734,121,39,104,5,3
-Does not meet medical standards , ,,,,,,,,,,
-Disabled worker,. . .,"1,383",. . .,. . .,"31,386",. . .,. . .,"1,322",. . .,. . .,508
-Disabled adult child,. . .,. . .,. . .,. . .,. . .,"1,037","2,702","1,543",. . .,. . .,. . .
-Student no longer attending school,. . .,. . .,. . .,. . .,. . .,. . .,. . .,. . .,"32,677","87,828","92,699"
-Other,"2,700",310,174,270,"2,530",186,320,226,7,10,37
-,,,,,,,,,,,"SOURCE: Social Security Administration, Master Beneficiary Record, 100 percent data."
-,,,,,,,,,,,"NOTES: Because of differences in data sources and calculation methods, statistics reported in this table may differ from those reported by the Office of the Chief Actuary."
-,,,,,,,,,,,. . . = not applicable; FRA = full retirement age.
-,,,,,,,,,,,a. Excludes disabled beneficiaries whose monthly benefits have been suspended because of their ability to engage in substantial gainful activity. These persons continue to be eligible for Medicare for a 3-year period.
-,,,,,,,,,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.
+Reason for termination,Wives and husbands of—,,Children under age 18 of—,,,Disabled adult children of—,,,Students aged 18–19 of—,,,0
+,Retired workers,Disabled workers,Retired workers,Deceased workers,Disabled workers,Retired workers,Deceased workers,Disabled workers,Retired workers,Deceased workers,Disabled workers,0
+Total,"210,217","34,111","66,583","178,042","317,905","8,616","25,338","17,095","40,892","114,774","119,781",2
+Death of beneficiary,"69,097","1,953",141,562,694,"5,883","20,836","1,074",16,55,49,0
+Death of worker,"110,280","4,243",59,. . .,"35,075",. . .,. . .,"3,960",. . .,. . .,"1,290",0
+Attainment of—, ,,,,,,,,,,,0
+Age 16 by child,"5,964","9,229",. . .,. . .,. . .,. . .,. . .,. . .,. . .,. . .,. . .,1
+Age 18 by child,. . .,. . .,"64,478","176,956","237,471",. . .,. . .,. . .,. . .,. . .,. . .,1
+Maximum age as a student,. . .,. . .,. . .,. . .,. . .,. . .,. . .,. . .,"8,065","26,798","24,546",1
+FRA by disabled worker,. . .,"14,572",. . .,. . .,"9,713",. . .,. . .,"7,800",. . .,. . .,519,1
+"Marriage, remarriage, or divorce of beneficiary",785,"1,261",154,177,909,776,"1,359","1,131",23,78,130,0
+Entitlement to an equal or larger Social Security benefit,"21,391","1,160","1,577",77,127,734,121,39,104,5,3,0
+Does not meet medical standards , ,,,,,,,,,,,0
+Disabled worker,. . .,"1,383",. . .,. . .,"31,386",. . .,. . .,"1,322",. . .,. . .,508,1
+Disabled adult child,. . .,. . .,. . .,. . .,. . .,"1,037","2,702","1,543",. . .,. . .,. . .,1
+Student no longer attending school,. . .,. . .,. . .,. . .,. . .,. . .,. . .,. . .,"32,677","87,828","92,699",0
+Other,"2,700",310,174,270,"2,530",186,320,226,7,10,37,0
+,,,,,,,,,,,"SOURCE: Social Security Administration, Master Beneficiary Record, 100 percent data.",0
+,,,,,,,,,,,"NOTES: Because of differences in data sources and calculation methods, statistics reported in this table may differ from those reported by the Office of the Chief Actuary.",0
+,,,,,,,,,,,. . . = not applicable; FRA = full retirement age.,0
+,,,,,,,,,,,a. Excludes disabled beneficiaries whose monthly benefits have been suspended because of their ability to engage in substantial gainful activity. These persons continue to be eligible for Medicare for a 3-year period.,0
+,,,,,,,,,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.,0

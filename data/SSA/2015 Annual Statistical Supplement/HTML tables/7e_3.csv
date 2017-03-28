@@ -1,14 +1,14 @@
-Category and age,Number,,,Percentage distribution,,
-,Total,With representative payee,Without representative payee,Total,With representative payee,Without representative payee
-Total,"8,335,704","3,153,966","5,181,738",100.0,37.8,62.2
-Category, ,,,,,
-Aged,"1,151,940","53,463","1,098,477",100.0,4.6,95.4
-Blind,"67,383","19,839","47,544",100.0,29.4,70.6
-Disabled,"7,116,381","3,080,664","4,035,717",100.0,43.3,56.7
-Age, ,,,,,
-Under 18,"1,299,761","1,298,826",935,100.0,99.9,0.1
-18–64,"4,913,072","1,658,536","3,254,536",100.0,33.8,66.2
-65 or older ,"2,122,871","196,604","1,926,267",100.0,9.3,90.7
-,,,,,,"SOURCE: Social Security Administration, Supplemental Security Record, 100 percent data."
-,,,,,,a. Includes blind persons and disabled persons aged 65 or older.
-,,,,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.
+Category and age,Number,,,Percentage distribution,,,0
+,Total,With representative payee,Without representative payee,Total,With representative payee,Without representative payee,0
+Total,"8,335,704","3,153,966","5,181,738",100.0,37.8,62.2,2
+Category, ,,,,,,0
+Aged,"1,151,940","53,463","1,098,477",100.0,4.6,95.4,1
+Blind,"67,383","19,839","47,544",100.0,29.4,70.6,1
+Disabled,"7,116,381","3,080,664","4,035,717",100.0,43.3,56.7,1
+Age, ,,,,,,0
+Under 18,"1,299,761","1,298,826",935,100.0,99.9,0.1,1
+18–64,"4,913,072","1,658,536","3,254,536",100.0,33.8,66.2,1
+65 or older ,"2,122,871","196,604","1,926,267",100.0,9.3,90.7,1
+,,,,,,"SOURCE: Social Security Administration, Supplemental Security Record, 100 percent data.",0
+,,,,,,a. Includes blind persons and disabled persons aged 65 or older.,0
+,,,,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.,0

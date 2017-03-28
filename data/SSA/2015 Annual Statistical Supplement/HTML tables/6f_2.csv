@@ -1,22 +1,22 @@
-Reason for termination,All benefits,Retired workers,Disabled workers,Wives and husbands,Children,Widowed mothers and fathers,Widow(er)s and parents
-Total,"3,975,592","1,629,622","779,229","244,328","889,026","32,198","401,189"
-Death of beneficiary,"2,241,325","1,549,111","252,813","71,050","29,310",784,"338,257"
-Death of worker,"154,907",. . .,. . .,"114,523","40,384",. . .,. . .
-Attainment of—, ,,,,,,
-Age 16 by child,"38,745",. . .,. . .,"15,193",. . .,"23,552",. . .
-Age 18 by child,"478,905",. . .,. . .,. . .,"478,905",. . .,. . .
-Maximum age as a student,"59,409",. . .,. . .,. . .,"59,409",. . .,. . .
-FRA by disabled worker,"483,224",. . .,"450,620","14,572","18,032",. . .,. . .
-FRA by disabled widow(er),"10,406",. . .,. . .,. . .,. . .,. . .,"10,406"
-"Marriage, remarriage, or divorce of beneficiary","11,824",. . .,. . .,"2,046","4,737","5,041",0
-Entitlement to an equal or larger Social Security benefit,"142,459","62,740","1,913","22,551","2,787","2,002","50,466"
-Does not meet medical standards , ,,,,,,
-Disabled worker or widow(er),"103,685",. . .,"68,835","1,383","33,216",. . .,251
-Disabled adult child,"5,282",. . .,. . .,. . .,"5,282",. . .,. . .
-Student no longer attending school,"213,204",. . .,. . .,. . .,"213,204",. . .,. . .
-Other,"32,217","17,771","5,048","3,010","3,760",819,"1,809"
-,,,,,,,"SOURCE: Social Security Administration, Master Beneficiary Record, 100 percent data."
-,,,,,,,"NOTES: Because of differences in data sources and calculation methods, statistics reported in this table may differ from those reported by the Office of the Chief Actuary."
-,,,,,,,. . . = not applicable; FRA = full retirement age.
-,,,,,,,a. Excludes disabled beneficiaries whose monthly benefits have been suspended because of their ability to engage in substantial gainful activity. These persons continue to be eligible for Medicare for a 3-year period.
-,,,,,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.
+Reason for termination,All benefits,Retired workers,Disabled workers,Wives and husbands,Children,Widowed mothers and fathers,Widow(er)s and parents,0
+Total,"3,975,592","1,629,622","779,229","244,328","889,026","32,198","401,189",2
+Death of beneficiary,"2,241,325","1,549,111","252,813","71,050","29,310",784,"338,257",0
+Death of worker,"154,907",. . .,. . .,"114,523","40,384",. . .,. . .,0
+Attainment of—, ,,,,,,,0
+Age 16 by child,"38,745",. . .,. . .,"15,193",. . .,"23,552",. . .,1
+Age 18 by child,"478,905",. . .,. . .,. . .,"478,905",. . .,. . .,1
+Maximum age as a student,"59,409",. . .,. . .,. . .,"59,409",. . .,. . .,1
+FRA by disabled worker,"483,224",. . .,"450,620","14,572","18,032",. . .,. . .,1
+FRA by disabled widow(er),"10,406",. . .,. . .,. . .,. . .,. . .,"10,406",1
+"Marriage, remarriage, or divorce of beneficiary","11,824",. . .,. . .,"2,046","4,737","5,041",0,0
+Entitlement to an equal or larger Social Security benefit,"142,459","62,740","1,913","22,551","2,787","2,002","50,466",0
+Does not meet medical standards , ,,,,,,,0
+Disabled worker or widow(er),"103,685",. . .,"68,835","1,383","33,216",. . .,251,1
+Disabled adult child,"5,282",. . .,. . .,. . .,"5,282",. . .,. . .,1
+Student no longer attending school,"213,204",. . .,. . .,. . .,"213,204",. . .,. . .,0
+Other,"32,217","17,771","5,048","3,010","3,760",819,"1,809",0
+,,,,,,,"SOURCE: Social Security Administration, Master Beneficiary Record, 100 percent data.",0
+,,,,,,,"NOTES: Because of differences in data sources and calculation methods, statistics reported in this table may differ from those reported by the Office of the Chief Actuary.",0
+,,,,,,,. . . = not applicable; FRA = full retirement age.,0
+,,,,,,,a. Excludes disabled beneficiaries whose monthly benefits have been suspended because of their ability to engage in substantial gainful activity. These persons continue to be eligible for Medicare for a 3-year period.,0
+,,,,,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.,0

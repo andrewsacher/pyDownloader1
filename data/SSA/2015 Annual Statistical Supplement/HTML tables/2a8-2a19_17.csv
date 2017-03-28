@@ -1,19 +1,19 @@
-Year of birth ,Year of attainment of age 60,Year of attainment of age 65,Full retirement age,Maximum reduction months,Monthly reduction 
-1939 or earlier,1999 and earlier,2004 and earlier,65 years,60,0.475
-1940,2000,2005,65 years and 2 months,62,0.460
-1941,2001,2006,65 years and 4 months,64,0.445
-1942,2002,2007,65 years and 6 months,66,0.432
-1943,2003,2008,65 years and 8 months,68,0.419
-1944,2004,2009,65 years and 10 months,70,0.407
-1945–1956,2005–2016,2010–2021,66 years,72,0.396
-1957,2017,2022,66 years and 2 months,74,0.385
-1958,2018,2023,66 years and 4 months,76,0.375
-1959,2019,2024,66 years and 6 months,78,0.365
-1960,2020,2025,66 years and 8 months,80,0.356
-1961,2021,2026,66 years and 10 months,82,0.348
-1962 or later,2022 and later,2027 and later,67 years,84,0.339
-,,,,,"SOURCES: Social Security Act of 1935 (the Act), as amended through December 31, 2014; regulations issued under the Act; and precedential case decisions (rulings). See the Social Security Program Rules page (https://www.socialsecurity.gov/regulations/index.htm) for specific laws, regulations, rulings, legislation, and a link to the Federal Register."
-,,,,,"NOTES: Widows and widowers can elect reduced monthly benefits at age 60 or, if disabled, as early as age 50. Surviving divorced spouses can also receive benefits if married to the worker for at least 10 years and not remarried before age 60 (age 50 if disabled)."
-,,,,,"a. If birthday is January 1, refer to previous year."
-,,,,,"b. Monthly reduction percentages are approximate due to rounding. For survivors whose full retirement age (FRA) is 65, the monthly rate of reduction for the first 60 months immediately preceding FRA is 19/40 of 1 percent of the worker's primary insurance amount (PIA), with a maximum reduction of 28.5 percent at age 60. For survivors whose FRA is older than 65, the amount of reduction for each month prior to FRA is adjusted accordingly to ensure that the maximum reduction at age 60 remains 28.5 percent of the worker's PIA."
-,,,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.
+Year of birth ,Year of attainment of age 60,Year of attainment of age 65,Full retirement age,Maximum reduction months,Monthly reduction ,0
+1939 or earlier,1999 and earlier,2004 and earlier,65 years,60,0.475,0
+1940,2000,2005,65 years and 2 months,62,0.460,0
+1941,2001,2006,65 years and 4 months,64,0.445,0
+1942,2002,2007,65 years and 6 months,66,0.432,0
+1943,2003,2008,65 years and 8 months,68,0.419,0
+1944,2004,2009,65 years and 10 months,70,0.407,0
+1945–1956,2005–2016,2010–2021,66 years,72,0.396,0
+1957,2017,2022,66 years and 2 months,74,0.385,0
+1958,2018,2023,66 years and 4 months,76,0.375,0
+1959,2019,2024,66 years and 6 months,78,0.365,0
+1960,2020,2025,66 years and 8 months,80,0.356,0
+1961,2021,2026,66 years and 10 months,82,0.348,0
+1962 or later,2022 and later,2027 and later,67 years,84,0.339,0
+,,,,,"SOURCES: Social Security Act of 1935 (the Act), as amended through December 31, 2014; regulations issued under the Act; and precedential case decisions (rulings). See the Social Security Program Rules page (https://www.socialsecurity.gov/regulations/index.htm) for specific laws, regulations, rulings, legislation, and a link to the Federal Register.",0
+,,,,,"NOTES: Widows and widowers can elect reduced monthly benefits at age 60 or, if disabled, as early as age 50. Surviving divorced spouses can also receive benefits if married to the worker for at least 10 years and not remarried before age 60 (age 50 if disabled).",0
+,,,,,"a. If birthday is January 1, refer to previous year.",0
+,,,,,"b. Monthly reduction percentages are approximate due to rounding. For survivors whose full retirement age (FRA) is 65, the monthly rate of reduction for the first 60 months immediately preceding FRA is 19/40 of 1 percent of the worker's primary insurance amount (PIA), with a maximum reduction of 28.5 percent at age 60. For survivors whose FRA is older than 65, the amount of reduction for each month prior to FRA is adjusted accordingly to ensure that the maximum reduction at age 60 remains 28.5 percent of the worker's PIA.",0
+,,,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.,0
