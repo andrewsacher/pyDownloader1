@@ -1,15 +1,15 @@
-Living arrangement ,Number,Category,,,Age,,,0
-,,Aged,Blind,Disabled,Under 18,18–64,65 or older ,0
-Total, ,,,,,,,1
-Number,"8,335,704","1,151,940","67,383","7,116,381","1,299,761","4,913,072","2,122,871",2
-Percent,100.0,100.0,100.0,100.0,100.0,100.0,100.0,2
-Own household,94.2,90.5,92.9,94.8,95.9,94.4,92.8,0
-Another's household,4.2,8.0,5.3,3.6,3.1,4.2,5.0,0
-Institutional care covered by Medicaid,1.5,1.4,1.8,1.5,1.0,1.3,2.2,0
-Unknown,0.1,0.1,(L),0.1,(L),0.1,(L),0
-,,,,,,,"SOURCE: Social Security Administration, Supplemental Security Record, 100 percent data.",0
-,,,,,,,NOTES: Totals do not necessarily equal the sum of rounded components.,0
-,,,,,,,(L) = less than 0.05 percent.,0
-,,,,,,,a. As defined for determination of federal SSI payment standards.,0
-,,,,,,,b. Includes blind persons and disabled persons aged 65 or older.,0
-,,,,,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.,0
+Living arrangement ,Number,Category,,,Age,,
+,,Aged,Blind,Disabled,Under 18,18–64,65 or older 
+Total, ,,,,,,
+Number,"8,335,704","1,151,940","67,383","7,116,381","1,299,761","4,913,072","2,122,871"
+Percent,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+Own household,94.2,90.5,92.9,94.8,95.9,94.4,92.8
+Another's household,4.2,8.0,5.3,3.6,3.1,4.2,5.0
+Institutional care covered by Medicaid,1.5,1.4,1.8,1.5,1.0,1.3,2.2
+Unknown,0.1,0.1,(L),0.1,(L),0.1,(L)
+"SOURCE: Social Security Administration, Supplemental Security Record, 100 percent data.",,,,,,,
+NOTES: Totals do not necessarily equal the sum of rounded components.,,,,,,,
+(L) = less than 0.05 percent.,,,,,,,
+a. As defined for determination of federal SSI payment standards.,,,,,,,
+b. Includes blind persons and disabled persons aged 65 or older.,,,,,,,
+CONTACT: (410) 965-0090 or statistics@ssa.gov.,,,,,,,

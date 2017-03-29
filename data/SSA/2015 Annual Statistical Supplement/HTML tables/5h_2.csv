@@ -1,57 +1,62 @@
-Family group,Number (thousands),Average primary insurance amount (dollars),Average monthly family benefit (dollars),Families,Beneficiaries
-,Retired-worker families,,,,
-Worker only,36294,36294,1373.52,1316.91,
-Men,17057,17057,1665.70,1484.19,
-Full benefit,5050,5050,1723.53,1767.03,
-Reduced benefit,12007,12007,1641.38,1365.23,
-Women,19236,19236,1114.43,1168.57,
-Full benefit,4832,4832,1206.00,1364.29,
-Reduced benefit,14405,14405,1083.72,1102.93,
-Worker and wife,2078,4162,1669.82,2209.42,
-Full worker benefit,767,1537,1714.21,2512.70,
-Reduced worker benefit,1311,2626,1643.85,2032.02,
-Worker and husband,96,193,1065.75,1482.09,
-Worker and children,446,973,1563.77,2176.09,
-Male worker,372,813,1626.02,2260.23,
-Full worker benefit,111,241,1697.73,2586.00,
-Reduced worker benefit,261,573,1595.58,2121.92,
-Female worker,74,159,1251.63,1754.23,
-Full worker benefit,21,45,1285.51,1987.83,
-Reduced worker benefit,53,115,1238.21,1661.74,
-"Worker, wife, and children",84,273,1677.53,2747.26,
-"Worker, wife, and 1 child",70,210,1688.35,2747.97,
-Full worker benefit,23,68,1731.78,3057.98,
-Reduced worker benefit,47,142,1667.49,2599.05,
-"Worker, wife, and 2 or more children",14,62,1624.23,2743.74,
-Full worker benefit,4,19,1719.77,3182.11,
-Reduced worker benefit,10,43,1581.07,2545.72,
-,Survivor families,,,,
-Nondisabled widow(er) only,3661,3661,1528.52,1273.71,
-Full benefit,1455,1455,1465.28,1362.61,
-Reduced benefit,2206,2206,1570.23,1215.08,
-Nondisabled widow(er) and children,89,185,1433.48,2208.61,
-Full benefit,46,95,1381.25,2253.27,
-Reduced benefit,43,90,1489.16,2161.00,
-Disabled widow(er) only,232,232,1481.99,723.69,
-Widowed mother or father and children,141,373,1458.59,2339.55,
-1 child,78,158,1438.59,2149.49,
-2 children,44,133,1520.61,2644.62,
-3 or more children,19,82,1395.39,2415.33,
-Children only,1076,1417,1165.63,1062.89,
-1 child,829,829,1170.53,851.85,
-2 children,179,357,1166.27,1736.25,
-3 or more children,68,230,1104.51,1864.63,
-Parents,1,1,1396.08,1308.35,
-,Disabled-worker families,,,,
-Worker only,7706,7706,1151.67,1147.48,
-Men,3835,3835,1281.46,1275.98,
-Women,3871,3871,1023.08,1020.16,
-Worker and spouse a,83,165,1737.88,2103.50,
-Worker and children,1099,2781,1240.78,1788.43,
-Male worker,652,1662,1316.74,1920.18,
-Female worker,447,1119,1130.00,1596.28,
-"Worker, wife, and children",62,246,1361.05,2008.42,
-1 child,28,83,1397.72,2066.82,
-2 or more children,37,171,1322.95,1946.53,
-"Worker, husband, and children",2,8,1175.76,1691.53,
-"SOURCE: Social Security Administration, Master Beneficiary Record, 100 percent data.","NOTES: The term ""full benefit"" applies to benefits not subject to actuarial reduction, and the term ""reduced benefit"" applies to benefits subject to actuarial reduction.",Totals do not necessarily equal the sum of rounded components.,"a. Where the disabled worker's spouse is dually entitled as a retired worker, the benefit amount shown for the spouse represents the difference between the entitlement amount as a spouse and as a retired worker.",CONTACT: (410) 965-0090 or statistics@ssa.gov.,
+Family group,Number (thousands),,Average primary insurance amount (dollars),Average monthly family benefit (dollars)
+,Families,Beneficiaries,,
+ ,Retired-worker families,,,
+Worker only,"36,294","36,294","1,373.52","1,316.91"
+Men,"17,057","17,057","1,665.70","1,484.19"
+Full benefit,"5,050","5,050","1,723.53","1,767.03"
+Reduced benefit,"12,007","12,007","1,641.38","1,365.23"
+Women,"19,236","19,236","1,114.43","1,168.57"
+Full benefit,"4,832","4,832","1,206.00","1,364.29"
+Reduced benefit,"14,405","14,405","1,083.72","1,102.93"
+Worker and wife,"2,078","4,162","1,669.82","2,209.42"
+Full worker benefit,767,"1,537","1,714.21","2,512.70"
+Reduced worker benefit,"1,311","2,626","1,643.85","2,032.02"
+Worker and husband,96,193,"1,065.75","1,482.09"
+Worker and children,446,973,"1,563.77","2,176.09"
+Male worker,372,813,"1,626.02","2,260.23"
+Full worker benefit,111,241,"1,697.73","2,586.00"
+Reduced worker benefit,261,573,"1,595.58","2,121.92"
+Female worker,74,159,"1,251.63","1,754.23"
+Full worker benefit,21,45,"1,285.51","1,987.83"
+Reduced worker benefit,53,115,"1,238.21","1,661.74"
+"Worker, wife, and children",84,273,"1,677.53","2,747.26"
+"Worker, wife, and 1 child",70,210,"1,688.35","2,747.97"
+Full worker benefit,23,68,"1,731.78","3,057.98"
+Reduced worker benefit,47,142,"1,667.49","2,599.05"
+"Worker, wife, and 2 or more children",14,62,"1,624.23","2,743.74"
+Full worker benefit,4,19,"1,719.77","3,182.11"
+Reduced worker benefit,10,43,"1,581.07","2,545.72"
+ ,Survivor families,,,
+Nondisabled widow(er) only,"3,661","3,661","1,528.52","1,273.71"
+Full benefit,"1,455","1,455","1,465.28","1,362.61"
+Reduced benefit,"2,206","2,206","1,570.23","1,215.08"
+Nondisabled widow(er) and children,89,185,"1,433.48","2,208.61"
+Full benefit,46,95,"1,381.25","2,253.27"
+Reduced benefit,43,90,"1,489.16","2,161.00"
+Disabled widow(er) only,232,232,"1,481.99",723.69
+Widowed mother or father and children,141,373,"1,458.59","2,339.55"
+1 child,78,158,"1,438.59","2,149.49"
+2 children,44,133,"1,520.61","2,644.62"
+3 or more children,19,82,"1,395.39","2,415.33"
+Children only,"1,076","1,417","1,165.63","1,062.89"
+1 child,829,829,"1,170.53",851.85
+2 children,179,357,"1,166.27","1,736.25"
+3 or more children,68,230,"1,104.51","1,864.63"
+Parents,1,1,"1,396.08","1,308.35"
+ ,Disabled-worker families,,,
+Worker only,"7,706","7,706","1,151.67","1,147.48"
+Men,"3,835","3,835","1,281.46","1,275.98"
+Women,"3,871","3,871","1,023.08","1,020.16"
+Worker and spouse ,83,165,"1,737.88","2,103.50"
+Worker and children,"1,099","2,781","1,240.78","1,788.43"
+Male worker,652,"1,662","1,316.74","1,920.18"
+Female worker,447,"1,119","1,130.00","1,596.28"
+"Worker, wife, and children",62,246,"1,361.05","2,008.42"
+1 child,28,83,"1,397.72","2,066.82"
+2 or more children,37,171,"1,322.95","1,946.53"
+"Worker, husband, and children",2,8,"1,175.76","1,691.53"
+"SOURCE: Social Security Administration, Master Beneficiary Record, 100 percent data.",,,,
+"NOTES: The term ""full benefit"" applies to benefits not subject to actuarial reduction, and the term ""reduced benefit"" applies to benefits subject to actuarial reduction.",,,,
+Totals do not necessarily equal the sum of rounded components.,,,,
+"a. Where the disabled worker's spouse is dually entitled as a retired worker, the benefit amount shown for the spouse represents the difference between the entitlement amount as a spouse and as a retired worker.",,,,
+CONTACT: (410) 965-0090 or statistics@ssa.gov.,,,,

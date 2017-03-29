@@ -1,55 +1,55 @@
-,,STEP 1.—Determining the Number of Computation Years,0
-1,Number of Computation Years.,35,0
-,,STEP 2.—Indexing of Earnings (Use Worksheet 1 for Steps 2 and 3.),0
-2,"Enter in column 2 your earnings in each year 1954 through 2014. If none, enter “0.”", ,0
-3,Column 3 contains the maximum earnings creditable under Social Security for each year., ,0
-4,Enter in column 4 the lower amount from columns 2 or 3 for each year., ,0
-5,Enter in column 5 the indexing factors applicable to the year you attained age 62 from Table 2.A8. (This table contains the indexing factors for persons attaining age 62 during the period 2000–2015.), ,0
-6,Multiply column 4 by column 5 and enter results in column 6 in dollars and cents. These are your indexed earnings., ,0
-,,STEP 3.—Computing the Average Indexed Monthly Earnings (AIME),0
-7,Enter the number of computation years from line 1.,35,0
-8,Place an “X” in column 7 next to each of the 35 highest indexed earnings entries., ,0
-9,Add all individual indexed earnings marked with an “X.”, ,0
-10,Number of months in the computation period.,420,0
-11,Divide line 9 by line 10., ,0
-12,Round the result in line 11 to the next lower dollar. This is your average indexed monthly earnings (AIME)., ,0
-,,STEP 4.—Computing the Primary Insurance Amount (PIA) (Use Worksheet 2 for Step 4.),0
-13,"Enter first bend point from Worksheet 2 based on year of attainment of age 62. (If your birthday is January 1, enter prior year.)", ,0
-14,Enter second bend point from Worksheet 2., ,0
-15,"If your AIME (obtained in line 12) is equal to or less than line 13, complete line 16, otherwise skip to line 17.", ,0
-16,"Multiply line 12 by 0.9. (If you receive a pension on the basis of noncovered employment, see Table 2.A11.1.) Round to next lower dime to obtain your PIA at age 62. Continue with line 26.", ,0
-17,"If your AIME (obtained in line 12) is greater than line 13 but less than or equal to line 14, complete lines 18–20, otherwise skip to line 21.", ,0
-18,"Multiply line 13 by 0.9. (If you receive a pension on the basis of noncovered employment, see Table 2.A11.1.)", ,0
-19,Subtract line 13 from line 12 then multiply by 0.32., ,0
-20,"Add line 18 to line 19, and round to next lower dime to obtain your PIA at age 62. Continue with line 26.", ,0
-21,"If your AIME (obtained in line 12) is greater than line 14, complete lines 22–25.", ,0
-22,"Multiply line 13 by 0.9. (If you receive a pension on the basis of noncovered employment, see Table 2.A11.1.)", ,0
-23,Subtract line 13 from line 14 then multiply by 0.32., ,0
-24,Subtract line 14 from line 12 then multiply by 0.15., ,0
-25,"Add lines 22, 23, and 24, and round to the next lower dime to obtain your PIA at age 62. Continue with line 26.", ,0
-26,"If you attained age 62 in 2015, skip to line 32. Otherwise you will need to adjust your PIA to reflect cost-of-living adjustments (COLAs) from the year you attained age 62 through 2014 by using lines 27–31 and Worksheet 2.", ,0
-27,Enter year of attainment of age 62., ,0
-28,Place an “X” corresponding to the year you attained age 62 in column 5 (Worksheet 2)., ,0
-29,Place an “X” in column 5 (Worksheet 2) next to each subsequent year through 2014., ,0
-30,"Enter your PIA at age 62 from either line 16, 20, or 25—here and in the first row of column 6 (Worksheet 2).", ,0
-31,"Beginning with first year marked, multiply your PIA at age 62 by the corresponding factor (column 4), round to the next lower dime, and enter in column 6. The resulting PIA is then multiplied by the next factor and is again rounded to the next lower dime. Continue this process through 2014. Enter this last figure, which is your current PIA.", ,0
-,,STEP 5.—Computing the Monthly Benefit,0
-32,"Enter your current PIA from either line 16, 20, 25, or 31.", ,0
-33,"Using Table 2.A17.1, determine your full retirement age and enter here.", ,0
-34,"If you retired at your full retirement age, round the PIA from line 32 to the next lower dollar to obtain your monthly benefit. If you retired before the full retirement age, skip to line 35. If you retired after the full retirement age, skip to line 45.", ,0
-35,"If you retired before the full retirement age, enter your age at retirement in years and months, and complete lines 36–44.", ,0
-36,"Subtract line 35 from line 33, and convert the result to months to determine the total number of reduction months.", ,0
-37,"If line 36 is greater than 36 reduction months, subtract 36 months and enter the result here.", ,0
-38,“0.0055556” (the decimal equivalent of 5/9 of 1 percent—the monthly reduction factor for the first 36 months) has been entered.,0.0055556,0
-39,“0.0041667” (the decimal equivalent of 5/12 of 1 percent—the monthly reduction factor for months above 36) has been entered.,0.0041667,0
-40,Multiply line 36 (but not more than 36 months) by line 38 to obtain the percent reduction for the first 36 months., ,0
-41,Multiply line 37 by line 39 to obtain the percent reduction for months in excess of 36., ,0
-42,Add line 40 to line 41 to obtain the total percent reduction., ,0
-43,Multiply line 32 by line 42 to obtain the amount of benefit reduction., ,0
-44,"Subtract line 43 from line 32, and round to the next lower dollar to obtain your monthly benefit.", ,0
-45,"If you retired (or plan to retire) after the full retirement age, enter your actual (or planned) age at retirement in years and months, and complete lines 46–50. If you worked (or plan to work) after attaining age 70, enter “70 years 0 months.”", ,0
-46,"Subtract line 33 from line 45, and convert the result to months to determine the total number of delayed months.", ,0
-47,“0.006667” (the decimal equivalent of 16/24 of 1 percent—the monthly percentage increase for persons born 1943 or later) has been entered.,0.006667,0
-48,Multiply line 46 by line 47 to obtain the total percent increase., ,0
-49,Multiply line 32 by line 48 to obtain the amount of benefit increase., ,0
-50,"Add line 32 to line 49, and round to the next lower dollar to obtain your monthly benefit.", ,0
+STEP 1.—Determining the Number of Computation Years,,
+1,Number of Computation Years.,35
+STEP 2.—Indexing of Earnings (Use Worksheet 1 for Steps 2 and 3.),,
+2,"Enter in column 2 your earnings in each year 1954 through 2014. If none, enter “0.”", 
+3,Column 3 contains the maximum earnings creditable under Social Security for each year., 
+4,Enter in column 4 the lower amount from columns 2 or 3 for each year., 
+5,Enter in column 5 the indexing factors applicable to the year you attained age 62 from Table 2.A8. (This table contains the indexing factors for persons attaining age 62 during the period 2000–2015.), 
+6,Multiply column 4 by column 5 and enter results in column 6 in dollars and cents. These are your indexed earnings., 
+STEP 3.—Computing the Average Indexed Monthly Earnings (AIME),,
+7,Enter the number of computation years from line 1.,35
+8,Place an “X” in column 7 next to each of the 35 highest indexed earnings entries., 
+9,Add all individual indexed earnings marked with an “X.”, 
+10,Number of months in the computation period.,420
+11,Divide line 9 by line 10., 
+12,Round the result in line 11 to the next lower dollar. This is your average indexed monthly earnings (AIME)., 
+STEP 4.—Computing the Primary Insurance Amount (PIA) (Use Worksheet 2 for Step 4.),,
+13,"Enter first bend point from Worksheet 2 based on year of attainment of age 62. (If your birthday is January 1, enter prior year.)", 
+14,Enter second bend point from Worksheet 2., 
+15,"If your AIME (obtained in line 12) is equal to or less than line 13, complete line 16, otherwise skip to line 17.", 
+16,"Multiply line 12 by 0.9. (If you receive a pension on the basis of noncovered employment, see Table 2.A11.1.) Round to next lower dime to obtain your PIA at age 62. Continue with line 26.", 
+17,"If your AIME (obtained in line 12) is greater than line 13 but less than or equal to line 14, complete lines 18–20, otherwise skip to line 21.", 
+18,"Multiply line 13 by 0.9. (If you receive a pension on the basis of noncovered employment, see Table 2.A11.1.)", 
+19,Subtract line 13 from line 12 then multiply by 0.32., 
+20,"Add line 18 to line 19, and round to next lower dime to obtain your PIA at age 62. Continue with line 26.", 
+21,"If your AIME (obtained in line 12) is greater than line 14, complete lines 22–25.", 
+22,"Multiply line 13 by 0.9. (If you receive a pension on the basis of noncovered employment, see Table 2.A11.1.)", 
+23,Subtract line 13 from line 14 then multiply by 0.32., 
+24,Subtract line 14 from line 12 then multiply by 0.15., 
+25,"Add lines 22, 23, and 24, and round to the next lower dime to obtain your PIA at age 62. Continue with line 26.", 
+26,"If you attained age 62 in 2015, skip to line 32. Otherwise you will need to adjust your PIA to reflect cost-of-living adjustments (COLAs) from the year you attained age 62 through 2014 by using lines 27–31 and Worksheet 2.", 
+27,Enter year of attainment of age 62., 
+28,Place an “X” corresponding to the year you attained age 62 in column 5 (Worksheet 2)., 
+29,Place an “X” in column 5 (Worksheet 2) next to each subsequent year through 2014., 
+30,"Enter your PIA at age 62 from either line 16, 20, or 25—here and in the first row of column 6 (Worksheet 2).", 
+31,"Beginning with first year marked, multiply your PIA at age 62 by the corresponding factor (column 4), round to the next lower dime, and enter in column 6. The resulting PIA is then multiplied by the next factor and is again rounded to the next lower dime. Continue this process through 2014. Enter this last figure, which is your current PIA.", 
+STEP 5.—Computing the Monthly Benefit,,
+32,"Enter your current PIA from either line 16, 20, 25, or 31.", 
+33,"Using Table 2.A17.1, determine your full retirement age and enter here.", 
+34,"If you retired at your full retirement age, round the PIA from line 32 to the next lower dollar to obtain your monthly benefit. If you retired before the full retirement age, skip to line 35. If you retired after the full retirement age, skip to line 45.", 
+35,"If you retired before the full retirement age, enter your age at retirement in years and months, and complete lines 36–44.", 
+36,"Subtract line 35 from line 33, and convert the result to months to determine the total number of reduction months.", 
+37,"If line 36 is greater than 36 reduction months, subtract 36 months and enter the result here.", 
+38,“0.0055556” (the decimal equivalent of 5/9 of 1 percent—the monthly reduction factor for the first 36 months) has been entered.,0.0055556
+39,“0.0041667” (the decimal equivalent of 5/12 of 1 percent—the monthly reduction factor for months above 36) has been entered.,0.0041667
+40,Multiply line 36 (but not more than 36 months) by line 38 to obtain the percent reduction for the first 36 months., 
+41,Multiply line 37 by line 39 to obtain the percent reduction for months in excess of 36., 
+42,Add line 40 to line 41 to obtain the total percent reduction., 
+43,Multiply line 32 by line 42 to obtain the amount of benefit reduction., 
+44,"Subtract line 43 from line 32, and round to the next lower dollar to obtain your monthly benefit.", 
+45,"If you retired (or plan to retire) after the full retirement age, enter your actual (or planned) age at retirement in years and months, and complete lines 46–50. If you worked (or plan to work) after attaining age 70, enter “70 years 0 months.”", 
+46,"Subtract line 33 from line 45, and convert the result to months to determine the total number of delayed months.", 
+47,“0.006667” (the decimal equivalent of 16/24 of 1 percent—the monthly percentage increase for persons born 1943 or later) has been entered.,0.006667
+48,Multiply line 46 by line 47 to obtain the total percent increase., 
+49,Multiply line 32 by line 48 to obtain the amount of benefit increase., 
+50,"Add line 32 to line 49, and round to the next lower dollar to obtain your monthly benefit.", 

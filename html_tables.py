@@ -66,7 +66,7 @@ class html_tables(object):
                     this_skip_index = copy.deepcopy(skip_index)
                     
                     for col in columns:
-                            
+                        
                         # Determine cell dimensions
                         colspan = col.get("colspan")
                         if colspan is None:
@@ -83,10 +83,14 @@ class html_tables(object):
                         row_dim_counter += 1
                             
                         # Adjust column counter
-                        col_counter = col_counter + col_dim[col_dim_counter - 1]
+                        if col_counter == -1:
+                            col_counter = 0  
+                        else:
+                            col_counter = col_counter + col_dim[col_dim_counter - 1]
+                            
                         while skip_index[col_counter] > 0:
                             col_counter += 1
-                          
+
                         # Get cell contents  
                         cell_data = col.get_text()
                         

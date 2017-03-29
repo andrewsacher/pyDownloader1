@@ -1,20 +1,20 @@
-Year of birth ,Year of attainment of age 62,Year of attainment of age 65,Full retirement age,Maximum reduction months,Maximum reduction at age 62 ,0
-1935,1997,2000,65 years,36,0.2000000,0
-1936,1998,2001,65 years,36,0.2000000,0
-1937,1999,2002,65 years,36,0.2000000,0
-1938,2000,2003,65 years and 2 months,38,0.2083333,0
-1939,2001,2004,65 years and 4 months,40,0.2166667,0
-1940,2002,2005,65 years and 6 months,42,0.2250000,0
-1941,2003,2006,65 years and 8 months,44,0.2333333,0
-1942,2004,2007,65 years and 10 months,46,0.2416667,0
-1943–1954,2005–2016,2008–2019,66 years,48,0.2500000,0
-1955,2017,2020,66 years and 2 months,50,0.2583333,0
-1956,2018,2021,66 years and 4 months,52,0.2666667,0
-1957,2019,2022,66 years and 6 months,54,0.2750000,0
-1958,2020,2023,66 years and 8 months,56,0.2833333,0
-1959,2021,2024,66 years and 10 months,58,0.2916667,0
-1960 or later,2022 and later,2025 and later,67 years,60,0.3000000,0
-,,,,,"SOURCES: Social Security Act of 1935 (the Act), as amended through December 31, 2014; regulations issued under the Act; and precedential case decisions (rulings). See the Social Security Program Rules page (https://www.socialsecurity.gov/regulations/index.htm) for specific laws, regulations, rulings, legislation, and a link to the Federal Register.",0
-,,,,,"a. If birthday is January 1, refer to previous year.",0
-,,,,,b. The monthly reduction factor is 0.0055556 for the 36 months immediately preceding full retirement age and 0.0041667 for prior months.,0
-,,,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.,0
+Year of birth ,Year of attainment of age 62,Year of attainment of age 65,Full retirement age,Maximum reduction months,Maximum reduction at age 62 
+1935,1997,2000,65 years,36,0.2000000
+1936,1998,2001,65 years,36,0.2000000
+1937,1999,2002,65 years,36,0.2000000
+1938,2000,2003,65 years and 2 months,38,0.2083333
+1939,2001,2004,65 years and 4 months,40,0.2166667
+1940,2002,2005,65 years and 6 months,42,0.2250000
+1941,2003,2006,65 years and 8 months,44,0.2333333
+1942,2004,2007,65 years and 10 months,46,0.2416667
+1943–1954,2005–2016,2008–2019,66 years,48,0.2500000
+1955,2017,2020,66 years and 2 months,50,0.2583333
+1956,2018,2021,66 years and 4 months,52,0.2666667
+1957,2019,2022,66 years and 6 months,54,0.2750000
+1958,2020,2023,66 years and 8 months,56,0.2833333
+1959,2021,2024,66 years and 10 months,58,0.2916667
+1960 or later,2022 and later,2025 and later,67 years,60,0.3000000
+"SOURCES: Social Security Act of 1935 (the Act), as amended through December 31, 2014; regulations issued under the Act; and precedential case decisions (rulings). See the Social Security Program Rules page (https://www.socialsecurity.gov/regulations/index.htm) for specific laws, regulations, rulings, legislation, and a link to the Federal Register.",,,,,
+"a. If birthday is January 1, refer to previous year.",,,,,
+b. The monthly reduction factor is 0.0055556 for the 36 months immediately preceding full retirement age and 0.0041667 for prior months.,,,,,
+CONTACT: (410) 965-0090 or statistics@ssa.gov.,,,,,

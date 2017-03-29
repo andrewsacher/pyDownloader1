@@ -1,64 +1,64 @@
-State or area,Number,,,,Monthly amount (thousands of dollars),,,0
-,Total,Miners,Widows,Dependents ,Total,Miners ,Widows ,0
-All areas,"14,946",936,"10,653","3,357","9,531",739,"8,792",1
-Alabama,546,13,396,137,347,10,337,0
-Alaska,(X),(X),(X),(X),(X),(X),(X),0
-Arizona,43,(X),36,(X),28,(X),(X),0
-Arkansas,66,0,57,9,42,0,42,0
-California,66,(X),49,(X),41,(X),(X),0
-Colorado,96,4,76,16,62,3,58,0
-Connecticut,19,0,15,4,12,0,12,0
-Delaware,18,(X),14,(X),11,(X),(X),0
-District of Columbia,(X),(X),(X),(X),(X),(X),(X),0
-Florida,333,12,268,53,212,10,202,0
-Georgia,104,(X),80,(X),66,(X),(X),0
-Hawaii,0,0,0,0,0,0,0,0
-Idaho,4,0,4,0,3,0,3,0
-Illinois,332,8,243,81,208,7,202,0
-Indiana,277,14,193,70,178,11,166,0
-Iowa,37,(X),26,(X),24,(X),(X),0
-Kansas,14,0,11,3,9,0,9,0
-Kentucky,"2,592",272,"1,748",572,"1,662",212,"1,450",0
-Louisiana,7,0,(X),(X),(X),0,(X),0
-Maine,(X),(X),(X),(X),(X),(X),(X),0
-Maryland,139,5,94,40,89,4,85,0
-Massachusetts,8,(X),(X),(X),5,(X),(X),0
-Michigan,142,(X),103,(X),90,(X),(X),0
-Minnesota,3,0,3,0,2,0,2,0
-Mississippi,12,0,8,4,8,0,8,0
-Missouri,50,0,39,11,32,0,32,0
-Montana,12,(X),(X),(X),8,(X),(X),0
-Nebraska,(X),(X),(X),(X),(X),(X),(X),0
-Nevada,12,(X),(X),(X),8,(X),(X),0
-New Hampshire,(X),(X),(X),(X),(X),(X),(X),0
-New Jersey,87,3,64,20,56,2,53,0
-New Mexico,28,(X),17,(X),18,(X),(X),0
-New York,89,(X),64,(X),56,(X),(X),0
-North Carolina,199,9,155,35,129,7,121,0
-North Dakota,(X),(X),(X),(X),(X),(X),(X),0
-Ohio,946,31,671,244,598,26,572,0
-Oklahoma,47,(X),34,(X),28,(X),(X),0
-Oregon,11,(X),(X),6,6,(X),(X),0
-Pennsylvania,"2,819",119,"2,130",570,"1,788",90,"1,698",0
-Rhode Island,(X),(X),(X),(X),(X),(X),(X),0
-South Carolina,79,3,58,18,50,2,48,0
-South Dakota,0,0,0,0,0,0,0,0
-Tennessee,684,38,480,166,433,29,404,0
-Texas,51,(X),36,(X),32,(X),(X),0
-Utah,52,3,39,10,32,2,30,0
-Vermont,(X),(X),(X),(X),(X),(X),(X),0
-Virginia,"1,464",155,"1,020",289,946,122,823,0
-Washington,20,0,17,3,13,0,13,0
-West Virginia,"3,385",227,"2,330",828,"2,163",184,"1,978",0
-Wisconsin,10,0,7,3,6,0,6,0
-Wyoming,12,(X),(X),(X),8,(X),(X),0
-Outlying areas ,18,0,(X),(X),(X),0,(X),0
-,,,,,,,"SOURCE: Department of Labor, Beneficiary Master Table, 100 percent data.",0
-,,,,,,,"NOTES: Totals do not necessarily equal the sum of rounded components.
+State or area,Number,,,,Monthly amount (thousands of dollars),,
+,Total,Miners,Widows,Dependents ,Total,Miners ,Widows 
+All areas,"14,946",936,"10,653","3,357","9,531",739,"8,792"
+Alabama,546,13,396,137,347,10,337
+Alaska,(X),(X),(X),(X),(X),(X),(X)
+Arizona,43,(X),36,(X),28,(X),(X)
+Arkansas,66,0,57,9,42,0,42
+California,66,(X),49,(X),41,(X),(X)
+Colorado,96,4,76,16,62,3,58
+Connecticut,19,0,15,4,12,0,12
+Delaware,18,(X),14,(X),11,(X),(X)
+District of Columbia,(X),(X),(X),(X),(X),(X),(X)
+Florida,333,12,268,53,212,10,202
+Georgia,104,(X),80,(X),66,(X),(X)
+Hawaii,0,0,0,0,0,0,0
+Idaho,4,0,4,0,3,0,3
+Illinois,332,8,243,81,208,7,202
+Indiana,277,14,193,70,178,11,166
+Iowa,37,(X),26,(X),24,(X),(X)
+Kansas,14,0,11,3,9,0,9
+Kentucky,"2,592",272,"1,748",572,"1,662",212,"1,450"
+Louisiana,7,0,(X),(X),(X),0,(X)
+Maine,(X),(X),(X),(X),(X),(X),(X)
+Maryland,139,5,94,40,89,4,85
+Massachusetts,8,(X),(X),(X),5,(X),(X)
+Michigan,142,(X),103,(X),90,(X),(X)
+Minnesota,3,0,3,0,2,0,2
+Mississippi,12,0,8,4,8,0,8
+Missouri,50,0,39,11,32,0,32
+Montana,12,(X),(X),(X),8,(X),(X)
+Nebraska,(X),(X),(X),(X),(X),(X),(X)
+Nevada,12,(X),(X),(X),8,(X),(X)
+New Hampshire,(X),(X),(X),(X),(X),(X),(X)
+New Jersey,87,3,64,20,56,2,53
+New Mexico,28,(X),17,(X),18,(X),(X)
+New York,89,(X),64,(X),56,(X),(X)
+North Carolina,199,9,155,35,129,7,121
+North Dakota,(X),(X),(X),(X),(X),(X),(X)
+Ohio,946,31,671,244,598,26,572
+Oklahoma,47,(X),34,(X),28,(X),(X)
+Oregon,11,(X),(X),6,6,(X),(X)
+Pennsylvania,"2,819",119,"2,130",570,"1,788",90,"1,698"
+Rhode Island,(X),(X),(X),(X),(X),(X),(X)
+South Carolina,79,3,58,18,50,2,48
+South Dakota,0,0,0,0,0,0,0
+Tennessee,684,38,480,166,433,29,404
+Texas,51,(X),36,(X),32,(X),(X)
+Utah,52,3,39,10,32,2,30
+Vermont,(X),(X),(X),(X),(X),(X),(X)
+Virginia,"1,464",155,"1,020",289,946,122,823
+Washington,20,0,17,3,13,0,13
+West Virginia,"3,385",227,"2,330",828,"2,163",184,"1,978"
+Wisconsin,10,0,7,3,6,0,6
+Wyoming,12,(X),(X),(X),8,(X),(X)
+Outlying areas ,18,0,(X),(X),(X),0,(X)
+"SOURCE: Department of Labor, Beneficiary Master Table, 100 percent data.",,,,,,,
+"NOTES: Totals do not necessarily equal the sum of rounded components.
           (X) = suppressed to avoid disclosing information about particular individuals.
-",0
-,,,,,,,"a. Includes wives of living miners, divorced wives, children, and dependent brothers and sisters of miners.",0
-,,,,,,,b. Includes benefits for wives and children.,0
-,,,,,,,"c. Includes benefits for surviving children, brothers, sisters, and divorced wives. Prior to December 1997, monthly payments for surviving children were included with payments to miners.",0
-,,,,,,,"d. Includes beneficiaries residing in American Samoa, Guam, Northern Mariana Islands, Puerto Rico, U.S. Virgin Islands, and foreign countries.",0
-,,,,,,,CONTACT: Bennett Stewart (606) 218-9236 or statistics@ssa.gov.,0
+",,,,,,,
+"a. Includes wives of living miners, divorced wives, children, and dependent brothers and sisters of miners.",,,,,,,
+b. Includes benefits for wives and children.,,,,,,,
+"c. Includes benefits for surviving children, brothers, sisters, and divorced wives. Prior to December 1997, monthly payments for surviving children were included with payments to miners.",,,,,,,
+"d. Includes beneficiaries residing in American Samoa, Guam, Northern Mariana Islands, Puerto Rico, U.S. Virgin Islands, and foreign countries.",,,,,,,
+CONTACT: Bennett Stewart (606) 218-9236 or statistics@ssa.gov.,,,,,,,

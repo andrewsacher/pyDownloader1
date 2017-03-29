@@ -1,59 +1,65 @@
-State or area,Federal medical assistance percentage a,Enhanced federal medical assistance percentage b,2014,2015,2016,2014.1,2015.1,2016.1
-Alabama,68.12,68.99,69.87,77.68,78.29,78.91,,
-Alaska,50.00,50.00,50.00,65.00,65.00,65.0,,
-Arizona,67.23,68.46,68.92,77.06,77.92,78.24,,
-Arkansas,70.10,70.88,70.00,79.07,79.62,79.0,,
-California,50.00,50.00,50.00,65.00,65.00,65.0,,
-Colorado,50.00,51.01,50.72,65.00,65.71,65.5,,
-Connecticut,50.00,50.00,50.00,65.00,65.00,65.0,,
-Delaware,55.31,53.63,54.83,68.72,67.54,68.38,,
-District of Columbia c,70.00,70.00,70.00,79.00,79.00,79.0,,
-Florida,58.79,59.72,60.67,71.15,71.80,72.47,,
-Georgia,65.93,66.94,67.55,76.15,76.86,77.29,,
-Hawaii,51.85,52.23,53.98,66.30,66.56,67.79,,
-Idaho,71.64,71.75,71.24,80.15,80.23,79.87,,
-Illinois,50.00,50.76,50.89,65.00,65.53,65.62,,
-Indiana,66.92,66.52,66.60,76.84,76.56,76.62,,
-Iowa,57.93,55.54,54.91,70.55,68.88,68.44,,
-Kansas,56.91,56.63,55.96,69.84,69.64,69.17,,
-Kentucky,69.83,69.94,70.32,78.88,78.96,79.22,,
-Louisiana,60.98,62.05,62.21,72.69,73.44,73.55,,
-Maine,61.55,61.88,62.67,73.09,73.32,73.87,,
-Maryland,50.00,50.00,50.00,65.00,65.00,65.0,,
-Massachusetts,50.00,50.00,50.00,65.00,65.00,65.0,,
-Michigan,66.32,65.54,65.60,76.42,75.88,75.92,,
-Minnesota,50.00,50.00,50.00,65.00,65.00,65.0,,
-Mississippi,73.05,73.58,74.17,81.14,81.51,81.92,,
-Missouri,62.03,63.45,63.28,73.42,74.42,74.3,,
-Montana,66.33,65.90,65.24,76.43,76.13,75.67,,
-Nebraska,54.74,53.27,51.16,68.32,67.29,65.81,,
-Nevada,63.10,64.36,64.93,74.17,75.05,75.45,,
-New Hampshire,50.00,50.00,50.00,65.00,65.00,65.0,,
-New Jersey,50.00,50.00,50.00,65.00,65.00,65.0,,
-New Mexico,69.20,69.65,70.37,78.44,78.76,79.26,,
-New York,50.00,50.00,50.00,65.00,65.00,65.0,,
-North Carolina,65.78,65.88,66.24,76.05,76.12,76.37,,
-North Dakota,50.00,50.00,50.00,65.00,65.00,65.0,,
-Ohio,63.02,62.64,62.47,74.11,73.85,73.73,,
-Oklahoma,64.02,62.30,60.99,74.81,73.61,72.69,,
-Oregon,63.14,64.06,64.38,74.20,74.84,75.07,,
-Pennsylvania,53.52,51.82,52.01,67.46,66.27,66.41,,
-Rhode Island,50.11,50.00,50.42,65.08,65.00,65.29,,
-South Carolina,70.57,70.64,71.08,79.40,79.45,79.76,,
-South Dakota,53.54,51.64,51.61,67.48,66.15,66.13,,
-Tennessee,65.29,64.99,65.05,75.70,75.49,75.54,,
-Texas,58.69,58.05,57.13,71.08,70.64,69.99,,
-Utah,70.34,70.56,70.24,79.24,79.39,79.17,,
-Vermont,55.11,54.01,53.90,68.58,67.81,67.73,,
-Virginia,50.00,50.00,50.00,65.00,65.00,65.0,,
-Washington,50.00,50.03,50.00,65.00,65.02,65.0,,
-West Virginia,71.09,71.35,71.42,79.76,79.95,79.99,,
-Wisconsin,59.06,58.27,58.23,71.34,70.79,70.76,,
-Wyoming,50.00,50.00,50.00,65.00,65.00,65.0,,
-Outlying areas,,,,,,,,
-American Samoa d,55.00,55.00,55.00,68.50,68.50,68.5,,
-Guam d,55.00,55.00,55.00,68.50,68.50,68.5,,
-Northern Mariana Islands d,55.00,55.00,55.00,68.50,68.50,68.5,,
-Puerto Rico d,55.00,55.00,55.00,68.50,68.50,68.5,,
-U.S. Virgin Islands d,55.00,55.00,55.00,68.50,68.50,68.5,,
-"SOURCE: Department of Health and Human Services, Office of the Assistant Secretary for Planning and Evaluation.",a. Section 1905(b) of the Social Security Act (the Act) specifies the method to be used to compute the federal medical assistance percentage. From this section the following formula is derived: N = 3-year average national per capita personal income; S = 3-year average state per capita personal income. Federal medical assistance percentage: State share = (S2/N2) x 45 or (45/N2) x S2; Federal share = 100 – state share with 50–83 percent limits.,b. This is the Title XXI enhanced federal medical assistance percentage rate specified in section 2105(b) of the Act. The enhanced federal medical assistance percentage cannot exceed 85 percent.,"c. The values for the District of Columbia (DC) in the table were set for the state plan under titles XIX and XXI and for capitation payments and Disproportionate Share Hospital (DSH) allotments under those titles. For other purposes, including programs remaining in Title IV of the Act, the percentage for DC is 50.00, unless otherwise specified by law.","d. For purposes of section 1118 of the Social Security Act, the federal medical assistance percentage used under titles I, X, XIV, and XVI, and part A of title IV will be 75 percent.",CONTACT: Thomas Musco (202) 690-6870 or statistics@ssa.gov.,,,
+State or area,Federal medical assistance percentage ,,,Enhanced federal medical assistance percentage ,,
+,2014,2015,2016,2014,2015,2016
+Alabama,68.12,68.99,69.87,77.68,78.29,78.91
+Alaska,50.00,50.00,50.00,65.00,65.00,65.00
+Arizona,67.23,68.46,68.92,77.06,77.92,78.24
+Arkansas,70.10,70.88,70.00,79.07,79.62,79.00
+California,50.00,50.00,50.00,65.00,65.00,65.00
+Colorado,50.00,51.01,50.72,65.00,65.71,65.50
+Connecticut,50.00,50.00,50.00,65.00,65.00,65.00
+Delaware,55.31,53.63,54.83,68.72,67.54,68.38
+District of Columbia ,70.00,70.00,70.00,79.00,79.00,79.00
+Florida,58.79,59.72,60.67,71.15,71.80,72.47
+Georgia,65.93,66.94,67.55,76.15,76.86,77.29
+Hawaii,51.85,52.23,53.98,66.30,66.56,67.79
+Idaho,71.64,71.75,71.24,80.15,80.23,79.87
+Illinois,50.00,50.76,50.89,65.00,65.53,65.62
+Indiana,66.92,66.52,66.60,76.84,76.56,76.62
+Iowa,57.93,55.54,54.91,70.55,68.88,68.44
+Kansas,56.91,56.63,55.96,69.84,69.64,69.17
+Kentucky,69.83,69.94,70.32,78.88,78.96,79.22
+Louisiana,60.98,62.05,62.21,72.69,73.44,73.55
+Maine,61.55,61.88,62.67,73.09,73.32,73.87
+Maryland,50.00,50.00,50.00,65.00,65.00,65.00
+Massachusetts,50.00,50.00,50.00,65.00,65.00,65.00
+Michigan,66.32,65.54,65.60,76.42,75.88,75.92
+Minnesota,50.00,50.00,50.00,65.00,65.00,65.00
+Mississippi,73.05,73.58,74.17,81.14,81.51,81.92
+Missouri,62.03,63.45,63.28,73.42,74.42,74.30
+Montana,66.33,65.90,65.24,76.43,76.13,75.67
+Nebraska,54.74,53.27,51.16,68.32,67.29,65.81
+Nevada,63.10,64.36,64.93,74.17,75.05,75.45
+New Hampshire,50.00,50.00,50.00,65.00,65.00,65.00
+New Jersey,50.00,50.00,50.00,65.00,65.00,65.00
+New Mexico,69.20,69.65,70.37,78.44,78.76,79.26
+New York,50.00,50.00,50.00,65.00,65.00,65.00
+North Carolina,65.78,65.88,66.24,76.05,76.12,76.37
+North Dakota,50.00,50.00,50.00,65.00,65.00,65.00
+Ohio,63.02,62.64,62.47,74.11,73.85,73.73
+Oklahoma,64.02,62.30,60.99,74.81,73.61,72.69
+Oregon,63.14,64.06,64.38,74.20,74.84,75.07
+Pennsylvania,53.52,51.82,52.01,67.46,66.27,66.41
+Rhode Island,50.11,50.00,50.42,65.08,65.00,65.29
+South Carolina,70.57,70.64,71.08,79.40,79.45,79.76
+South Dakota,53.54,51.64,51.61,67.48,66.15,66.13
+Tennessee,65.29,64.99,65.05,75.70,75.49,75.54
+Texas,58.69,58.05,57.13,71.08,70.64,69.99
+Utah,70.34,70.56,70.24,79.24,79.39,79.17
+Vermont,55.11,54.01,53.90,68.58,67.81,67.73
+Virginia,50.00,50.00,50.00,65.00,65.00,65.00
+Washington,50.00,50.03,50.00,65.00,65.02,65.00
+West Virginia,71.09,71.35,71.42,79.76,79.95,79.99
+Wisconsin,59.06,58.27,58.23,71.34,70.79,70.76
+Wyoming,50.00,50.00,50.00,65.00,65.00,65.00
+Outlying areas,,,,,,
+American Samoa ,55.00,55.00,55.00,68.50,68.50,68.50
+Guam ,55.00,55.00,55.00,68.50,68.50,68.50
+Northern Mariana Islands ,55.00,55.00,55.00,68.50,68.50,68.50
+Puerto Rico ,55.00,55.00,55.00,68.50,68.50,68.50
+U.S. Virgin Islands ,55.00,55.00,55.00,68.50,68.50,68.50
+"SOURCE: Department of Health and Human Services, Office of the Assistant Secretary for Planning and Evaluation.",,,,,,
+a. Section 1905(b) of the Social Security Act (the Act) specifies the method to be used to compute the federal medical assistance percentage. From this section the following formula is derived: N = 3-year average national per capita personal income; S = 3-year average state per capita personal income. Federal medical assistance percentage: State share = (S2/N2) x 45 or (45/N2) x S2; Federal share = 100 – state share with 50–83 percent limits,,,,,,
+b. This is the Title XXI enhanced federal medical assistance percentage rate specified in section 2105(b) of the Act. The enhanced federal medical assistance percentage cannot exceed 85 percent.,,,,,,
+"c. The values for the District of Columbia (DC) in the table were set for the state plan under titles XIX and XXI and for capitation payments and Disproportionate Share Hospital (DSH) allotments under those titles. For other purposes, including programs remaining in Title IV of the Act, the percentage for DC is 50.00, unless otherwise specified by law.",,,,,,
+"d. For purposes of section 1118 of the Social Security Act, the federal medical assistance percentage used under titles I, X, XIV, and XVI, and part A of title IV will be 75 percent.",,,,,,
+CONTACT: Thomas Musco (202) 690-6870 or statistics@ssa.gov.,,,,,,

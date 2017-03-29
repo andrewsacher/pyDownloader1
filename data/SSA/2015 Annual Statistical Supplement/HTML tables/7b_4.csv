@@ -1,58 +1,58 @@
-State or area,Total,Blind,Disabled,0
-All areas,"1,299,761","5,866","1,293,895",2
-Alabama,"27,614",41,"27,573",0
-Alaska,"1,263",(X),(X),0
-Arizona,"20,958",135,"20,823",0
-Arkansas,"28,869",66,"28,803",0
-California,"119,001",962,"118,039",0
-Colorado,"9,971",56,"9,915",0
-Connecticut,"8,935",28,"8,907",0
-Delaware,"3,596",4,"3,592",0
-District of Columbia,"4,106",3,"4,103",0
-Florida,"107,287",223,"107,064",0
-Georgia,"46,302",229,"46,073",0
-Hawaii,"1,656",19,"1,637",0
-Idaho,"5,573",15,"5,558",0
-Illinois,"41,100",202,"40,898",0
-Indiana,"24,584",101,"24,483",0
-Iowa,"8,302",83,"8,219",0
-Kansas,"9,513",35,"9,478",0
-Kentucky,"28,031",106,"27,925",0
-Louisiana,"36,164",99,"36,065",0
-Maine,"4,273",22,"4,251",0
-Maryland,"18,732",48,"18,684",0
-Massachusetts,"23,979",273,"23,706",0
-Michigan,"41,901",146,"41,755",0
-Minnesota,"13,715",63,"13,652",0
-Mississippi,"23,363",55,"23,308",0
-Missouri,"23,580",82,"23,498",0
-Montana,"2,433",17,"2,416",0
-Nebraska,"4,104",20,"4,084",0
-Nevada,"9,768",87,"9,681",0
-New Hampshire,"2,523",16,"2,507",0
-New Jersey,"25,909",32,"25,877",0
-New Mexico,"9,267",36,"9,231",0
-New York,"88,530",208,"88,322",0
-North Carolina,"43,399",162,"43,237",0
-North Dakota,"1,027",(X),(X),0
-Ohio,"50,436",167,"50,269",0
-Oklahoma,"17,303",70,"17,233",0
-Oregon,"10,740",63,"10,677",0
-Pennsylvania,"72,084",166,"71,918",0
-Rhode Island,"4,664",9,"4,655",0
-South Carolina,"20,428",135,"20,293",0
-South Dakota,"2,603",15,"2,588",0
-Tennessee,"24,912",124,"24,788",0
-Texas,"146,097","1,134","144,963",0
-Utah,"5,364",21,"5,343",0
-Vermont,"1,628",6,"1,622",0
-Virginia,"23,891",81,"23,810",0
-Washington,"18,292",93,"18,199",0
-West Virginia,"8,081",39,"8,042",0
-Wisconsin,"22,606",60,"22,546",0
-Wyoming,997,3,994,0
-Outlying area, ,,,0
-Northern Mariana Islands,307,0,307,1
-,,,"SOURCE: Social Security Administration, Supplemental Security Record, 100 percent data.",0
-,,,NOTE: (X) = suppressed to avoid disclosing information about particular individuals.,0
-,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.,0
+State or area,Total,Blind,Disabled
+All areas,"1,299,761","5,866","1,293,895"
+Alabama,"27,614",41,"27,573"
+Alaska,"1,263",(X),(X)
+Arizona,"20,958",135,"20,823"
+Arkansas,"28,869",66,"28,803"
+California,"119,001",962,"118,039"
+Colorado,"9,971",56,"9,915"
+Connecticut,"8,935",28,"8,907"
+Delaware,"3,596",4,"3,592"
+District of Columbia,"4,106",3,"4,103"
+Florida,"107,287",223,"107,064"
+Georgia,"46,302",229,"46,073"
+Hawaii,"1,656",19,"1,637"
+Idaho,"5,573",15,"5,558"
+Illinois,"41,100",202,"40,898"
+Indiana,"24,584",101,"24,483"
+Iowa,"8,302",83,"8,219"
+Kansas,"9,513",35,"9,478"
+Kentucky,"28,031",106,"27,925"
+Louisiana,"36,164",99,"36,065"
+Maine,"4,273",22,"4,251"
+Maryland,"18,732",48,"18,684"
+Massachusetts,"23,979",273,"23,706"
+Michigan,"41,901",146,"41,755"
+Minnesota,"13,715",63,"13,652"
+Mississippi,"23,363",55,"23,308"
+Missouri,"23,580",82,"23,498"
+Montana,"2,433",17,"2,416"
+Nebraska,"4,104",20,"4,084"
+Nevada,"9,768",87,"9,681"
+New Hampshire,"2,523",16,"2,507"
+New Jersey,"25,909",32,"25,877"
+New Mexico,"9,267",36,"9,231"
+New York,"88,530",208,"88,322"
+North Carolina,"43,399",162,"43,237"
+North Dakota,"1,027",(X),(X)
+Ohio,"50,436",167,"50,269"
+Oklahoma,"17,303",70,"17,233"
+Oregon,"10,740",63,"10,677"
+Pennsylvania,"72,084",166,"71,918"
+Rhode Island,"4,664",9,"4,655"
+South Carolina,"20,428",135,"20,293"
+South Dakota,"2,603",15,"2,588"
+Tennessee,"24,912",124,"24,788"
+Texas,"146,097","1,134","144,963"
+Utah,"5,364",21,"5,343"
+Vermont,"1,628",6,"1,622"
+Virginia,"23,891",81,"23,810"
+Washington,"18,292",93,"18,199"
+West Virginia,"8,081",39,"8,042"
+Wisconsin,"22,606",60,"22,546"
+Wyoming,997,3,994
+Outlying area, ,,
+Northern Mariana Islands,307,0,307
+"SOURCE: Social Security Administration, Supplemental Security Record, 100 percent data.",,,
+NOTE: (X) = suppressed to avoid disclosing information about particular individuals.,,,
+CONTACT: (410) 965-0090 or statistics@ssa.gov.,,,

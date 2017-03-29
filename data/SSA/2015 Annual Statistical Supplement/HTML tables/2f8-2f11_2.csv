@@ -1,11 +1,11 @@
-Program,Hearing level receipts,,,Hearing level dispositions,,,End-of-year pending cases,,,0
-,2012,2013,2014,2012,2013,2014,2012,2013,2014,0
-Total,"849,869","824,989","810,715","820,484","793,580","680,963","816,575","847,984","977,736",2
-OASI,"1,902","1,973","2,018","1,886","1,839","1,818","1,138","1,268","1,471",0
-Disability,,,,,,,,,,0
-DI,"265,454","264,625","275,384","252,820","245,018","211,270","241,578","260,441","323,749",1
-SSI,"247,341","239,355","229,830","234,688","230,345","200,983","246,177","254,969","283,589",1
-DI and SSI,"335,172","319,036","303,483","331,090","316,378","266,892","327,682","331,306","368,927",1
-,,,,,,,,,"SOURCES: Social Security Administration, Office of Disability Adjudication and Review. Actual data from the Case Processing and Management System and Key Workload Indicator Report.",0
-,,,,,,,,,NOTE: Some claims are resclassifed from one program to another during their processing cycle. End-of-year adjustments account for those reclassifications.,0
-,,,,,,,,,CONTACT: Chuck Gramens (703) 605-8413 or statistics@ssa.gov.,0
+Program,Hearing level receipts,,,Hearing level dispositions,,,End-of-year pending cases,,
+,2012,2013,2014,2012,2013,2014,2012,2013,2014
+Total,"849,869","824,989","810,715","820,484","793,580","680,963","816,575","847,984","977,736"
+OASI,"1,902","1,973","2,018","1,886","1,839","1,818","1,138","1,268","1,471"
+Disability,,,,,,,,,
+DI,"265,454","264,625","275,384","252,820","245,018","211,270","241,578","260,441","323,749"
+SSI,"247,341","239,355","229,830","234,688","230,345","200,983","246,177","254,969","283,589"
+DI and SSI,"335,172","319,036","303,483","331,090","316,378","266,892","327,682","331,306","368,927"
+"SOURCES: Social Security Administration, Office of Disability Adjudication and Review. Actual data from the Case Processing and Management System and Key Workload Indicator Report.",,,,,,,,,
+NOTE: Some claims are resclassifed from one program to another during their processing cycle. End-of-year adjustments account for those reclassifications.,,,,,,,,,
+CONTACT: Chuck Gramens (703) 605-8413 or statistics@ssa.gov.,,,,,,,,,

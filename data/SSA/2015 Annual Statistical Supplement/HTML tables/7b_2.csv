@@ -1,60 +1,60 @@
-State or area,Federal SSI,,State supplementation,,0
-,Number,Average monthly payment (dollars),Number,Average monthly payment (dollars),0
-All areas,"8,161,835",516.62,"a 1,549,44",a 141.5,2
-Alabama,"174,539",504.26,. . .,. . .,0
-Alaska,"12,424",494.94,. . .,. . .,0
-Arizona,"119,308",525.11,. . .,. . .,0
-Arkansas,"111,464",511.65,. . .,. . .,0
-California,"1,146,313",510.39,"1,304,632",155.96,0
-Colorado,"72,831",511.17,. . .,. . .,0
-Connecticut,"63,244",521.61,. . .,. . .,0
-Delaware,"16,587",522.47,563,129.05,0
-District of Columbia,"26,740",560.99,"1,232",331.69,0
-Florida,"560,809",516.73,. . .,. . .,0
-Georgia,"256,197",511.93,. . .,. . .,0
-Hawaii,"24,041",516.46,"2,791",494.55,0
-Idaho,"30,451",508.35,. . .,. . .,0
-Illinois,"275,772",538.39,. . .,. . .,0
-Indiana,"127,944",526.63,. . .,. . .,0
-Iowa,"50,780",492.35,"1,933",244.79,0
-Kansas,"48,870",510.21,. . .,. . .,0
-Kentucky,"188,535",513.55,. . .,. . .,0
-Louisiana,"181,261",518.27,. . .,. . .,0
-Maine,"37,627",486.56,. . .,. . .,0
-Maryland,"118,153",539.54,. . .,. . .,0
-Massachusetts,"188,606",516.83,. . .,. . .,0
-Michigan,"275,304",541.53,"12,760",120.09,0
-Minnesota,"94,215",528.03,. . .,. . .,0
-Mississippi,"125,603",497.61,. . .,. . .,0
-Missouri,"142,743",507.81,. . .,. . .,0
-Montana,"18,186",489.15,940,83.17,0
-Nebraska,"27,683",493.05,. . .,. . .,0
-Nevada,"50,077",525.21,"12,851",45.42,0
-New Hampshire,"19,656",493.68,. . .,. . .,0
-New Jersey,"175,974",498.81,"181,364",37.64,0
-New Mexico,"64,072",492.95,. . .,. . .,0
-New York,"654,070",525.97,. . .,. . .,0
-North Carolina,"235,256",499.47,. . .,. . .,0
-North Dakota,"8,237",464.15,. . .,. . .,0
-Ohio,"313,170",537.62,. . .,. . .,0
-Oklahoma,"96,969",510.82,. . .,. . .,0
-Oregon,"85,051",520.97,. . .,. . .,0
-Pennsylvania,"371,199",543.42,"7,149",361.01,0
-Rhode Island,"33,175",518.82,401,267.41,0
-South Carolina,"118,245",501.46,. . .,. . .,0
-South Dakota,"14,880",481.83,. . .,. . .,0
-Tennessee,"183,778",506.89,. . .,. . .,0
-Texas,"665,989",497.92,. . .,. . .,0
-Utah,"31,163",509.83,. . .,. . .,0
-Vermont,"14,813",485.78,"15,787",53.61,0
-Virginia,"155,434",508.13,. . .,. . .,0
-Washington,"151,180",541.42,. . .,. . .,0
-West Virginia,"77,725",518.49,. . .,. . .,0
-Wisconsin,"117,641",520.98,. . .,. . .,0
-Wyoming,"6,807",485.90,. . .,. . .,0
-Outlying area, ,,,,0
-Northern Mariana Islands,"1,044",591.10,. . .,. . .,1
-,,,,"SOURCE: Social Security Administration, Supplemental Security Record, 100 percent data.",0
-,,,,NOTE: . . . = not applicable.,0
-,,,,a. Includes recipients and payments not assigned to a specific state or other area.,0
-,,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.,0
+State or area,Federal SSI,,State supplementation,
+,Number,Average monthly payment (dollars),Number,Average monthly payment (dollars)
+All areas,"8,161,835",516.62,"a 1,549,44",a 141.5
+Alabama,"174,539",504.26,. . .,. . .
+Alaska,"12,424",494.94,. . .,. . .
+Arizona,"119,308",525.11,. . .,. . .
+Arkansas,"111,464",511.65,. . .,. . .
+California,"1,146,313",510.39,"1,304,632",155.96
+Colorado,"72,831",511.17,. . .,. . .
+Connecticut,"63,244",521.61,. . .,. . .
+Delaware,"16,587",522.47,563,129.05
+District of Columbia,"26,740",560.99,"1,232",331.69
+Florida,"560,809",516.73,. . .,. . .
+Georgia,"256,197",511.93,. . .,. . .
+Hawaii,"24,041",516.46,"2,791",494.55
+Idaho,"30,451",508.35,. . .,. . .
+Illinois,"275,772",538.39,. . .,. . .
+Indiana,"127,944",526.63,. . .,. . .
+Iowa,"50,780",492.35,"1,933",244.79
+Kansas,"48,870",510.21,. . .,. . .
+Kentucky,"188,535",513.55,. . .,. . .
+Louisiana,"181,261",518.27,. . .,. . .
+Maine,"37,627",486.56,. . .,. . .
+Maryland,"118,153",539.54,. . .,. . .
+Massachusetts,"188,606",516.83,. . .,. . .
+Michigan,"275,304",541.53,"12,760",120.09
+Minnesota,"94,215",528.03,. . .,. . .
+Mississippi,"125,603",497.61,. . .,. . .
+Missouri,"142,743",507.81,. . .,. . .
+Montana,"18,186",489.15,940,83.17
+Nebraska,"27,683",493.05,. . .,. . .
+Nevada,"50,077",525.21,"12,851",45.42
+New Hampshire,"19,656",493.68,. . .,. . .
+New Jersey,"175,974",498.81,"181,364",37.64
+New Mexico,"64,072",492.95,. . .,. . .
+New York,"654,070",525.97,. . .,. . .
+North Carolina,"235,256",499.47,. . .,. . .
+North Dakota,"8,237",464.15,. . .,. . .
+Ohio,"313,170",537.62,. . .,. . .
+Oklahoma,"96,969",510.82,. . .,. . .
+Oregon,"85,051",520.97,. . .,. . .
+Pennsylvania,"371,199",543.42,"7,149",361.01
+Rhode Island,"33,175",518.82,401,267.41
+South Carolina,"118,245",501.46,. . .,. . .
+South Dakota,"14,880",481.83,. . .,. . .
+Tennessee,"183,778",506.89,. . .,. . .
+Texas,"665,989",497.92,. . .,. . .
+Utah,"31,163",509.83,. . .,. . .
+Vermont,"14,813",485.78,"15,787",53.61
+Virginia,"155,434",508.13,. . .,. . .
+Washington,"151,180",541.42,. . .,. . .
+West Virginia,"77,725",518.49,. . .,. . .
+Wisconsin,"117,641",520.98,. . .,. . .
+Wyoming,"6,807",485.90,. . .,. . .
+Outlying area, ,,,
+Northern Mariana Islands,"1,044",591.10,. . .,. . .
+"SOURCE: Social Security Administration, Supplemental Security Record, 100 percent data.",,,,
+NOTE: . . . = not applicable.,,,,
+a. Includes recipients and payments not assigned to a specific state or other area.,,,,
+CONTACT: (410) 965-0090 or statistics@ssa.gov.,,,,

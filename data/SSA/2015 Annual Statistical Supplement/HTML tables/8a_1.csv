@@ -1,76 +1,76 @@
-Year,Receipts,,,,,,,,Expenditures,,,,Trust fund assets at end of year,0
-,Total,Payroll taxes,Income from taxation of benefits,Transfers from Railroad Retirement account,Reimbursements from general revenues for—,,Premiums from voluntary enrollees,Interest on investments and other income ,Total,Benefit payments ,Administrative expenses,,,0
-,,,,,Uninsured persons,Military wage credits,,,,,Amount ,Percentage of benefit payments,,0
-1966,"1,943","1,858",. . .,16,26,11,. . .,32,999,891,108,12.1,944,0
-1967,"3,559","3,152",. . .,44,301,11,. . .,51,"3,430","3,353",77,2.3,"1,073",0
-1968,"5,287","4,116",. . .,54,"1,022",22,. . .,74,"4,277","4,179",99,2.4,"2,083",0
-1969,"5,279","4,473",. . .,64,617,11,. . .,113,"4,857","4,739",118,2.5,"2,505",0
-1970,"5,979","4,881",. . .,66,863,11,. . .,158,"5,281","5,124",157,3.1,"3,202",0
-1971,"5,732","4,921",. . .,66,503,48,. . .,193,"5,900","5,751",150,2.6,"3,034",0
-1972,"6,403","5,731",. . .,63,381,48,. . .,180,"6,503","6,318",185,2.9,"2,935",0
-1973,"10,821","9,944",. . .,99,451,48,2,278,"7,289","7,057",232,3.3,"6,467",0
-1974,"12,024","10,844",. . .,132,471,48,5,523,"9,372","9,099",272,3.0,"9,119",0
-1975,"12,980","11,502",. . .,138,621,48,7,664,"11,581","11,315",266,2.4,"10,517",0
-1976,"13,766","12,727",. . .,143,e,141,9,746,"13,679","13,340",339,2.5,"10,605",0
-1977,"15,856","14,114",. . .,f,e 80,g 14,12,784,"16,019","15,737",283,1.8,"10,442",0
-1978,"19,213","17,324",. . .,f 21,688,141,13,834,"18,178","17,682",496,2.8,"11,477",0
-1979,"22,825","20,768",. . .,191,734,141,16,975,"21,073","20,623",450,2.2,"13,228",0
-1980,"26,097","23,848",. . .,244,697,141,18,"1,149","25,577","25,064",512,2.0,"13,749",0
-1981,"35,725","32,959",. . .,276,659,207,22,"1,603","30,726","30,342",384,1.3,"18,748",0
-1982,"37,998","34,586",. . .,351,808,207,24,"2,022","36,144","35,631",513,1.4,"h 8,16",0
-1983,"44,570","37,259",. . .,358,878,"i 3,45",27,"2,593","39,877","39,337",540,1.4,"12,858",0
-1984,"46,720","42,288",. . .,351,752,250,33,"3,046","43,887","43,257",629,1.5,"15,691",0
-1985,"51,397","47,576",. . .,371,766,j -71,41,"3,362","48,414","47,580",834,1.8,"h 20,49",0
-1986,"59,267","54,583",. . .,364,566,91,43,"3,619","50,422","49,758",664,1.3,"h 39,95",0
-1987,"64,064","58,648",. . .,368,447,94,38,"4,469","50,289","49,496",793,1.6,"53,732",0
-1988,"69,239","62,449",. . .,364,475,80,41,"5,830","53,331","52,517",815,1.6,"69,640",0
-1989,"76,721","68,369",. . .,379,515,86,55,"7,317","60,803","60,011",792,1.3,"85,558",0
-1990,"80,372","72,013",. . .,367,413,k -99,122,"8,451","66,997","66,239",758,1.1,"98,933",0
-1991,"88,839","77,851",. . .,352,605,89,432,"9,510","72,570","71,549","1,021",1.4,"115,202",0
-1992,"93,836","81,745",. . .,374,621,86,522,"10,487","85,015","83,895","1,121",1.3,"124,022",0
-1993,"98,187","84,133",. . .,400,367,81,675,"l 12,53","94,391","93,487",904,1.0,"127,818",0
-1994,"109,570","95,280","1,639",413,506,80,907,"10,745","104,545","103,282","1,263",1.2,"132,844",0
-1995,"115,027","98,421","3,913",396,462,61,954,"10,820","117,604","116,368","1,236",1.1,"130,267",0
-1996,"124,603","110,585","4,069",401,419,"m -2,29","1,199","10,222","129,929","128,632","1,297",1.0,"124,942",0
-1997,"130,154","114,670","3,558",419,481,70,"1,319","9,637","139,452","137,762","1,690",1.2,"115,643",0
-1998,"140,547","124,317","5,067",419,34,67,"1,316","9,327","135,771","n 133,99","1,782",1.3,"120,419",0
-1999,"151,597","132,306","6,552",430,652,71,"1,447","10,139","130,632","n 128,76","1,866",1.4,"141,385",0
-2000,"167,185","144,351","8,787",465,470,2,"1,382","11,729","131,095","n 128,45","2,636",2.1,"177,475",0
-2001,"174,630","151,994","7,533",470,453,"o -1,17","1,370","13,986","143,379","n 141,18","2,195",1.6,"208,726",0
-2002,"178,631","152,708","8,316",425,442,0,"1,626","15,114","152,526","n 149,94","2,582",1.7,"234,831",0
-2003,"175,812","149,242","8,318",426,393,0,"1,604","15,828","154,616","n 152,08","2,533",1.7,"256,026",0
-2004,"183,890","156,484","8,577",419,365,173,"1,915","15,956","170,587","167,554","3,033",1.8,"269,329",0
-2005,"199,374","171,384","8,765",445,286,0,"2,416","16,078","182,933","p 180,01","2,920",1.6,"285,770",0
-2006,"211,515","181,274","10,319",471,408,0,"2,645","16,398","191,933","p 188,98","2,944",1.6,"305,352",0
-2007,"223,717","191,855","10,593",483,468,0,"2,841","17,477","203,058","p 200,15","2,907",1.5,"326,011",0
-2008,"230,815","198,693","11,733",526,506,0,"2,938","q 16,41","235,556","r 232,29","3,257",1.5,"321,270",0
-2009,"225,428","190,890","12,376",524,614,s 96,"2,908","17,148","242,478","239,260","3,218",1.3,"304,220",0
-2010,"215,622","182,032","13,760",535,-142,0,"3,310","16,128","247,925","244,463","3,461",1.4,"271,918",0
-2011,"228,945","195,592","15,143",477,275,0,"3,267","14,190","256,673","252,943","3,730",1.5,"244,189",0
-2012,"243,046","205,730","18,643",511,262,0,"3,441","14,459","266,841","262,894","3,947",1.5,"220,394",0
-2013,"251,149","220,817","14,310",577,228,0,"3,417","11,800","266,178","261,906","4,272",1.6,"205,366",0
-2014,"261,239","227,445","18,066",612,204,0,"3,251","11,662","269,312","264,852","4,460",1.7,"197,292",0
-,,,,,,,,,,,,,"SOURCE: 2015 Annual Report of the Boards of Trustees of the Federal Hospital Insurance and Federal Supplementary Medical Insurance Trust Funds, Table III.B4, and analogous tables from earlier annual reports. Because the table published in the 2015 Annual Report displays dollars rounded to the tenths of billions for selected years only, an analogous unpublished table displaying dollars rounded to the millions for all years was also used.",0
-,,,,,,,,,,,,,"NOTES: Totals do not necessarily equal the sum of rounded components.
+Year,Receipts,,,,,,,,Expenditures,,,,Trust fund assets at end of year
+,Total,Payroll taxes,Income from taxation of benefits,Transfers from Railroad Retirement account,Reimbursements from general revenues for—,,Premiums from voluntary enrollees,Interest on investments and other income ,Total,Benefit payments ,Administrative expenses,,
+,,,,,Uninsured persons,Military wage credits,,,,,Amount ,Percentage of benefit payments,
+1966,"1,943","1,858",. . .,16,26,11,. . .,32,999,891,108,12.1,944
+1967,"3,559","3,152",. . .,44,301,11,. . .,51,"3,430","3,353",77,2.3,"1,073"
+1968,"5,287","4,116",. . .,54,"1,022",22,. . .,74,"4,277","4,179",99,2.4,"2,083"
+1969,"5,279","4,473",. . .,64,617,11,. . .,113,"4,857","4,739",118,2.5,"2,505"
+1970,"5,979","4,881",. . .,66,863,11,. . .,158,"5,281","5,124",157,3.1,"3,202"
+1971,"5,732","4,921",. . .,66,503,48,. . .,193,"5,900","5,751",150,2.6,"3,034"
+1972,"6,403","5,731",. . .,63,381,48,. . .,180,"6,503","6,318",185,2.9,"2,935"
+1973,"10,821","9,944",. . .,99,451,48,2,278,"7,289","7,057",232,3.3,"6,467"
+1974,"12,024","10,844",. . .,132,471,48,5,523,"9,372","9,099",272,3.0,"9,119"
+1975,"12,980","11,502",. . .,138,621,48,7,664,"11,581","11,315",266,2.4,"10,517"
+1976,"13,766","12,727",. . .,143,e,141,9,746,"13,679","13,340",339,2.5,"10,605"
+1977,"15,856","14,114",. . .,f,e 80,g 14,12,784,"16,019","15,737",283,1.8,"10,442"
+1978,"19,213","17,324",. . .,f 21,688,141,13,834,"18,178","17,682",496,2.8,"11,477"
+1979,"22,825","20,768",. . .,191,734,141,16,975,"21,073","20,623",450,2.2,"13,228"
+1980,"26,097","23,848",. . .,244,697,141,18,"1,149","25,577","25,064",512,2.0,"13,749"
+1981,"35,725","32,959",. . .,276,659,207,22,"1,603","30,726","30,342",384,1.3,"18,748"
+1982,"37,998","34,586",. . .,351,808,207,24,"2,022","36,144","35,631",513,1.4,"h 8,16"
+1983,"44,570","37,259",. . .,358,878,"i 3,45",27,"2,593","39,877","39,337",540,1.4,"12,858"
+1984,"46,720","42,288",. . .,351,752,250,33,"3,046","43,887","43,257",629,1.5,"15,691"
+1985,"51,397","47,576",. . .,371,766,j -71,41,"3,362","48,414","47,580",834,1.8,"h 20,49"
+1986,"59,267","54,583",. . .,364,566,91,43,"3,619","50,422","49,758",664,1.3,"h 39,95"
+1987,"64,064","58,648",. . .,368,447,94,38,"4,469","50,289","49,496",793,1.6,"53,732"
+1988,"69,239","62,449",. . .,364,475,80,41,"5,830","53,331","52,517",815,1.6,"69,640"
+1989,"76,721","68,369",. . .,379,515,86,55,"7,317","60,803","60,011",792,1.3,"85,558"
+1990,"80,372","72,013",. . .,367,413,k -99,122,"8,451","66,997","66,239",758,1.1,"98,933"
+1991,"88,839","77,851",. . .,352,605,89,432,"9,510","72,570","71,549","1,021",1.4,"115,202"
+1992,"93,836","81,745",. . .,374,621,86,522,"10,487","85,015","83,895","1,121",1.3,"124,022"
+1993,"98,187","84,133",. . .,400,367,81,675,"l 12,53","94,391","93,487",904,1.0,"127,818"
+1994,"109,570","95,280","1,639",413,506,80,907,"10,745","104,545","103,282","1,263",1.2,"132,844"
+1995,"115,027","98,421","3,913",396,462,61,954,"10,820","117,604","116,368","1,236",1.1,"130,267"
+1996,"124,603","110,585","4,069",401,419,"m -2,29","1,199","10,222","129,929","128,632","1,297",1.0,"124,942"
+1997,"130,154","114,670","3,558",419,481,70,"1,319","9,637","139,452","137,762","1,690",1.2,"115,643"
+1998,"140,547","124,317","5,067",419,34,67,"1,316","9,327","135,771","n 133,99","1,782",1.3,"120,419"
+1999,"151,597","132,306","6,552",430,652,71,"1,447","10,139","130,632","n 128,76","1,866",1.4,"141,385"
+2000,"167,185","144,351","8,787",465,470,2,"1,382","11,729","131,095","n 128,45","2,636",2.1,"177,475"
+2001,"174,630","151,994","7,533",470,453,"o -1,17","1,370","13,986","143,379","n 141,18","2,195",1.6,"208,726"
+2002,"178,631","152,708","8,316",425,442,0,"1,626","15,114","152,526","n 149,94","2,582",1.7,"234,831"
+2003,"175,812","149,242","8,318",426,393,0,"1,604","15,828","154,616","n 152,08","2,533",1.7,"256,026"
+2004,"183,890","156,484","8,577",419,365,173,"1,915","15,956","170,587","167,554","3,033",1.8,"269,329"
+2005,"199,374","171,384","8,765",445,286,0,"2,416","16,078","182,933","p 180,01","2,920",1.6,"285,770"
+2006,"211,515","181,274","10,319",471,408,0,"2,645","16,398","191,933","p 188,98","2,944",1.6,"305,352"
+2007,"223,717","191,855","10,593",483,468,0,"2,841","17,477","203,058","p 200,15","2,907",1.5,"326,011"
+2008,"230,815","198,693","11,733",526,506,0,"2,938","q 16,41","235,556","r 232,29","3,257",1.5,"321,270"
+2009,"225,428","190,890","12,376",524,614,s 96,"2,908","17,148","242,478","239,260","3,218",1.3,"304,220"
+2010,"215,622","182,032","13,760",535,-142,0,"3,310","16,128","247,925","244,463","3,461",1.4,"271,918"
+2011,"228,945","195,592","15,143",477,275,0,"3,267","14,190","256,673","252,943","3,730",1.5,"244,189"
+2012,"243,046","205,730","18,643",511,262,0,"3,441","14,459","266,841","262,894","3,947",1.5,"220,394"
+2013,"251,149","220,817","14,310",577,228,0,"3,417","11,800","266,178","261,906","4,272",1.6,"205,366"
+2014,"261,239","227,445","18,066",612,204,0,"3,251","11,662","269,312","264,852","4,460",1.7,"197,292"
+"SOURCE: 2015 Annual Report of the Boards of Trustees of the Federal Hospital Insurance and Federal Supplementary Medical Insurance Trust Funds, Table III.B4, and analogous tables from earlier annual reports. Because the table published in the 2015 Annual Report displays dollars rounded to the tenths of billions for selected years only, an analogous unpublished table displaying dollars rounded to the millions for all years was also used.",,,,,,,,,,,,,
+"NOTES: Totals do not necessarily equal the sum of rounded components.
           . . . = not applicable; HI = Hospital Insurance; SMI = Supplementary Medical Insurance.
-",0
-,,,,,,,,,,,,,"a. Other income includes recoveries of amounts reimbursed from the trust fund that are not obligations of the trust fund, receipts from the fraud and abuse control program (beginning in 1997), and other small amounts of miscellaneous income.",0
-,,,,,,,,,,,,,b. Values after 2005 include additional premiums for Medicare Advantage (MA) plans that are deducted from beneficiaries' Social Security checks. These additional premiums are beneficiary obligations and occur when a beneficiary chooses an MA plan whose monthly plan payment exceeds the benchmark amount. Beneficiaries subject to such premiums may choose to either reimburse the plans directly or have the premiums deducted from their Social Security checks. The premiums deducted from the Social Security checks are transferred to the HI and SMI trust funds and then transferred from the trust funds to the plans.,0
-,,,,,,,,,,,,,"c. Includes costs of Peer Review Organizations from 1983 to 2001 (beginning with the implementation of the Prospective Payment System on October 1, 1983) and costs of Quality Improvement Organizations beginning in 2002.",0
-,,,,,,,,,,,,,"d. Includes costs of experiments and demonstration projects. Beginning in 1997, includes fraud and abuse control expenses, as provided for by Public Law (P.L.) 104-191.",0
-,,,,,,,,,,,,,e. No transfer was made in 1976 because of the change in transfer dates from December to March. The 1977 transfer was for benefits and administrative expenses during the 15-month period beginning July 1976 and ending September 1977.,0
-,,,,,,,,,,,,,f. No transfer was made in 1977 because of the change in transfer dates from August to June. The 1978 transfer was for contributions during the 15-month period beginning July 1976 and ending September 1977.,0
-,,,,,,,,,,,,,g. Includes $2 million in reimbursement from general revenues for costs arising from the granting of deemed wage credits to persons of Japanese ancestry who were interned during World War II.,0
-,,,,,,,,,,,,,"h. For 1982, assets exclude $12,437 million loaned to the OASI trust fund under the interfund borrowing provisions of the law. Repayments of $1,824 million and $10,613 million were made in 1985 and 1986, respectively.",0
-,,,,,,,,,,,,,"i. The lump-sum general revenue transfer, as provided for by section 151 of P.L. 98-21.",0
-,,,,,,,,,,,,,"j. Includes the lump-sum general revenue adjustment of -$805 million, as provided for by section 151 of P.L. 98-21.",0
-,,,,,,,,,,,,,"k. Includes the lump-sum general revenue adjustment of -$1,100 million, as provided for by section 151 of P.L. 98-21.",0
-,,,,,,,,,,,,,"l. Includes $1,805 million transfer from the SMI catastrophic coverage reserve fund, as provided for by P.L. 102-394.",0
-,,,,,,,,,,,,,"m. Includes the lump-sum general revenue adjustment of -$2,366 million, as provided for by section 151 of P.L. 98-21.",0
-,,,,,,,,,,,,,"n. Includes monies transferred to the SMI trust fund for home health agency costs, as provided for by P.L. 105-33.",0
-,,,,,,,,,,,,,"o. Includes the lump-sum general revenue adjustment of -$1,177 million, as provided for by section 151 of P.L. 98-21.",0
-,,,,,,,,,,,,,"p. Certain HI hospice costs were misallocated to, and paid from, the Part B account of the SMI trust fund. See also footnote r.",0
-,,,,,,,,,,,,,"q. Includes an adjustment of -$853 million for interest inadvertently earned as a result of HI hospice costs that were misallocated to, and paid from, the Part B account of the SMI trust fund from May 2005 to September 2007.",0
-,,,,,,,,,,,,,"r. Benefit payments were $223,815 million. Amount shown includes a transfer of $8,484 million to the general fund of the Treasury for HI hospice costs that were misallocated to, and paid from, the Part B account of the SMI trust fund from May 2005 to September 2007. (The general fund, in turn, transferred $8,484 million to the Part B account.)",0
-,,,,,,,,,,,,,"s. Includes the lump-sum general revenue adjustment of $968 million, as provided for by section 151 of P.L. 98-21.",0
-,,,,,,,,,,,,,CONTACT: Clare McFarland (410) 786-6390 or statistics@ssa.gov.,0
+",,,,,,,,,,,,,
+"a. Other income includes recoveries of amounts reimbursed from the trust fund that are not obligations of the trust fund, receipts from the fraud and abuse control program (beginning in 1997), and other small amounts of miscellaneous income.",,,,,,,,,,,,,
+b. Values after 2005 include additional premiums for Medicare Advantage (MA) plans that are deducted from beneficiaries' Social Security checks. These additional premiums are beneficiary obligations and occur when a beneficiary chooses an MA plan whose monthly plan payment exceeds the benchmark amount. Beneficiaries subject to such premiums may choose to either reimburse the plans directly or have the premiums deducted from their Social Security checks. The premiums deducted from the Social Security checks are transferred to the HI and SMI trust funds and then transferred from the trust funds to the plans.,,,,,,,,,,,,,
+"c. Includes costs of Peer Review Organizations from 1983 to 2001 (beginning with the implementation of the Prospective Payment System on October 1, 1983) and costs of Quality Improvement Organizations beginning in 2002.",,,,,,,,,,,,,
+"d. Includes costs of experiments and demonstration projects. Beginning in 1997, includes fraud and abuse control expenses, as provided for by Public Law (P.L.) 104-191.",,,,,,,,,,,,,
+e. No transfer was made in 1976 because of the change in transfer dates from December to March. The 1977 transfer was for benefits and administrative expenses during the 15-month period beginning July 1976 and ending September 1977.,,,,,,,,,,,,,
+f. No transfer was made in 1977 because of the change in transfer dates from August to June. The 1978 transfer was for contributions during the 15-month period beginning July 1976 and ending September 1977.,,,,,,,,,,,,,
+g. Includes $2 million in reimbursement from general revenues for costs arising from the granting of deemed wage credits to persons of Japanese ancestry who were interned during World War II.,,,,,,,,,,,,,
+"h. For 1982, assets exclude $12,437 million loaned to the OASI trust fund under the interfund borrowing provisions of the law. Repayments of $1,824 million and $10,613 million were made in 1985 and 1986, respectively.",,,,,,,,,,,,,
+"i. The lump-sum general revenue transfer, as provided for by section 151 of P.L. 98-21.",,,,,,,,,,,,,
+"j. Includes the lump-sum general revenue adjustment of -$805 million, as provided for by section 151 of P.L. 98-21.",,,,,,,,,,,,,
+"k. Includes the lump-sum general revenue adjustment of -$1,100 million, as provided for by section 151 of P.L. 98-21.",,,,,,,,,,,,,
+"l. Includes $1,805 million transfer from the SMI catastrophic coverage reserve fund, as provided for by P.L. 102-394.",,,,,,,,,,,,,
+"m. Includes the lump-sum general revenue adjustment of -$2,366 million, as provided for by section 151 of P.L. 98-21.",,,,,,,,,,,,,
+"n. Includes monies transferred to the SMI trust fund for home health agency costs, as provided for by P.L. 105-33.",,,,,,,,,,,,,
+"o. Includes the lump-sum general revenue adjustment of -$1,177 million, as provided for by section 151 of P.L. 98-21.",,,,,,,,,,,,,
+"p. Certain HI hospice costs were misallocated to, and paid from, the Part B account of the SMI trust fund. See also footnote r.",,,,,,,,,,,,,
+"q. Includes an adjustment of -$853 million for interest inadvertently earned as a result of HI hospice costs that were misallocated to, and paid from, the Part B account of the SMI trust fund from May 2005 to September 2007.",,,,,,,,,,,,,
+"r. Benefit payments were $223,815 million. Amount shown includes a transfer of $8,484 million to the general fund of the Treasury for HI hospice costs that were misallocated to, and paid from, the Part B account of the SMI trust fund from May 2005 to September 2007. (The general fund, in turn, transferred $8,484 million to the Part B account.)",,,,,,,,,,,,,
+"s. Includes the lump-sum general revenue adjustment of $968 million, as provided for by section 151 of P.L. 98-21.",,,,,,,,,,,,,
+CONTACT: Clare McFarland (410) 786-6390 or statistics@ssa.gov.,,,,,,,,,,,,,

@@ -1,74 +1,74 @@
-Census division and state or area,All hospitals,,Short-stay and critical access hospitals ,,,Other non-short-stay ,,0
-,Hospitals,Beds,Hospitals,Beds,"Beds per 1,000 enrollees ",Hospitals,Beds,0
-Total,,,,,,,,2
-All areas,"6,142","931,057","4,800","814,929",15.2,"1,342","116,128",3
-United States,"6,078","920,021","4,744","804,617",15.3,"1,334","115,404",3
-New England,242,"41,532",178,"31,999",11.9,64,"9,533",0
-Connecticut,40,"9,707",30,"7,888",12.8,10,"1,819",1
-Maine,39,"3,837",35,"3,437",11.5,4,400,1
-Massachusetts,102,"18,909",62,"13,075",11.0,40,"5,834",1
-New Hampshire,30,"3,562",26,"3,036",11.7,4,526,1
-Rhode Island,15,"3,704",11,"2,924",14.8,4,780,1
-Vermont,16,"1,813",14,"1,639",12.8,2,174,1
-Middle Atlantic,543,"123,550",413,"106,249",14.8,130,"17,301",0
-New Jersey,97,"26,513",64,"22,575",15.6,33,"3,938",1
-New York,215,"61,494",183,"54,787",16.8,32,"6,707",1
-Pennsylvania,231,"35,543",166,"28,887",11.6,65,"6,656",1
-East North Central,916,"148,683",728,"133,271",16.5,188,"15,412",0
-Illinois,206,"39,749",178,"36,406",18.2,28,"3,343",1
-Indiana,166,"19,785",123,"17,611",15.7,43,"2,174",1
-Michigan,168,"27,942",133,"25,025",13.5,35,"2,917",1
-Ohio,231,"43,855",170,"38,625",18.5,61,"5,230",1
-Wisconsin,145,"17,352",124,"15,604",15.3,21,"1,748",1
-West North Central,779,"73,402",693,"67,309",18.7,86,"6,093",0
-Iowa,123,"10,900",117,"10,539",18.8,6,361,1
-Kansas,153,"10,772",140,"9,813",20.6,13,959,1
-Minnesota,145,"15,979",129,"14,925",16.8,16,"1,054",1
-Missouri,148,"22,714",112,"20,090",18.1,36,"2,624",1
-Nebraska,98,"6,574",91,"6,032",19.8,7,542,1
-North Dakota,49,"3,086",44,"2,708",23.3,5,378,1
-South Dakota,63,"3,377",60,"3,202",21.1,3,175,1
-South Atlantic,900,"175,432",683,"155,453",14.3,217,"19,979",0
-Delaware,12,"2,875",6,"2,337",13.4,6,538,1
-District of Columbia,13,"3,945",7,"3,157",37.4,6,788,1
-Florida,253,"61,472",185,"56,311",14.5,68,"5,161",1
-Georgia,169,"24,337",134,"21,549",14.8,35,"2,788",1
-Maryland,61,"13,977",48,"11,861",13.1,13,"2,116",1
-North Carolina,133,"26,653",109,"23,131",13.5,24,"3,522",1
-South Carolina,85,"14,206",61,"12,117",13.4,24,"2,089",1
-Virginia,114,"19,494",85,"17,407",13.3,29,"2,087",1
-West Virginia,60,"8,473",48,"7,583",18.5,12,890,1
-East South Central,492,"73,449",394,"66,386",18.8,98,"7,063",0
-Alabama,115,"18,413",88,"16,562",17.6,27,"1,851",1
-Kentucky,117,"17,742",94,"15,379",18.4,23,"2,363",1
-Mississippi,113,"12,736",98,"11,954",21.8,15,782,1
-Tennessee,147,"24,558",114,"22,491",18.7,33,"2,067",1
-West South Central,"1,061","122,940",723,"101,053",18.3,338,"21,887",0
-Arkansas,98,"11,923",74,"9,965",17.1,24,"1,958",1
-Louisiana,218,"19,759",124,"15,356",19.9,94,"4,403",1
-Oklahoma,153,"13,855",125,"12,297",18.5,28,"1,558",1
-Texas,592,"77,403",400,"63,435",18.1,192,"13,968",1
-Mountain,514,"54,762",403,"46,560",13.3,111,"8,202",0
-Arizona,109,"16,325",78,"13,800",12.7,31,"2,525",1
-Colorado,99,"13,073",77,"11,072",14.9,22,"2,001",1
-Idaho,50,"3,555",41,"3,028",11.2,9,527,1
-Montana,64,"3,063",61,"2,883",14.8,3,180,1
-Nevada,52,"6,414",35,"5,302",12.2,17,"1,112",1
-New Mexico,53,"4,882",41,"4,344",12.2,12,538,1
-Utah,58,"5,901",44,"4,721",14.3,14,"1,180",1
-Wyoming,29,"1,549",26,"1,410",15.3,3,139,1
-Pacific,631,"106,271",529,"96,337",12.8,102,"9,934",0
-Alaska,25,"1,633",22,"1,368",17.2,3,265,1
-California,415,"80,253",338,"73,250",13.7,77,"7,003",1
-Hawaii,26,"2,494",21,"2,066",8.7,5,428,1
-Oregon,63,"7,977",59,"7,701",10.6,4,276,1
-Washington,102,"13,914",89,"11,952",10.4,13,"1,962",1
-Outlying areas,64,"11,036",56,"10,312",13.1,8,724,0
-Puerto Rico,59,"10,351",51,"9,627",12.9,8,724,1
-U.S. Virgin Islands,2,320,2,320,17.2,0,0,1
-Other,3,365,3,365,18.1,0,0,1
-,,,,,,,SOURCE: Centers for Medicare & Medicaid Services.,0
-,,,,,,,"a. Critical access hospitals are included with short-stay hospitals because, though not subject to one of the Medicare inpatient hospital prospective payment systems, they essentially function as and are viewed as short-stay hospitals by their communities.",0
-,,,,,,,"b. Based on total number of persons enrolled in the Hospital Insurance program as of July 1, 2014.",0
-,,,,,,,"c. Other non-short-stay hospitals include long-term hospitals, psychiatric hospitals, rehabilitation hospitals, children's hospitals, and religious nonmedical institutions.",0
-,,,,,,,CONTACT: Maria Diacogiannis (410) 786-0178 or statistics@ssa.gov.,0
+Census division and state or area,All hospitals,,Short-stay and critical access hospitals ,,,Other non-short-stay ,
+,Hospitals,Beds,Hospitals,Beds,"Beds per 1,000 enrollees ",Hospitals,Beds
+Total,,,,,,,
+All areas,"6,142","931,057","4,800","814,929",15.2,"1,342","116,128"
+United States,"6,078","920,021","4,744","804,617",15.3,"1,334","115,404"
+New England,242,"41,532",178,"31,999",11.9,64,"9,533"
+Connecticut,40,"9,707",30,"7,888",12.8,10,"1,819"
+Maine,39,"3,837",35,"3,437",11.5,4,400
+Massachusetts,102,"18,909",62,"13,075",11.0,40,"5,834"
+New Hampshire,30,"3,562",26,"3,036",11.7,4,526
+Rhode Island,15,"3,704",11,"2,924",14.8,4,780
+Vermont,16,"1,813",14,"1,639",12.8,2,174
+Middle Atlantic,543,"123,550",413,"106,249",14.8,130,"17,301"
+New Jersey,97,"26,513",64,"22,575",15.6,33,"3,938"
+New York,215,"61,494",183,"54,787",16.8,32,"6,707"
+Pennsylvania,231,"35,543",166,"28,887",11.6,65,"6,656"
+East North Central,916,"148,683",728,"133,271",16.5,188,"15,412"
+Illinois,206,"39,749",178,"36,406",18.2,28,"3,343"
+Indiana,166,"19,785",123,"17,611",15.7,43,"2,174"
+Michigan,168,"27,942",133,"25,025",13.5,35,"2,917"
+Ohio,231,"43,855",170,"38,625",18.5,61,"5,230"
+Wisconsin,145,"17,352",124,"15,604",15.3,21,"1,748"
+West North Central,779,"73,402",693,"67,309",18.7,86,"6,093"
+Iowa,123,"10,900",117,"10,539",18.8,6,361
+Kansas,153,"10,772",140,"9,813",20.6,13,959
+Minnesota,145,"15,979",129,"14,925",16.8,16,"1,054"
+Missouri,148,"22,714",112,"20,090",18.1,36,"2,624"
+Nebraska,98,"6,574",91,"6,032",19.8,7,542
+North Dakota,49,"3,086",44,"2,708",23.3,5,378
+South Dakota,63,"3,377",60,"3,202",21.1,3,175
+South Atlantic,900,"175,432",683,"155,453",14.3,217,"19,979"
+Delaware,12,"2,875",6,"2,337",13.4,6,538
+District of Columbia,13,"3,945",7,"3,157",37.4,6,788
+Florida,253,"61,472",185,"56,311",14.5,68,"5,161"
+Georgia,169,"24,337",134,"21,549",14.8,35,"2,788"
+Maryland,61,"13,977",48,"11,861",13.1,13,"2,116"
+North Carolina,133,"26,653",109,"23,131",13.5,24,"3,522"
+South Carolina,85,"14,206",61,"12,117",13.4,24,"2,089"
+Virginia,114,"19,494",85,"17,407",13.3,29,"2,087"
+West Virginia,60,"8,473",48,"7,583",18.5,12,890
+East South Central,492,"73,449",394,"66,386",18.8,98,"7,063"
+Alabama,115,"18,413",88,"16,562",17.6,27,"1,851"
+Kentucky,117,"17,742",94,"15,379",18.4,23,"2,363"
+Mississippi,113,"12,736",98,"11,954",21.8,15,782
+Tennessee,147,"24,558",114,"22,491",18.7,33,"2,067"
+West South Central,"1,061","122,940",723,"101,053",18.3,338,"21,887"
+Arkansas,98,"11,923",74,"9,965",17.1,24,"1,958"
+Louisiana,218,"19,759",124,"15,356",19.9,94,"4,403"
+Oklahoma,153,"13,855",125,"12,297",18.5,28,"1,558"
+Texas,592,"77,403",400,"63,435",18.1,192,"13,968"
+Mountain,514,"54,762",403,"46,560",13.3,111,"8,202"
+Arizona,109,"16,325",78,"13,800",12.7,31,"2,525"
+Colorado,99,"13,073",77,"11,072",14.9,22,"2,001"
+Idaho,50,"3,555",41,"3,028",11.2,9,527
+Montana,64,"3,063",61,"2,883",14.8,3,180
+Nevada,52,"6,414",35,"5,302",12.2,17,"1,112"
+New Mexico,53,"4,882",41,"4,344",12.2,12,538
+Utah,58,"5,901",44,"4,721",14.3,14,"1,180"
+Wyoming,29,"1,549",26,"1,410",15.3,3,139
+Pacific,631,"106,271",529,"96,337",12.8,102,"9,934"
+Alaska,25,"1,633",22,"1,368",17.2,3,265
+California,415,"80,253",338,"73,250",13.7,77,"7,003"
+Hawaii,26,"2,494",21,"2,066",8.7,5,428
+Oregon,63,"7,977",59,"7,701",10.6,4,276
+Washington,102,"13,914",89,"11,952",10.4,13,"1,962"
+Outlying areas,64,"11,036",56,"10,312",13.1,8,724
+Puerto Rico,59,"10,351",51,"9,627",12.9,8,724
+U.S. Virgin Islands,2,320,2,320,17.2,0,0
+Other,3,365,3,365,18.1,0,0
+SOURCE: Centers for Medicare & Medicaid Services.,,,,,,,
+"a. Critical access hospitals are included with short-stay hospitals because, though not subject to one of the Medicare inpatient hospital prospective payment systems, they essentially function as and are viewed as short-stay hospitals by their communities.",,,,,,,
+"b. Based on total number of persons enrolled in the Hospital Insurance program as of July 1, 2014.",,,,,,,
+"c. Other non-short-stay hospitals include long-term hospitals, psychiatric hospitals, rehabilitation hospitals, children's hospitals, and religious nonmedical institutions.",,,,,,,
+CONTACT: Maria Diacogiannis (410) 786-0178 or statistics@ssa.gov.,,,,,,,

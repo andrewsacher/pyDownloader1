@@ -1,34 +1,34 @@
-Sex and age,All persons,,White,Black or African American,"American Indian, Alaska Native",Asian,Native Hawaiian and Other Pacific Islander,0
-,Total,Reporting only one race,,,,,,0
- ,Social Security beneficiaries (thousands),,,,,,,0
-Total,"49,744","49,204","41,958","5,221",387,"1,558",79,2
-Sex,,,,,,,,0
-Male,"22,184","21,952","18,865","2,144",182,722,40,1
-Female,"27,559","27,252","23,093","3,077",206,837,39,1
-Age,,,,,,,,0
-15–54,"5,397","5,253","4,055",977,91,118,13,1
-55–64,"6,590","6,490","5,258","1,005",60,152,15,1
-65–74,"20,958","20,773","17,916","1,928",159,727,42,1
-75 or older,"16,798","16,688","14,730","1,311",76,561,9,1
- ,Supplemental Security Income recipients (thousands),,,,,,,0
-Total,"6,847","6,681","4,461","1,801",111,287,20,2
-Sex,,,,,,,,0
-Male,"2,980","2,923","1,951",803,53,107,9,1
-Female,"3,867","3,757","2,510",998,58,180,11,1
-Age,,,,,,,,0
-15–54,"3,465","3,341","2,242",987,59,44,9,1
-55–64,"1,856","1,831","1,239",509,32,49,3,1
-65–74,839,827,555,181,7,80,4,1
-75 or older,687,681,425,124,14,115,3,1
- ,Average annual benefit in 2014 (dollars),,,,,,,0
-Social Security,"14,305","14,316","14,545","12,747","13,556","13,606","13,806",0
-Supplemental Security Income,"7,927","7,937","8,008","7,778","9,015","7,391",a,0
-,,,,,,,"SOURCE: Census Bureau, Current Population Survey, public-use file of the March 2015 Income Supplement.",0
-,,,,,,,"NOTES: Table includes civilian noninstitutionalized population residing in the 50 states and the District of Columbia.
+Sex and age,All persons,,White,Black or African American,"American Indian, Alaska Native",Asian,Native Hawaiian and Other Pacific Islander
+,Total,Reporting only one race,,,,,
+ ,Social Security beneficiaries (thousands),,,,,,
+Total,"49,744","49,204","41,958","5,221",387,"1,558",79
+Sex,,,,,,,
+Male,"22,184","21,952","18,865","2,144",182,722,40
+Female,"27,559","27,252","23,093","3,077",206,837,39
+Age,,,,,,,
+15–54,"5,397","5,253","4,055",977,91,118,13
+55–64,"6,590","6,490","5,258","1,005",60,152,15
+65–74,"20,958","20,773","17,916","1,928",159,727,42
+75 or older,"16,798","16,688","14,730","1,311",76,561,9
+ ,Supplemental Security Income recipients (thousands),,,,,,
+Total,"6,847","6,681","4,461","1,801",111,287,20
+Sex,,,,,,,
+Male,"2,980","2,923","1,951",803,53,107,9
+Female,"3,867","3,757","2,510",998,58,180,11
+Age,,,,,,,
+15–54,"3,465","3,341","2,242",987,59,44,9
+55–64,"1,856","1,831","1,239",509,32,49,3
+65–74,839,827,555,181,7,80,4
+75 or older,687,681,425,124,14,115,3
+ ,Average annual benefit in 2014 (dollars),,,,,,
+Social Security,"14,305","14,316","14,545","12,747","13,556","13,606","13,806"
+Supplemental Security Income,"7,927","7,937","8,008","7,778","9,015","7,391",a
+"SOURCE: Census Bureau, Current Population Survey, public-use file of the March 2015 Income Supplement.",,,,,,,
+"NOTES: Table includes civilian noninstitutionalized population residing in the 50 states and the District of Columbia.
           For certain race categories, some of the change in the number of beneficiaries and recipients relative to the numbers shown in previous editions of this table may be attributable to changes in the Census Bureau race category definitions.
 For a discussion of standard errors of estimated numbers and percentages, see Census Bureau, Current Population Reports, Series P-60.
 Totals do not necessarily equal the sum of rounded components.
 OASDI = Old-Age, Survivors, and Disability Insurance.
-",0
-,,,,,,,"a. Average benefits are not shown for fewer than 75,000 weighted cases.",0
-,,,,,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.,0
+",,,,,,,
+"a. Average benefits are not shown for fewer than 75,000 weighted cases.",,,,,,,
+CONTACT: (410) 965-0090 or statistics@ssa.gov.,,,,,,,

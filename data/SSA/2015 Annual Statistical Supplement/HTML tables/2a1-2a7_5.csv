@@ -1,9 +1,9 @@
-Group,Tax payable under—,Percentage of earnings,"Tax credit, effective with respect to—",0
-Employee,Federal Insurance Contributions Act (FICA),0.3,Remuneration paid in calendar year 1984,0
-Self-employed,Self-Employment Contributions Act (SECA),2.7,Self-employment income for taxable years beginning in 1984,0
-,,2.3,Self-employment income for taxable years beginning in 1985,0
-,,2.0,"Self-employment income for taxable years beginning in 1986, 1987, 1988, and 1989",0
-,,,"SOURCES: Social Security Act of 1935 (the Act), as amended through December 31, 2014; regulations issued under the Act; and precedential case decisions (rulings). See the Social Security Program Rules page (https://www.socialsecurity.gov/regulations/index.htm) for specific laws, regulations, rulings, legislation, and a link to the Federal Register.",0
-,,,"NOTES: During this period, scheduled taxes were credited to the Social Security (Old-Age, Survivors, and Disability Insurance, or OASDI) trust funds, monies for tax credits were paid from the Treasury, and the reduced tax rates were paid by employees and the self-employed.",0
-,,,"Tables 2.A3 and 2.A4 show the tax rate and tax amount paid by employers and received by the OASDI trust funds. In 1984, the 5.7 percent OASDI tax on taxable wages of employees was offset by a tax credit of 0.3 percent, resulting in an effective employee tax rate of 5.4 percent. However, the OASDI trust funds received the full 5.7 percent because of a general revenue transfer equivalent to 0.3 percent of taxable wages. Similar credits of 2.7 percent, 2.3 percent, and 2.0 percent were allowed against the combined OASDI and Hospital Insurance (HI) taxes on net earnings from self-employment in 1984, 1985, and from 1986 to 1989, respectively.",0
-,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.,0
+Group,Tax payable under—,Percentage of earnings,"Tax credit, effective with respect to—"
+Employee,Federal Insurance Contributions Act (FICA),0.3,Remuneration paid in calendar year 1984
+Self-employed,Self-Employment Contributions Act (SECA),2.7,Self-employment income for taxable years beginning in 1984
+,,2.3,Self-employment income for taxable years beginning in 1985
+,,2.0,"Self-employment income for taxable years beginning in 1986, 1987, 1988, and 1989"
+"SOURCES: Social Security Act of 1935 (the Act), as amended through December 31, 2014; regulations issued under the Act; and precedential case decisions (rulings). See the Social Security Program Rules page (https://www.socialsecurity.gov/regulations/index.htm) for specific laws, regulations, rulings, legislation, and a link to the Federal Register.",,,
+"NOTES: During this period, scheduled taxes were credited to the Social Security (Old-Age, Survivors, and Disability Insurance, or OASDI) trust funds, monies for tax credits were paid from the Treasury, and the reduced tax rates were paid by employees and the self-employed.",,,
+"Tables 2.A3 and 2.A4 show the tax rate and tax amount paid by employers and received by the OASDI trust funds. In 1984, the 5.7 percent OASDI tax on taxable wages of employees was offset by a tax credit of 0.3 percent, resulting in an effective employee tax rate of 5.4 percent. However, the OASDI trust funds received the full 5.7 percent because of a general revenue transfer equivalent to 0.3 percent of taxable wages. Similar credits of 2.7 percent, 2.3 percent, and 2.0 percent were allowed against the combined OASDI and Hospital Insurance (HI) taxes on net earnings from self-employment in 1984, 1985, and from 1986 to 1989, respectively.",,,
+CONTACT: (410) 965-0090 or statistics@ssa.gov.,,,

@@ -1,34 +1,34 @@
-Type of benefit,Number (thousands),,,,Average monthly benefit (dollars),,,,0
-,All ages,Under 62,62–64,65 or older,All ages,Under 62,62–64,65 or older,0
- ,All adult beneficiaries,,,,,,,,0
-Total ,"54,652","7,548","5,108","41,996","1,263.86","1,100.14","1,133.70","1,309.11",2
-Retired workers,"39,009",. . .,"3,065","35,943","1,328.58",. . .,"1,085.78","1,349.29",0
-Disabled workers,"8,955","7,021","1,467",467,"1,165.39","1,122.26","1,317.45","1,336.45",0
-Wives and husbands of retired workers,"2,303",34,153,"2,117",673.26,557.56,526.82,685.68,0
-Wives and husbands of disabled workers,149,62,43,44,314.53,238.47,343.43,393.69,0
-Nondisabled widow(er)s,"3,835",120,312,"3,402","1,275.61","1,157.38","1,227.94","1,284.17",0
-Disabled widow(er)s,258,174,64,20,724.07,714.20,742.83,750.28,0
-Mothers and fathers,143,137,4,2,934.90,930.16,"1,062.11","1,011.62",0
- ,Men,,,,,,,,0
-Subtotal,"24,457","3,640","2,273","18,544","1,443.89","1,222.93","1,313.51","1,503.24",1
-Retired workers,"19,602",. . .,"1,462","18,140","1,488.07",. . .,"1,223.48","1,509.40",0
-Disabled workers,"4,628","3,602",775,250,"1,290.20","1,228.22","1,500.21","1,531.84",0
-Husbands of retired workers,100,(F),3,97,519.76,510.65,360.21,524.12,0
-Husbands of disabled workers,9,2,2,5,298.73,191.38,230.27,360.28,0
-Nondisabled widowers,91,12,27,52,"1,114.36",930.77,"1,092.70","1,167.09",0
-Disabled widowers,17,13,3,1,535.69,528.63,554.82,568.32,0
-Fathers,12,11,(F),(F),802.54,798.84,949.71,942.72,0
- ,Women,,,,,,,,0
-Subtotal,"30,195","3,908","2,835","23,451","1,118.04",985.77,989.57,"1,155.61",1
-Retired workers,"19,407",. . .,"1,603","17,804","1,167.49",. . .,960.17,"1,186.15",0
-Disabled workers,"4,327","3,419",691,217,"1,031.91","1,010.61","1,112.42","1,111.12",0
-Wives of retired workers,"2,204",34,150,"2,020",680.19,557.69,529.75,693.42,0
-Wives of disabled workers,140,60,41,39,315.53,239.89,348.39,398.14,0
-Nondisabled widows,"3,744",109,285,"3,350","1,279.52","1,181.88","1,240.74","1,285.99",0
-Disabled widows,241,161,61,19,737.33,728.90,753.42,757.61,0
-Mothers,131,125,4,2,946.57,941.95,"1,069.20","1,013.45",0
-,,,,,,,,"SOURCE: Social Security Administration, Master Beneficiary Record, 100 percent data.",0
-,,,,,,,,NOTES: Totals do not necessarily equal the sum of rounded components.,0
-,,,,,,,,. . . = not applicable; (F) = fewer than 500.,0
-,,,,,,,,a. Includes parents. Excludes student beneficiaries aged 18–19 and disabled adult children.,0
-,,,,,,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.,0
+Type of benefit,Number (thousands),,,,Average monthly benefit (dollars),,,
+,All ages,Under 62,62–64,65 or older,All ages,Under 62,62–64,65 or older
+ ,All adult beneficiaries,,,,,,,
+Total ,"54,652","7,548","5,108","41,996","1,263.86","1,100.14","1,133.70","1,309.11"
+Retired workers,"39,009",. . .,"3,065","35,943","1,328.58",. . .,"1,085.78","1,349.29"
+Disabled workers,"8,955","7,021","1,467",467,"1,165.39","1,122.26","1,317.45","1,336.45"
+Wives and husbands of retired workers,"2,303",34,153,"2,117",673.26,557.56,526.82,685.68
+Wives and husbands of disabled workers,149,62,43,44,314.53,238.47,343.43,393.69
+Nondisabled widow(er)s,"3,835",120,312,"3,402","1,275.61","1,157.38","1,227.94","1,284.17"
+Disabled widow(er)s,258,174,64,20,724.07,714.20,742.83,750.28
+Mothers and fathers,143,137,4,2,934.90,930.16,"1,062.11","1,011.62"
+ ,Men,,,,,,,
+Subtotal,"24,457","3,640","2,273","18,544","1,443.89","1,222.93","1,313.51","1,503.24"
+Retired workers,"19,602",. . .,"1,462","18,140","1,488.07",. . .,"1,223.48","1,509.40"
+Disabled workers,"4,628","3,602",775,250,"1,290.20","1,228.22","1,500.21","1,531.84"
+Husbands of retired workers,100,(F),3,97,519.76,510.65,360.21,524.12
+Husbands of disabled workers,9,2,2,5,298.73,191.38,230.27,360.28
+Nondisabled widowers,91,12,27,52,"1,114.36",930.77,"1,092.70","1,167.09"
+Disabled widowers,17,13,3,1,535.69,528.63,554.82,568.32
+Fathers,12,11,(F),(F),802.54,798.84,949.71,942.72
+ ,Women,,,,,,,
+Subtotal,"30,195","3,908","2,835","23,451","1,118.04",985.77,989.57,"1,155.61"
+Retired workers,"19,407",. . .,"1,603","17,804","1,167.49",. . .,960.17,"1,186.15"
+Disabled workers,"4,327","3,419",691,217,"1,031.91","1,010.61","1,112.42","1,111.12"
+Wives of retired workers,"2,204",34,150,"2,020",680.19,557.69,529.75,693.42
+Wives of disabled workers,140,60,41,39,315.53,239.89,348.39,398.14
+Nondisabled widows,"3,744",109,285,"3,350","1,279.52","1,181.88","1,240.74","1,285.99"
+Disabled widows,241,161,61,19,737.33,728.90,753.42,757.61
+Mothers,131,125,4,2,946.57,941.95,"1,069.20","1,013.45"
+"SOURCE: Social Security Administration, Master Beneficiary Record, 100 percent data.",,,,,,,,
+NOTES: Totals do not necessarily equal the sum of rounded components.,,,,,,,,
+. . . = not applicable; (F) = fewer than 500.,,,,,,,,
+a. Includes parents. Excludes student beneficiaries aged 18–19 and disabled adult children.,,,,,,,,
+CONTACT: (410) 965-0090 or statistics@ssa.gov.,,,,,,,,

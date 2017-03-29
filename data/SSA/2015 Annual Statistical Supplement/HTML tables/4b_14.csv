@@ -1,17 +1,17 @@
-Sex,"Total, all ages ",Under 20,20–29,30–39,40–49,50–59,60–61,62–64,65–69,70 or older,0
- ,Medicare Part A (HI) taxable earnings (in millions of dollars),,,,,,,,,,0
-All workers,"7,355,869","38,681","807,625","1,523,892","1,974,310","2,007,920","295,286","310,083","265,086","132,962",1
-Men,"4,620,431","20,411","456,040","919,152","1,260,880","1,285,985","192,568","201,708","184,468","99,207",0
-Women,"2,735,438","18,269","351,585","604,740","713,431","721,935","102,719","108,376","80,619","33,755",0
- ,"Percentage distribution, by age",,,,,,,,,,0
-All workers,100,1,11,21,27,27,4,4,4,2,1
-Men,100,0,10,20,27,28,4,4,4,2,0
-Women,100,1,13,22,26,26,4,4,3,1,0
- ,"Percentage distribution, by sex",,,,,,,,,,0
-All workers,100,100,100,100,100,100,100,100,100,100,1
-Men,63,53,56,60,64,64,65,65,70,75,0
-Women,37,47,44,40,36,36,35,35,30,25,0
-,,,,,,,,,,"SOURCE: Social Security Administration, Master Earnings File, 1 percent sample.",0
-,,,,,,,,,,NOTE: Totals do not necessarily equal the sum of rounded components.,0
-,,,,,,,,,,a. Includes workers of unknown age.,0
-,,,,,,,,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.,0
+Sex,"Total, all ages ",Under 20,20–29,30–39,40–49,50–59,60–61,62–64,65–69,70 or older
+ ,Medicare Part A (HI) taxable earnings (in millions of dollars),,,,,,,,,
+All workers,"7,355,869","38,681","807,625","1,523,892","1,974,310","2,007,920","295,286","310,083","265,086","132,962"
+Men,"4,620,431","20,411","456,040","919,152","1,260,880","1,285,985","192,568","201,708","184,468","99,207"
+Women,"2,735,438","18,269","351,585","604,740","713,431","721,935","102,719","108,376","80,619","33,755"
+ ,"Percentage distribution, by age",,,,,,,,,
+All workers,100,1,11,21,27,27,4,4,4,2
+Men,100,0,10,20,27,28,4,4,4,2
+Women,100,1,13,22,26,26,4,4,3,1
+ ,"Percentage distribution, by sex",,,,,,,,,
+All workers,100,100,100,100,100,100,100,100,100,100
+Men,63,53,56,60,64,64,65,65,70,75
+Women,37,47,44,40,36,36,35,35,30,25
+"SOURCE: Social Security Administration, Master Earnings File, 1 percent sample.",,,,,,,,,,
+NOTE: Totals do not necessarily equal the sum of rounded components.,,,,,,,,,,
+a. Includes workers of unknown age.,,,,,,,,,,
+CONTACT: (410) 965-0090 or statistics@ssa.gov.,,,,,,,,,,

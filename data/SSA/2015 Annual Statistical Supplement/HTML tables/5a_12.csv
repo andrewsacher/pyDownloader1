@@ -1,27 +1,27 @@
-Type of benefit,Number (thousands),Average age,0
-"Total, OASDI","59,007",67,3
-OASI,"48,076",71,0
-Retired workers,"39,009",74,1
-Spouses of retired workers,"2,303",73,1
-Children of retired workers,635,25,1
-Under age 18,328,13,2
-Disabled adult children,288,40,2
-"Students, aged 18–19",20,18,2
-Children of deceased workers,"1,892",25,1
-Under age 18,"1,188",12,2
-Disabled adult children,641,48,2
-"Students, aged 18–19",62,18,2
-Nondisabled widow(er)s,"3,835",77,1
-Widowed mothers and fathers,143,44,1
-Disabled widow(er)s,258,59,1
-Parents of deceased workers,1,83,1
-DI,"10,931",47,0
-Disabled workers,"8,955",54,1
-Spouses of disabled workers,149,56,1
-Children of disabled workers,"1,828",13,1
-Under age 18,"1,650",12,2
-Disabled adult children,120,27,2
-"Students, aged 18–19",58,18,2
-,,"SOURCE: Social Security Administration, Master Beneficiary Record, 100 percent data.",0
-,,NOTE: Totals do not necessarily equal the sum of rounded components.,0
-,,CONTACT: (410) 965-0090 or statistics@ssa.gov.,0
+Type of benefit,Number (thousands),Average age
+"Total, OASDI","59,007",67
+OASI,"48,076",71
+Retired workers,"39,009",74
+Spouses of retired workers,"2,303",73
+Children of retired workers,635,25
+Under age 18,328,13
+Disabled adult children,288,40
+"Students, aged 18–19",20,18
+Children of deceased workers,"1,892",25
+Under age 18,"1,188",12
+Disabled adult children,641,48
+"Students, aged 18–19",62,18
+Nondisabled widow(er)s,"3,835",77
+Widowed mothers and fathers,143,44
+Disabled widow(er)s,258,59
+Parents of deceased workers,1,83
+DI,"10,931",47
+Disabled workers,"8,955",54
+Spouses of disabled workers,149,56
+Children of disabled workers,"1,828",13
+Under age 18,"1,650",12
+Disabled adult children,120,27
+"Students, aged 18–19",58,18
+"SOURCE: Social Security Administration, Master Beneficiary Record, 100 percent data.",,
+NOTE: Totals do not necessarily equal the sum of rounded components.,,
+CONTACT: (410) 965-0090 or statistics@ssa.gov.,,

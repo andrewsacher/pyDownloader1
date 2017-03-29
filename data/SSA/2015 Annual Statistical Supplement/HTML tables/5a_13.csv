@@ -1,32 +1,32 @@
-Type of benefit,All,Male,Female,0
- ,Number (thousands),,,0
-"Total, OASDI","59,007","26,733","32,274",2
-Adults,"54,652","24,457","30,195",0
-Children,"4,355","2,276","2,080",0
-Under age 18,"3,166","1,610","1,557",1
-Disabled adult children,"1,049",588,461,1
-"Students, aged 18–19",140,78,62,1
-Retired workers and their spouses and children,"41,948","20,039","21,908",0
-Retired workers,"39,009","19,602","19,407",1
-Spouses,"2,303",100,"2,204",1
-Children,635,338,297,1
-Disabled workers and their spouses and children,"10,931","5,580","5,351",0
-Disabled workers,"8,955","4,628","4,327",1
-Spouses,149,9,140,1
-Children,"1,828",944,884,1
-Survivors of deceased workers,"6,128","1,113","5,015",0
-Nondisabled widow(er)s,"3,835",91,"3,744",1
-Disabled widow(er)s,258,17,241,1
-Widowed mothers and fathers,143,12,131,1
-Children,"1,892",994,898,1
-Parents,1,(F),1,1
- ,Average monthly benefit (dollars),,,0
-Retired workers,"1,328.58","1,488.07","1,167.49",0
-Disabled workers,"1,165.39","1,290.20","1,031.91",0
-Widowed mothers and fathers,934.90,802.54,946.57,0
-Nondisabled widow(er)s,"1,275.61","1,114.36","1,279.52",0
-Surviving children,830.73,829.64,831.94,0
-,,,"SOURCE: Social Security Administration, Master Beneficiary Record, 100 percent data.",0
-,,,NOTES: Totals do not necessarily equal the sum of rounded components.,0
-,,,(F) = fewer than 500.,0
-,,,CONTACT: (410) 965-0090 or statistics@ssa.gov.,0
+Type of benefit,All,Male,Female
+ ,Number (thousands),,
+"Total, OASDI","59,007","26,733","32,274"
+Adults,"54,652","24,457","30,195"
+Children,"4,355","2,276","2,080"
+Under age 18,"3,166","1,610","1,557"
+Disabled adult children,"1,049",588,461
+"Students, aged 18–19",140,78,62
+Retired workers and their spouses and children,"41,948","20,039","21,908"
+Retired workers,"39,009","19,602","19,407"
+Spouses,"2,303",100,"2,204"
+Children,635,338,297
+Disabled workers and their spouses and children,"10,931","5,580","5,351"
+Disabled workers,"8,955","4,628","4,327"
+Spouses,149,9,140
+Children,"1,828",944,884
+Survivors of deceased workers,"6,128","1,113","5,015"
+Nondisabled widow(er)s,"3,835",91,"3,744"
+Disabled widow(er)s,258,17,241
+Widowed mothers and fathers,143,12,131
+Children,"1,892",994,898
+Parents,1,(F),1
+ ,Average monthly benefit (dollars),,
+Retired workers,"1,328.58","1,488.07","1,167.49"
+Disabled workers,"1,165.39","1,290.20","1,031.91"
+Widowed mothers and fathers,934.90,802.54,946.57
+Nondisabled widow(er)s,"1,275.61","1,114.36","1,279.52"
+Surviving children,830.73,829.64,831.94
+"SOURCE: Social Security Administration, Master Beneficiary Record, 100 percent data.",,,
+NOTES: Totals do not necessarily equal the sum of rounded components.,,,
+(F) = fewer than 500.,,,
+CONTACT: (410) 965-0090 or statistics@ssa.gov.,,,
