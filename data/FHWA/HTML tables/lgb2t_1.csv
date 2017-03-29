@@ -1,44 +1,44 @@
-,STATE,NAME OF FACILITY,OBLIGATIONS OUTSTANDING BEGINNING OF YEAR,OBLIGATIONS ISSUED,OBLIGATIONS RETIRED,OBLIGATIONS OUTSTANDING END OF YEAR,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9
-0,ORIGINAL ISSUES,REFUNDING ISSUES,TOTAL,BY CURRENT REVENUES OR SINKING FUNDS,BY REFUNDING,TOTAL,,,,
-1,California,Foothill/Eastern Toll Roads,2849473,2269,-,2269,2250,-,2250,2849492
-2,Golden Gate Bridge,61000,-,-,-,-,-,-,61000,
-3,State Route 91 Express Lanes,155460,-,-,-,20245,-,20245,135215,
-4,San Joaquin Hills Toll Road,2943525,59511,-,59511,36890,-,36890,2966146,
-5,Total,6009458,61780,-,61780,59385,-,59385,6011853,
-6,Colorado,E-470 Beltway,1798043,136866,-,136866,133073,-,133073,1801836
-7,Pikes Peak Toll Highway,494,-,-,-,62,-,62,432,
-8,Total,1798537,136866,-,136866,133135,-,133135,1802268,
-9,Florida,Biscayne Key (Rickenbacker) Causeway,15327,33725,-,33725,295,-,295,48757
-10,Broad Causeway,14006,-,-,-,771,-,771,13235,
-11,Card Sound Toll Bridge,-,-,-,-,-,-,-,-,
-12,Lee County Toll Bridges 2/,143636,-,-,-,11331,-,11331,132305,
-13,Osceola Parkway,247112,84775,-,84775,87745,-,87745,244142,
-14,Pensacola Beach Bridge,14775,-,-,-,-,-,-,14775,
-15,Venetian Causeway,-,-,-,-,-,-,-,-,
-16,Total,434856,118500,-,118500,100142,-,100142,453214,
-17,Massachusetts,"Woods Hole, Martha's Vineyard and Nantucket Ferries",35140,23801,-,23801,28270,-,28270,30671
-18,New Jersey,Cape May County Bridges,13637,-,-,-,575,-,575,13062
-19,Tacony-Palmyra and Burlington-Bristol Bridges,56914,-,-,-,2610,-,2610,54304,
-20,Total,70551,-,-,-,3185,-,3185,67366,
-21,New York,Atlantic Beach Bridge,10105,-,-,-,210,-,210,9895
-22,Triborough Bridges and Tunnels,3230600,371586,-,371586,246545,-,246545,3355641,
-23,Total,3240705,371586,-,371586,246755,-,246755,3365536,
-24,Oregon,Hood River - White Salmon Bridge,6232,-,-,-,650,-,650,5582
-25,Texas,Cameron County International Toll Bridge,18727,-,-,-,1645,-,1645,17082
-26,Del Rio International Bridge,815,-,-,-,-,-,-,815,
-27,Eagle Pass-Piedras Negras International Bridge,7255,-,-,-,1330,-,1330,5925,
-28,Fort Bend Toll Road,151580,-,-,-,2345,-,2345,149235,
-29,Harris County Toll Facilities 3/,2318163,-,-,-,105180,-,105180,2212983,
-30,Laredo-Nuevo Laredo International Bridge,53780,36226,-,36226,25105,-,25105,64901,
-31,McAllen International Toll Bridge,35645,-,-,-,1200,-,1200,34445,
-32,Pharr-Reynosa International Toll Bridge,14650,-,-,-,530,-,530,14120,
-33,Roma International Toll Bridge,-,-,-,-,-,-,-,-,
-34,San Luis Pass-Vacek Bridge,3310,-,-,-,787,-,787,2523,
-35,Zaragosa Bridge,11366,-,-,-,11366,-,11366,-,
-36,Total,2615291,36226,-,36226,149488,-,149488,2502029,
-37,Virginia,Chesapeake Expressway,177374,13580,-,13580,(247),-,(247),191201
-38,Richmond Expressway System,157025,41,-,41,3725,-,3725,153341,
-39,Total,334399,13621,-,13621,3478,-,3478,344542,
-40,Washington,Puget Island Ferry,-,-,-,-,-,-,-,-
-41,West Virginia,Steilacoom (Tacoma-McNeil-Anderson) Ferry,200,-,-,-,50,-,50,150
-42,Grand Total,14545369,762380,-,762380,724538,-,724538,14583211,
+STATE,NAME OF FACILITY,OBLIGATIONS OUTSTANDING BEGINNING OF YEAR ,OBLIGATIONS ISSUED ,,,OBLIGATIONS RETIRED ,,,OBLIGATIONS OUTSTANDING END OF YEAR 
+,,,ORIGINAL ISSUES ,REFUNDING ISSUES ,TOTAL ,BY CURRENT REVENUES OR  SINKING FUNDS ,BY REFUNDING ,TOTAL ,
+California,Foothill/Eastern Toll Roads," 2,849,473"," 2,269",-," 2,269"," 2,250",-," 2,250"," 2,849,492"
+,Golden    Gate Bridge," 61,000",-,-,-,-,-,-," 61,000"
+,State    Route 91 Express Lanes," 155,460",-,-,-," 20,245",-," 20,245"," 135,215"
+,San    Joaquin Hills Toll Road," 2,943,525"," 59,511",-," 59,511"," 36,890",-," 36,890"," 2,966,146"
+,Total," 6,009,458"," 61,780",-," 61,780"," 59,385",-," 59,385"," 6,011,853"
+Colorado,E-470    Beltway," 1,798,043"," 136,866",-," 136,866"," 133,073",-," 133,073"," 1,801,836"
+,Pikes    Peak Toll Highway, 494,-,-,-, 62,-, 62, 432
+,Total," 1,798,537"," 136,866",-," 136,866"," 133,135",-," 133,135"," 1,802,268"
+Florida,Biscayne    Key (Rickenbacker) Causeway," 15,327"," 33,725",-," 33,725", 295,-, 295," 48,757"
+,Broad    Causeway," 14,006",-,-,-, 771,-, 771," 13,235"
+,Card    Sound Toll Bridge,-,-,-,-,-,-,-,-
+,Lee    County Toll Bridges 2/," 143,636",-,-,-," 11,331",-," 11,331"," 132,305"
+,Osceola Parkway," 247,112"," 84,775",-," 84,775"," 87,745",-," 87,745"," 244,142"
+,Pensacola    Beach Bridge," 14,775",-,-,-,-,-,-," 14,775"
+,Venetian    Causeway,-,-,-,-,-,-,-,-
+,Total," 434,856"," 118,500",-," 118,500"," 100,142",-," 100,142"," 453,214"
+Massachusetts,"Woods    Hole, Martha's Vineyard and Nantucket Ferries"," 35,140"," 23,801",-," 23,801"," 28,270",-," 28,270"," 30,671"
+New    Jersey,Cape    May County Bridges," 13,637",-,-,-, 575,-, 575," 13,062"
+,Tacony-Palmyra    and Burlington-Bristol Bridges," 56,914",-,-,-," 2,610",-," 2,610"," 54,304"
+,Total," 70,551",-,-,-," 3,185",-," 3,185"," 67,366"
+New    York,Atlantic    Beach Bridge," 10,105",-,-,-, 210,-, 210," 9,895"
+,Triborough    Bridges and Tunnels," 3,230,600"," 371,586",-," 371,586"," 246,545",-," 246,545"," 3,355,641"
+,Total," 3,240,705"," 371,586",-," 371,586"," 246,755",-," 246,755"," 3,365,536"
+Oregon,Hood River - White Salmon Bridge," 6,232",-,-,-, 650,-, 650," 5,582"
+Texas,Cameron    County International Toll Bridge," 18,727",-,-,-," 1,645",-," 1,645"," 17,082"
+,Del    Rio International Bridge, 815,-,-,-,-,-,-, 815
+,Eagle    Pass-Piedras Negras International Bridge," 7,255",-,-,-," 1,330",-," 1,330"," 5,925"
+,Fort    Bend Toll Road," 151,580",-,-,-," 2,345",-," 2,345"," 149,235"
+,Harris    County Toll Facilities 3/," 2,318,163",-,-,-," 105,180",-," 105,180"," 2,212,983"
+,Laredo-Nuevo    Laredo International Bridge," 53,780"," 36,226",-," 36,226"," 25,105",-," 25,105"," 64,901"
+,McAllen    International Toll Bridge," 35,645",-,-,-," 1,200",-," 1,200"," 34,445"
+,Pharr-Reynosa    International Toll Bridge," 14,650",-,-,-, 530,-, 530," 14,120"
+,Roma    International Toll Bridge,-,-,-,-,-,-,-,-
+,San    Luis Pass-Vacek Bridge," 3,310",-,-,-, 787,-, 787," 2,523"
+,Zaragosa    Bridge," 11,366",-,-,-," 11,366",-," 11,366",-
+,Total," 2,615,291"," 36,226",-," 36,226"," 149,488",-," 149,488"," 2,502,029"
+Virginia,Chesapeake    Expressway," 177,374"," 13,580",-," 13,580", (247),-, (247)," 191,201"
+,Richmond    Expressway System," 157,025", 41,-, 41," 3,725",-," 3,725"," 153,341"
+,Total," 334,399"," 13,621",-," 13,621"," 3,478",-," 3,478"," 344,542"
+Washington,Puget Island Ferry,-,-,-,-,-,-,-,-
+West Virginia,Steilacoom    (Tacoma-McNeil-Anderson) Ferry, 200,-,-,-, 50,-, 50, 150
+Grand Total,," 14,545,369"," 762,380",-," 762,380"," 724,538",-," 724,538"," 14,583,211"

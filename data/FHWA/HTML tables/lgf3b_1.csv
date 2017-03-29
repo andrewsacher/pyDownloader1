@@ -1,62 +1,70 @@
-,STATE,NAME OF FACILITY,OPERATING AUTHORITY,BALANCE BEGINNING OF YEAR,ROAD AND CROSSING TOLLS,CONCESSIONS AND RENTALS,NET INCOME FROM INVESTMENTS,MISCELLANEOUS,BOND PROCEEDS,TOTAL RECEIPTS
-0,Arkansas,Northwest Arkansas Regional Airport Access Road,Arkansas State Highway and Transportation Department,-,-,-,-,112,-,112.0
-1,California,Foothill/Eastern Toll Roads,Foothill/Eastern Transportation Corridor Agency,666725,142343,-,269,20530,8794,171936.0
-2,Golden Gate Bridge,Golden Gate Bridge and Highway District,231248,114743,-,2098,70087,-,186928,
-3,State Route 91 Express Lanes,Orange County Transportation Authority,96163,41686,-,712,108,-,42506,
-4,San Joaquin Hills Toll Road,San Joaquin Hills Transportation Corridor Agency,370940,126205,-,3620,3799,-,133624,
-5,Total,1365076,424977,-,6699,94524,8794,534994,,
-6,Colorado,E-470 Beltway,E-470 Public Highway Authority,317880,132106,-,"(3,556)",11785,-,140335.0
-7,Pikes Peak Toll Highway,City of Colorado Springs,5369,4319,-,17,36,-,4372,
-8,Total,323249,136425,-,"(3,539)",11821,-,144707,,
-9,Florida,Biscayne Key (Rickenbacker) Causeway,Dade County Port Authority,12851,8054,-,"(5,745)",1136,33725,37170.0
-10,Broad Causeway,Town of Bay Harbor Islands,17097,5457,101,7,1,-,5566,
-11,Card Sound Toll Bridge,Monroe County,6683,997,-,20,-,-,1017,
-12,Lee County Toll Bridges 2/,Lee County,31305,41882,-,39,-,-,41921,
-13,Osceola Parkway,Osceola County,12257,13250,-,7,8688,84775,106720,
-14,Pensacola Beach Bridge,Escambia County,2777,3328,-,43,538,-,3909,
-15,Venetian Causeway,Dade County Port Authority,-,3185,-,-,1,-,3186,
-16,Total,82970,76153,101,"(5,629)",10364,118500,199489,,
-17,Maine,Machigonne II Ferry,Casco Bay Island Transit District,310,3619,856,-,8094,-,12569.0
-18,Massachusetts,"Woods Hole, Martha's Vineyard and Nantucket Ferries",Wood's Hole Steamship Authority,41818,82804,6373,53,7086,23801,120117.0
-19,Michigan,Ironton Ferry,Charlevoix County Road Commission,-,179,-,-,-,-,179.0
-20,St. Mary's River Ferry System,Eastern Upper Penninsula Transportation Authority,-,1319,2,-,1422,-,2743,
-21,Total,-,1498,2,-,1422,-,2922,,
-22,Nebraska,Bellevue Bridge,Bellevue Bridge Commission,3019,1500,-,-,-,-,1500.0
-23,New Jersey,Cape May County Bridges,Cape May Bridge Commission,1962,2785,-,142,1055,-,3982.0
-24,Tacony-Palmyra and Burlington-Bristol Bridges,Burlington County Bridge Commission,79839,32836,-,47,996,-,33879,
-25,Total,81801,35621,-,189,2051,-,37861,,
-26,New York,Atlantic Beach Bridge,Nassau County Bridge Authority,14417,6179,-,-,4655,-,10834.0
-27,Triborough Bridges and Tunnels,Triborough Bridge and Tunnel Authority,827049,1671990,42440,113256,-,371586,2199272,
-28,Total,841466,1678169,42440,113256,4655,371586,2210106,,
-29,Oregon,Buena Vista Ferry,Polk County Road Department,-,68,3,-,278,-,349.0
-30,Canby Ferry,Clackamas County Road Department,-,167,-,-,-,-,167,
-31,Cascade Locks Bridge,Port of Cascade Locks Commission,-,1608,-,-,-,-,1608,
-32,Hood River - White Salmon Bridge,Port of Hood River Commission,-,3607,-,4,10,-,3621,
-33,Wheatland Ferry,Marion County Road Department,-,594,-,-,160,-,754,
-34,Total,-,6044,3,4,448,-,6499,,
-35,Texas,Cameron County International Toll Bridge,Cameron County,17771,15172,459,50,2422,-,18103.0
-36,Del Rio International Bridge,City of Del Rio,2679,5216,-,3,635,-,5854,
-37,Eagle Pass-Piedras Negras International Bridge,City of Eagle Pass,3994,9701,-,5,180,-,9886,
-38,Fort Bend Toll Road,Fort Bend Toll Road Authority,63399,23510,-,175,880,-,24565,
-39,Harris County Toll Facilities 3/,Harris County Toll Road Authority,1241925,622209,-,23875,62185,-,708269,
-40,Laredo-Nuevo Laredo International Bridge,City of Laredo,11721,54402,805,55,343,36226,91831,
-41,McAllen International Toll Bridge,City of McAllen,11062,13548,1911,2,1112,-,16573,
-42,Pharr-Reynosa International Toll Bridge,City of Pharr,10725,12362,-,216,466,-,13044,
-43,Roma International Toll Bridge,Starr County,859,1871,57,1,-,-,1929,
-44,San Luis Pass-Vacek Bridge,Galveston County,461,507,-,3,800,-,1310,
-45,Zaragosa Bridge,City of El Paso,1071,19625,79,10,352,10795,30861,
-46,Total,1365667,778123,3311,24395,69375,47021,922225,,
-47,Virginia,Chesapeake Expressway,City of Chesapeake,149157,19668,-,139,-,13580,33387.0
-48,Richmond Expressway System,Richmond Metropolitan Authority,61739,37828,48,358,9,456,38699,
-49,Total,210896,57496,48,497,9,14036,72086,,
-50,Washington,Guemes Island Ferry,Skagit County,-,920,-,-,1844,-,2764.0
-51,Lummi Island-Gooseberry Point Ferry,Whatcom County,-,1482,-,-,2116,-,3598,
-52,Puget Island Ferry,Wahkiacum County,-,167,-,-,3947,-,4114,
-53,Steilacoom (Tacoma-McNeil-Anderson) Ferry,Pierce County,-,3503,-,-,867,-,4370,
-54,Total,-,6072,-,-,8774,-,14846,,
-55,West Virginia,Parkersburg Bridge,City of Parkersburg,4509,1725,-,11,-,-,1736.0
-56,Wisconsin,Cassville Car Ferry,Cassville Harbor Commission,178,81,2,-,83,-,166.0
-57,Summary,Total Bridge and Tunnel Facilities,1290080,2030780,45852,110267,84789,452332,2724020,
-58,Total Road Facilities,3003850,1188903,48,38032,108313,107605,1442901,,
-59,Total Ferry Facilities,42306,94903,7236,53,25897,23801,151890,,
-60,Grand Total,4336236,3314586,53136,148352,218999,583738,4318811,,
+STATE,NAME OF FACILITY,OPERATING AUTHORITY,"BALANCE BEGINNING 
+      OF YEAR","ROAD 
+      AND 
+      CROSSING 
+      TOLLS","CONCESSIONS 
+      AND 
+      RENTALS","NET 
+      INCOME FROM 
+      INVESTMENTS",MISCELLANEOUS,BOND PROCEEDS,TOTAL RECEIPTS
+Arkansas,Northwest Arkansas    Regional Airport Access Road,Arkansas State Highway and Transportation    Department,-,-,-,-, 112,-, 112
+California,Foothill/Eastern    Toll Roads,Foothill/Eastern    Transportation Corridor Agency," 666,725"," 142,343",-, 269," 20,530"," 8,794"," 171,936"
+,Golden    Gate Bridge,Golden    Gate Bridge and Highway District," 231,248"," 114,743",-," 2,098"," 70,087",-," 186,928"
+,State    Route 91 Express Lanes,Orange    County Transportation Authority," 96,163"," 41,686",-, 712, 108,-," 42,506"
+,San    Joaquin Hills Toll Road,San    Joaquin Hills Transportation Corridor Agency," 370,940"," 126,205",-," 3,620"," 3,799",-," 133,624"
+,Total,," 1,365,076"," 424,977",-," 6,699"," 94,524"," 8,794"," 534,994"
+Colorado,E-470 Beltway,E-470 Public Highway Authority," 317,880 "," 132,106 ",-," (3,556)"," 11,785 ",-," 140,335 "
+,Pikes    Peak Toll Highway,City    of Colorado Springs," 5,369 "," 4,319 ",-, 17 , 36 ,-," 4,372 "
+,Total,," 323,249 "," 136,425 ",-," (3,539)"," 11,821 ",-," 144,707 "
+Florida,Biscayne    Key (Rickenbacker) Causeway,Dade    County Port Authority," 12,851"," 8,054",-," (5,745)"," 1,136"," 33,725"," 37,170"
+,Broad    Causeway,Town    of Bay Harbor Islands," 17,097"," 5,457", 101, 7, 1,-," 5,566"
+,Card    Sound Toll Bridge,Monroe    County," 6,683", 997,-, 20,-,-," 1,017"
+,Lee    County Toll Bridges 2/,Lee    County," 31,305"," 41,882",-, 39,-,-," 41,921"
+,Osceola Parkway,Osceola    County," 12,257"," 13,250",-, 7," 8,688"," 84,775"," 106,720"
+,Pensacola    Beach Bridge,Escambia    County," 2,777"," 3,328",-, 43, 538,-," 3,909"
+,Venetian    Causeway,Dade    County Port Authority,-," 3,185",-,-, 1,-," 3,186"
+,Total,," 82,970"," 76,153", 101," (5,629)"," 10,364"," 118,500"," 199,489"
+Maine,Machigonne II Ferry,Casco Bay Island Transit District, 310," 3,619", 856,-," 8,094",-," 12,569"
+Massachusetts,"Woods Hole, Martha's Vineyard and Nantucket Ferries",Wood's Hole Steamship Authority," 41,818"," 82,804"," 6,373", 53," 7,086"," 23,801"," 120,117"
+Michigan,Ironton    Ferry,Charlevoix    County Road Commission,-, 179,-,-,-,-, 179
+,St.    Mary's River Ferry System,Eastern    Upper Penninsula Transportation Authority,-," 1,319", 2,-," 1,422",-," 2,743"
+,Total,,-," 1,498", 2,-," 1,422",-," 2,922"
+Nebraska,Bellevue    Bridge,Bellevue    Bridge Commission," 3,019"," 1,500",-,-,-,-," 1,500"
+New Jersey,Cape    May County Bridges,Cape    May Bridge Commission," 1,962"," 2,785",-, 142," 1,055",-," 3,982"
+,Tacony-Palmyra    and Burlington-Bristol Bridges,Burlington    County Bridge Commission," 79,839"," 32,836",-, 47, 996,-," 33,879"
+,Total,," 81,801"," 35,621",-, 189," 2,051",-," 37,861"
+New York,Atlantic    Beach Bridge,Nassau    County Bridge Authority," 14,417"," 6,179",-,-," 4,655",-," 10,834"
+,Triborough    Bridges and Tunnels,Triborough    Bridge and Tunnel Authority," 827,049"," 1,671,990"," 42,440"," 113,256",-," 371,586"," 2,199,272"
+,Total,," 841,466"," 1,678,169"," 42,440"," 113,256"," 4,655"," 371,586"," 2,210,106"
+Oregon,Buena    Vista Ferry,Polk    County Road Department,-, 68, 3,-, 278,-, 349
+,Canby    Ferry,Clackamas    County Road Department,-, 167,-,-,-,-, 167
+,Cascade    Locks Bridge,Port    of Cascade Locks Commission,-," 1,608",-,-,-,-," 1,608"
+,Hood    River - White Salmon Bridge,Port    of Hood River Commission,-," 3,607",-, 4, 10,-," 3,621"
+,Wheatland    Ferry,Marion    County Road Department,-, 594,-,-, 160,-, 754
+,Total,,-," 6,044", 3, 4, 448,-," 6,499"
+Texas,Cameron    County International Toll Bridge,Cameron    County," 17,771"," 15,172", 459, 50," 2,422",-," 18,103"
+,Del    Rio International Bridge,City    of Del Rio," 2,679"," 5,216",-, 3, 635,-," 5,854"
+,Eagle    Pass-Piedras Negras International Bridge,City    of Eagle Pass," 3,994"," 9,701",-, 5, 180,-," 9,886"
+,Fort    Bend Toll Road,Fort    Bend Toll Road Authority," 63,399"," 23,510",-, 175, 880,-," 24,565"
+,Harris    County Toll Facilities 3/,Harris    County Toll Road Authority," 1,241,925"," 622,209",-," 23,875"," 62,185",-," 708,269"
+,Laredo-Nuevo    Laredo International Bridge,City    of Laredo," 11,721"," 54,402", 805, 55, 343," 36,226"," 91,831"
+,McAllen    International Toll Bridge,City    of McAllen," 11,062"," 13,548"," 1,911", 2," 1,112",-," 16,573"
+,Pharr-Reynosa    International Toll Bridge,City    of Pharr," 10,725"," 12,362",-, 216, 466,-," 13,044"
+,Roma    International Toll Bridge,Starr    County, 859," 1,871", 57, 1,-,-," 1,929"
+,San    Luis Pass-Vacek Bridge,Galveston    County, 461, 507,-, 3, 800,-," 1,310"
+,Zaragosa    Bridge,City    of El Paso," 1,071"," 19,625", 79, 10, 352," 10,795"," 30,861"
+,Total,," 1,365,667"," 778,123"," 3,311"," 24,395"," 69,375"," 47,021"," 922,225"
+Virginia,Chesapeake    Expressway,City    of Chesapeake," 149,157"," 19,668",-, 139,-," 13,580"," 33,387"
+,Richmond    Expressway System,Richmond    Metropolitan Authority," 61,739"," 37,828", 48, 358, 9, 456," 38,699"
+,Total,," 210,896"," 57,496", 48, 497, 9," 14,036"," 72,086"
+Washington,Guemes    Island Ferry,Skagit    County,-, 920,-,-," 1,844",-," 2,764"
+,Lummi    Island-Gooseberry Point Ferry,Whatcom    County,-," 1,482",-,-," 2,116",-," 3,598"
+,Puget    Island Ferry,Wahkiacum    County,-, 167,-,-," 3,947",-," 4,114"
+,Steilacoom    (Tacoma-McNeil-Anderson) Ferry,Pierce    County,-," 3,503",-,-, 867,-," 4,370"
+,Total,,-," 6,072",-,-," 8,774",-," 14,846"
+West Virginia,Parkersburg Bridge,City of Parkersburg," 4,509"," 1,725",-, 11,-,-," 1,736"
+Wisconsin,Cassville Car Ferry,Cassville Harbor Commission, 178, 81, 2,-, 83,-, 166
+Summary,Total    Bridge and Tunnel Facilities,," 1,290,080"," 2,030,780"," 45,852"," 110,267"," 84,789"," 452,332"," 2,724,020"
+,Total    Road Facilities,," 3,003,850"," 1,188,903", 48," 38,032"," 108,313"," 107,605"," 1,442,901"
+,Total    Ferry Facilities,," 42,306"," 94,903"," 7,236", 53," 25,897"," 23,801"," 151,890"
+ Grand Total,,," 4,336,236"," 3,314,586"," 53,136"," 148,352"," 218,999"," 583,738"," 4,318,811"

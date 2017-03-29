@@ -1,16 +1,16 @@
-Year,Methodological change,Reference
-1959,First year for which poverty data are available. The poverty measure was developed in 1963 and 1964.,"P60-210, Appendixes"
-1969,Modification of poverty measure. Bureau of the Budget prescribed the new measure as the official poverty measure for statistical use in federal agencies.,"P60-68, pp. 11–12"
-1979,"“Householder” concept first implemented, replacing “head” concept—the husband is no longer automatically the family reference person. Secondary families (people who are related to each other but not the householder) are tallied separately from “families.”","P60-130, pp. 6–10"
-,"Change in universe—income questions no longer asked of 14-year-olds. Poverty universe changed—people under age 15 not living with any family members are excluded. (Previously, unrelated individuals under age 14 were excluded.)",
-1980,Modification of poverty measure (final approval in 1981). Estimates weighted using 1980 Census results.,"P60-133, pp. 2–7"
-1987,New CPS processing system.,"P60-166, pp. 1, 14–17; Welniak, 1990 ASA proceedings"
-1992,Estimates first weighted using 1990 Census results.,"P60-188, p. vii"
-1994,Computer-assisted interviewing replaced pencil-and-paper interviewing.,"P60-189, p. vii"
-1994–1995,New CPS sample design.,"P60-189, p. vii and Table D-3; P60-194, pp. v and xiii and Table D-3"
-1995,Revised edit and allocation procedures for race groups.,"P60-194, pp. v and xiii"
-2000,"Expansion of CPS sample interviewed from about 50,000 households to about 78,000 households nationwide. Poverty data for 2000 and 2001 from sample expansion first published in P60-219, “Poverty in the United States: 2001.” In the same report, data were weighted using Census 2000 results.","P60-219, Appendix B"
-2002,"For the first time, the CPS ASEC of 2003 recorded multiple categories for respondents who identified themselves with more than one race. We do not know how people who reported more than one race in 2002 previously reported their race. Therefore, there is no single way to compare changes to poverty by race between 2001 and 2002. The “Asian or Pacific Islander” race category was divided into two groups: “Asians” and “Native Hawaiians and Other Pacific Islanders.”","P60-222, pp. 2–3, 5"
-2013,"Redesigned questions on income were tested using a probability split panel design, with redesigned questions provided to 30,000 addresses and traditional income questions provided to the remaining sample of 68,000 addresses. In addition, a new set of health insurance questions was provided to all 98,000 addresses.","P60-249, Appendix D"
-2014,New CPS sample design includes full-sample implementation of redesigned income questions.,"P60-252, Appendixes D and E"
- ,,
+Year,Methodological change,Reference,0
+1959,First year for which poverty data are available. The poverty measure was developed in 1963 and 1964.,"P60-210, Appendixes",0
+1969,Modification of poverty measure. Bureau of the Budget prescribed the new measure as the official poverty measure for statistical use in federal agencies.,"P60-68, pp. 11–12",0
+1979,"“Householder” concept first implemented, replacing “head” concept—the husband is no longer automatically the family reference person. Secondary families (people who are related to each other but not the householder) are tallied separately from “families.”","P60-130, pp. 6–10",0
+,"Change in universe—income questions no longer asked of 14-year-olds. Poverty universe changed—people under age 15 not living with any family members are excluded. (Previously, unrelated individuals under age 14 were excluded.)",,0
+1980,Modification of poverty measure (final approval in 1981). Estimates weighted using 1980 Census results.,"P60-133, pp. 2–7",0
+1987,New CPS processing system.,"P60-166, pp. 1, 14–17; Welniak, 1990 ASA proceedings",0
+1992,Estimates first weighted using 1990 Census results.,"P60-188, p. vii",0
+1994,Computer-assisted interviewing replaced pencil-and-paper interviewing.,"P60-189, p. vii",0
+1994–1995,New CPS sample design.,"P60-189, p. vii and Table D-3; P60-194, pp. v and xiii and Table D-3",0
+1995,Revised edit and allocation procedures for race groups.,"P60-194, pp. v and xiii",0
+2000,"Expansion of CPS sample interviewed from about 50,000 households to about 78,000 households nationwide. Poverty data for 2000 and 2001 from sample expansion first published in P60-219, “Poverty in the United States: 2001.” In the same report, data were weighted using Census 2000 results.","P60-219, Appendix B",0
+2002,"For the first time, the CPS ASEC of 2003 recorded multiple categories for respondents who identified themselves with more than one race. We do not know how people who reported more than one race in 2002 previously reported their race. Therefore, there is no single way to compare changes to poverty by race between 2001 and 2002. The “Asian or Pacific Islander” race category was divided into two groups: “Asians” and “Native Hawaiians and Other Pacific Islanders.”","P60-222, pp. 2–3, 5",0
+2013,"Redesigned questions on income were tested using a probability split panel design, with redesigned questions provided to 30,000 addresses and traditional income questions provided to the remaining sample of 68,000 addresses. In addition, a new set of health insurance questions was provided to all 98,000 addresses.","P60-249, Appendix D",0
+2014,New CPS sample design includes full-sample implementation of redesigned income questions.,"P60-252, Appendixes D and E",0
+ ,,,0

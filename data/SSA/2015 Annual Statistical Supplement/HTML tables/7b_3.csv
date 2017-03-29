@@ -1,59 +1,59 @@
-State or area,Total,Federal SSI,Federally administered state supplementation
-All areas,"54,693,013","51,574,587","3,118,426"
-Alabama,"1,086,605","1,086,605",. . .
-Alaska,"76,161","76,161",. . .
-Arizona,"764,207","764,207",. . .
-Arkansas,"702,529","702,529",. . .
-California,"9,571,779","7,105,861","2,465,918"
-Colorado,"461,446","461,446",. . .
-Connecticut,"405,021","405,021",. . .
-Delaware,"106,599","105,712",887
-District of Columbia,"187,078","182,358","4,720"
-Florida,"3,491,138","3,491,138",. . .
-Georgia,"1,624,889","1,624,889",. . .
-Hawaii,"169,776","153,114","16,662"
-Idaho,"190,142","190,142",. . .
-Illinois,"1,810,717","1,810,717",. . .
-Indiana,"832,953","832,953",. . .
-Iowa,"309,941","304,077","5,864"
-Kansas,"306,884","306,884",. . .
-Kentucky,"1,174,277","1,174,277",. . .
-Louisiana,"1,139,535","1,139,535",. . .
-Maine,"226,840","226,840",. . .
-Maryland,"791,824","791,824",. . .
-Massachusetts,"1,183,449","1,183,449",. . .
-Michigan,"1,854,332","1,835,979","18,353"
-Minnesota,"613,877","613,877",. . .
-Mississippi,"766,233","766,233",. . .
-Missouri,"898,171","898,171",. . .
-Montana,"111,583","110,619",964
-Nebraska,"169,189","169,189",. . .
-Nevada,"326,529","319,412","7,117"
-New Hampshire,"120,766","120,766",. . .
-New Jersey,"1,152,436","1,069,020","83,416"
-New Mexico,"391,908","391,908",. . .
-New York,"4,665,280","4,193,436","471,844"
-North Carolina,"1,460,544","1,460,544",. . .
-North Dakota,"47,185","47,185",. . .
-Ohio,"2,074,407","2,074,407",. . .
-Oklahoma,"616,540","616,540",. . .
-Oregon,"548,698","548,698",. . .
-Pennsylvania,"2,509,340","2,478,085","31,255"
-Rhode Island,"210,356","209,279","1,077"
-South Carolina,"733,120","733,120",. . .
-South Dakota,"88,429","88,429",. . .
-Tennessee,"1,160,164","1,160,164",. . .
-Texas,"4,000,209","4,000,209",. . .
-Utah,"194,634","194,623",11
-Vermont,"98,095","87,754","10,340"
-Virginia,"968,259","968,259",. . .
-Washington,"1,008,840","1,008,840",. . .
-West Virginia,"494,190","494,190",. . .
-Wisconsin,"747,204","747,204",. . .
-Wyoming,"41,084","41,084",. . .
-Outlying area, ,,
-Northern Mariana Islands,"7,621","7,621",. . .
-"SOURCE: Social Security Administration, Office of Financial Policy and Operations; and Social Security Administration, Supplemental Security Record, 100 percent data.",,,
-NOTES: Totals do not necessarily equal the sum of rounded components.,,,
-. . . = not applicable.,,,
-CONTACT: (410) 965-0090 or statistics@ssa.gov.,,,
+State or area,Total,Federal SSI,Federally administered state supplementation,0
+All areas,"54,693,013","51,574,587","3,118,426",2
+Alabama,"1,086,605","1,086,605",. . .,0
+Alaska,"76,161","76,161",. . .,0
+Arizona,"764,207","764,207",. . .,0
+Arkansas,"702,529","702,529",. . .,0
+California,"9,571,779","7,105,861","2,465,918",0
+Colorado,"461,446","461,446",. . .,0
+Connecticut,"405,021","405,021",. . .,0
+Delaware,"106,599","105,712",887,0
+District of Columbia,"187,078","182,358","4,720",0
+Florida,"3,491,138","3,491,138",. . .,0
+Georgia,"1,624,889","1,624,889",. . .,0
+Hawaii,"169,776","153,114","16,662",0
+Idaho,"190,142","190,142",. . .,0
+Illinois,"1,810,717","1,810,717",. . .,0
+Indiana,"832,953","832,953",. . .,0
+Iowa,"309,941","304,077","5,864",0
+Kansas,"306,884","306,884",. . .,0
+Kentucky,"1,174,277","1,174,277",. . .,0
+Louisiana,"1,139,535","1,139,535",. . .,0
+Maine,"226,840","226,840",. . .,0
+Maryland,"791,824","791,824",. . .,0
+Massachusetts,"1,183,449","1,183,449",. . .,0
+Michigan,"1,854,332","1,835,979","18,353",0
+Minnesota,"613,877","613,877",. . .,0
+Mississippi,"766,233","766,233",. . .,0
+Missouri,"898,171","898,171",. . .,0
+Montana,"111,583","110,619",964,0
+Nebraska,"169,189","169,189",. . .,0
+Nevada,"326,529","319,412","7,117",0
+New Hampshire,"120,766","120,766",. . .,0
+New Jersey,"1,152,436","1,069,020","83,416",0
+New Mexico,"391,908","391,908",. . .,0
+New York,"4,665,280","4,193,436","471,844",0
+North Carolina,"1,460,544","1,460,544",. . .,0
+North Dakota,"47,185","47,185",. . .,0
+Ohio,"2,074,407","2,074,407",. . .,0
+Oklahoma,"616,540","616,540",. . .,0
+Oregon,"548,698","548,698",. . .,0
+Pennsylvania,"2,509,340","2,478,085","31,255",0
+Rhode Island,"210,356","209,279","1,077",0
+South Carolina,"733,120","733,120",. . .,0
+South Dakota,"88,429","88,429",. . .,0
+Tennessee,"1,160,164","1,160,164",. . .,0
+Texas,"4,000,209","4,000,209",. . .,0
+Utah,"194,634","194,623",11,0
+Vermont,"98,095","87,754","10,340",0
+Virginia,"968,259","968,259",. . .,0
+Washington,"1,008,840","1,008,840",. . .,0
+West Virginia,"494,190","494,190",. . .,0
+Wisconsin,"747,204","747,204",. . .,0
+Wyoming,"41,084","41,084",. . .,0
+Outlying area, ,,,0
+Northern Mariana Islands,"7,621","7,621",. . .,1
+"SOURCE: Social Security Administration, Office of Financial Policy and Operations; and Social Security Administration, Supplemental Security Record, 100 percent data.",,,,0
+NOTES: Totals do not necessarily equal the sum of rounded components.,,,,0
+. . . = not applicable.,,,,0
+CONTACT: (410) 965-0090 or statistics@ssa.gov.,,,,0

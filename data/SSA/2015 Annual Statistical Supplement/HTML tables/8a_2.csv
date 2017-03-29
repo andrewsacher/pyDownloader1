@@ -1,88 +1,88 @@
-Year,Receipts,,,,,,,,Expenditures,,,,Trust fund assets at end of year 
-,Total,Premiums from participants ,,,,Government contributions ,Transfers from states ,Interest and other income ,Total,Benefit payments ,Administrative expenses,,
-,,Subtotal,Part B,,Part D ,,,,,,Amount,Percentage of benefit payments,
-,,,Aged,Disabled,,,,,,,,,
-1966,324,322,322,. . .,. . .,0,. . .,2,203,128,75,58.6,122
-1967,"1,597",640,640,. . .,. . .,933,. . .,24,"1,307","1,197",110,9.2,412
-1968,"1,711",832,832,. . .,. . .,858,. . .,21,"1,702","1,518",184,12.1,421
-1969,"1,839",914,914,. . .,. . .,907,. . .,18,"2,061","1,865",196,10.5,199
-1970,"2,201","1,096","1,096",. . .,. . .,"1,093",. . .,12,"2,212","1,975",237,12.0,188
-1971,"2,639","1,302","1,302",. . .,. . .,"1,313",. . .,24,"2,377","2,117",260,12.3,450
-1972,"2,808","1,382","1,382",. . .,. . .,"1,389",. . .,37,"2,614","2,325",289,12.4,643
-1973,"3,312","1,550","1,491",59,. . .,"1,705",. . .,57,"2,844","2,526",318,12.6,"1,111"
-1974,"4,124","1,804","1,664",140,. . .,"2,225",. . .,95,"3,728","3,318",410,12.4,"1,506"
-1975,"4,673","1,918","1,759",158,. . .,"2,648",. . .,107,"4,735","4,273",462,10.8,"1,444"
-1976,"5,977","2,060","1,878",183,. . .,"3,810",. . .,107,"5,622","5,080",542,10.7,"1,799"
-1977,"7,805","2,247","2,030",217,. . .,"5,386",. . .,172,"6,505","6,038",467,7.7,"3,099"
-1978,"9,056","2,470","2,221",248,. . .,"6,287",. . .,299,"7,755","7,252",503,6.9,"4,400"
-1979,"9,768","2,719","2,451",267,. . .,"6,645",. . .,404,"9,265","8,708",557,6.4,"4,902"
-1980,"10,874","3,011","2,707",304,. . .,"7,455",. . .,408,"11,245","10,635",610,5.7,"4,530"
-1981,"15,374","i 3,72","i 3,35",i 36,. . .,"i 11,29",. . .,361,"14,028","13,113",915,7.0,"5,877"
-1982,"16,580","i 3,69","i 3,34",i 35,. . .,"i 12,28",. . .,599,"16,227","15,455",772,5.0,"6,230"
-1983,"19,824","4,236","3,845",391,. . .,"14,861",. . .,727,"18,984","18,106",878,4.8,"7,070"
-1984,"23,180","5,167","4,721",445,. . .,"17,054",. . .,959,"20,552","19,661",891,4.5,"9,698"
-1985,"25,106","5,613","5,105",508,. . .,"18,250",. . .,"1,243","23,880","22,947",933,4.1,"10,924"
-1986,"24,665","5,722","5,218",504,. . .,"17,802",. . .,"1,141","27,299","26,239","1,060",4.0,"8,291"
-1987,"31,844","j 7,40","j 6,74",j 66,. . .,"j 23,56",. . .,876,"31,740","30,820",921,3.0,"8,394"
-1988,"35,825","j 8,76","j 7,98",j 77,. . .,"j 26,20",. . .,861,"35,229","33,970","1,260",3.7,"8,990"
-1989,"k 44,34","k,l 12,","9,793",993,. . .,"30,852",. . .,"k 1,23","k 39,78","38,294","k 1,48",3.9,"k 13,55"
-1990,"45,913","11,320","10,311","1,008",. . .,"33,035",. . .,"1,558","43,987","42,468","1,519",3.6,"15,482"
-1991,"51,224","11,934","10,846","1,088",. . .,"37,602",. . .,"1,688","48,877","47,336","1,541",3.3,"17,828"
-1992,"57,237","m 14,07","m 12,81","m 1,26",. . .,"m 41,35",. . .,"1,801","50,830","49,260","1,570",3.2,"24,235"
-1993,"57,679","m 14,19","m 12,73","m 1,46",. . .,"m 41,46",. . .,"2,021","57,783","n 55,78","2,000",3.6,"24,131"
-1994,"55,608","17,386","15,569","1,817",. . .,"36,203",. . .,"2,018","60,317","58,618","1,699",2.9,"19,422"
-1995,"60,306","19,717","17,651","2,066",. . .,"39,007",. . .,"1,582","66,599","64,972","1,627",2.5,"13,130"
-1996,"85,609","18,763","16,654","2,109",. . .,"65,035",. . .,"1,811","70,408","68,598","1,810",2.6,"28,332"
-1997,"81,924","19,289","17,079","2,210",. . .,"60,171",. . .,"2,464","74,124","72,757","1,368",1.9,"36,131"
-1998,"87,711","o 20,93","o 18,59","o 2,33",. . .,"o 64,06",. . .,"2,711","77,630","p 76,12","1,505",2.0,"46,212"
-1999,"80,902","o 18,96","o 16,60","o 2,36",. . .,"o 59,09",. . .,"2,841","82,327","p 80,72","1,603",2.0,"44,787"
-2000,"89,903","20,555","17,892","2,664",. . .,"65,898",. . .,"3,450","90,663","p 88,89","1,770",2.0,"44,027"
-2001,"98,629","22,764","19,905","2,859",. . .,"72,793",. . .,"3,071","101,386","p 99,66","1,723",1.7,"41,270"
-2002,"106,196","25,066","21,610","3,456",. . .,"78,338",. . .,"2,792","113,165","p 110,96","2,196",2.0,"34,301"
-2003,"115,796","27,402","23,546","3,856",. . .,"86,402",. . .,"1,992","126,144","p 123,82","2,318",1.9,"23,953"
-2004,"133,787","31,435","26,737","4,699",. . .,"100,858",. . .,"1,495","138,311","135,418","2,893",2.1,"19,430"
-2005,"158,089","37,535","31,722","5,813",. . .,"119,189",. . .,"1,365","153,511","q 150,32","3,185",2.1,"24,008"
-2006,"225,525","r 46,33","36,346","6,507","r 3,48","171,910","5,474","1,804","216,414","q,r 213,","3,369",1.6,"33,119"
-2007,"238,408","s 50,84","39,676","7,096","s 4,07","178,404","6,907","2,254","228,664","q,s 225,","3,401",1.5,"42,863"
-2008,"250,026","t 55,26","42,335","7,897","t 5,03","184,055","7,105","u 3,60","232,596","t,v 229,","3,269",1.4,"60,293"
-2009,"282,855","w,x 62,","w 47,43","w 8,60","w,x 6,","w 209,81","7,572","3,096","266,545","x 263,08","3,460",1.3,"76,603"
-2010,"270,470","w,y 58,","w 43,16","w 8,81","w,y 6,","w 204,63","4,038","3,288","274,944","y 271,42","3,515",1.3,"72,130"
-2011,"301,019","z 65,22","47,646","9,868","z 7,71","222,798","7,116","5,877","292,459","z 288,48","3,978",1.4,"80,689"
-2012,"293,916","aa 66,3","48,495","9,529","aa 8,3","213,955","8,433","5,170","307,380","aa 303,0","4,354",1.4,"67,226"
-2013,"324,634","bb 73,0","52,814","10,270","bb 9,9","236,773","8,776","6,076","316,742","bb 313,0","3,651",1.2,"75,118"
-2014,"338,019","cc 77,0","55,164","10,479","cc 11,3","246,611","8,667","5,717","344,003","cc 339,6","4,366",1.3,"69,134"
-"SOURCES: 2015 Annual Report of the Boards of Trustees of the Federal Hospital Insurance and Federal Supplementary Medical Insurance Trust Funds, Tables III.C4 and III.D3, analogous tables from earlier annual reports, and unpublished Treasury reports. Because the tables published in the 2015 Annual Report display dollars rounded to the tenths of billions for selected years only, an analogous unpublished table displaying dollars rounded to the millions for all years was also used.",,,,,,,,,,,,,
+Year,Receipts,,,,,,,,Expenditures,,,,Trust fund assets at end of year ,0
+,Total,Premiums from participants ,,,,Government contributions ,Transfers from states ,Interest and other income ,Total,Benefit payments ,Administrative expenses,,,0
+,,Subtotal,Part B,,Part D ,,,,,,Amount,Percentage of benefit payments,,0
+,,,Aged,Disabled,,,,,,,,,,0
+1966,324,322,322,. . .,. . .,0,. . .,2,203,128,75,58.6,122,0
+1967,"1,597",640,640,. . .,. . .,933,. . .,24,"1,307","1,197",110,9.2,412,0
+1968,"1,711",832,832,. . .,. . .,858,. . .,21,"1,702","1,518",184,12.1,421,0
+1969,"1,839",914,914,. . .,. . .,907,. . .,18,"2,061","1,865",196,10.5,199,0
+1970,"2,201","1,096","1,096",. . .,. . .,"1,093",. . .,12,"2,212","1,975",237,12.0,188,0
+1971,"2,639","1,302","1,302",. . .,. . .,"1,313",. . .,24,"2,377","2,117",260,12.3,450,0
+1972,"2,808","1,382","1,382",. . .,. . .,"1,389",. . .,37,"2,614","2,325",289,12.4,643,0
+1973,"3,312","1,550","1,491",59,. . .,"1,705",. . .,57,"2,844","2,526",318,12.6,"1,111",0
+1974,"4,124","1,804","1,664",140,. . .,"2,225",. . .,95,"3,728","3,318",410,12.4,"1,506",0
+1975,"4,673","1,918","1,759",158,. . .,"2,648",. . .,107,"4,735","4,273",462,10.8,"1,444",0
+1976,"5,977","2,060","1,878",183,. . .,"3,810",. . .,107,"5,622","5,080",542,10.7,"1,799",0
+1977,"7,805","2,247","2,030",217,. . .,"5,386",. . .,172,"6,505","6,038",467,7.7,"3,099",0
+1978,"9,056","2,470","2,221",248,. . .,"6,287",. . .,299,"7,755","7,252",503,6.9,"4,400",0
+1979,"9,768","2,719","2,451",267,. . .,"6,645",. . .,404,"9,265","8,708",557,6.4,"4,902",0
+1980,"10,874","3,011","2,707",304,. . .,"7,455",. . .,408,"11,245","10,635",610,5.7,"4,530",0
+1981,"15,374","i 3,72","i 3,35",i 36,. . .,"i 11,29",. . .,361,"14,028","13,113",915,7.0,"5,877",0
+1982,"16,580","i 3,69","i 3,34",i 35,. . .,"i 12,28",. . .,599,"16,227","15,455",772,5.0,"6,230",0
+1983,"19,824","4,236","3,845",391,. . .,"14,861",. . .,727,"18,984","18,106",878,4.8,"7,070",0
+1984,"23,180","5,167","4,721",445,. . .,"17,054",. . .,959,"20,552","19,661",891,4.5,"9,698",0
+1985,"25,106","5,613","5,105",508,. . .,"18,250",. . .,"1,243","23,880","22,947",933,4.1,"10,924",0
+1986,"24,665","5,722","5,218",504,. . .,"17,802",. . .,"1,141","27,299","26,239","1,060",4.0,"8,291",0
+1987,"31,844","j 7,40","j 6,74",j 66,. . .,"j 23,56",. . .,876,"31,740","30,820",921,3.0,"8,394",0
+1988,"35,825","j 8,76","j 7,98",j 77,. . .,"j 26,20",. . .,861,"35,229","33,970","1,260",3.7,"8,990",0
+1989,"k 44,34","k,l 12,","9,793",993,. . .,"30,852",. . .,"k 1,23","k 39,78","38,294","k 1,48",3.9,"k 13,55",0
+1990,"45,913","11,320","10,311","1,008",. . .,"33,035",. . .,"1,558","43,987","42,468","1,519",3.6,"15,482",0
+1991,"51,224","11,934","10,846","1,088",. . .,"37,602",. . .,"1,688","48,877","47,336","1,541",3.3,"17,828",0
+1992,"57,237","m 14,07","m 12,81","m 1,26",. . .,"m 41,35",. . .,"1,801","50,830","49,260","1,570",3.2,"24,235",0
+1993,"57,679","m 14,19","m 12,73","m 1,46",. . .,"m 41,46",. . .,"2,021","57,783","n 55,78","2,000",3.6,"24,131",0
+1994,"55,608","17,386","15,569","1,817",. . .,"36,203",. . .,"2,018","60,317","58,618","1,699",2.9,"19,422",0
+1995,"60,306","19,717","17,651","2,066",. . .,"39,007",. . .,"1,582","66,599","64,972","1,627",2.5,"13,130",0
+1996,"85,609","18,763","16,654","2,109",. . .,"65,035",. . .,"1,811","70,408","68,598","1,810",2.6,"28,332",0
+1997,"81,924","19,289","17,079","2,210",. . .,"60,171",. . .,"2,464","74,124","72,757","1,368",1.9,"36,131",0
+1998,"87,711","o 20,93","o 18,59","o 2,33",. . .,"o 64,06",. . .,"2,711","77,630","p 76,12","1,505",2.0,"46,212",0
+1999,"80,902","o 18,96","o 16,60","o 2,36",. . .,"o 59,09",. . .,"2,841","82,327","p 80,72","1,603",2.0,"44,787",0
+2000,"89,903","20,555","17,892","2,664",. . .,"65,898",. . .,"3,450","90,663","p 88,89","1,770",2.0,"44,027",0
+2001,"98,629","22,764","19,905","2,859",. . .,"72,793",. . .,"3,071","101,386","p 99,66","1,723",1.7,"41,270",0
+2002,"106,196","25,066","21,610","3,456",. . .,"78,338",. . .,"2,792","113,165","p 110,96","2,196",2.0,"34,301",0
+2003,"115,796","27,402","23,546","3,856",. . .,"86,402",. . .,"1,992","126,144","p 123,82","2,318",1.9,"23,953",0
+2004,"133,787","31,435","26,737","4,699",. . .,"100,858",. . .,"1,495","138,311","135,418","2,893",2.1,"19,430",0
+2005,"158,089","37,535","31,722","5,813",. . .,"119,189",. . .,"1,365","153,511","q 150,32","3,185",2.1,"24,008",0
+2006,"225,525","r 46,33","36,346","6,507","r 3,48","171,910","5,474","1,804","216,414","q,r 213,","3,369",1.6,"33,119",0
+2007,"238,408","s 50,84","39,676","7,096","s 4,07","178,404","6,907","2,254","228,664","q,s 225,","3,401",1.5,"42,863",0
+2008,"250,026","t 55,26","42,335","7,897","t 5,03","184,055","7,105","u 3,60","232,596","t,v 229,","3,269",1.4,"60,293",0
+2009,"282,855","w,x 62,","w 47,43","w 8,60","w,x 6,","w 209,81","7,572","3,096","266,545","x 263,08","3,460",1.3,"76,603",0
+2010,"270,470","w,y 58,","w 43,16","w 8,81","w,y 6,","w 204,63","4,038","3,288","274,944","y 271,42","3,515",1.3,"72,130",0
+2011,"301,019","z 65,22","47,646","9,868","z 7,71","222,798","7,116","5,877","292,459","z 288,48","3,978",1.4,"80,689",0
+2012,"293,916","aa 66,3","48,495","9,529","aa 8,3","213,955","8,433","5,170","307,380","aa 303,0","4,354",1.4,"67,226",0
+2013,"324,634","bb 73,0","52,814","10,270","bb 9,9","236,773","8,776","6,076","316,742","bb 313,0","3,651",1.2,"75,118",0
+2014,"338,019","cc 77,0","55,164","10,479","cc 11,3","246,611","8,667","5,717","344,003","cc 339,6","4,366",1.3,"69,134",0
+"SOURCES: 2015 Annual Report of the Boards of Trustees of the Federal Hospital Insurance and Federal Supplementary Medical Insurance Trust Funds, Tables III.C4 and III.D3, analogous tables from earlier annual reports, and unpublished Treasury reports. Because the tables published in the 2015 Annual Report display dollars rounded to the tenths of billions for selected years only, an analogous unpublished table displaying dollars rounded to the millions for all years was also used.",,,,,,,,,,,,,,0
 "NOTES: Totals do not necessarily equal the sum of rounded components.
           Data for 2012 and 2013 on total receipts, the subtotal of premiums from participants, Part D receipts, total expenditures, and benefit payments are revised.
 . . . = not applicable; SMI = Supplementary Medical Insurance; HI = Hospital Insurance.
-",,,,,,,,,,,,,
-"a. For Part D, premiums include both amounts withheld from Social Security benefit checks (and certain other Federal benefit payments) and amounts paid directly to Part D plans; the premiums paid directly to Part D plans are not displayed on Treasury statements and are estimated.",,,,,,,,,,,,,
-"b. For Part B, includes matching payments from the general fund, plus certain interest-adjustment items. For Part D, includes all federal government transfers, including amounts for the general subsidy, reinsurance, employer drug subsidy, low-income subsidy, administrative expenses, risk sharing, and state expenses for making low-income eligibility determinations. Includes amounts for the transitional assistance benefits in 2004–2007.",,,,,,,,,,,,,
-"c. With the availability of Part D drug coverage and low-income subsidies beginning in 2006, Medicaid is no longer the primary payer for full-benefit dual eligibles. States are subject to a contribution requirement and must pay the Part D account in the SMI trust fund a portion of their estimated forgone drug costs for this population. Starting in 2006, states must pay 90 percent of the estimated costs, with this percentage phasing down over a 10-year period, to 75 percent in 2015 and later.",,,,,,,,,,,,,
-d. Other income includes recoveries of amounts reimbursed from the trust fund that are not obligations of the trust fund and other small amounts of miscellaneous income.,,,,,,,,,,,,,
-e. Values after 2005 include additional premiums for Medicare Advantage (MA) plans that are deducted from beneficiaries' Social Security checks. These additional premiums are beneficiary obligations and occur when a beneficiary chooses an MA plan whose monthly plan payment exceeds the benchmark amount. Beneficiaries subject to such premiums may choose either to reimburse the plans directly or have the premiums deducted from their Social Security checks. The premiums deducted from the Social Security checks are transferred to the HI and SMI trust funds and then transferred from the trust funds to the plans.,,,,,,,,,,,,,
-f. Includes costs of Peer Review Organizations from 1983 to 2001 and costs of Quality Improvement Organizations beginning in 2002.,,,,,,,,,,,,,
-"g. For Part D, includes payments to plans, subsidies to employer-sponsored retiree prescription drug plans, payments to states for making low-income eligibility determinations, Part D drug premiums collected from beneficiaries and transferred to Medicare Advantage plans and private drug plans, and premium amounts paid directly by enrollees to plans. (The last item is on an estimated basis; see footnote b.) Includes amounts for the transitional assistance benefits in 2004–2007.",,,,,,,,,,,,,
-h. The financial status of SMI depends on both the assets and the liabilities of the trust fund.,,,,,,,,,,,,,
-"i. Section 708 of Title VII of the Social Security Act modifies the provisions for the delivery of Social Security benefit checks when the regularly designated delivery day falls on a Saturday, Sunday, or legal public holiday. Delivery of benefit checks normally due January 3, 1982 occurred on December 31, 1981. Consequently, the SMI premiums withheld from the checks ($264 million) and the associated general revenue contributions ($883 million) were added to the SMI trust fund on December 31, 1981. These amounts are excluded from the premium income and general revenue income for calendar year 1982.",,,,,,,,,,,,,
-"j. Delivery of benefit checks normally due January 3, 1988 occurred on December 31, 1987. Consequently, the SMI premiums withheld from the checks ($692 million) and the associated general revenue contributions ($2,178 million) were added to the SMI trust fund on December 31, 1987. These amounts are excluded from the premium income and general revenue income for calendar year 1988 (see footnote i).",,,,,,,,,,,,,
-k. Includes the impact of the Medicare Catastrophic Coverage Act of 1988 as provided for by Public Law (P.L.) 100-360.,,,,,,,,,,,,,
-"l. Includes $1,477 million in catastrophic coverage premiums not distributed between aged and disabled enrollees. These premiums were transferred from the HI Catastrophic Coverage Reserve Fund, which was created by the Medicare Catastrophic Coverage Act of 1988. The Medicare Catastrophic Coverage Repeal Act of 1989 mandated that this fund be discontinued and the balance transferred to the SMI trust fund.",,,,,,,,,,,,,
-"m. Delivery of benefit checks normally due January 3, 1993 occurred on December 31, 1992. Consequently, the SMI premiums withheld from the checks ($1,089 million) and the associated general revenue contributions ($3,175 million) were added to the SMI trust fund on December 31, 1992. These amounts are excluded from the premium income and general revenue income for calendar year 1993 (see footnote i).",,,,,,,,,,,,,
-"n. Includes the impact of the transfer to the Hospital Insurance (HI) trust fund of the SMI catastrophic coverage reserve fund on March 31, 1993, as specified in P.L. 102-394. Actual benefit payments for 1993 were $53,979 million, and the amount transferred was $1,805 million.",,,,,,,,,,,,,
-"o. Delivery of benefit checks normally due January 3, 1999 occurred on December 31, 1998. Consequently, the SMI premiums withheld from the checks ($1,512 million) and the associated general revenue contributions ($4,711 million) were added to the SMI trust fund on December 31, 1998. These amounts are excluded from the premium income and general revenue income for calendar year 1999 (see footnote i).",,,,,,,,,,,,,
-"p. Benefit payments less monies transferred from the HI trust fund for home health agency costs, as provided for by P.L. 105-33.",,,,,,,,,,,,,
-"q. Certain HI hospice costs were misallocated to, and paid from, the Part B account of the SMI trust fund. See also footnote v.",,,,,,,,,,,,,
-"r. Includes an estimated $2,299 million for premiums paid directly to Part D plans. See also footnotes b and h.",,,,,,,,,,,,,
-"s. Includes an estimated $2,405 million for premiums paid directly to Part D plans. See also footnotes b and h.",,,,,,,,,,,,,
-"t. Includes an estimated $3,157 million for premiums paid directly to Part D plans. See also footnotes b and h.",,,,,,,,,,,,,
-"u. Includes an adjustment of $812 million for interest inadvertently not earned as a result of HI hospice costs that were misallocated to, and paid from, the Part B account of the SMI trust fund from May 2005 to September 2007.",,,,,,,,,,,,,
-"v. Benefit payments were $237,801 million. Amount shown includes -$8,484 million, which represents a transfer from the general fund of the Treasury to the Part B account of the SMI trust fund for HI hospice costs that were misallocated to, and paid from, the Part B account from May 2005 to September 2007. (The HI trust fund, in turn, transferred $8,484 million to the general fund.)",,,,,,,,,,,,,
-"w. Delivery of benefit checks normally due January 3, 2010 occurred on December 31, 2009. Consequently, the SMI premiums withheld from the checks ($3,790 million, consisting of $3,594 million for Part B and $196 million for Part D) and the associated general revenue contributions ($10,175 million, all attributable to Part B) were added to the SMI trust fund on December 31, 2009. These amounts are excluded from the premium income and general revenue income for calendar year 2010 (see footnote i).",,,,,,,,,,,,,
-"x. Includes an estimated $3,851 million for premiums paid directly to Part D plans. See also footnotes b and h.",,,,,,,,,,,,,
-"y. Includes an estimated $4,378 million for premiums paid directly to Part D plans. See also footnotes b and h.",,,,,,,,,,,,,
-"z. Includes an estimated $4,990 million for premiums paid directly to Part D plans. See also footnotes b and h.",,,,,,,,,,,,,
-"aa. Includes an estimated $5,233 million for premiums paid directly to Part D plans. See also footnotes b and h.",,,,,,,,,,,,,
-"bb. Includes an estimated $6,716 million for premiums paid directly to Part D plans. See also footnotes b and h.",,,,,,,,,,,,,
-"cc. Includes an estimated $7,772 million for premiums paid directly to Part D plans. See also footnotes b and h.",,,,,,,,,,,,,
-CONTACT: Suzanne Codespote (410) 786-7737 or statistics@ssa.gov.,,,,,,,,,,,,,
+",,,,,,,,,,,,,,0
+"a. For Part D, premiums include both amounts withheld from Social Security benefit checks (and certain other Federal benefit payments) and amounts paid directly to Part D plans; the premiums paid directly to Part D plans are not displayed on Treasury statements and are estimated.",,,,,,,,,,,,,,0
+"b. For Part B, includes matching payments from the general fund, plus certain interest-adjustment items. For Part D, includes all federal government transfers, including amounts for the general subsidy, reinsurance, employer drug subsidy, low-income subsidy, administrative expenses, risk sharing, and state expenses for making low-income eligibility determinations. Includes amounts for the transitional assistance benefits in 2004–2007.",,,,,,,,,,,,,,0
+"c. With the availability of Part D drug coverage and low-income subsidies beginning in 2006, Medicaid is no longer the primary payer for full-benefit dual eligibles. States are subject to a contribution requirement and must pay the Part D account in the SMI trust fund a portion of their estimated forgone drug costs for this population. Starting in 2006, states must pay 90 percent of the estimated costs, with this percentage phasing down over a 10-year period, to 75 percent in 2015 and later.",,,,,,,,,,,,,,0
+d. Other income includes recoveries of amounts reimbursed from the trust fund that are not obligations of the trust fund and other small amounts of miscellaneous income.,,,,,,,,,,,,,,0
+e. Values after 2005 include additional premiums for Medicare Advantage (MA) plans that are deducted from beneficiaries' Social Security checks. These additional premiums are beneficiary obligations and occur when a beneficiary chooses an MA plan whose monthly plan payment exceeds the benchmark amount. Beneficiaries subject to such premiums may choose either to reimburse the plans directly or have the premiums deducted from their Social Security checks. The premiums deducted from the Social Security checks are transferred to the HI and SMI trust funds and then transferred from the trust funds to the plans.,,,,,,,,,,,,,,0
+f. Includes costs of Peer Review Organizations from 1983 to 2001 and costs of Quality Improvement Organizations beginning in 2002.,,,,,,,,,,,,,,0
+"g. For Part D, includes payments to plans, subsidies to employer-sponsored retiree prescription drug plans, payments to states for making low-income eligibility determinations, Part D drug premiums collected from beneficiaries and transferred to Medicare Advantage plans and private drug plans, and premium amounts paid directly by enrollees to plans. (The last item is on an estimated basis; see footnote b.) Includes amounts for the transitional assistance benefits in 2004–2007.",,,,,,,,,,,,,,0
+h. The financial status of SMI depends on both the assets and the liabilities of the trust fund.,,,,,,,,,,,,,,0
+"i. Section 708 of Title VII of the Social Security Act modifies the provisions for the delivery of Social Security benefit checks when the regularly designated delivery day falls on a Saturday, Sunday, or legal public holiday. Delivery of benefit checks normally due January 3, 1982 occurred on December 31, 1981. Consequently, the SMI premiums withheld from the checks ($264 million) and the associated general revenue contributions ($883 million) were added to the SMI trust fund on December 31, 1981. These amounts are excluded from the premium income and general revenue income for calendar year 1982.",,,,,,,,,,,,,,0
+"j. Delivery of benefit checks normally due January 3, 1988 occurred on December 31, 1987. Consequently, the SMI premiums withheld from the checks ($692 million) and the associated general revenue contributions ($2,178 million) were added to the SMI trust fund on December 31, 1987. These amounts are excluded from the premium income and general revenue income for calendar year 1988 (see footnote i).",,,,,,,,,,,,,,0
+k. Includes the impact of the Medicare Catastrophic Coverage Act of 1988 as provided for by Public Law (P.L.) 100-360.,,,,,,,,,,,,,,0
+"l. Includes $1,477 million in catastrophic coverage premiums not distributed between aged and disabled enrollees. These premiums were transferred from the HI Catastrophic Coverage Reserve Fund, which was created by the Medicare Catastrophic Coverage Act of 1988. The Medicare Catastrophic Coverage Repeal Act of 1989 mandated that this fund be discontinued and the balance transferred to the SMI trust fund.",,,,,,,,,,,,,,0
+"m. Delivery of benefit checks normally due January 3, 1993 occurred on December 31, 1992. Consequently, the SMI premiums withheld from the checks ($1,089 million) and the associated general revenue contributions ($3,175 million) were added to the SMI trust fund on December 31, 1992. These amounts are excluded from the premium income and general revenue income for calendar year 1993 (see footnote i).",,,,,,,,,,,,,,0
+"n. Includes the impact of the transfer to the Hospital Insurance (HI) trust fund of the SMI catastrophic coverage reserve fund on March 31, 1993, as specified in P.L. 102-394. Actual benefit payments for 1993 were $53,979 million, and the amount transferred was $1,805 million.",,,,,,,,,,,,,,0
+"o. Delivery of benefit checks normally due January 3, 1999 occurred on December 31, 1998. Consequently, the SMI premiums withheld from the checks ($1,512 million) and the associated general revenue contributions ($4,711 million) were added to the SMI trust fund on December 31, 1998. These amounts are excluded from the premium income and general revenue income for calendar year 1999 (see footnote i).",,,,,,,,,,,,,,0
+"p. Benefit payments less monies transferred from the HI trust fund for home health agency costs, as provided for by P.L. 105-33.",,,,,,,,,,,,,,0
+"q. Certain HI hospice costs were misallocated to, and paid from, the Part B account of the SMI trust fund. See also footnote v.",,,,,,,,,,,,,,0
+"r. Includes an estimated $2,299 million for premiums paid directly to Part D plans. See also footnotes b and h.",,,,,,,,,,,,,,0
+"s. Includes an estimated $2,405 million for premiums paid directly to Part D plans. See also footnotes b and h.",,,,,,,,,,,,,,0
+"t. Includes an estimated $3,157 million for premiums paid directly to Part D plans. See also footnotes b and h.",,,,,,,,,,,,,,0
+"u. Includes an adjustment of $812 million for interest inadvertently not earned as a result of HI hospice costs that were misallocated to, and paid from, the Part B account of the SMI trust fund from May 2005 to September 2007.",,,,,,,,,,,,,,0
+"v. Benefit payments were $237,801 million. Amount shown includes -$8,484 million, which represents a transfer from the general fund of the Treasury to the Part B account of the SMI trust fund for HI hospice costs that were misallocated to, and paid from, the Part B account from May 2005 to September 2007. (The HI trust fund, in turn, transferred $8,484 million to the general fund.)",,,,,,,,,,,,,,0
+"w. Delivery of benefit checks normally due January 3, 2010 occurred on December 31, 2009. Consequently, the SMI premiums withheld from the checks ($3,790 million, consisting of $3,594 million for Part B and $196 million for Part D) and the associated general revenue contributions ($10,175 million, all attributable to Part B) were added to the SMI trust fund on December 31, 2009. These amounts are excluded from the premium income and general revenue income for calendar year 2010 (see footnote i).",,,,,,,,,,,,,,0
+"x. Includes an estimated $3,851 million for premiums paid directly to Part D plans. See also footnotes b and h.",,,,,,,,,,,,,,0
+"y. Includes an estimated $4,378 million for premiums paid directly to Part D plans. See also footnotes b and h.",,,,,,,,,,,,,,0
+"z. Includes an estimated $4,990 million for premiums paid directly to Part D plans. See also footnotes b and h.",,,,,,,,,,,,,,0
+"aa. Includes an estimated $5,233 million for premiums paid directly to Part D plans. See also footnotes b and h.",,,,,,,,,,,,,,0
+"bb. Includes an estimated $6,716 million for premiums paid directly to Part D plans. See also footnotes b and h.",,,,,,,,,,,,,,0
+"cc. Includes an estimated $7,772 million for premiums paid directly to Part D plans. See also footnotes b and h.",,,,,,,,,,,,,,0
+CONTACT: Suzanne Codespote (410) 786-7737 or statistics@ssa.gov.,,,,,,,,,,,,,,0

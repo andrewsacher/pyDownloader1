@@ -1,22 +1,22 @@
-Type of income,Total,Category,,,Age,,
-,,Aged,Blind,Disabled,Under 18,18–64,65 or older 
-Number,"8,335,704","1,151,940","67,383","7,116,381","1,299,761","4,913,072","2,122,871"
- ,Number,,,,,,
-With unearned income, ,,,,,,
-Social Security benefits,"2,757,258","643,937","23,913","2,089,408","96,919","1,479,464","1,180,875"
-Other,"838,911","171,450","5,713","661,748","267,590","337,959","233,362"
-With earned income,"262,480","17,060","3,004","242,416","2,488","232,978","27,014"
- ,Percentage,,,,,,
-With unearned income, ,,,,,,
-Social Security benefits,33.1,55.9,35.5,29.4,7.5,30.1,55.6
-Other,10.1,14.9,8.5,9.3,20.6,6.9,11.0
-With earned income,3.1,1.5,4.5,3.4,0.2,4.7,1.3
- ,Average income (dollars),,,,,,
-With unearned income, ,,,,,,
-Social Security benefits,510.77,492.98,532.20,516.04,226.73,536.48,502.01
-Other,185.47,165.23,173.63,190.88,219.46,176.74,159.18
-With earned income,340.13,432.30,457.79,332.15,414.54,340.79,327.99
-"SOURCE: Social Security Administration, Supplemental Security Record, 100 percent data.",,,,,,,
-NOTE: See section History of Provisions: SSI for discussion of income.,,,,,,,
-a. Includes blind persons and disabled persons aged 65 or older.,,,,,,,
-CONTACT: (410) 965-0090 or statistics@ssa.gov.,,,,,,,
+Type of income,Total,Category,,,Age,,,0
+,,Aged,Blind,Disabled,Under 18,18–64,65 or older ,0
+Number,"8,335,704","1,151,940","67,383","7,116,381","1,299,761","4,913,072","2,122,871",2
+ ,Number,,,,,,,0
+With unearned income, ,,,,,,,0
+Social Security benefits,"2,757,258","643,937","23,913","2,089,408","96,919","1,479,464","1,180,875",1
+Other,"838,911","171,450","5,713","661,748","267,590","337,959","233,362",1
+With earned income,"262,480","17,060","3,004","242,416","2,488","232,978","27,014",0
+ ,Percentage,,,,,,,0
+With unearned income, ,,,,,,,0
+Social Security benefits,33.1,55.9,35.5,29.4,7.5,30.1,55.6,1
+Other,10.1,14.9,8.5,9.3,20.6,6.9,11.0,1
+With earned income,3.1,1.5,4.5,3.4,0.2,4.7,1.3,0
+ ,Average income (dollars),,,,,,,0
+With unearned income, ,,,,,,,0
+Social Security benefits,510.77,492.98,532.20,516.04,226.73,536.48,502.01,1
+Other,185.47,165.23,173.63,190.88,219.46,176.74,159.18,1
+With earned income,340.13,432.30,457.79,332.15,414.54,340.79,327.99,0
+"SOURCE: Social Security Administration, Supplemental Security Record, 100 percent data.",,,,,,,,0
+NOTE: See section History of Provisions: SSI for discussion of income.,,,,,,,,0
+a. Includes blind persons and disabled persons aged 65 or older.,,,,,,,,0
+CONTACT: (410) 965-0090 or statistics@ssa.gov.,,,,,,,,0

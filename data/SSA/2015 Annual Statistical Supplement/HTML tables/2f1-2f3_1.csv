@@ -1,28 +1,28 @@
-Office,Number
-"Headquarters (Baltimore, Maryland)",1
-Regional offices ,10
-Area Offices,52
-Field offices ,"1,245"
-Level 1,639
-Level 2,560
-Resident stations,32
-Social Security Card Centers ,14
-Teleservice centers,27
-Program service centers ,6
-Data operations center ,1
-Office of Disability Adjudication and Review,
-"Headquarters (Falls Church, Virginia)",1
-Regional offices,10
-Hearing offices,162
-Satellite offices,5
-National hearing centers ,5
-National case assistance centers ,5
-Permanent remote sites,171
-"SOURCES: Social Security Administration, Office of Public Service and Operations Support's database and Office of Disability Adjudication and Review's Case Control System.",
-"a. Regional offices are located in Boston, Massachusetts; New York, New York; Philadelphia, Pennsylvania; Atlanta, Georgia; Chicago, Illinois; Dallas, Texas; Kansas City, Missouri; Denver, Colorado; San Francisco, California; and Seattle, Washington.",
-"b. Field offices are designated as level 1, level 2, or resident stations depending on the characteristics of the facility, service area, and other conditions.",
-"c. Social Security Card Centers are located in Queens, New York; Brooklyn, New York; Bronx, New York; Manhattan, New York; Philadelphia, Pennsylvania; Orlando, Florida; Minneapolis, Minnesota; North Phoenix, Arizona; Downtown Phoenix, Arizona; Las Vegas, Nevada; El Cajon, California; San Diego, California; National City, California; and Sacramento, California.",
-"d. Program service centers are located in Jamaica, New York; Philadelphia, Pennsylvania; Birmingham, Alabama; Chicago, Illinois; Kansas City, Missouri; and Richmond, California.",
-"e. The data operations center is located in Wilkes-Barre, Pennsylvania.",
-f. The National centers are part of the Social Security Administration's strategy to address the historic hearings backlogs and reduce case processing time by increasing adjudicatory capacity and efficiency with a focus on the electronic hearing process.,
-CONTACT: Kristy Brumfield for SSA data (410) 966-9785 and Harriette Q. Perry for Office of Disability Adjudication and Review data (703) 605-8010 or statistics@ssa.gov.,
+Office,Number,0
+"Headquarters (Baltimore, Maryland)",1,0
+Regional offices ,10,0
+Area Offices,52,0
+Field offices ,"1,245",0
+Level 1,639,1
+Level 2,560,1
+Resident stations,32,1
+Social Security Card Centers ,14,1
+Teleservice centers,27,0
+Program service centers ,6,0
+Data operations center ,1,0
+Office of Disability Adjudication and Review,,0
+"Headquarters (Falls Church, Virginia)",1,1
+Regional offices,10,1
+Hearing offices,162,1
+Satellite offices,5,1
+National hearing centers ,5,1
+National case assistance centers ,5,1
+Permanent remote sites,171,1
+"SOURCES: Social Security Administration, Office of Public Service and Operations Support's database and Office of Disability Adjudication and Review's Case Control System.",,0
+"a. Regional offices are located in Boston, Massachusetts; New York, New York; Philadelphia, Pennsylvania; Atlanta, Georgia; Chicago, Illinois; Dallas, Texas; Kansas City, Missouri; Denver, Colorado; San Francisco, California; and Seattle, Washington.",,0
+"b. Field offices are designated as level 1, level 2, or resident stations depending on the characteristics of the facility, service area, and other conditions.",,0
+"c. Social Security Card Centers are located in Queens, New York; Brooklyn, New York; Bronx, New York; Manhattan, New York; Philadelphia, Pennsylvania; Orlando, Florida; Minneapolis, Minnesota; North Phoenix, Arizona; Downtown Phoenix, Arizona; Las Vegas, Nevada; El Cajon, California; San Diego, California; National City, California; and Sacramento, California.",,0
+"d. Program service centers are located in Jamaica, New York; Philadelphia, Pennsylvania; Birmingham, Alabama; Chicago, Illinois; Kansas City, Missouri; and Richmond, California.",,0
+"e. The data operations center is located in Wilkes-Barre, Pennsylvania.",,0
+f. The National centers are part of the Social Security Administration's strategy to address the historic hearings backlogs and reduce case processing time by increasing adjudicatory capacity and efficiency with a focus on the electronic hearing process.,,0
+CONTACT: Kristy Brumfield for SSA data (410) 966-9785 and Harriette Q. Perry for Office of Disability Adjudication and Review data (703) 605-8010 or statistics@ssa.gov.,,0

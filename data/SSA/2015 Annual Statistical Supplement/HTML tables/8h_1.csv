@@ -1,63 +1,63 @@
-State,Number of recipients,Total payments (millions of dollars),Average payment (dollars)
-United States ,"75,116,262","381,818","5,083"
-Alabama,"972,464","4,179","4,297"
-Alaska,"147,152","1,363","9,260"
-Arizona,"1,629,466","8,229","5,050"
-Arkansas,"821,432","3,619","4,406"
-California,"12,329,162","42,135","3,418"
-Colorado ,"737,469","3,479","4,717"
-Connecticut,"770,102","6,241","8,104"
-Delaware,"253,481","1,662","6,558"
-District of Columbia ,"235,665","2,128","9,028"
-Florida,"4,292,011","20,304","4,731"
-Georgia,"2,265,966","9,310","4,109"
-Hawaii,"338,288","1,508","4,459"
-Idaho ,"261,014","1,444","5,533"
-Illinois,"3,184,130","13,944","4,379"
-Indiana,"1,331,530","6,700","5,032"
-Iowa,"577,291","3,584","6,209"
-Kansas ,"364,604",650,"1,784"
-Kentucky,"1,029,812","5,707","5,542"
-Louisiana ,"1,237,108","2,741","2,216"
-Maine,"358,745","2,056","5,732"
-Maryland,"1,206,054","7,432","6,162"
-Massachusetts,"1,585,558","11,382","7,178"
-Michigan,"2,381,774","11,549","4,849"
-Minnesota,"1,194,721","8,561","7,166"
-Mississippi,"779,079","3,842","4,932"
-Missouri,"1,204,134","7,279","6,045"
-Montana,"146,718",886,"6,038"
-Nebraska,"311,745","1,822","5,845"
-Nevada,"407,898","1,477","3,621"
-New Hampshire ,"152,569",774,"5,071"
-New Jersey,"1,633,235","9,832","6,020"
-New Mexico,"648,247","2,633","4,062"
-New York,"6,541,857","50,887","7,779"
-North Carolina,"2,208,469","10,037","4,545"
-North Dakota ,"80,560",398,"4,941"
-Ohio,"2,684,992","16,417","6,114"
-Oklahoma,"1,072,438","4,090","3,814"
-Oregon,"798,288","3,996","5,006"
-Pennsylvania,"2,589,889","18,749","7,239"
-Rhode Island ,"226,119","1,582","6,998"
-South Carolina,"1,058,170","4,996","4,721"
-South Dakota,"135,902",779,"5,732"
-Tennessee,"1,544,659","13,644","8,833"
-Texas,"6,294,317","22,084","3,509"
-Utah ,"408,281","1,936","4,743"
-Vermont,"191,066","1,136","5,945"
-Virginia,"1,134,346","6,394","5,636"
-Washington,"1,474,006","6,684","4,534"
-West Virginia,"416,992","3,216","7,712"
-Wisconsin,"1,389,663","5,737","4,128"
-Wyoming,"77,624",603,"7,770"
-"SOURCE: State claims files in the Medicaid Statistical Information System (MSIS) Granular file, Centers for Medicare & Medicaid Services.",,,
+State,Number of recipients,Total payments (millions of dollars),Average payment (dollars),0
+United States ,"75,116,262","381,818","5,083",1
+Alabama,"972,464","4,179","4,297",0
+Alaska,"147,152","1,363","9,260",0
+Arizona,"1,629,466","8,229","5,050",0
+Arkansas,"821,432","3,619","4,406",0
+California,"12,329,162","42,135","3,418",0
+Colorado ,"737,469","3,479","4,717",0
+Connecticut,"770,102","6,241","8,104",0
+Delaware,"253,481","1,662","6,558",0
+District of Columbia ,"235,665","2,128","9,028",0
+Florida,"4,292,011","20,304","4,731",0
+Georgia,"2,265,966","9,310","4,109",0
+Hawaii,"338,288","1,508","4,459",0
+Idaho ,"261,014","1,444","5,533",0
+Illinois,"3,184,130","13,944","4,379",0
+Indiana,"1,331,530","6,700","5,032",0
+Iowa,"577,291","3,584","6,209",0
+Kansas ,"364,604",650,"1,784",0
+Kentucky,"1,029,812","5,707","5,542",0
+Louisiana ,"1,237,108","2,741","2,216",0
+Maine,"358,745","2,056","5,732",0
+Maryland,"1,206,054","7,432","6,162",0
+Massachusetts,"1,585,558","11,382","7,178",0
+Michigan,"2,381,774","11,549","4,849",0
+Minnesota,"1,194,721","8,561","7,166",0
+Mississippi,"779,079","3,842","4,932",0
+Missouri,"1,204,134","7,279","6,045",0
+Montana,"146,718",886,"6,038",0
+Nebraska,"311,745","1,822","5,845",0
+Nevada,"407,898","1,477","3,621",0
+New Hampshire ,"152,569",774,"5,071",0
+New Jersey,"1,633,235","9,832","6,020",0
+New Mexico,"648,247","2,633","4,062",0
+New York,"6,541,857","50,887","7,779",0
+North Carolina,"2,208,469","10,037","4,545",0
+North Dakota ,"80,560",398,"4,941",0
+Ohio,"2,684,992","16,417","6,114",0
+Oklahoma,"1,072,438","4,090","3,814",0
+Oregon,"798,288","3,996","5,006",0
+Pennsylvania,"2,589,889","18,749","7,239",0
+Rhode Island ,"226,119","1,582","6,998",0
+South Carolina,"1,058,170","4,996","4,721",0
+South Dakota,"135,902",779,"5,732",0
+Tennessee,"1,544,659","13,644","8,833",0
+Texas,"6,294,317","22,084","3,509",0
+Utah ,"408,281","1,936","4,743",0
+Vermont,"191,066","1,136","5,945",0
+Virginia,"1,134,346","6,394","5,636",0
+Washington,"1,474,006","6,684","4,534",0
+West Virginia,"416,992","3,216","7,712",0
+Wisconsin,"1,389,663","5,737","4,128",0
+Wyoming,"77,624",603,"7,770",0
+"SOURCE: State claims files in the Medicaid Statistical Information System (MSIS) Granular file, Centers for Medicare & Medicaid Services.",,,,0
 "NOTES: Beginning with data for fiscal year 2013, the methodology for producing recipient counts was revised to include those who received at least one service through Medicaid or Separate Children's Health Insurance Program (CHIP). Payment amounts are derived from records for all claim types.
           Totals do not necessarily equal the sum of rounded components.
 The MSIS Data Anomalies Report (https://www.cms.gov/Research-Statistics-Data-and-Systems/Computer-Data-and-Systems/MedicaidDataSourcesGenInfo/MSIS-Tables.html) documents any postpublication data quality issues.
-",,,
-a. Excludes recipients in Puerto Rico and the U.S. Virgin Islands. Data are not available.,,,
-b. Fiscal year 2013 data are not available for Colorado and Idaho. Fiscal year 2011 data from the MSIS State Summary Data file have been substituted.,,,
-c. Fiscal year 2013 data are not available for the District of Columbia and Rhode Island. Fiscal year 2012 data from the MSIS State Summary Data file have been substituted.,,,
-"d. Data for Kansas, Louisiana, North Dakota, New Hampshire, and Utah are from partial-year claims files and do not reflect fiscal year totals.",,,
-CONTACT: (410) 965-0090 or statistics@ssa.gov.,,,
+",,,,0
+a. Excludes recipients in Puerto Rico and the U.S. Virgin Islands. Data are not available.,,,,0
+b. Fiscal year 2013 data are not available for Colorado and Idaho. Fiscal year 2011 data from the MSIS State Summary Data file have been substituted.,,,,0
+c. Fiscal year 2013 data are not available for the District of Columbia and Rhode Island. Fiscal year 2012 data from the MSIS State Summary Data file have been substituted.,,,,0
+"d. Data for Kansas, Louisiana, North Dakota, New Hampshire, and Utah are from partial-year claims files and do not reflect fiscal year totals.",,,,0
+CONTACT: (410) 965-0090 or statistics@ssa.gov.,,,,0

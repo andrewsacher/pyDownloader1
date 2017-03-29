@@ -1,65 +1,65 @@
-State or area ,Number b (thousands,,,Taxable earnings c (millions of dollars,,,HI contributions d (millions of dollars,,
-,Total,Wage and salary,Self- employed,Total,Wage and salary,Self- employed,Total,Wage and salary,Self- employed
-All areas,"167,275","156,545","19,441","7,355,869","6,784,900","570,969","213,320","196,762","16,558"
-Alabama,"2,359","2,218",265,"85,542","79,658","5,884","2,481","2,310",171
-Alaska,438,415,48,"20,336","18,676","1,659",590,542,48
-Arizona,"3,137","2,957",334,"124,611","116,304","8,307","3,614","3,373",241
-Arkansas,"1,451","1,362",162,"49,321","46,006","3,315","1,430","1,334",96
-California,"18,675","17,082","2,619","952,259","866,343","85,916","27,616","25,124","2,492"
-Colorado,"2,896","2,713",355,"132,587","122,491","10,096","3,845","3,552",293
-Connecticut,"2,031","1,894",238,"131,264","118,060","13,205","3,807","3,424",383
-Delaware,505,483,40,"22,906","21,458","1,449",664,622,42
-District of Columbia,397,377,43,"26,520","23,924","2,596",769,694,75
-Florida,"9,576","8,822","1,314","367,024","342,865","24,158","10,644","9,943",701
-Georgia,"5,009","4,676",621,"202,492","188,461","14,031","5,872","5,465",407
-Hawaii,769,724,78,"30,900","28,769","2,131",896,834,62
-Idaho,825,773,97,"28,904","26,726","2,178",838,775,63
-Illinois,"6,930","6,504",797,"326,562","301,386","25,176","9,470","8,740",730
-Indiana,"3,642","3,473",342,"131,819","123,436","8,383","3,823","3,580",243
-Iowa,"1,782","1,678",210,"65,815","60,367","5,448","1,909","1,751",158
-Kansas,"1,592","1,498",184,"62,993","57,302","5,692","1,827","1,662",165
-Kentucky,"2,270","2,145",234,"77,772","73,095","4,677","2,255","2,120",136
-Louisiana,"2,389","2,246",280,"92,098","85,733","6,365","2,671","2,486",185
-Maine,764,712,94,"27,468","25,341","2,126",797,735,62
-Maryland,"3,313","3,128",351,"175,575","162,830","12,746","5,092","4,722",370
-Massachusetts,"3,813","3,588",423,"211,622","194,839","16,784","6,137","5,650",487
-Michigan,"5,217","4,920",570,"203,187","189,797","13,390","5,892","5,504",388
-Minnesota,"3,200","3,026",351,"143,630","134,051","9,579","4,165","3,887",278
-Mississippi,"1,431","1,330",184,"46,745","42,912","3,833","1,356","1,244",111
-Missouri,"3,177","2,998",337,"120,255","112,155","8,100","3,487","3,252",235
-Montana,573,531,76,"19,348","17,299","2,050",561,502,59
-Nebraska,"1,096","1,033",127,"42,696","39,157","3,539","1,238","1,136",103
-Nevada,"1,359","1,284",140,"53,591","50,233","3,358","1,554","1,457",97
-New Hampshire,808,755,90,"37,773","35,165","2,608","1,095","1,020",76
-New Jersey,"4,861","4,564",545,"281,352","257,819","23,533","8,159","7,477",682
-New Mexico,964,906,108,"33,735","31,581","2,154",978,916,62
-New York,"10,464","9,703","1,313","553,603","494,103","59,500","16,054","14,329","1,726"
-North Carolina,"4,974","4,661",570,"190,364","176,778","13,586","5,521","5,127",394
-North Dakota,492,465,55,"19,399","17,373","2,026",563,504,59
-Ohio,"6,308","5,976",648,"253,911","238,263","15,648","7,363","6,910",454
-Oklahoma,"1,994","1,873",218,"71,574","66,852","4,722","2,076","1,939",137
-Oregon,"2,005","1,875",224,"80,083","74,129","5,954","2,322","2,150",173
-Pennsylvania,"6,888","6,530",668,"299,264","279,836","19,428","8,679","8,115",563
-Rhode Island,608,572,65,"25,851","24,274","1,577",750,704,46
-South Carolina,"2,356","2,222",245,"85,046","79,859","5,187","2,466","2,316",150
-South Dakota,556,521,69,"18,079","16,551","1,528",524,480,44
-Tennessee,"3,347","3,103",428,"132,288","117,163","15,125","3,836","3,398",439
-Texas,"13,390","12,481","1,678","596,581","549,576","47,005","17,301","15,938","1,363"
-Utah,"1,469","1,408",138,"56,805","53,969","2,836","1,647","1,565",82
-Vermont,387,361,48,"14,093","13,021","1,073",409,378,31
-Virginia,"4,533","4,293",463,"220,926","205,467","15,459","6,407","5,959",448
-Washington,"3,667","3,463",356,"176,461","165,648","10,813","5,117","4,804",314
-West Virginia,894,853,78,"31,849","29,679","2,169",924,861,63
-Wisconsin,"3,266","3,108",305,"128,122","121,428","6,694","3,716","3,521",194
-Wyoming,341,322,39,"14,079","12,672","1,407",408,367,41
-Outlying area, ,,,,,,,,
-Puerto Rico,"1,147","1,059",114,"27,939","25,367","2,573",810,736,75
-Other and unknown ,937,880,61,"30,852","28,655","2,197",895,831,64
-"SOURCE: Social Security Administration, Continuous Work History Sample, 1 percent sample.",,,,,,,,,
-NOTE: Data are based on preliminary estimates.,,,,,,,,,
-a. Most state assignments are based on end-of-year residence obtained from electronically filed employer wage reports; the remainder are based on location of employer from reports filed on paper.,,,,,,,,,
-b. Workers with earnings in both wage and salary employment and self-employment are counted in each type of employment but only once in the total. National and state totals and subtotals are unduplicated counts of workers in each type of employment.,,,,,,,,,
-c. No annual maximum taxable earnings amount for Medicare. Totals do not necessarily equal the sum of rounded components.,,,,,,,,,
-"d. For 2013 earnings, paid at the rate of 1.45 percent of taxable wages by both employees and employers, 1.45 percent of taxable tips by employees, and 2.9 percent of self-employment income by self-employed workers. Totals do not necessarily equal the sum of rounded components.",,,,,,,,,
-"e. Persons employed in American Samoa, Guam, Northern Mariana Islands, and U.S. Virgin Islands; U.S. citizens employed abroad by U.S. employers; persons employed on U.S. oceanborne vessels; and workers with unknown residence.",,,,,,,,,
-CONTACT: (410) 965-0090 or statistics@ssa.gov.,,,,,,,,,
+State or area ,Number b (thousands,,,Taxable earnings c (millions of dollars,,,HI contributions d (millions of dollars,,,0
+,Total,Wage and salary,Self- employed,Total,Wage and salary,Self- employed,Total,Wage and salary,Self- employed,0
+All areas,"167,275","156,545","19,441","7,355,869","6,784,900","570,969","213,320","196,762","16,558",2
+Alabama,"2,359","2,218",265,"85,542","79,658","5,884","2,481","2,310",171,0
+Alaska,438,415,48,"20,336","18,676","1,659",590,542,48,0
+Arizona,"3,137","2,957",334,"124,611","116,304","8,307","3,614","3,373",241,0
+Arkansas,"1,451","1,362",162,"49,321","46,006","3,315","1,430","1,334",96,0
+California,"18,675","17,082","2,619","952,259","866,343","85,916","27,616","25,124","2,492",0
+Colorado,"2,896","2,713",355,"132,587","122,491","10,096","3,845","3,552",293,0
+Connecticut,"2,031","1,894",238,"131,264","118,060","13,205","3,807","3,424",383,0
+Delaware,505,483,40,"22,906","21,458","1,449",664,622,42,0
+District of Columbia,397,377,43,"26,520","23,924","2,596",769,694,75,0
+Florida,"9,576","8,822","1,314","367,024","342,865","24,158","10,644","9,943",701,0
+Georgia,"5,009","4,676",621,"202,492","188,461","14,031","5,872","5,465",407,0
+Hawaii,769,724,78,"30,900","28,769","2,131",896,834,62,0
+Idaho,825,773,97,"28,904","26,726","2,178",838,775,63,0
+Illinois,"6,930","6,504",797,"326,562","301,386","25,176","9,470","8,740",730,0
+Indiana,"3,642","3,473",342,"131,819","123,436","8,383","3,823","3,580",243,0
+Iowa,"1,782","1,678",210,"65,815","60,367","5,448","1,909","1,751",158,0
+Kansas,"1,592","1,498",184,"62,993","57,302","5,692","1,827","1,662",165,0
+Kentucky,"2,270","2,145",234,"77,772","73,095","4,677","2,255","2,120",136,0
+Louisiana,"2,389","2,246",280,"92,098","85,733","6,365","2,671","2,486",185,0
+Maine,764,712,94,"27,468","25,341","2,126",797,735,62,0
+Maryland,"3,313","3,128",351,"175,575","162,830","12,746","5,092","4,722",370,0
+Massachusetts,"3,813","3,588",423,"211,622","194,839","16,784","6,137","5,650",487,0
+Michigan,"5,217","4,920",570,"203,187","189,797","13,390","5,892","5,504",388,0
+Minnesota,"3,200","3,026",351,"143,630","134,051","9,579","4,165","3,887",278,0
+Mississippi,"1,431","1,330",184,"46,745","42,912","3,833","1,356","1,244",111,0
+Missouri,"3,177","2,998",337,"120,255","112,155","8,100","3,487","3,252",235,0
+Montana,573,531,76,"19,348","17,299","2,050",561,502,59,0
+Nebraska,"1,096","1,033",127,"42,696","39,157","3,539","1,238","1,136",103,0
+Nevada,"1,359","1,284",140,"53,591","50,233","3,358","1,554","1,457",97,0
+New Hampshire,808,755,90,"37,773","35,165","2,608","1,095","1,020",76,0
+New Jersey,"4,861","4,564",545,"281,352","257,819","23,533","8,159","7,477",682,0
+New Mexico,964,906,108,"33,735","31,581","2,154",978,916,62,0
+New York,"10,464","9,703","1,313","553,603","494,103","59,500","16,054","14,329","1,726",0
+North Carolina,"4,974","4,661",570,"190,364","176,778","13,586","5,521","5,127",394,0
+North Dakota,492,465,55,"19,399","17,373","2,026",563,504,59,0
+Ohio,"6,308","5,976",648,"253,911","238,263","15,648","7,363","6,910",454,0
+Oklahoma,"1,994","1,873",218,"71,574","66,852","4,722","2,076","1,939",137,0
+Oregon,"2,005","1,875",224,"80,083","74,129","5,954","2,322","2,150",173,0
+Pennsylvania,"6,888","6,530",668,"299,264","279,836","19,428","8,679","8,115",563,0
+Rhode Island,608,572,65,"25,851","24,274","1,577",750,704,46,0
+South Carolina,"2,356","2,222",245,"85,046","79,859","5,187","2,466","2,316",150,0
+South Dakota,556,521,69,"18,079","16,551","1,528",524,480,44,0
+Tennessee,"3,347","3,103",428,"132,288","117,163","15,125","3,836","3,398",439,0
+Texas,"13,390","12,481","1,678","596,581","549,576","47,005","17,301","15,938","1,363",0
+Utah,"1,469","1,408",138,"56,805","53,969","2,836","1,647","1,565",82,0
+Vermont,387,361,48,"14,093","13,021","1,073",409,378,31,0
+Virginia,"4,533","4,293",463,"220,926","205,467","15,459","6,407","5,959",448,0
+Washington,"3,667","3,463",356,"176,461","165,648","10,813","5,117","4,804",314,0
+West Virginia,894,853,78,"31,849","29,679","2,169",924,861,63,0
+Wisconsin,"3,266","3,108",305,"128,122","121,428","6,694","3,716","3,521",194,0
+Wyoming,341,322,39,"14,079","12,672","1,407",408,367,41,0
+Outlying area, ,,,,,,,,,0
+Puerto Rico,"1,147","1,059",114,"27,939","25,367","2,573",810,736,75,1
+Other and unknown ,937,880,61,"30,852","28,655","2,197",895,831,64,0
+"SOURCE: Social Security Administration, Continuous Work History Sample, 1 percent sample.",,,,,,,,,,0
+NOTE: Data are based on preliminary estimates.,,,,,,,,,,0
+a. Most state assignments are based on end-of-year residence obtained from electronically filed employer wage reports; the remainder are based on location of employer from reports filed on paper.,,,,,,,,,,0
+b. Workers with earnings in both wage and salary employment and self-employment are counted in each type of employment but only once in the total. National and state totals and subtotals are unduplicated counts of workers in each type of employment.,,,,,,,,,,0
+c. No annual maximum taxable earnings amount for Medicare. Totals do not necessarily equal the sum of rounded components.,,,,,,,,,,0
+"d. For 2013 earnings, paid at the rate of 1.45 percent of taxable wages by both employees and employers, 1.45 percent of taxable tips by employees, and 2.9 percent of self-employment income by self-employed workers. Totals do not necessarily equal the sum of rounded components.",,,,,,,,,,0
+"e. Persons employed in American Samoa, Guam, Northern Mariana Islands, and U.S. Virgin Islands; U.S. citizens employed abroad by U.S. employers; persons employed on U.S. oceanborne vessels; and workers with unknown residence.",,,,,,,,,,0
+CONTACT: (410) 965-0090 or statistics@ssa.gov.,,,,,,,,,,0

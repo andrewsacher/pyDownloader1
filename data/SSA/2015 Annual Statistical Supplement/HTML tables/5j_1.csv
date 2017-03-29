@@ -1,65 +1,65 @@
-State or area,"Total, OASDI",Retirement,Survivors,Disability
-All areas,"848,243","592,578","114,043","141,622"
-Alabama,"15,314","9,402","2,209","3,703"
-Alaska,"1,215",851,166,198
-Arizona,"17,722","13,049","2,118","2,555"
-Arkansas,"9,113","5,743","1,240","2,130"
-California,"78,795","57,114","10,172","11,509"
-Colorado,"11,449","8,305","1,447","1,697"
-Connecticut,"10,417","7,838","1,232","1,347"
-Delaware,"2,973","2,164",351,458
-District of Columbia,"1,058",732,125,201
-Florida,"60,672","44,652","7,178","8,842"
-Georgia,"23,702","16,003","3,185","4,514"
-Hawaii,"3,613","2,838",399,376
-Idaho,"4,285","3,068",544,673
-Illinois,"32,186","22,880","4,619","4,687"
-Indiana,"19,337","13,298","2,720","3,319"
-Iowa,"8,971","6,546","1,262","1,163"
-Kansas,"7,741","5,521","1,057","1,163"
-Kentucky,"13,054","7,812","1,999","3,243"
-Louisiana,"11,499","6,829","2,244","2,426"
-Maine,"4,362","2,954",533,875
-Maryland,"14,133","10,209","1,807","2,117"
-Massachusetts,"17,908","12,505","2,147","3,256"
-Michigan,"32,591","22,274","4,464","5,853"
-Minnesota,"14,317","10,586","1,743","1,988"
-Mississippi,"8,583","5,293","1,274","2,016"
-Missouri,"17,726","11,913","2,399","3,414"
-Montana,"2,930","2,122",393,415
-Nebraska,"4,699","3,421",648,630
-Nevada,"6,852","5,019",781,"1,052"
-New Hampshire,"4,256","3,019",448,789
-New Jersey,"25,141","18,533","3,067","3,541"
-New Mexico,"5,366","3,680",717,969
-New York,"52,284","37,370","6,416","8,498"
-North Carolina,"27,935","19,441","3,255","5,239"
-North Dakota,"1,726","1,231",290,205
-Ohio,"32,669","22,038","5,231","5,400"
-Oklahoma,"10,494","6,985","1,565","1,944"
-Oregon,"11,595","8,493","1,405","1,697"
-Pennsylvania,"40,805","28,600","5,708","6,497"
-Rhode Island,"3,146","2,222",348,576
-South Carolina,"14,961","10,260","1,819","2,882"
-South Dakota,"2,265","1,669",315,281
-Tennessee,"19,401","12,896","2,619","3,886"
-Texas,"53,527","36,214","8,351","8,962"
-Utah,"5,289","3,805",725,759
-Vermont,"2,009","1,438",234,337
-Virginia,"20,679","14,643","2,653","3,383"
-Washington,"18,391","13,351","2,206","2,834"
-West Virginia,"6,608","3,951","1,134","1,523"
-Wisconsin,"17,119","12,448","2,137","2,534"
-Wyoming,"1,481","1,079",197,205
-Outlying areas, ,,,
-American Samoa,55,24,14,17
-Guam,156,100,33,23
-Northern Mariana Islands,21,12,6,3
-Puerto Rico,"8,518","4,619","1,303","2,596"
-U.S. Virgin Islands,269,210,32,27
-Foreign countries,"4,845","3,299","1,353",193
-Unknown,27,19,5,3
-"SOURCES: Social Security Administration, Master Beneficiary Record, 100 percent data; and U.S. Postal Service geographic data.",,,,
-NOTES: Unnegotiated checks are not deducted. Excludes lump-sum death payments.,,,,
-Totals do not necessarily equal the sum of rounded components.,,,,
-CONTACT: (410) 965-0090 or statistics@ssa.gov.,,,,
+State or area,"Total, OASDI",Retirement,Survivors,Disability,0
+All areas,"848,243","592,578","114,043","141,622",2
+Alabama,"15,314","9,402","2,209","3,703",0
+Alaska,"1,215",851,166,198,0
+Arizona,"17,722","13,049","2,118","2,555",0
+Arkansas,"9,113","5,743","1,240","2,130",0
+California,"78,795","57,114","10,172","11,509",0
+Colorado,"11,449","8,305","1,447","1,697",0
+Connecticut,"10,417","7,838","1,232","1,347",0
+Delaware,"2,973","2,164",351,458,0
+District of Columbia,"1,058",732,125,201,0
+Florida,"60,672","44,652","7,178","8,842",0
+Georgia,"23,702","16,003","3,185","4,514",0
+Hawaii,"3,613","2,838",399,376,0
+Idaho,"4,285","3,068",544,673,0
+Illinois,"32,186","22,880","4,619","4,687",0
+Indiana,"19,337","13,298","2,720","3,319",0
+Iowa,"8,971","6,546","1,262","1,163",0
+Kansas,"7,741","5,521","1,057","1,163",0
+Kentucky,"13,054","7,812","1,999","3,243",0
+Louisiana,"11,499","6,829","2,244","2,426",0
+Maine,"4,362","2,954",533,875,0
+Maryland,"14,133","10,209","1,807","2,117",0
+Massachusetts,"17,908","12,505","2,147","3,256",0
+Michigan,"32,591","22,274","4,464","5,853",0
+Minnesota,"14,317","10,586","1,743","1,988",0
+Mississippi,"8,583","5,293","1,274","2,016",0
+Missouri,"17,726","11,913","2,399","3,414",0
+Montana,"2,930","2,122",393,415,0
+Nebraska,"4,699","3,421",648,630,0
+Nevada,"6,852","5,019",781,"1,052",0
+New Hampshire,"4,256","3,019",448,789,0
+New Jersey,"25,141","18,533","3,067","3,541",0
+New Mexico,"5,366","3,680",717,969,0
+New York,"52,284","37,370","6,416","8,498",0
+North Carolina,"27,935","19,441","3,255","5,239",0
+North Dakota,"1,726","1,231",290,205,0
+Ohio,"32,669","22,038","5,231","5,400",0
+Oklahoma,"10,494","6,985","1,565","1,944",0
+Oregon,"11,595","8,493","1,405","1,697",0
+Pennsylvania,"40,805","28,600","5,708","6,497",0
+Rhode Island,"3,146","2,222",348,576,0
+South Carolina,"14,961","10,260","1,819","2,882",0
+South Dakota,"2,265","1,669",315,281,0
+Tennessee,"19,401","12,896","2,619","3,886",0
+Texas,"53,527","36,214","8,351","8,962",0
+Utah,"5,289","3,805",725,759,0
+Vermont,"2,009","1,438",234,337,0
+Virginia,"20,679","14,643","2,653","3,383",0
+Washington,"18,391","13,351","2,206","2,834",0
+West Virginia,"6,608","3,951","1,134","1,523",0
+Wisconsin,"17,119","12,448","2,137","2,534",0
+Wyoming,"1,481","1,079",197,205,0
+Outlying areas, ,,,,0
+American Samoa,55,24,14,17,1
+Guam,156,100,33,23,1
+Northern Mariana Islands,21,12,6,3,1
+Puerto Rico,"8,518","4,619","1,303","2,596",1
+U.S. Virgin Islands,269,210,32,27,1
+Foreign countries,"4,845","3,299","1,353",193,0
+Unknown,27,19,5,3,0
+"SOURCES: Social Security Administration, Master Beneficiary Record, 100 percent data; and U.S. Postal Service geographic data.",,,,,0
+NOTES: Unnegotiated checks are not deducted. Excludes lump-sum death payments.,,,,,0
+Totals do not necessarily equal the sum of rounded components.,,,,,0
+CONTACT: (410) 965-0090 or statistics@ssa.gov.,,,,,0

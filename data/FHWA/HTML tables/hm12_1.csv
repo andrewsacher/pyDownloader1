@@ -1,57 +1,58 @@
-,"OWNERSHIP/ 
-        FUNCTIONAL SYSTEM",UNPAVED,PAVED (2),TOTAL,BITUMINOUS,CONCRETE,COMPOSITE,TOTAL.1
-0,Rural:,,,,,,,
-1,State Highway Agency: (3),,,,,,,
-2,Interstate,0,16437,5657,5566,27660,27660,
-3,Other Freeways & Expressways,0,3318,1612,801,5732,5732,
-4,Other Principal Arterial,282,68568,5157,14282,88007,88289,
-5,Minor Arterial,81,101555,2336,18331,122222,122302,
-6,Major Collector,1226,198055,4562,11553,214170,215396,
-7,Subtotal,1589,387933,19325,50533,457790,459379,
-8,Other Jurisdictions:,,,,,,,
-9,Interstate,-,583,105,579,1267,1267,
-10,Other Freeways & Expressways,-,33,100,15,148,148,
-11,Other Principal Arterial,13,710,284,44,1039,1052,
-12,Minor Arterial,277,6550,68,427,7044,7321,
-13,Major Collector,41100,124098,7070,7718,138885,179986,
-14,Subtotal,41391,131974,7627,8783,148384,189774,
-15,Federal Agency:,,,,,,,
-16,Interstate,-,-,-,-,-,-,
-17,Other Freeways & Expressways,-,-,-,-,-,-,
-18,Other Principal Arterial,-,65,2,-,66,66,
-19,Minor Arterial,-,789,-,-,789,789,
-20,Major Collector,409,2001,5,44,2051,2459,
-21,Subtotal,409,2856,7,44,2907,3315,
-22,Subtotal,43388,522763,26959,59359,609080,652469,
-23,Minor Collector,83328,,,,174663,257991,
-24,Local,1203794,,,,816483,2020277,
-25,Total Rural,1330510,,,,1600226,2930737,
-26,Urban:,,,,,,,
-27,State Highway Agency: (3),,,,,,,
-28,Interstate,-,7880,4788,4915,17584,17584,
-29,Other Freeways & Expressways,2,5197,3001,2520,10718,10720,
-30,Other Principal Arterial,18,31920,4953,14244,51117,51136,
-31,Minor Arterial,1,27307,1412,9871,38589,38590,
-32,Major Collector,2,20649,1357,2404,24409,24412,
-33,Minor Collector,2,1434,132,86,1652,1654,
-34,Subtotal,25,94388,15643,34039,144070,144095,
-35,Other Jurisdictions:,,,,,,,
-36,Interstate,15,413,162,629,1203,1218,
-37,Other Freeways & Expressways,5,579,392,104,1075,1080,
-38,Other Principal Arterial,0,11309,1957,1910,15176,15177,
-39,Minor Arterial,750,55485,6847,7107,69438,70189,
-40,Major Collector,1763,83755,7327,6859,97941,99704,
-41,Minor Collector,301,9217,256,273,9745,10046,
-42,Subtotal,2834,160759,16940,16881,194580,197414,
-43,Federal Agency:,,,,,,,
-44,Interstate,-,-,-,-,-,-,
-45,Other Freeways & Expressways,-,31,1,-,32,32,
-46,Other Principal Arterial,-,12,-,2,13,13,
-47,Minor Arterial,-,253,-,1,254,254,
-48,Major Collector,8,103,6,2,111,119,
-49,Minor Collector,8,24,-,-,24,32,
-50,Subtotal,16,423,7,5,435,451,
-51,Subtotal,2875,255569,32591,50925,339085,341960,
-52,Local,58207,,,,795896,854103,
-53,Total Urban,61082,,,,1134981,1196063,
-54,Total Rural and Urban,1391593,778332,59549,110284,2735207,4126800,
+"OWNERSHIP/ 
+        FUNCTIONAL SYSTEM",UNPAVED,PAVED (2),,,,TOTAL
+,,BITUMINOUS,CONCRETE,COMPOSITE,TOTAL,
+Rural:, , , , , , 
+  State Highway Agency: (3), , , , , , 
+    Interstate,0 ,"16,437 ","5,657 ","5,566 ","27,660 ","27,660 "
+    Other Freeways & Expressways,0 ," 3,318 "," 1,612 ", 801 ," 5,732 "," 5,732 "
+    Other Principal Arterial,282 ," 68,568 "," 5,157 "," 14,282 "," 88,007 "," 88,289 "
+    Minor Arterial,81 ," 101,555 "," 2,336 "," 18,331 "," 122,222 "," 122,302 "
+    Major Collector,"1,226 "," 198,055 "," 4,562 "," 11,553 "," 214,170 "," 215,396 "
+    Subtotal," 1,589 "," 387,933 "," 19,325 "," 50,533 "," 457,790 "," 459,379 "
+  Other Jurisdictions:, , , , , , 
+    Interstate,-, 583 , 105 , 579 ," 1,267 "," 1,267 "
+    Other Freeways & Expressways,-, 33 , 100 , 15 , 148 , 148 
+    Other Principal Arterial, 13 , 710 , 284 , 44 ," 1,039 "," 1,052 "
+    Minor Arterial, 277 ," 6,550 ", 68 , 427 ," 7,044 "," 7,321 "
+    Major Collector," 41,100 "," 124,098 "," 7,070 "," 7,718 "," 138,885 "," 179,986 "
+    Subtotal," 41,391 "," 131,974 "," 7,627 "," 8,783 "," 148,384 "," 189,774 "
+  Federal Agency:, , , , , , 
+    Interstate,-,-,-,-,-,-
+    Other Freeways & Expressways,-,-,-,-,-,-
+    Other Principal Arterial,-, 65 , 2 ,-, 66 , 66 
+    Minor Arterial,-, 789 ,-,-, 789 , 789 
+    Major Collector, 409 ," 2,001 ", 5 , 44 ," 2,051 "," 2,459 "
+    Subtotal, 409 ," 2,856 ", 7 , 44 ," 2,907 "," 3,315 "
+Subtotal," 43,388 ","    522,763 ","    26,959 ","    59,359 "," 609,080 "," 652,469 "
+    Minor Collector," 83,328 ",,, ," 174,663 "," 257,991 "
+    Local," 1,203,794 ", ,, ," 816,483 "," 2,020,277 "
+Total Rural," 1,330,510 ", , , ," 1,600,226 "," 2,930,737 "
+Urban:, , , , , , 
+  State Highway Agency: (3), , , , , , 
+    Interstate,-," 7,880 "," 4,788 "," 4,915 "," 17,584 "," 17,584 "
+    Other Freeways & Expressways, 2 ," 5,197 "," 3,001 "," 2,520 "," 10,718 "," 10,720 "
+    Other Principal Arterial, 18 ," 31,920 "," 4,953 "," 14,244 "," 51,117 "," 51,136 "
+    Minor Arterial, 1 ," 27,307 "," 1,412 "," 9,871 "," 38,589 "," 38,590 "
+    Major Collector, 2 ," 20,649 "," 1,357 "," 2,404 "," 24,409 "," 24,412 "
+    Minor Collector, 2 ," 1,434 ", 132 , 86 ," 1,652 "," 1,654 "
+      Subtotal, 25 ," 94,388 "," 15,643 "," 34,039 "," 144,070 "," 144,095 "
+  Other Jurisdictions:, , , , , , 
+    Interstate, 15 , 413 , 162 , 629 ," 1,203 "," 1,218 "
+    Other Freeways & Expressways, 5 , 579 , 392 , 104 ," 1,075 "," 1,080 "
+    Other Principal Arterial, 0 ," 11,309 "," 1,957 "," 1,910 "," 15,176 "," 15,177 "
+    Minor Arterial, 750 ," 55,485 "," 6,847 "," 7,107 "," 69,438 "," 70,189 "
+    Major Collector," 1,763 "," 83,755 "," 7,327 "," 6,859 "," 97,941 "," 99,704 "
+    Minor Collector, 301 ," 9,217 ", 256 , 273 ," 9,745 "," 10,046 "
+    Subtotal," 2,834 "," 160,759 "," 16,940 "," 16,881 "," 194,580 "," 197,414 "
+  Federal Agency:, , , , , , 
+    Interstate,-,-,-,-,-,-
+    Other Freeways & Expressways,-, 31 , 1 ,-, 32 , 32 
+    Other Principal Arterial,-, 12 ,-, 2 , 13 , 13 
+    Minor Arterial,-, 253 ,-, 1 , 254 , 254 
+    Major Collector, 8 , 103 , 6 , 2 , 111 , 119 
+    Minor Collector, 8 , 24 ,-,-, 24 , 32 
+    Subtotal, 16 , 423 , 7 , 5 , 435 , 451 
+Subtotal," 2,875 ","    255,569 ","    32,591 ","    50,925 "," 339,085 "," 341,960 "
+    Local," 58,207 ", ,,," 795,896 "," 854,103 "
+Total Urban," 61,082 ", , , ," 1,134,981 "," 1,196,063 "
+Total Rural and Urban," 1,391,593 "," 778,332 "," 59,549 "," 110,284 "," 2,735,207 "," 4,126,800 "

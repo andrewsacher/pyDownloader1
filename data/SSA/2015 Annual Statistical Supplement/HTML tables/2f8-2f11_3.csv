@@ -1,8 +1,8 @@
-Cases,2011,2012,2013,2014
-Beginning-of-year pending,"106,664","a 153,24","161,070","157,311"
-Receipts,"173,332","173,848","172,492","155,352"
-Dispositions,"126,992","166,020","176,251","162,280"
-End-of-year pending,"153,004","161,070","157,311","150,383"
-"SOURCES: Social Security Administration, Office of Disability Adjudication and Review. Actual data from the Appeals Review Processing System and Key Workload Indicator Report.",,,,
-"a. Because of calendar variations and agency budgeting and accounting rules, one week occasionally falls between the end of one fiscal year and the beginning of the next. In September 2011, that week saw 2,159 receipts and 1,921 dispositions, thus adding 238 cases to the total pending at the end of fiscal year 2011.",,,,
-CONTACT: Chuck Gramens (703) 605-8413 or statistics@ssa.gov.,,,,
+Cases,2011,2012,2013,2014,0
+Beginning-of-year pending,"106,664","a 153,24","161,070","157,311",0
+Receipts,"173,332","173,848","172,492","155,352",0
+Dispositions,"126,992","166,020","176,251","162,280",0
+End-of-year pending,"153,004","161,070","157,311","150,383",0
+"SOURCES: Social Security Administration, Office of Disability Adjudication and Review. Actual data from the Appeals Review Processing System and Key Workload Indicator Report.",,,,,0
+"a. Because of calendar variations and agency budgeting and accounting rules, one week occasionally falls between the end of one fiscal year and the beginning of the next. In September 2011, that week saw 2,159 receipts and 1,921 dispositions, thus adding 238 cases to the total pending at the end of fiscal year 2011.",,,,,0
+CONTACT: Chuck Gramens (703) 605-8413 or statistics@ssa.gov.,,,,,0

@@ -1,25 +1,25 @@
-Monthly payment (dollars),All recipients,Adults,,,"Blind and disabled, under age 18"
-,,Aged,Blind,Disabled,
-Total, ,,,,
-Number,"7,642,978","845,502","55,516","5,443,185","1,298,775"
-Percent,100.0,100.0,100.0,100.0,100.0
-Less than 50,5.7,9.0,6.6,6.2,1.4
-50–99,4.0,7.7,4.4,4.2,0.7
-100–149,4.1,7.8,4.4,4.2,0.9
-150–199,3.6,7.2,3.8,3.7,1.1
-200–249,3.2,5.6,3.4,3.3,1.2
-250–299,2.9,4.5,3.0,3.0,1.3
-300–349,2.9,4.1,3.6,3.0,1.6
-350–399,2.5,3.7,2.5,2.4,1.8
-400–449,2.3,3.3,2.4,2.2,2.2
-450–499,7.3,11.7,8.5,6.8,6.6
-500–549,2.0,2.3,1.9,1.6,3.3
-550–599,1.7,1.6,1.6,1.2,3.9
-600–649,1.8,1.1,1.2,1.2,5.2
-650–699,1.8,0.8,1.2,1.1,5.1
-700–720,0.8,0.3,0.5,0.5,2.1
-721 ,53.6,29.4,51.0,55.5,61.5
-"SOURCE: Social Security Administration, Supplemental Security Record, 100 percent data.",,,,,
-NOTE: Totals do not necessarily equal the sum of rounded components.,,,,,
-a. Individuals living in their own household with no countable income were eligible for a federal SSI payment of $721 in calendar year 2014.,,,,,
-CONTACT: (410) 965-0090 or statistics@ssa.gov.,,,,,
+Monthly payment (dollars),All recipients,Adults,,,"Blind and disabled, under age 18",0
+,,Aged,Blind,Disabled,,0
+Total, ,,,,,1
+Number,"7,642,978","845,502","55,516","5,443,185","1,298,775",2
+Percent,100.0,100.0,100.0,100.0,100.0,2
+Less than 50,5.7,9.0,6.6,6.2,1.4,0
+50–99,4.0,7.7,4.4,4.2,0.7,0
+100–149,4.1,7.8,4.4,4.2,0.9,0
+150–199,3.6,7.2,3.8,3.7,1.1,0
+200–249,3.2,5.6,3.4,3.3,1.2,0
+250–299,2.9,4.5,3.0,3.0,1.3,0
+300–349,2.9,4.1,3.6,3.0,1.6,0
+350–399,2.5,3.7,2.5,2.4,1.8,0
+400–449,2.3,3.3,2.4,2.2,2.2,0
+450–499,7.3,11.7,8.5,6.8,6.6,0
+500–549,2.0,2.3,1.9,1.6,3.3,0
+550–599,1.7,1.6,1.6,1.2,3.9,0
+600–649,1.8,1.1,1.2,1.2,5.2,0
+650–699,1.8,0.8,1.2,1.1,5.1,0
+700–720,0.8,0.3,0.5,0.5,2.1,0
+721 ,53.6,29.4,51.0,55.5,61.5,0
+"SOURCE: Social Security Administration, Supplemental Security Record, 100 percent data.",,,,,,0
+NOTE: Totals do not necessarily equal the sum of rounded components.,,,,,,0
+a. Individuals living in their own household with no countable income were eligible for a federal SSI payment of $721 in calendar year 2014.,,,,,,0
+CONTACT: (410) 965-0090 or statistics@ssa.gov.,,,,,,0

@@ -1,71 +1,71 @@
-Program,Benefits paid by type of insurer,,,,Medical benefits paid,
-,Total ,Private carriers ,State funds,Self- insurance ,Total,As a percentage of total benefits
-"Total, state and federal","63,574,440","35,316,150","9,606,106","14,961,170","31,549,152",49.6
- ,State programs,,,,,
-Subtotal,"59,883,426","35,316,150","9,606,106","14,961,170","30,436,905",50.8
-Alabama,"639,311","307,539",. . .,"331,771","439,846",68.8
-Alaska,"253,081","185,820",. . .,"67,261","177,663",70.2
-Arizona,"752,123","620,815",. . .,"131,308","495,649",65.9
-Arkansas,"202,235","152,249",. . .,"49,987","133,273",65.9
-California,"12,100,181","7,127,798","1,569,806","3,402,576","6,622,015",54.7
-Colorado,"858,947","248,976","447,175","162,796","500,766",58.3
-Connecticut,"950,065","717,102",. . .,"232,963","430,379",45.3
-Delaware,"240,313","193,163",. . .,"47,150","142,986",59.5
-District of Columbia,"101,630","87,111",. . .,"14,519","37,196",36.6
-Florida,"3,131,293","2,249,512",. . .,"881,781","2,082,310",66.5
-Georgia,"1,566,186","1,155,895",. . .,"410,291","792,490",50.6
-Hawaii,"260,352","135,674","32,160","92,517","111,431",42.8
-Idaho,"251,846","87,895","149,076","14,875","163,448",64.9
-Illinois,"2,923,024","2,214,113",. . .,"708,912","1,315,361",45.0
-Indiana,"674,206","606,979",. . .,"67,227","494,193",73.3
-Iowa,"668,646","524,101",. . .,"144,545","359,063",53.7
-Kansas,"387,384","275,277",. . .,"112,107","229,719",59.3
-Kentucky,"697,974","383,642","99,582","214,751","381,792",54.7
-Louisiana,"870,086","520,241","104,972","244,873","468,106",53.8
-Maine,"247,766","172,550",. . .,"75,216","118,928",48.0
-Maryland,"944,612","502,810","152,231","289,572","441,134",46.7
-Massachusetts,"1,061,981","778,504",. . .,"283,477","356,246",33.5
-Michigan,"1,134,005","718,445",. . .,"415,560","418,170",36.9
-Minnesota,"1,064,684","807,064",. . .,"257,620","590,273",55.4
-Mississippi,"332,790","225,037",. . .,"107,753","198,343",59.6
-Missouri,"873,946","558,625","108,069","207,252","494,653",56.6
-Montana,"247,003","83,859","124,512","38,632","158,082",64.0
-Nebraska,"305,001","243,804",. . .,"61,197","187,881",61.6
-Nevada,"358,740","244,075",. . .,"114,665","180,805",50.4
-New Hampshire,"214,560","156,713",. . .,"57,846","139,678",65.1
-New Jersey,"2,239,166","1,762,282",. . .,"476,884","1,140,649",50.9
-New Mexico,"267,330","154,707","21,597","91,025","158,526",59.3
-New York,"5,543,750","2,538,864","1,208,492","1,796,394","1,845,620",33.3
-North Carolina,"1,568,586","1,188,756",. . .,"379,830","719,981",45.9
-North Dakota,"193,975","1,104","192,871",. . .,"113,592",58.6
-Ohio,"2,070,022","14,717","1,689,633","365,672","823,242",39.8
-Oklahoma,"878,022","479,366","230,682","167,974","395,988",45.1
-Oregon,"668,686","225,745","310,027","132,914","353,066",52.8
-Pennsylvania,"2,966,353","2,107,745","204,783","653,826","1,408,095",47.5
-Rhode Island,"162,356","53,559","85,725","23,072","51,629",31.8
-South Carolina ,"878,428","631,987","48,388","198,053","406,712",46.3
-South Dakota,"94,015","90,320",. . .,"3,695","63,648",67.7
-Tennessee,"808,055","675,934",. . .,"132,121","484,833",60.0
-Texas,"1,767,908","929,389","490,742","347,778","1,090,799",61.7
-Utah,"282,462","100,816","130,333","51,313","197,441",69.9
-Vermont,"141,511","123,286",. . .,"18,224","69,340",49.0
-Virginia,"953,165","742,461",. . .,"210,703","579,524",60.8
-Washington,"2,331,783","13,317","1,814,346","504,120","741,875",31.8
-West Virginia ,"436,017","171,102","201,120","63,795","228,037",52.3
-Wisconsin,"1,126,058","1,023,284",. . .,"102,773","770,152",68.4
-Wyoming,"191,807","2,022","189,785",. . .,"132,274",69.0
- ,Federal programs ,,,,,
-Subtotal,"3,691,014",. . .,. . .,. . .,"1,112,247",30.1
-Civilian employee,"2,948,132",. . .,. . .,. . .,"923,564",31.3
-Other,"742,882",. . .,. . .,. . .,"188,683",25.4
-"SOURCES: National Academy of Social Insurance estimates based on data received from state agencies, the Department of Labor, A.M. Best Company, and the National Council on Compensation Insurance.",,,,,,
+Program,Benefits paid by type of insurer,,,,Medical benefits paid,,0
+,Total ,Private carriers ,State funds,Self- insurance ,Total,As a percentage of total benefits,0
+"Total, state and federal","63,574,440","35,316,150","9,606,106","14,961,170","31,549,152",49.6,2
+ ,State programs,,,,,,0
+Subtotal,"59,883,426","35,316,150","9,606,106","14,961,170","30,436,905",50.8,1
+Alabama,"639,311","307,539",. . .,"331,771","439,846",68.8,0
+Alaska,"253,081","185,820",. . .,"67,261","177,663",70.2,0
+Arizona,"752,123","620,815",. . .,"131,308","495,649",65.9,0
+Arkansas,"202,235","152,249",. . .,"49,987","133,273",65.9,0
+California,"12,100,181","7,127,798","1,569,806","3,402,576","6,622,015",54.7,0
+Colorado,"858,947","248,976","447,175","162,796","500,766",58.3,0
+Connecticut,"950,065","717,102",. . .,"232,963","430,379",45.3,0
+Delaware,"240,313","193,163",. . .,"47,150","142,986",59.5,0
+District of Columbia,"101,630","87,111",. . .,"14,519","37,196",36.6,0
+Florida,"3,131,293","2,249,512",. . .,"881,781","2,082,310",66.5,0
+Georgia,"1,566,186","1,155,895",. . .,"410,291","792,490",50.6,0
+Hawaii,"260,352","135,674","32,160","92,517","111,431",42.8,0
+Idaho,"251,846","87,895","149,076","14,875","163,448",64.9,0
+Illinois,"2,923,024","2,214,113",. . .,"708,912","1,315,361",45.0,0
+Indiana,"674,206","606,979",. . .,"67,227","494,193",73.3,0
+Iowa,"668,646","524,101",. . .,"144,545","359,063",53.7,0
+Kansas,"387,384","275,277",. . .,"112,107","229,719",59.3,0
+Kentucky,"697,974","383,642","99,582","214,751","381,792",54.7,0
+Louisiana,"870,086","520,241","104,972","244,873","468,106",53.8,0
+Maine,"247,766","172,550",. . .,"75,216","118,928",48.0,0
+Maryland,"944,612","502,810","152,231","289,572","441,134",46.7,0
+Massachusetts,"1,061,981","778,504",. . .,"283,477","356,246",33.5,0
+Michigan,"1,134,005","718,445",. . .,"415,560","418,170",36.9,0
+Minnesota,"1,064,684","807,064",. . .,"257,620","590,273",55.4,0
+Mississippi,"332,790","225,037",. . .,"107,753","198,343",59.6,0
+Missouri,"873,946","558,625","108,069","207,252","494,653",56.6,0
+Montana,"247,003","83,859","124,512","38,632","158,082",64.0,0
+Nebraska,"305,001","243,804",. . .,"61,197","187,881",61.6,0
+Nevada,"358,740","244,075",. . .,"114,665","180,805",50.4,0
+New Hampshire,"214,560","156,713",. . .,"57,846","139,678",65.1,0
+New Jersey,"2,239,166","1,762,282",. . .,"476,884","1,140,649",50.9,0
+New Mexico,"267,330","154,707","21,597","91,025","158,526",59.3,0
+New York,"5,543,750","2,538,864","1,208,492","1,796,394","1,845,620",33.3,0
+North Carolina,"1,568,586","1,188,756",. . .,"379,830","719,981",45.9,0
+North Dakota,"193,975","1,104","192,871",. . .,"113,592",58.6,0
+Ohio,"2,070,022","14,717","1,689,633","365,672","823,242",39.8,0
+Oklahoma,"878,022","479,366","230,682","167,974","395,988",45.1,0
+Oregon,"668,686","225,745","310,027","132,914","353,066",52.8,0
+Pennsylvania,"2,966,353","2,107,745","204,783","653,826","1,408,095",47.5,0
+Rhode Island,"162,356","53,559","85,725","23,072","51,629",31.8,0
+South Carolina ,"878,428","631,987","48,388","198,053","406,712",46.3,0
+South Dakota,"94,015","90,320",. . .,"3,695","63,648",67.7,0
+Tennessee,"808,055","675,934",. . .,"132,121","484,833",60.0,0
+Texas,"1,767,908","929,389","490,742","347,778","1,090,799",61.7,0
+Utah,"282,462","100,816","130,333","51,313","197,441",69.9,0
+Vermont,"141,511","123,286",. . .,"18,224","69,340",49.0,0
+Virginia,"953,165","742,461",. . .,"210,703","579,524",60.8,0
+Washington,"2,331,783","13,317","1,814,346","504,120","741,875",31.8,0
+West Virginia ,"436,017","171,102","201,120","63,795","228,037",52.3,0
+Wisconsin,"1,126,058","1,023,284",. . .,"102,773","770,152",68.4,0
+Wyoming,"191,807","2,022","189,785",. . .,"132,274",69.0,0
+ ,Federal programs ,,,,,,0
+Subtotal,"3,691,014",. . .,. . .,. . .,"1,112,247",30.1,1
+Civilian employee,"2,948,132",. . .,. . .,. . .,"923,564",31.3,0
+Other,"742,882",. . .,. . .,. . .,"188,683",25.4,0
+"SOURCES: National Academy of Social Insurance estimates based on data received from state agencies, the Department of Labor, A.M. Best Company, and the National Council on Compensation Insurance.",,,,,,,0
 "NOTES: Totals do not necessarily equal the sum of rounded components.
           . . . = not applicable.
-",,,,,,
-a. These data may not include second injury fund for all states and may understate total payments.,,,,,,
-"b. States with exclusive funds (North Dakota, Ohio, Washington, and Wyoming) may have small amounts of benefits paid by private carriers. This is because some employers doing business in states with exclusive funds may be required by Longshore and Harbor Workers' Compensation Act (LHWCA) provisions to obtain coverage from private carriers, or may obtain employer's liability coverage that the state fund is not authorized to provide. In addition, private carriers may provide excess compensation coverage in some of these states.",,,,,,
-c. Includes individual self-insurers and group self-insurance.,,,,,,
-d. South Carolina's State Accident Fund is not a competitive state fund.,,,,,,
-"e. In 2008, West Virginia completed the transition from an exclusive state fund to a competitive fund. All benefits for workers injured after the transition are paid by private carriers.",,,,,,
-"f. Federal benefits include those paid under the Federal Employees' Compensation Act for civilian employees; the portion of the Black Lung benefit program that is financed by employers; and a portion of benefits under the LHWCA that are not reflected in state data, namely, benefits paid by self-insured employers and special funds under the LHWCA.",,,,,,
-CONTACT: Ishita Sengupta (202) 452-8097 or statistics@ssa.gov.,,,,,,
+",,,,,,,0
+a. These data may not include second injury fund for all states and may understate total payments.,,,,,,,0
+"b. States with exclusive funds (North Dakota, Ohio, Washington, and Wyoming) may have small amounts of benefits paid by private carriers. This is because some employers doing business in states with exclusive funds may be required by Longshore and Harbor Workers' Compensation Act (LHWCA) provisions to obtain coverage from private carriers, or may obtain employer's liability coverage that the state fund is not authorized to provide. In addition, private carriers may provide excess compensation coverage in some of these states.",,,,,,,0
+c. Includes individual self-insurers and group self-insurance.,,,,,,,0
+d. South Carolina's State Accident Fund is not a competitive state fund.,,,,,,,0
+"e. In 2008, West Virginia completed the transition from an exclusive state fund to a competitive fund. All benefits for workers injured after the transition are paid by private carriers.",,,,,,,0
+"f. Federal benefits include those paid under the Federal Employees' Compensation Act for civilian employees; the portion of the Black Lung benefit program that is financed by employers; and a portion of benefits under the LHWCA that are not reflected in state data, namely, benefits paid by self-insured employers and special funds under the LHWCA.",,,,,,,0
+CONTACT: Ishita Sengupta (202) 452-8097 or statistics@ssa.gov.,,,,,,,0
