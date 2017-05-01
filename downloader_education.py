@@ -10,7 +10,7 @@ os.chdir(home)
 from data_downloader import data_downloader as dd
 
 for i in range(1,19):
-
+    print("Dealing with page"+str(i)+"...\n")
     ssa_url  = "https://catalog.data.gov/dataset?groups=education2168&page=" + str(i)
 
     # Instantiate class 
