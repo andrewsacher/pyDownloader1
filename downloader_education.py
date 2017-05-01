@@ -1,8 +1,8 @@
 """
 Code for downloading Education Data.
 """
-home      = "/Users/yuwang/Documents/PPI/pyDownloader1-master"
-file_path = "/Users/yuwang/Documents/PPI/pyDownloader1-master/Education"
+home      = "/Users/yuwang/Documents/PPI/Downloader_Git"
+file_path = "/Users/yuwang/Documents/PPI/Downloader_Git/Education_Data"
 import os 
 os.chdir(home)
 
@@ -17,4 +17,6 @@ for i in range(1,19):
     ssa = dd(ssa_url)
     # Dowload Excel files
     ssa.download_files(save_path = file_path, ext = "csv")
+    ssa.download_files(save_path = file_path, ext = "xls")
+    ssa.download_files(save_path = file_path, ext = "xlsx")
     
