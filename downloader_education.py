@@ -19,4 +19,5 @@ for i in range(1,19):
     ssa.download_files(save_path = file_path, ext = "csv")
     ssa.download_files(save_path = file_path, ext = "xls")
     ssa.download_files(save_path = file_path, ext = "xlsx")
+    ssa.download_files(save_path = file_path, ext = "zip")    
     
