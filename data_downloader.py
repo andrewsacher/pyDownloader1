@@ -7,7 +7,7 @@ import numpy as np
 from bs4 import BeautifulSoup 
 
 # Import html_tables
-os.chdir("C:\\Users\\jricco\\Documents\\PPI projects\\Ballmer\\pyDownloader1")
+os.chdir("D:\\pyDownloader1-master")
 from html_tables import html_tables
 
 # Define downloader class
@@ -17,7 +17,7 @@ class data_downloader(object):
         
         self.url      = url
         self.r        = requests.get(self.url)
-        self.url_soup = BeautifulSoup(self.r.text)
+        self.url_soup = BeautifulSoup(self.r.text,"lxml")
         
     #=======================================
     # Method to download data files to disk
