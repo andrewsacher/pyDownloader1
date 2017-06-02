@@ -193,7 +193,7 @@ def parser(dirin,dirout):
         else:
             dirinter = transpose(sheet,bookname,sheetnames[s],sym,dirout)
             parser(dirinter,dirout)
-            #os.remove(dirinter)
+            os.remove(dirinter)
         
 
         
