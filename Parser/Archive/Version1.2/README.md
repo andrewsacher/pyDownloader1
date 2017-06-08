@@ -29,7 +29,7 @@ and there are several problems to be solved in next version:
 * How to parse descriptions, units and explanations?
 * How to figure out indent logic automatically?
 
-# Parser.py v1.2 readme
+#Parser.py v1.2 readme
 
 Here's what updated for the new version:
 
