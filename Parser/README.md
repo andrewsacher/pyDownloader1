@@ -43,4 +43,5 @@ Here's what updated for the new version:
 Here's what updated for the new version:
 
 * solved the problem of "Cannot writing more than 256 columns to excel files"
-* could automately split non-continuous years into different time series 
+* could automately split non-continuous years into different time series
+* could recognize 'X' or 'D' or other one-letter value as blank

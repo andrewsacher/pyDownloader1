@@ -86,8 +86,13 @@ def isvalue(A):
 def isblank(A):
     if type(A) is str:
         AA = A
+        AAA = A
         for c in 'Nn/Aa ':
             AA = AA.replace(c,'')
+        for c in '\xa0 ':
+            AAA = AAA.replace(c,'')
+        if len(AAA) == 1:
+            return True
         if (len(AA)>0) and (any(c.isalpha() for c in AA)):
             return False
         elif (len(AA)>0) and (any(c.isdigit() for c in AA)):
@@ -593,8 +598,8 @@ def parser(dirin,dirout):
 
 """ --------Debug--------- """
 
-#dirin = "/Users/yuwang/Documents/PPI/Downloader_Git/Sample_Data/vm202._1.csv"
-#dirout = "/Users/yuwang/Documents/PPI/Downloader_Git/Parsed_Data"
+dirin = "/Users/yuwang/Documents/PPI/Downloader_Git/Sample_Data/vm202._1.csv"
+dirout = "/Users/yuwang/Documents/PPI/Downloader_Git/Parsed_Data"
 
 #csvparser(dirin,dirout)
 #xlsparser(dir,dirout)
@@ -609,6 +614,9 @@ def parser(dirin,dirout):
 #parser(dirin,dirout)
 #print('---------------------------------------------------------------------')
 #dirin = "/Users/yuwang/Documents/PPI/Downloader_Git/Sample_Data/Regulations.xlsx"
+#parser(dirin,dirout)
+#print('---------------------------------------------------------------------')
+#dirin = "/Users/yuwang/Documents/PPI/Downloader_Git/Sample_Data/fy2015_table34d.xls"
 #parser(dirin,dirout)
 
 
